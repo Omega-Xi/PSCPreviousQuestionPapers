@@ -1,0 +1,130 @@
+html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+body{
+    margin:20px 0px 20px 0px;
+    background-color:wheat;
+}
+h1{
+    display: block;
+    margin-top: 60px;
+    color: hsla(130, 60%, 25%, 0.842);
+    text-align: center;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(72, 72, 72, 0.1);
+    width: 100%;
+}
+div.Exam-Container{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color:wheat;
+    width:100%;
+    height: 100%;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+div.Question-Block{
+    border-radius: 20px;
+    margin:50px;
+    padding: 30px 30px 30px 30px;
+    min-width: 500px;
+    width:90vw;
+    background-image: url("Images\\exambg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: hsl(0, 1%, 69%);
+    backdrop-filter: blur(5px);
+    box-shadow: 3px 3px 10px;
+}
+div.Question-Block h2{
+    font-family:'Times New Roman', Times, serif;
+    padding:10px;
+    border-radius: 10px;
+}
+div.Question-Block label{
+    display:flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 5px;
+    border :2px solid;
+    border-color: #6d6c6c;
+    width: 80%;
+    transition: all 0.5s ease;
+}
+div.Question-Block label.correct{
+    background: linear-gradient(45deg,#a8e063,#56ab2f,#3a8a20,#1e5f0f,#56ab2f,#a8e063);
+    background-color: rgba(53, 194, 24, 0.79);
+    box-shadow: 1px 1px 3px;
+}
+div.Question-Block label.wrong{
+    background: linear-gradient(to right,#a72f2f,#bd1a1a,#961e1e,#a72f2f);
+    background-color: rgba(255, 0, 0, 0.578);
+    box-shadow: 1px 1px 3px;
+    font-weight:bold ;
+}
+.navWrapper{
+    overflow-x: auto;
+    width: 100%;
+    position: fixed;
+    top:0;
+    margin:0px;
+    justify-content: center ;
+    width:100%;
+    padding: 10px 0;
+    z-index: 10;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.644);
+    backdrop-filter: blur(3px);
+}
+#navBar{
+    display: grid;
+    grid-template-columns: repeat(50,auto);
+    gap: 2px;
+    min-width: 1450px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    backdrop-filter: blur(10px);
+    background-color: #9e9d9d9f;
+    height: 25px;
+    width:25px;
+    border-radius: 30%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 1px rgb(66, 66, 66);
+}
+a.markedCorrect{
+    background: linear-gradient(to right,#a8e063,#56ab2f,#3a8a20,#1e5f0f,#56ab2f,#a8e063);
+    background-color: rgba(53, 194, 24, 0.79);
+}
+a.markedWrong{
+    background: linear-gradient(to right,#a72f2f,#bd1a1a,#961e1e,#a72f2f);
+    background-color: rgba(255, 0, 0, 0.578);
+}
+h1::before{
+    content: '';
+    position:absolute;
+    height: 70px;
+    width: 70px;
+    background-image: url(Images/LogoNew.png);
+    background-size: cover;
+    background-position: center;
+    opacity:0.6;
+    left:10px;
+    top: 10px;
+}
+footer{
+    bottom: 0;
+    color:white;
+    font-size: x-small;
+    text-align: center;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.332);
+}

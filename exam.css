@@ -1,0 +1,157 @@
+html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+body{
+    margin:20px 0px 20px 0px;
+    background-color:wheat;
+}
+h1{
+    display: block;
+    margin-top: 60px;
+    color: hsla(130, 60%, 25%, 0.842);
+    text-align: center;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(72, 72, 72, 0.1);
+    width: 100%;
+}
+div.Exam-Container{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color:wheat;
+    width:100%;
+    height: 100%;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+div.Question-Block{
+    border-radius: 20px;
+    margin:50px;
+    padding: 30px 30px 30px 30px;
+    min-width: 500px;
+    width:90vw;
+    background-image: url("Images\\exambg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: hsl(0, 1%, 69%);
+    backdrop-filter: blur(5px);
+    box-shadow: 3px 3px 10px;
+}
+div.Question-Block h2{
+    font-family:'Times New Roman', Times, serif;
+    padding:10px;
+    border-radius: 10px;
+}
+div.Question-Block label{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    border :2px solid;
+    border-color: #6d6c6c;
+    width: 80%;
+    transition: all 0.5s ease;
+}
+div.Question-Block label:hover{
+    background: linear-gradient(45deg,#999,#fff,#ccc,#ddd,#ccc,#fff,#999);
+    background-color: rgba(74, 74, 72, 0.79);
+    box-shadow: 1px 1px 3px;
+}
+div.Question-Block label.chosen{
+    background: linear-gradient(to right,#d19e1d,#ffd86e,#e3a812,#ffd86e,#d19e1d);
+    background-color: rgba(165, 165, 28, 0.578);
+    box-shadow: 1px 1px 2px white;
+    font-weight:bold ;
+}
+div.Question-Block label.chosen:hover{
+    background-color: rgba(137, 137, 46, 0.578);
+    box-shadow: 1px 1px 1px;
+}
+button{
+    display:block;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: larger;
+    border:none;
+    border-radius: 20px;
+    margin: 20px auto 30px auto;
+    width: 200px;
+    padding: 20px;
+    color: white;
+    background: linear-gradient(45deg,#1b4abb,#2554c7,#4169e1,#2554c7);
+    background-color: rgba(0, 145, 255, 0.619);
+    box-shadow: 3px 3px 5px black;
+    text-align: center;
+}
+button:hover{
+    background: linear-gradient(45deg,hsl(222, 75%, 37%),hsl(223, 69%, 51%),hsl(225, 73%, 60%),hsl(223, 69%, 50%));
+    box-shadow: 3px 3px 7px black;
+    font-size: 1.3em;
+}
+.navWrapper{
+    overflow-x: auto;
+    width: 100%;
+    position: fixed;
+    top:0;
+    margin:0px;
+    justify-content: center ;
+    width:100%;
+    padding: 10px 0;
+    z-index: 10;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.644);
+    backdrop-filter: blur(3px);
+}
+#navBar{
+    display: grid;
+    grid-template-columns: repeat(50,auto);
+    gap: 2px;
+    min-width: 1450px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    backdrop-filter: blur(10px);
+    background-color: #9e9d9da1;
+    height: 25px;
+    width:25px;
+    border-radius: 30%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 1px rgb(66, 66, 66);
+    transition: all 0.5s ease;
+}
+a:hover{
+    background-color: #9f9f9f;
+}
+a.answered{
+        background: linear-gradient(to right, #d19e1d,#ffd86e,#e3a812,#ffd86e,#d19e1d);
+        background-color: rgba(78, 78, 46, 0.856);
+        color: black;
+}
+h1::before{
+    content: '';
+    position:absolute;
+    height: 70px;
+    width: 70px;
+    background-image: url(Images/LogoNew.png);
+    background-size: cover;
+    background-position: center;
+    opacity:0.6;
+    left:10px;
+    top: 10px;
+}
+footer{
+    bottom: 0;
+    color:white;
+    font-size: x-small;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.332);
+}
