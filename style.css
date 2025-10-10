@@ -143,3 +143,59 @@ h1::before{
     left:10px;
     top: 10px;
 }
+@media (max-width: 768px) {
+  body {
+    font-size: 1em;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.2em;
+    padding: 10px;
+    backdrop-filter: blur(3px);
+  }
+
+  h1::before {
+    height: 50px;
+    width: 50px;
+    left: 5px;
+    top: 0px;
+  }
+
+  ul.courses {
+    flex-direction: column;
+    gap: 20px;
+    align-items: stretch;
+  }
+
+  ul.courses > li {
+    width: 100%;
+    min-width: unset;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: visible;
+  }
+
+  ul.courses li a {
+    width: 90%;
+    padding: 15px;
+    font-size: 1em;
+  }
+
+  ul.question-papers {
+    position: absolute;
+    width: 100%;
+  }
+
+  ul.question-papers li {
+    font-size: 0.9em;
+    padding: 8px;
+  }
+
+  footer {
+    font-size: xx-small;
+    padding: 10px;
+  }
+}

@@ -1,6 +1,7 @@
 html{
     scroll-behavior: smooth;
     scroll-padding-top: 100px;
+    overflow-x: hidden;
 }
 body{
     margin:20px 0px 20px 0px;
@@ -17,7 +18,6 @@ h1{
     width: 100%;
 }
 div.Exam-Container{
-    margin: 20px;
     display: flex;
     flex-direction: column;
     background-color:wheat;
@@ -154,4 +154,85 @@ footer{
     text-align: center;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.332);
+}
+@media (max-width: 768px) {
+    html, body {
+  overflow-x: hidden;
+}
+  h1 {
+    font-size: 1.2em;
+    padding: 10px;
+    margin-top: 80px;
+  }
+
+  h1::before {
+    height: 50px;
+    width: 50px;
+    left: 5px;
+    top: 0px;
+  }
+
+  div.Question-Block {
+    margin: 20px;
+    padding: 30px 20px;
+    min-width: unset;
+    width: 85vw;
+    box-shadow: 2px 2px 6px;
+  }
+
+  div.Question-Block label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+  border-radius: 5px;
+  border: 2px solid #6d6c6c;
+  width: 80%;
+  margin: 10px auto; /* This centers the label */
+  transition: all 0.5s ease;
+}
+
+  button {
+    width: 90%;
+    font-size: 1em;
+    padding: 15px;
+  }
+
+ .navWrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 5px 5px;
+}
+
+#navBar {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(25px, 1fr));
+  grid-auto-rows: 25px;
+  grid-template-columns: repeat(50, 1fr);
+  grid-template-rows: repeat(2, 25px); /* Two rows only */
+  gap: 4px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  width: max-content;
+}
+
+  a {
+    height: 30px;
+    width: 30px;
+    font-size: 0.8em;
+  }
+
+  div.Exam-Container {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1000px; /* Optional: constrain width */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+  footer {
+    font-size: xx-small;
+    padding: 10px;
+  }
 }
