@@ -63,5 +63,13 @@ function loadPage(){
             });
         }
     });
+    document.getElementById("courseSearch").addEventListener("input",function(){
+        const searchTerm=this.value.toLowerCase();
+        const courseItems=document.querySelectorAll("#courses > li");
+        courseItems.forEach(item=>{
+            const courseName=item.querySelector("a").textContent.toLowerCase();
+            item.style.display=courseName.includes(searchTerm)?"":"none";
+        })
+    });
 }
 loadPage();

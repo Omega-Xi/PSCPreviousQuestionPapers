@@ -124,6 +124,7 @@ ul.courses li.selected ul.question-papers li:hover{
 
 }
 footer{
+  position: fixed;
     bottom: 0;
     color:white;
     font-size: x-small;
@@ -142,6 +143,12 @@ h1::before{
     opacity:0.6;
     left:10px;
     top: 10px;
+}
+#courseSearch{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    align-self: center;
+    border-radius: 10px;
 }
 @media (max-width: 768px) {
   body {
