@@ -2937,15 +2937,2639 @@
   },
   {
    "course":"Zoology Lecturer",
-   "questionpapers":[]
+   "questionpapers":[{"56-2014":[
+  {
+    "number": 1,
+    "question": "The naturalist who independently conceived the idea of natural selection along with Darwin",
+    "options": ["Alfred Russel Wallace", "Charles Lyell", "Joseph Hooker", "John Henslow"],
+    "answer": "Alfred Russel Wallace"
   },
   {
-   "course":"Assistant",
-   "questionpapers":[]
+    "number": 2,
+    "question": "The theory proposed by Stephen Jay Gould and Niles Eldredge to explain Evolution",
+    "options": ["Theory of Genetic drift", "Theory of punctuated Equilibrium", "Theory of Genetic Equilibrium", "Theory of Orthogenesis"],
+    "answer": "Theory of punctuated Equilibrium"
+  },
+  {
+    "number": 3,
+    "question": "A system of classification based on the phylogenetic relationships and evolutionary history of groups of organisms",
+    "options": ["Phenetics", "Phyletics", "Cladistics", "Phylogenetics"],
+    "answer": "Cladistics"
+  },
+  {
+    "number": 4,
+    "question": "Eight kingdom classification was proposed by",
+    "options": ["R.H. Whittaker", "Carl Woese", "Carolus Linnaeus", "Cavalier Smith"],
+    "answer": "Cavalier Smith"
+  },
+  {
+    "number": 5,
+    "question": "Protein that was used to create the first phylogenetic tree based on molecular data",
+    "options": ["Cytochrome A", "Cytochrome B", "Cytochrome C", "Cytochrome D"],
+    "answer": "Cytochrome C"
+  },
+  {
+    "number": 6,
+    "question": "Malaise traps are used to collect",
+    "options": ["Birds", "Insects", "Mammals", "Plankton"],
+    "answer": "Insects"
+  },
+  {
+    "number": 7,
+    "question": "The loss of genetic variation that occurs when a new population is established by a very small number of individuals from a larger population is known as",
+    "options": ["Genetic stability principle", "Hardy Weinberg Principle", "Speciation principle", "Founder Principle"],
+    "answer": "Founder Principle"
+  },
+  {
+    "number": 8,
+    "question": "An example for Co evolution is",
+    "options": ["Evolution of bees and flowers they pollinate", "Evolution of horse and deer", "Evolution of marsupials and placental mammals", "Evolution of man and ape"],
+    "answer": "Evolution of bees and flowers they pollinate"
+  },
+  {
+    "number": 9,
+    "question": "The technique that uses rates of molecular changes to study phylogenetic relationship is",
+    "options": ["Molecular taxonomy", "Molecular clock", "Molecular genetics", "Molecular Phylogeny"],
+    "answer": "Molecular clock"
+  },
+  {
+    "number": 10,
+    "question": "When the name of a species or subspecies is the repetition of the generic name e.g. Apis apis apis it is known as?",
+    "options": ["Homonym", "Heteronym", "Synonym", "Tautonym"],
+    "answer": "Tautonym"
+  },
+  {
+    "number": 11,
+    "question": "Cyclic AMP is the second messenger of",
+    "options": ["Testosterone", "Catecholamine", "Progesterone", "Insulin"],
+    "answer": "Catecholamine"
+  },
+  {
+    "number": 12,
+    "question": "The enzyme that convert Dihydroxy acetone phosphate to D glyceraldehyde 3 phosphate is",
+    "options": ["Glyceraldehyde 3 phosphate dehydrogenase", "Enoyl coenzyme A hydratase", "Glycerol kinase", "Triose phosphate isomerase"],
+    "answer": "Triose phosphate isomerase"
+  },
+  {
+    "number": 13,
+    "question": "Normal value of glomerular filtration rate is",
+    "options": ["10 ml/minute", "525 ml/minute", "125 ml/minute", "750 ml/minute"],
+    "answer": "125 ml/minute"
+  },
+  {
+    "number": 14,
+    "question": "Gastric inhibitory peptide is secreted by",
+    "options": ["G cells of the stomach", "L cells of the duodenum and jejunum", "Alpha cells of Pancreatic islands", "K cells of duodenum and jejunum"],
+    "answer": "K cells of duodenum and jejunum"
+  },
+  {
+    "number": 15,
+    "question": "At high concentration of substrate an uncompetitive inhibitor",
+    "options": ["Lowers Vmax. and Km", "Increases Vmax and Km", "Lowers Vmax and increases Km", "Increases Vmax and Km get unaltered"],
+    "answer": "Lowers Vmax. and Km"
+  },
+  {
+    "number": 16,
+    "question": "Diabetes insipidus is caused by the absence of the secretion of",
+    "options": ["Insulin", "Gastrin", "Antidiuretic hormone", "Estrogen"],
+    "answer": "Antidiuretic hormone"
+  },
+  {
+    "number": 17,
+    "question": "Depolarisation of SA node is mainly due to",
+    "options": ["Influx of calcium ions", "Influx of magnesium ions", "Efflux of calcium ions", "Efflux of magnesium ions"],
+    "answer": "Influx of calcium ions"
+  },
+  {
+    "number": 18,
+    "question": "Precursor for catecholamine hormones is",
+    "options": ["Methionine", "Alanine", "Tyrosine", "Serine"],
+    "answer": "Tyrosine"
+  },
+  {
+    "number": 19,
+    "question": "Chitin is",
+    "options": [
+      "Heteropolysaccharide with glucuronic acid and N-acetyl glucosamine residues linked by beta 1 - 4 linkage",
+      "Homopolysaccharide with D glucose residues linked by beta 1- 4 linkage",
+      "Homopolysaccharide of D fructose residues linked by beta 1 - 2 linkage",
+      "Homopolysaccharide with N-acetyl glucosamine residues linked by beta 1- 4 linkage"
+    ],
+    "answer": "Homopolysaccharide with N-acetyl glucosamine residues linked by beta 1- 4 linkage"
+  },
+  {
+    "number": 20,
+    "question": "Human ABO blood group is determined by",
+    "options": [
+      "Antigenic property of lecithin of the membrane",
+      "Antigenic property of oligosaccharide head group of glycosphingo lipid",
+      "Antigenic properties of ethanolamines",
+      "Antigenic properties of cholesterol of the membrane lipid"
+    ],
+    "answer": "Antigenic property of oligosaccharide head group of glycosphingo lipid"
+  },
+  {
+    "number": 21,
+    "question": "Select the correct combination. The immunoglobulin class produced in a primary response to an antigen and the first immunoglobulin to be synthesized by the neonate are",
+    "options": ["IgM, IgM", "IgM, IgG", "IgM, IgA", "IgM, IgD"],
+    "answer": "IgM, IgM"
+  },
+  {
+    "number": 22,
+    "question": "In Graves' disease, auto-antibodies",
+    "options": ["Bind to receptor for TSH", "Its action mimic the normal action of TSH", "Overstimulate the thyroid", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is correct with respect to the function of complement system?",
+    "options": ["Lysis", "Opsonization", "Clearance of immune complexes", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 24,
+    "question": "Haptens are",
+    "options": ["Antigenic", "Immunogenic", "Both antigenic and immunogenic", "Non-antigenic and non-immunogenic"],
+    "answer": "Antigenic"
+  },
+  {
+    "number": 25,
+    "question": "Georges Köhler and Cesar Milstein are associated with",
+    "options": ["Transplantation", "Hybridoma technology", "Vaccine development", "Complement system"],
+    "answer": "Hybridoma technology"
+  },
+  {
+    "number": 26,
+    "question": "If E.coli is grown in a minimal medium containing glucose and lactose",
+    "options": ["It use glucose first", "It use lactose first", "It use both glucose and lactose together", "All are correct"],
+    "answer": "It use glucose first"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is correct",
+    "options": [
+      "Gram positive bacteria can have peptidoglycan up to 10% of cell wall",
+      "Gram negative bacteria can have peptidoglycan up to 90% of cell wall",
+      "Gram positive bacteria can have peptidoglycan up to 90% of cell wall",
+      "Both gram positive and negative bacteria can have peptidoglycan up to 50% of cell wall"
+    ],
+    "answer": "Gram positive bacteria can have peptidoglycan up to 90% of cell wall"
+  },
+  {
+    "number": 28,
+    "question": "Lysozyme sensitive bond is",
+    "options": [
+      "β(1,1) glycosidic bond present in peptidoglycan",
+      "(1,2) glycosidic bond present in peptidoglycan",
+      "(1,3) glycosidic bond present in peptidoglycan",
+      "β(1,4) glycosidic bond present in peptidoglycan"
+    ],
+    "answer": "β(1,4) glycosidic bond present in peptidoglycan"
+  },
+  {
+    "number": 29,
+    "question": "Lipopolysaccharide is characteristic feature of",
+    "options": ["Gram positive bacteria", "Gram negative bacteria", "Both (A) and (B)", "None of the above"],
+    "answer": "Gram negative bacteria"
+  },
+  {
+    "number": 30,
+    "question": "Dipicolinic acid is associated with",
+    "options": ["Bacterial cell", "Bacterial flagella", "Bacterial surface", "Bacterial spore"],
+    "answer": "Bacterial spore"
+  },
+  {
+    "number": 31,
+    "question": "The first eukaryotic organism whose complete DNA is sequenced",
+    "options": ["Chlamydomonas", "Sacharomyces cerevisiae", "Pseudomonas", "Caenorhabditis elegans"],
+    "answer": "Sacharomyces cerevisiae"
+  },
+  {
+    "number": 32,
+    "question": "The first amino acid synthesized during protein synthesis",
+    "options": ["Tyrosine", "Proline", "Methionine", "Tryptophan"],
+    "answer": "Methionine"
+  },
+  {
+    "number": 33,
+    "question": "The heat stable DNA polymerase used in Polymerase Chain Reaction",
+    "options": ["T7 DNA Polymerase", "Thermo Polymerase", "Taq DNA Polymerase", "Poly (A) Polymerase"],
+    "answer": "Taq DNA Polymerase"
+  },
+  {
+    "number": 34,
+    "question": "The insert capacity of plasmid vectors",
+    "options": ["0.1–10 kb", "10–20", "35–45", "80–100"],
+    "answer": "0.1–10 kb"
+  },
+  {
+    "number": 35,
+    "question": "The blotting technique used to detect RNA",
+    "options": ["Western Blot", "Southern Blot", "Northern Blot", "Eastern Blot"],
+    "answer": "Northern Blot"
+  },
+  {
+    "number": 36,
+    "question": "A molecular marker utilizing restriction enzymes",
+    "options": ["RAPD", "AFLP", "Microsatellite", "RFLP"],
+    "answer": "RFLP"
+  },
+  {
+    "number": 37,
+    "question": "Which one is not a DNA staining reagent aiding DNA visualization",
+    "options": ["Ethidium bromide", "Sybr Green", "Hoechst stain", "Methyl red"],
+    "answer": "Methyl red"
+  },
+  {
+    "number": 38,
+    "question": "The theory behind si-RNA therapy",
+    "options": [
+      "Correction of gene mutation with an oligonucleotide",
+      "Blocking translation of mRNA from a mutant gene with an oligonucleotide",
+      "Providing needed protein synthesized by blood cells",
+      "Removal of toxic molecules"
+    ],
+    "answer": "Blocking translation of mRNA from a mutant gene with an oligonucleotide"
+  },
+  {
+    "number": 39,
+    "question": "The enzyme that degrades double stranded DNA",
+    "options": ["DNase I", "Mung Bean nuclease", "S1 nuclease", "RNase H"],
+    "answer": "DNase I"
+  },
+  {
+    "number": 40,
+    "question": "Identify a recombinant vaccine",
+    "options": ["MMR vaccine", "BCG", "Polio", "Hepatitis B vaccine"],
+    "answer": "Hepatitis B vaccine"
+  },
+  {
+    "number": 41,
+    "question": "U-rich mRNAs participate in pre-mRNA splicing are",
+    "options": ["U1, U2, U3, U4, U5", "U1, U3, U5, U7, U5, U9", "U2, U4, U6, U8, U10", "U1, U2, U4, U5, U6"],
+    "answer": "U1, U2, U4, U5, U6"
+  },
+  {
+    "number": 42,
+    "question": "Extent of interference can be measured by coefficient of co-incidence. Therefore",
+    "options": [
+      "C = Expected frequency of double cross overs × 100 / Observed frequency of double cross overs",
+      "C = Observed frequency of double cross overs / Expected frequency of double cross overs",
+      "C = Expected frequency of double cross overs / Observed frequency of double cross overs × 100",
+      "C = Expected frequency of double cross overs"
+    ],
+    "answer": "C = Observed frequency of double cross overs / Expected frequency of double cross overs"
+  },
+  {
+    "number": 43,
+    "question": "During replication in E.Coli the unwinding of DNA is catalyzed by",
+    "options": ["DNA Helicase", "SSDNA Binding protein", "DNA topoisomerase", "DNA polymerase"],
+    "answer": "DNA Helicase"
+  },
+  {
+    "number": 44,
+    "question": "47 xxy in man indicates",
+    "options": ["Down's syndrome", "Klinfelter syndrome", "Turner syndrome", "Cri-du-chat syndrome"],
+    "answer": "Klinfelter syndrome"
+  },
+  {
+    "number": 45,
+    "question": "Trichothiodystrophy is associated with",
+    "options": ["Structural gene mutation", "Defect in nucleotide excision repair", "Defect in DNA metabolism", "Defect in mismatch repair mechanism"],
+    "answer": "Defect in nucleotide excision repair"
+  },
+  {
+    "number": 46,
+    "question": "Calcium plays an important role in cortical granule reaction. Upon fertilization the level of Ca²⁺",
+    "options": ["Increases", "Decrease", "Remains same", "Decreases with increase in K⁺"],
+    "answer": "Increases"
+  },
+  {
+    "number": 47,
+    "question": "_____ is a maternally expressed polypeptide that may control the fate of EMS blastomere in C.elegans",
+    "options": ["PAL-1", "PIE-1", "SKN-1", "MOM-2"],
+    "answer": "SKN-1"
+  },
+  {
+    "number": 48,
+    "question": "Identify the correct statement from the following",
+    "options": [
+      "Mutation of CSX gene results in heart attack",
+      "Reiger syndrome is a mutation phenotype of the gene PIT x3",
+      "Mutation of WTI gene in man results in congenital cataract",
+      "Greig syndrome is a mutation phenotype of the gene SOX9"
+    ],
+    "answer": "Reiger syndrome is a mutation phenotype of the gene PIT x3"
+  },
+  {
+    "number": 49,
+    "question": "Which group of genes identified by Nusselein Volhard and Carroll is responsible for the final stages of segmentation in Drosophila embryo?",
+    "options": ["Morphogen gradient gene", "Gap gene", "Pair rule genes", "Segment polarity gene"],
+    "answer": "Segment polarity gene"
+  },
+  {
+    "number": 50,
+    "question": "Which of the following series of events represents the path of vertebrate development?",
+    "options": [
+      "Blastula, cleavage, neurulation, cell migration, gastrulation, organogenesis, growth",
+      "Blastula, cleavage, gastrulation, neurulation, cell migration, organogenesis, growth",
+      "Cleavage, blastula, gastrulation, neurulation, cell migration, growth",
+      "Cleavage, gastrulation, blastulation, neurulation, cell migration, growth"
+    ],
+    "answer": "Blastula, cleavage, gastrulation, neurulation, cell migration, organogenesis, growth"
+  },
+  {
+    "number": 51,
+    "question": "A keystone species",
+    "options": [
+      "Exert great influence on structure of ecosystem",
+      "Exert great influence on functioning of ecosystem",
+      "Both (A) and (B)",
+      "None of the above"
+    ],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 52,
+    "question": "System for the control of hunger and thirst are linked with the _____ of the brain",
+    "options": ["Pituitary", "Hypothalamus", "Thalamus", "All the above"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "number": 53,
+    "question": "The frequency distribution for nominal /ordinal data",
+    "options": ["Bar chart", "Histogram", "Frequency polygon", "All the above"],
+    "answer": "Bar chart"
+  },
+  {
+    "number": 54,
+    "question": "Principle of competitive exclusion was given by",
+    "options": ["E. P. Odum", "G. F. Gause", "J. H. Conell", "E. F. Clements"],
+    "answer": "G. F. Gause"
+  },
+  {
+    "number": 55,
+    "question": "Which of the following is true",
+    "options": [
+      "In a wild life sanctuary human activities are not allowed",
+      "In a national park human activities are not allowed",
+      "Both (A) and (B)",
+      "None"
+    ],
+    "answer": "In a national park human activities are not allowed"
+  },
+  {
+    "number": 56,
+    "question": "Zero population growth occurs when",
+    "options": [
+      "Death rate equals birth rate and net migration is zero",
+      "Death rate is greater than birth rate and net migration is zero",
+      "Death rate is lesser than birth rate and net migration is zero",
+      "All the above"
+    ],
+    "answer": "Death rate equals birth rate and net migration is zero"
+  },
+  {
+    "number": 57,
+    "question": "Classical conditioning is reinforced when the _____ follows the _____",
+    "options": [
+      "Conditioned Stimulus, Unconditioned Stimulus",
+      "Unconditioned Response, Conditioned Response",
+      "Conditioned Stimulus, Conditioned Response",
+      "Unconditioned Stimulus, Conditioned Stimulus"
+    ],
+    "answer": "Conditioned Stimulus, Unconditioned Stimulus"
+  },
+  {
+    "number": 58,
+    "question": "A stable community of a sere is",
+    "options": ["Seral community", "Lithosere", "Climax community", "Xerosere"],
+    "answer": "Climax community"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following is not true for green house gases",
+    "options": [
+      "CO2, methane, CFC",
+      "CO2, methane, Ozone",
+      "CO2, water vapour, CFC",
+      "CO2, nitrous oxide, Oxygen"
+    ],
+    "answer": "CO2, nitrous oxide, Oxygen"
+  },
+  {
+    "number": 60,
+    "question": "The following is not a major cause of species extinction",
+    "options": ["Habitat loss", "Hunting and poaching", "Fire", "Exotic species"],
+    "answer": "Fire"
+  },
+  {
+    "number": 61,
+    "question": "A three-dimensional image of a bacterium is achieved by using",
+    "options": ["Phase contrast microscopy", "Scanning electron microscopy", "Transmission electron microscopy", "Bright field microscopy"],
+    "answer": "Scanning electron microscopy"
+  },
+  {
+    "number": 62,
+    "question": "Two-dimensional gels are used to",
+    "options": ["Separate DNA fragments", "Separate DNA from RNA", "Separate different proteins", "Observe protein in two-dimensions"],
+    "answer": "Separate different proteins"
+  },
+  {
+    "number": 63,
+    "question": "In reversed phase HPLC",
+    "options": [
+      "A hydrophilic stationary phase is combined with a polar mobile phase",
+      "A hydrophobic stationary phase is combined with a polar mobile phase",
+      "A hydrophobic stationary phase is combined with a non-polar mobile phase",
+      "A hydrophilic stationary phase is combined with a non-polar mobile phase"
+    ],
+    "answer": "A hydrophobic stationary phase is combined with a polar mobile phase"
+  },
+  {
+    "number": 64,
+    "question": "Human genome comprises of",
+    "options": ["20 billion nucleotides", "5 million nucleotides", "3.1 billion nucleotides", "5 billion nucleotides"],
+    "answer": "3.1 billion nucleotides"
+  },
+  {
+    "number": 65,
+    "question": "CpG islands and codon bias are tools used in eukaryotic genomics to",
+    "options": [
+      "Final regular sequences",
+      "Identify a gene's function",
+      "Identify open reading frames",
+      "Look for DNA binding domains"
+    ],
+    "answer": "Identify open reading frames"
+  },
+  {
+    "number": 66,
+    "question": "The assembly of final genomic sequence from multiple sequencing running is called",
+    "options": ["Annotating", "Compiling", "Computing", "Sequencing"],
+    "answer": "Compiling"
+  },
+  {
+    "number": 67,
+    "question": "Which statement is incorrect about the SDS PAGE technique?",
+    "options": [
+      "Sodium dodecyl sulfate is used to denature the samples being separated",
+      "It is used to separate proteins",
+      "It is a type of gas chromatographic method of separation",
+      "Separations are run on gel covered plates"
+    ],
+    "answer": "It is a type of gas chromatographic method of separation"
+  },
+  {
+    "number": 68,
+    "question": "Which of the following is a protein sequence database?",
+    "options": ["DDBJ", "EMBL", "Gen Bank", "PIR"],
+    "answer": "PIR"
+  },
+  {
+    "number": 69,
+    "question": "How many countries have ratified the Kyoto protocol of 1997 to date?",
+    "options": ["275", "175", "75", "150"],
+    "answer": "175"
+  },
+  {
+    "number": 70,
+    "question": "Which protein has been produced generating a transgenic sheep that is used for replacement therapy for individuals at risk from emphysema?",
+    "options": ["Casein", "α - anti trypsin (AAT)", "Plasminogen activator (tPA)", "Amyloid precursor proteins"],
+    "answer": "α - anti trypsin (AAT)"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following sampling method is preferred for studying heterogeneous population?",
+    "options": ["Simple random sampling", "Stratified sampling", "Convenient sampling", "Systematic sampling"],
+    "answer": "Stratified sampling"
+  },
+  {
+    "number": 72,
+    "question": "A test that examine subjects' thoughts and thought processes is",
+    "options": ["Cognitive test", "Affective test", "Standardized test", "Generalized test"],
+    "answer": "Cognitive test"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is most appropriate about discussion part of a research paper?",
+    "options": [
+      "It elaborates importance of the topic",
+      "Explain how the findings concur with that of others",
+      "Deals with method of sampling and recruitments",
+      "Deals with findings of the relevant studies"
+    ],
+    "answer": "Explain how the findings concur with that of others"
+  },
+  {
+    "number": 74,
+    "question": "The process of collecting and analyzing information to develop or enhance a theory is",
+    "options": ["Basic research", "Applied research", "Evaluation", "None of the above"],
+    "answer": "Basic research"
+  },
+  {
+    "number": 75,
+    "question": "If you want to determine whether and to what degree a relationship exists between two or more variables what kind of study you have to do?",
+    "options": ["Descriptive", "Correlation", "Causal-comparative", "Experimental"],
+    "answer": "Correlation"
+  },
+  {
+    "number": 76,
+    "question": "Creating a class room climate conducive to develop positive self concept in students is by",
+    "options": ["Challenge and freedom", "Respect and warmth", "Control and success", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 77,
+    "question": "Which of the following teacher will be liked most?",
+    "options": [
+      "A teacher who maintain discipline in the classroom",
+      "A teacher who make teaching learning process enjoyable",
+      "A teacher who give more home work",
+      "A teacher who take more number of classes"
+    ],
+    "answer": "A teacher who make teaching learning process enjoyable"
+  },
+  {
+    "number": 78,
+    "question": "An instructional model that identifies the major variable in the teaching learning process includes",
+    "options": ["Individual differences", "Principle of learning", "Teacher behaviour", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 79,
+    "question": "The extent of teachers' subject matter and pedagogical expertise indicates the teachers",
+    "options": ["Efficacy", "Morale", "Competency", "Efficiency"],
+    "answer": "Competency"
+  },
+  {
+    "number": 80,
+    "question": "What will be the impact of interactive teaching?",
+    "options": [
+      "It will make teaching learning process difficult",
+      "It will create confusion among students",
+      "Students will be expected to listen only",
+      "It will make teaching learning process effective, democratic and friendly"
+    ],
+    "answer": "It will make teaching learning process effective, democratic and friendly"
+  },
+  {
+    "number": 81,
+    "question": "The term socialist has been inserted in the preamble by the _____ Amendment Act of the Constitution.",
+    "options": ["43", "42", "41", "40"],
+    "answer": "42"
+  },
+  {
+    "number": 82,
+    "question": "Right for freedom to form Association is provided in Article _____ of the Constitution.",
+    "options": ["19(1)(a)", "19(1)(b)", "19(1)(c)", "19(1)(d)"],
+    "answer": "19(1)(c)"
+  },
+  {
+    "number": 83,
+    "question": "Money Bill can be introduced in",
+    "options": ["Lok Sabha", "Rajya Sabha", "Both (A) and (B)", "None of the above"],
+    "answer": "Lok Sabha"
+  },
+  {
+    "number": 84,
+    "question": "Legislative council of a State",
+    "options": [
+      "Can be dissolved by the Governor",
+      "Can be abolished by the President with the advice of the Governor of the State",
+      "Can be abolished by the Parliament based on the resolution passed by the majority of the Legislative Assembly",
+      "Can be abolished by the Governor based on the resolution passed by the majority of the Legislative Assembly"
+    ],
+    "answer": "Can be abolished by the Parliament based on the resolution passed by the majority of the Legislative Assembly"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following statement is true?",
+    "options": [
+      "The President can make a proclamation declaring emergency only when he receives in writing the decision of the Union Cabinet to this effect",
+      "The president could make a proclamation declaring emergency on the ground of threat of internal disturbance",
+      "The president could make a proclamation declaring emergency on the ground of threat of Armed Rebellion",
+      "The president could make a proclamation declaring emergency on the ground of threat of External Aggression"
+    ],
+    "answer": "The President can make a proclamation declaring emergency only when he receives in writing the decision of the Union Cabinet to this effect"
+  },
+  {
+    "number": 86,
+    "question": "According to Child Labour (Prohibition and Regulation) Act, 1986 Child means the person who has not completed his _____ year of age.",
+    "options": ["18", "16", "15", "14"],
+    "answer": "14"
+  },
+  {
+    "number": 87,
+    "question": "What is the penalty for the refusal of the RTI application by the Public information Officer?",
+    "options": ["Rs. 5,000 and 1 month imprisonment", "Rs. 1,000 and 1 month imprisonment", "Rs. 5,000", "Rs. 25,000"],
+    "answer": "Rs. 25,000"
+  },
+  {
+    "number": 88,
+    "question": "Which of the following statement is not true?",
+    "options": [
+      "No child shall be required to work for more than 3 hours at a stretch",
+      "No child shall be required to work for more than 6 hours including rest period",
+      "No child shall be permitted to work between 8 p.m. and 8 a.m.",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "number": 89,
+    "question": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "options": [
+      "Protects women working in that place",
+      "Protects any women who enters the work place like clients, customer, etc.",
+      "Protects all the employees who are working there",
+      "Protects only women working in government institutions"
+    ],
+    "answer": "Protects any women who enters the work place like clients, customer, etc."
+  },
+  {
+    "number": 90,
+    "question": "Whoever contravenes the provisions of S.24 of the Water (Prevention and Control of Pollution) Act, prohibition on use of stream or well for disposal of polluting matter shall be punishable with imprisonment for a term which shall not be less than",
+    "options": [
+      "1 year but which may extend to 6 years",
+      "2 year but which may extend to 8 years",
+      "1½ year but which may extend to 8 years and with fine",
+      "14 year but which may extend to 6 years and with fine"
+    ],
+    "answer": "1½ year but which may extend to 8 years and with fine"
+  },
+  {
+    "number": 91,
+    "question": "In which novel of Kesava Dev 'Pappu' appears as the main character?",
+    "options": ["Odayil Ninnu", "Branthalayam", "Kannadi", "Ayalkkar"],
+    "answer": "Odayil Ninnu"
+  },
+  {
+    "number": 92,
+    "question": "The First editor of 'Swadeshabhimani' daily",
+    "options": ["Balakrishna Pilla", "K. Ramakrishna Pilla", "Vakkam Abdulkhader Moulavi", "C.P. Govinda Pilla"],
+    "answer": "K. Ramakrishna Pilla"
+  },
+  {
+    "number": 93,
+    "question": "Who organised 'Misrabhojanam'?",
+    "options": ["Sri Narayana Guru", "Sahodaran Ayyappan", "Ayyamkali", "Chattambhi Swamikal"],
+    "answer": "Sahodaran Ayyappan"
+  },
+  {
+    "number": 94,
+    "question": "'Pattini Jatha' led by",
+    "options": ["K. Kelappan", "Dr. Ayyathan Gopalan", "A.K. Gopalan", "P.K. Chathan Master"],
+    "answer": "A.K. Gopalan"
+  },
+  {
+    "number": 95,
+    "question": "Who took Prime role in the publication of 'Rajyasamacharam'?",
+    "options": ["Clement piyanoos padre", "Dr. Herman Gundert", "Arnos Padre", "James Augustus"],
+    "answer": "Dr. Herman Gundert"
+  },
+  {
+    "number": 96,
+    "question": "The Chief guest on the occasion of 65th Republic day celebration",
+    "options": ["Shinzo Abe", "Hu Zhang Tao", "Yoshihiko Noda", "Wen Jiabo"],
+    "answer": "Shinzo Abe"
+  },
+  {
+    "number": 97,
+    "question": "Which among the following diseases is eradicated through immunisation programme in India?",
+    "options": ["Polio", "Tuberculosis", "Diptheria", "Jaundice"],
+    "answer": "Polio"
+  },
+  {
+    "number": 98,
+    "question": "Who inaugurated the new Kerala legislative assembly building in 1998?",
+    "options": ["A.B. Vajpayee", "I.K. Gujral", "K.R. Narayanan", "Krishna Kant"],
+    "answer": "K.R. Narayanan"
+  },
+  {
+    "number": 99,
+    "question": "The Minister who presented and passed the Land reformation act of Kerala in 1969",
+    "options": ["T.V. Thomas", "K.T. Jacob", "C. Achutha Menon", "K.R. Gouri"],
+    "answer": "K.R. Gouri"
+  },
+  {
+    "number": 100,
+    "question": "The bowler to take Sachin's wicket in his last test",
+    "options": ["Darren Sammy", "Narsingh Deo Narine", "Chris Gayle", "Keron Pollard"],
+    "answer": "Narsingh Deo Narine"
+  }
+                  ]}]
+  },
+  {
+  "course":"Assistant",
+  "questionpapers":[{"47-2014":[
+  {
+    "number": 1,
+    "question": "The Philosophy of co-operation looks upon it as a means of redistribution of income and wealth by eliminating conflict",
+    "options": ["Evolutionary", "Revolutionary", "Economic", "None of these"],
+    "answer": "Economic"
+  },
+  {
+    "number": 2,
+    "question": "In India before independence co-operative movement was",
+    "options": ["Under the influence of social workers", "Under the control of agriculturists", "Under full political control", "Above the care of political leaders"],
+    "answer": "Under the influence of social workers"
+  },
+  {
+    "number": 3,
+    "question": "Which one of the following is not one of the economic benefits of co-operation?",
+    "options": ["It ends exploitation", "No equitable distribution of profit", "Monopolitic trends are challenged", "None of the above"],
+    "answer": "No equitable distribution of profit"
+  },
+  {
+    "number": 4,
+    "question": "Abat system of Co-operation prevails among",
+    "options": ["The tribals", "Rajputs", "The big zamindars", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 5,
+    "question": "The first Co-operative Societies Act was passed in India in the year",
+    "options": ["1904", "1912", "1909", "1906"],
+    "answer": "1904"
+  },
+  {
+    "number": 6,
+    "question": "Which one of the following is the point of similarity between Raiffesion Banks and Delitizch Banks?",
+    "options": ["In both cases there are indivisible reserve fund", "In both cases shares are highly priced", "In both cases whole management is run democratically", "In both cases interests of borrowers have major consideration"],
+    "answer": "In both cases whole management is run democratically"
+  },
+  {
+    "number": 7,
+    "question": "Land development Banks provide loans on",
+    "options": ["Short term basis", "Medium term basis", "Long term basis", "All the above"],
+    "answer": "Long term basis"
+  },
+  {
+    "number": 8,
+    "question": "The year in which Non-credit Co-operative societies were started in India",
+    "options": ["1912", "1918", "1914", "1916"],
+    "answer": "1912"
+  },
+  {
+    "number": 9,
+    "question": "Under co-operative audit, a system of audit of which is made a continuous process is called",
+    "options": ["Concurrent audit", "Balance sheet audit", "Interim audit", "Test audit"],
+    "answer": "Concurrent audit"
+  },
+  {
+    "number": 10,
+    "question": "Who organise the first co-operative society of shoe makers in Germany?",
+    "options": ["Hermann", "Raiffeissen", "Delitizch", "None of the above"],
+    "answer": "Delitizch"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following co-operative societies has great success in Denmark?",
+    "options": ["Marketing", "Dairying", "Industrial", "Eggs"],
+    "answer": "Dairying"
+  },
+  {
+    "number": 12,
+    "question": "The type of society which arranges for farm needs of agriculturists is called",
+    "options": ["Service societies", "Marketing societies", "Trading societies", "None of these"],
+    "answer": "Service societies"
+  },
+  {
+    "number": 13,
+    "question": "Which one of the following is not one of the characteristics of Raiffesein societies",
+    "options": ["Very small amount of loans are advanced", "Share value should be very nominal", "Societies should be of large size", "Majority of members are farmers"],
+    "answer": "Societies should be of large size"
+  },
+  {
+    "number": 14,
+    "question": "In Japan Co-operative movement started in the year",
+    "options": ["1878", "1880", "1881", "1879"],
+    "answer": "1878"
+  },
+  {
+    "number": 15,
+    "question": "Who was started the first Industrial Co-operative society of blacksmiths in China?",
+    "options": ["Dr. Sunyatsen", "Chou-En-Lai", "Mao Tse Tung", "C.F. Wu"],
+    "answer": "C.F. Wu"
+  },
+  {
+    "number": 16,
+    "question": "Who inspire the starting of co-operative movement in Ireland?",
+    "options": ["Roachdale Pioneers", "Hoarce Plunkett", "P.J. Tardy", "None of these"],
+    "answer": "Hoarce Plunkett"
+  },
+  {
+    "number": 17,
+    "question": "Which one of the following is an economic benefit of co-operative movement in India?",
+    "options": ["It has developed democratic spirit", "It has increased social contacts of workers", "It has increased social prestige of workers", "It has saved the agriculturists from money-Lenders"],
+    "answer": "It has saved the agriculturists from money-Lenders"
+  },
+  {
+    "number": 18,
+    "question": "Which one of the following is not an important function of state Co-operative Bank?",
+    "options": ["To act as banker's Bank", "To organise trade fairs in cities", "To help in mobilising financial resources", "To create better relationship between Co-operative societies"],
+    "answer": "To organise trade fairs in cities"
+  },
+  {
+    "number": 19,
+    "question": "The year in which Reserve Bank of India Act Passed?",
+    "options": ["1949", "1935", "1934", "1950"],
+    "answer": "1934"
+  },
+  {
+    "number": 20,
+    "question": "Royal commission on agriculture in India was set up in the year",
+    "options": ["1927", "1929", "1926", "1928"],
+    "answer": "1928"
+  },
+  {
+    "number": 21,
+    "question": "An agreement comes into existence by the process of offer by one party and its acceptance by the other party",
+    "options": ["Qualified", "Effected", "Ineffective", "Unqualified"],
+    "answer": "Unqualified"
+  },
+  {
+    "number": 22,
+    "question": "An act constituting consideration must have been done at the desire or request of the",
+    "options": ["Promisee", "Any other person", "Promisor", "None of these"],
+    "answer": "Promisor"
+  },
+  {
+    "number": 23,
+    "question": "When a person is compelled to enter into a contract by the use of force by the other party or under a threat is called",
+    "options": ["Mistake", "Misrepresentation", "Undue influence", "Coercion"],
+    "answer": "Coercion"
+  },
+  {
+    "number": 24,
+    "question": "A contract to do or not to do something if some event collateral to such contract does or does not happen is called",
+    "options": ["Contingent contract", "Absolute contract", "In effected contract", "None of these"],
+    "answer": "Contingent contract"
+  },
+  {
+    "number": 25,
+    "question": "Monetary compensation allowed to the injured party by the court for the loss or injury suffered by him by the breach of a contract is called",
+    "options": ["Damage", "Damages", "Integrum", "None of these"],
+    "answer": "Damages"
+  },
+  {
+    "number": 26,
+    "question": "A Contract by which one party promises to save from loss caused to him by the conduct of the promisor himself or by the conduct of any other person is",
+    "options": ["Contract of indemnity", "Contract of guarantee", "Contract of uberrimae fidei", "None of these"],
+    "answer": "Contract of indemnity"
+  },
+  {
+    "number": 27,
+    "question": "The right of a person to retain possession of some goods belonging to another until some debt or claim of the person in possession is satisfied is called",
+    "options": ["Pledge", "Mortgage", "Hypothication", "Lien"],
+    "answer": "Lien"
+  },
+  {
+    "number": 28,
+    "question": "Under a contract of sale, the transfer of the property in the goods is to take place at a future time is a",
+    "options": ["Sale", "Agreement to sell", "Bailment", "None of these"],
+    "answer": "Agreement to sell"
+  },
+  {
+    "number": 29,
+    "question": "The year in which the foreign exchange management Act was passed in India",
+    "options": ["3rd December 1999", "5th December 1999", "10th December 1999", "2nd December 1999"],
+    "answer": "3rd December 1999"
+  },
+  {
+    "number": 30,
+    "question": "A prospectus which does not have details of either price or number of shares being offered or the amount of issue is called",
+    "options": ["Abridged prospectus", "Offer document", "Draft offer document", "Red Herring prospectus"],
+    "answer": "Red Herring prospectus"
+  },
+  {
+    "number": 31,
+    "question": "If a company borrows money beyond its express or implied powers, the borrowing is the company and is void",
+    "options": ["Ultra vires", "Intra vires", "Injunction", "None of these"],
+    "answer": "Ultra vires"
+  },
+  {
+    "number": 32,
+    "question": "The year in which payment of Bonus Act was passed in India?",
+    "options": ["1975", "1964", "1985", "1965"],
+    "answer": "1965"
+  },
+  {
+    "number": 33,
+    "question": "Export import Bank of India was setup in 1982 as a wholly owned undertaking of the",
+    "options": ["Private individual", "Foreigners", "Government of India", "None of these"],
+    "answer": "Government of India"
+  },
+  {
+    "number": 34,
+    "question": "Balance sheet is a statement of the financial position of a concern",
+    "options": ["For the year ended", "As on a particular date", "For a given period", "All the above"],
+    "answer": "As on a particular date"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following is not a profitability ratio?",
+    "options": ["Earning per share", "Earning yield", "Dividend yield", "Operating profit ratio"],
+    "answer": "Dividend yield"
+  },
+  {
+    "number": 36,
+    "question": "The term funds means in cash flow analysis",
+    "options": ["Cash", "Total funds", "Total assets", "Fixed assets"],
+    "answer": "Cash"
+  },
+  {
+    "number": 37,
+    "question": "When fixed costs is ₹20,000 and profit volume ratio is 25 percent, then break even point will be",
+    "options": ["₹ 60,000", "10,000 unit", "80,000 unit", "₹ 80,000"],
+    "answer": "₹ 80,000"
+  },
+  {
+    "number": 38,
+    "question": "Management Information system relates to",
+    "options": ["External intelligence", "Internal intelligence", "Internal and External intelligence", "None of these"],
+    "answer": "Internal and External intelligence"
+  },
+  {
+    "number": 39,
+    "question": "A and B are partners sharing the profit in the proportion of 7:3. They admit C by giving 1/6th share in the profit. The new profit sharing ratio of A, B and C is",
+    "options": ["7:3:2", "7:2:3", "7:3:5", "7:3:4"],
+    "answer": "7:3:2"
+  },
+  {
+    "number": 40,
+    "question": "Allotment of shares on pro-rata means",
+    "options": ["Allotment on the basis of first come first serve", "Equal allotment on every application", "Allotment on every application in the ratio which the total numbers of shares to be allotted bears to total number of shares applied", "None of these"],
+    "answer": "Allotment on every application in the ratio which the total numbers of shares to be allotted bears to total number of shares applied"
+  },
+  {
+    "number": 41,
+    "question": "Naked debentures are",
+    "options": ["Unsecured", "Secured on floating", "Secured on fixed charge", "Both (A) and (B)"],
+    "answer": "Unsecured"
+  },
+  {
+    "number": 42,
+    "question": "Bonus shares are issued to the equity shareholders",
+    "options": ["At discount", "Without any consideration", "With consideration", "None of these"],
+    "answer": "Without any consideration"
+  },
+  {
+    "number": 43,
+    "question": "Elton Mayo was the father of",
+    "options": ["Scientific management", "Process management", "Human relation school", "Empirical school"],
+    "answer": "Human relation school"
+  },
+  {
+    "number": 44,
+    "question": "The term permanent working capital and core current assets are",
+    "options": ["Anonymous", "Different terms", "Synonymous", "None of these"],
+    "answer": "Synonymous"
+  },
+  {
+    "number": 45,
+    "question": "The main object of providing depreciation on fixed asset",
+    "options": ["For correct valuation of fixed asset", "For correct calculation of profit", "Creation of internal reserve for replacement of asset", "None of these"],
+    "answer": "Creation of internal reserve for replacement of asset"
+  },
+  {
+    "number": 46,
+    "question": "Which of the following is not a cash inflow?",
+    "options": ["Cash received from debtors", "Sale of fixed asset", "Issue of debentures", "Cash from business operations"],
+    "answer": "Issue of debentures"
+  },
+  {
+    "number": 47,
+    "question": "Table 'A' of Companies Act 1956 gives",
+    "options": ["A model of day book", "A model of Trading Account", "A model of Resolution", "A model of Articles of association"],
+    "answer": "A model of Articles of association"
+  },
+  {
+    "number": 48,
+    "question": "Under which one of the following methods of depreciation is the amount of the assets reduced to zero",
+    "options": ["Diminishing balance method", "Straight line method", "Annuity method", "Digit line method"],
+    "answer": "Straight line method"
+  },
+  {
+    "number": 49,
+    "question": "Right's shares are the shares that are offered to the",
+    "options": ["Debenture holders", "Preference share holders", "Creditors of the company", "Existing equity shareholders"],
+    "answer": "Existing equity shareholders"
+  },
+  {
+    "number": 50,
+    "question": "In the absence of any contract, capital profit arising on dissolution of a partnership firm is credited to the partner's capital account",
+    "options": ["Profit sharing ratio", "Equal proportion", "Capital ratio", "None of these"],
+    "answer": "Profit sharing ratio"
+  },
+  {
+    "number": 51,
+    "question": "Which of the stock broker expects the price of securities to decline in the near future?",
+    "options": ["Bear", "Stag", "Lame duck", "Bull"],
+    "answer": "Bear"
+  },
+  {
+    "number": 52,
+    "question": "Average clause in a fire policy is inserted in order to check mainly",
+    "options": ["Over insurance", "Under insurance", "Both (A) and (B)", "All of the above"],
+    "answer": "Over insurance"
+  },
+  {
+    "number": 53,
+    "question": "The gilt-edged market refers to the market for",
+    "options": ["Public limited company securities", "Shares and debentures", "Government and Semi-Government securities", "Industrial Securities"],
+    "answer": "Government and Semi-Government securities"
+  },
+  {
+    "number": 54,
+    "question": "Setting the mission which emphasizes objectives, policies and aims in an organisation is known as",
+    "options": ["Strategic planning", "Contingency planning", "Tactical planning", "None of the above"],
+    "answer": "Strategic planning"
+  },
+  {
+    "number": 55,
+    "question": "Proxy is appointed by a shareholder to",
+    "options": ["To speak at a meeting of the debenture holders", "To attend the meeting without the right to vote or speak", "Vote at meeting of the shareholders", "None of these"],
+    "answer": "Vote at meeting of the shareholders"
+  },
+  {
+    "number": 56,
+    "question": "Grapevine is",
+    "options": ["Officially created relationship by management", "As a result of social contacts", "Injurious to management", "None of the above"],
+    "answer": "As a result of social contacts"
+  },
+  {
+    "number": 57,
+    "question": "The chief advantage of committee organisation is",
+    "options": ["Greater participation", "Divide responsibility", "Quick decision", "None of these"],
+    "answer": "Greater participation"
+  },
+  {
+    "number": 58,
+    "question": "_____ discount is a price reduction given to the buyers who promptly pay their bills.",
+    "options": ["Seasonal discount", "Quantity discount", "Functional discount", "Cash discount"],
+    "answer": "Cash discount"
+  },
+  {
+    "number": 59,
+    "question": "Marginal revenue will be zero if the elasticity of demand is",
+    "options": ["Equal to zero", "Less than one", "More than one", "Equal to one"],
+    "answer": "Equal to one"
+  },
+  {
+    "number": 60,
+    "question": "Boom period is represented by",
+    "options": ["Disguised unemployment", "Under employment", "Full employment", "None of these"],
+    "answer": "Full employment"
+  },
+  {
+    "number": 61,
+    "question": "Which of the following acts as a medium of communication between the user and computer hardware?",
+    "options": ["Application software", "Operating system", "Keyboard", "RAM"],
+    "answer": "Operating system"
+  },
+  {
+    "number": 62,
+    "question": "Resident monitor, used in many early computers is a piece of",
+    "options": ["Hardware", "Application software", "System Software", "None of these"],
+    "answer": "System Software"
+  },
+  {
+    "number": 63,
+    "question": "Which uses vector based drawing methods?",
+    "options": ["Paint program", "Adobe Photoshop", "Corel draw", "None of these"],
+    "answer": "Corel draw"
+  },
+  {
+    "number": 64,
+    "question": "One Gigabyte is equivalent to",
+    "options": ["1024 MB", "1 Kilo Byte", "512 MB", "None of these"],
+    "answer": "1024 MB"
+  },
+  {
+    "number": 65,
+    "question": "EDI Stands for",
+    "options": ["Electronic Data Interchange", "Electronic Data and Information", "Electronic Data Interface", "None of these"],
+    "answer": "Electronic Data Interchange"
+  },
+  {
+    "number": 66,
+    "question": "In which mode communication is bi-directional?",
+    "options": ["Half duplex", "Full duplex", "Both (A) and (B)", "None of these"],
+    "answer": "Full duplex"
+  },
+  {
+    "number": 67,
+    "question": "Objects with the same structure and behavior belongs to a",
+    "options": ["Structure", "Package", "Packet", "Class"],
+    "answer": "Class"
+  },
+  {
+    "number": 68,
+    "question": "In software design which one is used for specifying functional requirements?",
+    "options": ["Flow chart", "Flow graph", "Data flow diagrams", "Both (A) and (B)"],
+    "answer": "Data flow diagrams"
+  },
+  {
+    "number": 69,
+    "question": "The possible cardinality ratio for binary relationship types is",
+    "options": ["1:1", "1:N", "M:N", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "number": 70,
+    "question": "The central part of Linux operating system is",
+    "options": ["System utilities", "Kernel", "Shell", "None of these"],
+    "answer": "Kernel"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following is not a software quality model?",
+    "options": ["Mc Call Model", "ISO 9000", "ISO 9126", "Boehm model"],
+    "answer": "ISO 9000"
+  },
+  {
+    "number": 72,
+    "question": "In Excel, 'Editing' group is available in _____ tab.",
+    "options": ["Home", "Data", "Insert", "None of these"],
+    "answer": "Home"
+  },
+  {
+    "number": 73,
+    "question": "A structured display of information along with graphics sound etc is called",
+    "options": ["Page", "Message", "Slide", "Presentation"],
+    "answer": "Presentation"
+  },
+  {
+    "number": 74,
+    "question": "Which of the following gives the address of a Webpage?",
+    "options": ["URL", "Unicode", "UDP", "None of these"],
+    "answer": "URL"
+  },
+  {
+    "number": 75,
+    "question": "Which among the following is used to view a website?",
+    "options": ["Search engine", "Web browser", "Hyperlink", "Resource locator"],
+    "answer": "Web browser"
+  },
+  {
+    "number": 76,
+    "question": "Which is not a type of alignment in MS Word?",
+    "options": ["Centre", "Justify", "Spacing", "None of these"],
+    "answer": "Spacing"
+  },
+  {
+    "number": 77,
+    "question": "In MS Word shift and right arrow key is used to _____ the text.",
+    "options": ["Delete", "Select", "Copy", "Cut"],
+    "answer": "Select"
+  },
+  {
+    "number": 78,
+    "question": "MS PowerPoint files are saved with _____ extension.",
+    "options": ["pwt", "prs", "pot", "ppt"],
+    "answer": "ppt"
+  },
+  {
+    "number": 79,
+    "question": "Which memory is known as volatile?",
+    "options": ["RAM", "ROM", "Both (A) and (B)", "None of these"],
+    "answer": "RAM"
+  },
+  {
+    "number": 80,
+    "question": "Which of the following can be used as a connecting device between two separate networks using different communication protocols?",
+    "options": ["Router", "Bridge", "Hub", "Gateway"],
+    "answer": "Gateway"
+  },
+  {
+    "number": 81,
+    "question": "The first implantation of artificial heart was conducted on December 18, 2013 under the leadership of",
+    "options": ["Dr. D.H. Frazier", "Dr. Alain F. Carpentier", "Dr. William Cohn", "Dr. Clifford Kwan Gett"],
+    "answer": "Dr. Alain F. Carpentier"
+  },
+  {
+    "number": 82,
+    "question": "The recipient of Col. C.K. Nayudu Life time achievement award of the year 2013 is",
+    "options": ["Sunil Gavaskar", "Ajit Wadekar", "Kapil Dev", "Gundappa Viswanath"],
+    "answer": "Gundappa Viswanath"
+  },
+  {
+    "number": 83,
+    "question": "The winner of the Miss universe contest of the year 2013",
+    "options": ["Ms. Patricia Yurena Rodriguez", "Ms. Gabriela Isler", "Ms. Constanza Baez", "Ms. Manasi Moghe"],
+    "answer": "Ms. Gabriela Isler"
+  },
+  {
+    "number": 84,
+    "question": "The only union territory which has a high court of its own",
+    "options": ["Lakshadweep", "Chandigarh", "Daman and Diu", "Delhi"],
+    "answer": "Delhi"
+  },
+  {
+    "number": 85,
+    "question": "The social reformer who is known as 'Lincoln of Kerala'",
+    "options": ["Chattampi Swamikal", "Pandit Karuppan", "Sree Narayana Guru", "Thycaud Ayya"],
+    "answer": "Pandit Karuppan"
+  },
+  {
+    "number": 86,
+    "question": "'Prathyaksha Raksha Daiva Sabha' was founded by",
+    "options": ["Kuriakose Elias Chavara", "Ayya Vaikundar", "Poikayil Yohannan", "Brahmananda Swami Sivayogi"],
+    "answer": "Poikayil Yohannan"
+  },
+  {
+    "number": 87,
+    "question": "The university of Kerala came into existence in",
+    "options": ["1952", "1968", "1957", "1984"],
+    "answer": "1957"
+  },
+  {
+    "number": 88,
+    "question": "Who won the Wimbledon Tennis men's singles in 2013?",
+    "options": ["Novak Djokovic", "Mike Bryan", "Rafael Nadal", "Andy Murray"],
+    "answer": "Andy Murray"
+  },
+  {
+    "number": 89,
+    "question": "Who won the Asian Cup Hockey held at Malaysia in 2013?",
+    "options": ["South Korea", "India", "Pakistan", "Netherlands"],
+    "answer": "India"
+  },
+  {
+    "number": 90,
+    "question": "The viceroy who partitioned Bengal was",
+    "options": ["Lord Rippon", "Lord Lytton", "Lord Canning", "Lord Curzon"],
+    "answer": "Lord Curzon"
+  },
+  {
+    "number": 91,
+    "question": "The Abhinav Bharat society was organised by",
+    "options": ["V.D. Savarkar", "Sukhdev", "Raj Guru", "Chandra Shekhar Azad"],
+    "answer": "V.D. Savarkar"
+  },
+  {
+    "number": 92,
+    "question": "The Chauri-Chaura incident took place in connection with",
+    "options": ["Civil disobedience movement", "Anti-partition movement", "Non-Cooperation movement", "Khilafath movement"],
+    "answer": "Non-Cooperation movement"
+  },
+  {
+    "number": 93,
+    "question": "The Quit India resolution was passed after the failure of",
+    "options": ["August offer", "Cripps Mission", "Nehru Report", "Simon Commission"],
+    "answer": "Cripps Mission"
+  },
+  {
+    "number": 94,
+    "question": "The Azad Hind Fauj was formed in",
+    "options": ["July 1943", "July 1946", "July 1940", "July 1939"],
+    "answer": "July 1943"
+  },
+  {
+    "number": 95,
+    "question": "The first Mahila bank of the country named Bharatiya Mahila Bank was inaugurated in",
+    "options": ["Chennai", "Mumbai", "Delhi", "Guwahati"],
+    "answer": "Delhi"
+  },
+  {
+    "number": 96,
+    "question": "The present Chairman of ISRO is",
+    "options": ["Dr. G. Madhavan Nair", "Dr. Krishnaswamy", "K. Radhakrishnan", "Dr. Kasthoorirangan"],
+    "answer": "K. Radhakrishnan"
+  },
+  {
+    "number": 97,
+    "question": "'NAMMA METRO' is the metro rail system of",
+    "options": ["Hyderabad", "Chennai", "Mumbai", "Bangalore"],
+    "answer": "Bangalore"
+  },
+  {
+    "number": 98,
+    "question": "The Fertilisers and Chemicals Travancore Limited was started during the period of",
+    "options": ["Srichithira Thirunal", "Swathi Thirunal", "Aayiliam Thirunal", "Sree Moolam Thirunal"],
+    "answer": "Sree Moolam Thirunal"
+  },
+  {
+    "number": 99,
+    "question": "The Egyptian pilot Hippalus discovered the monsoon wind in",
+    "options": ["40 AD", "50 AD", "54 AD", "45 AD"],
+    "answer": "45 AD"
+  },
+  {
+    "number": 100,
+    "question": "The Sulaiman mountain ranges situates in which part of India?",
+    "options": ["North west", "North", "North east", "East"],
+    "answer": "North west"
+  }
+                  ]},{"94-2014":[
+  {
+    "number": 1,
+    "question": "According to Census 2011, the taluk in Kerala having the highest birth rate is",
+    "options": ["Thiruvalla", "Tirurangadi", "Cherthala", "Adoor"],
+    "answer": "Tirurangadi"
+  },
+  {
+    "number": 2,
+    "question": "India's first spacecraft for Mars is named",
+    "options": ["Chandrayaan", "Agni", "Indra", "Mangalyan"],
+    "answer": "Mangalyan"
+  },
+  {
+    "number": 3,
+    "question": "Srinagar is located on the banks of",
+    "options": ["Jhelum", "Beas", "Tapti", "Son"],
+    "answer": "Jhelum"
+  },
+  {
+    "number": 4,
+    "question": "Indian Viceroy who abolished sati in 1829",
+    "options": ["Lord Wellesley", "Lord Linlithgow", "Lord William Bentick", "Lord Macaulay"],
+    "answer": "Lord William Bentick"
+  },
+  {
+    "number": 5,
+    "question": "India's first bank to open a branch in Antarctica",
+    "options": ["Central Bank of India", "State Bank of Mysore", "Allahabad Bank", "Bank of Baroda"],
+    "answer": "Allahabad Bank"
+  },
+  {
+    "number": 6,
+    "question": "India's first Oil Refinery in public sector is located at",
+    "options": ["Ludhiana, Punjab", "Guwahati, Assam", "Indore, Madhya Pradesh", "Kota, Rajasthan"],
+    "answer": "Guwahati, Assam"
+  },
+  {
+    "number": 7,
+    "question": "The Alphabet 'S' in the abbreviation IRAS stands for",
+    "options": ["Society", "Service", "Syndrome", "Satellite"],
+    "answer": "Service"
+  },
+  {
+    "number": 8,
+    "question": "Servants of India Society was founded by",
+    "options": ["Bal Gangadhar Tilak", "Gopala Krishna Gokhale", "Annie Beasant", "Atmaram Panduranga"],
+    "answer": "Gopala Krishna Gokhale"
+  },
+  {
+    "number": 9,
+    "question": "The architect of Mullaperiyar Dam",
+    "options": ["H. Slocum", "Sir Edwin Lutyens", "Moshe Safdie", "John Pennycuick"],
+    "answer": "John Pennycuick"
+  },
+  {
+    "number": 10,
+    "question": "Chavara deposit in Kerala is famous for",
+    "options": ["Iron ore", "Aluminium", "Heavy mineral sand", "Copper Ore"],
+    "answer": "Heavy mineral sand"
+  },
+  {
+    "number": 11,
+    "question": "The Treaty of Mavelikkara was signed between Travancore and the Dutch in",
+    "options": ["1753", "1754", "1757", "1759"],
+    "answer": "1753"
+  },
+  {
+    "number": 12,
+    "question": "Who is the first Malayalee President of the Indian National Congress?",
+    "options": ["V.P. Menon", "K. Krishna Pillai", "Sardar K.M. Panicker", "Sir C. Sankaran Nair"],
+    "answer": "Sir C. Sankaran Nair"
+  },
+  {
+    "number": 13,
+    "question": "Who was the editor of the journal 'Mitavadi'?",
+    "options": ["C. Krishnan", "Sahodaran Ayyappan", "V.T Bhattathiripad", "Palpu"],
+    "answer": "C. Krishnan"
+  },
+  {
+    "number": 14,
+    "question": "Nair Service Society (NSS) was formed in",
+    "options": ["1910", "1912", "1914", "1916"],
+    "answer": "1914"
+  },
+  {
+    "number": 15,
+    "question": "Kochi Pulaya Mahasabha was founded in 1913 under the leadership of",
+    "options": ["Ayyankali", "K. Kelappan", "C. Krishnan", "K. Karuppan"],
+    "answer": "K. Karuppan"
+  },
+  {
+    "number": 16,
+    "question": "Which among the following is the UNESCO recognized theatre art form of Kerala?",
+    "options": ["Koodiyattom", "Theyyam", "Kathakali", "Mudiyettu"],
+    "answer": "Koodiyattom"
+  },
+  {
+    "number": 17,
+    "question": "The Nobel Prize in Literature 2013 was awarded to",
+    "options": ["Aravind Adiga", "Chinua Achebe", "Alice Munro", "Henrick Pontoppidan"],
+    "answer": "Alice Munro"
+  },
+  {
+    "number": 18,
+    "question": "Untouchability is abolished as per the Indian Constitution Article",
+    "options": ["17", "18", "19", "20"],
+    "answer": "17"
+  },
+  {
+    "number": 19,
+    "question": "Who is the present chairperson of National Women's Commission?",
+    "options": ["Mamta Sarma", "Jayanti Patnaik", "Vibha Parthasarathy", "Girija Vyas"],
+    "answer": "Girija Vyas"
+  },
+  {
+    "number": 20,
+    "question": "Indian National Forest Academy is located at",
+    "options": ["Darjeeling", "Dehradun", "Simla", "Kodaikkanal"],
+    "answer": "Dehradun"
+  },
+  {
+    "number": 21,
+    "question": "The Cherambadi pass connects Kerala with",
+    "options": ["Coorg", "Mysore", "Tirunelveli", "Madurai"],
+    "answer": "Mysore"
+  },
+  {
+    "number": 22,
+    "question": "Mahatma Gandhi translated John Ruskin's 'Unto this Last' to Gujarati under the title",
+    "options": ["Swadeshi", "Swarajya", "Harijan", "Sarvodaya"],
+    "answer": "Sarvodaya"
+  },
+  {
+    "number": 23,
+    "question": "The author of the book 'Chorayum Kanneerum Nananja Vazhikal'",
+    "options": ["J. Devika", "K. Devayani", "P. Valsala", "Sugathakumari"],
+    "answer": "P. Valsala"
+  },
+  {
+    "number": 24,
+    "question": "Steve Irwin Wild Life Park in Kerala is located at",
+    "options": ["Tenmala", "Silent valley", "Neyyar", "Thattekkad"],
+    "answer": "Neyyar"
+  },
+  {
+    "number": 25,
+    "question": "National Research Centre for Spices (NRCS) also known as 'Sugandha Bhavan' is located at",
+    "options": ["Thiruvananthapuram", "Kochi", "Kollam", "Kozhikode"],
+    "answer": "Kozhikode"
+  },
+  {
+    "number": 26,
+    "question": "In which one of the following Five Year Plans the National Horticulture Mission (NHM) was implemented in India?",
+    "options": ["Eighth Five Year Plan", "Ninth Five Year Plan", "Tenth Five Year Plan", "Eleventh Five Year Plan"],
+    "answer": "Tenth Five Year Plan"
+  },
+  {
+    "number": 27,
+    "question": "Who is the author of the book 'Globalisation and its Discontents' which won the Nobel Prize for Economics?",
+    "options": ["Amartya Sen", "Paul Crugman", "David Rockefeller", "Joseph Stigglitz"],
+    "answer": "Joseph Stigglitz"
+  },
+  {
+    "number": 28,
+    "question": "Which of the following countries has its capital at Baku?",
+    "options": ["Brunei", "Azerbaijan", "Cyprus", "Djibouti"],
+    "answer": "Azerbaijan"
+  },
+  {
+    "number": 29,
+    "question": "Which is the largest producer of gold as per 2012 survey?",
+    "options": ["South Africa", "Peru", "India", "China"],
+    "answer": "China"
+  },
+  {
+    "number": 30,
+    "question": "Which district in Kerala is rated second among the Indian cities in suicidal rate as per 2011 census?",
+    "options": ["Alappuzha", "Malappuram", "Kollam", "Idukki"],
+    "answer": "Kollam"
+  },
+  {
+    "number": 31,
+    "question": "Kwacha is the currency of which country?",
+    "options": ["Zimbabwe", "Cuba", "Thailand", "Zambia"],
+    "answer": "Zambia"
+  },
+  {
+    "number": 32,
+    "question": "Largest producer of rice in India",
+    "options": ["West Bengal", "Andhra Pradesh", "Punjab", "Karnataka"],
+    "answer": "West Bengal"
+  },
+  {
+    "number": 33,
+    "question": "Who is the Minister for Khadi and Village Industries in Kerala?",
+    "options": ["K.C. Joseph", "Shibu Baby John", "C.N. Balakrishnan", "K.P. Mohanan"],
+    "answer": "C.N. Balakrishnan"
+  },
+  {
+    "number": 34,
+    "question": "The All India Muslim League was formed in",
+    "options": ["1905", "1906", "1907", "1908"],
+    "answer": "1906"
+  },
+  {
+    "number": 35,
+    "question": "Who is the founder of Sathyasodhak Samaj?",
+    "options": ["Dayananda Saraswati", "Jyothiba Phule", "Atmaram Pandurang", "Sivanarayan Agnihotri"],
+    "answer": "Jyothiba Phule"
+  },
+  {
+    "number": 36,
+    "question": "RIN Mutiny or the Mutiny of the Royal Indian Navy took place in",
+    "options": ["1942", "1944", "1946", "1948"],
+    "answer": "1946"
+  },
+  {
+    "number": 37,
+    "question": "The Viceroy of India who was murdered at Andaman Nicobar Islands",
+    "options": ["Lord Elgin", "Lord Mayo", "Lord Irwin", "Lord Wellington"],
+    "answer": "Lord Mayo"
+  },
+  {
+    "number": 38,
+    "question": "Who branded the Indian National leaders as 'Disloyal Babus', 'Seditious Brahmins' and 'Violent Villains'?",
+    "options": ["Lord Dufferin", "Lord Curzon", "Lord Rippon", "Lord Irwin"],
+    "answer": "Lord Curzon"
+  },
+  {
+    "number": 39,
+    "question": "'Sedition has become my religion' Mahatma Gandhi told this during",
+    "options": ["Champaran Satyagraha", "Quit India Movement", "Dandi March", "Khilafat Agitation"],
+    "answer": "Champaran Satyagraha"
+  },
+  {
+    "number": 40,
+    "question": "The year in which Marthanda Varma dedicated his kingdom to Sri Padmanabha - known in history as Trippadidanam?",
+    "options": ["1749", "1750", "1754", "1760"],
+    "answer": "1750"
+  },
+  {
+    "number": 41,
+    "question": "'Struggle for Existence' is the autobiography of which Indian Woman Leader?",
+    "options": ["Mamta Banerjee", "Jayalalita", "Mayawati", "Sushma Swaraj"],
+    "answer": "Mayawati"
+  },
+  {
+    "number": 42,
+    "question": "Which National Film award is given for the best first film of a director?",
+    "options": ["Rajat Kamal", "Swarna Kamal", "Nargis Dutt Award", "Indira Gandhi Award"],
+    "answer": "Indira Gandhi Award"
+  },
+  {
+    "number": 43,
+    "question": "Who was the first cricketer in the world to score 10,000 runs in the test cricket?",
+    "options": ["Brian Lara", "Allan Border", "Steve Waugh", "Sunil Gavaskar"],
+    "answer": "Sunil Gavaskar"
+  },
+  {
+    "number": 44,
+    "question": "Mandovi and Zuari are the major rivers of which Indian state?",
+    "options": ["Goa", "Assam", "Manipur", "Tripura"],
+    "answer": "Goa"
+  },
+  {
+    "number": 45,
+    "question": "What does the term 'Pisciculture' refer to?",
+    "options": ["Silkworm farming", "Fish farming", "Dairy farming", "Bee Keeping"],
+    "answer": "Fish farming"
+  },
+  {
+    "number": 46,
+    "question": "The first Sree Narayana Guru Global Secular and Peace Award 2013 was presented to",
+    "options": ["Shashi Tharoor", "A.K Antony", "V.M. Sudheeran", "Vayalar Ravi"],
+    "answer": "Shashi Tharoor"
+  },
+  {
+    "number": 47,
+    "question": "The Sanskrit Educational Centre called Tatwa Prakasika Ashramam was founded by",
+    "options": ["Karunakara Guru", "Sree Narayana Guru", "Vaghbatananda", "Chattampi Swamikal"],
+    "answer": "Chattampi Swamikal"
+  },
+  {
+    "number": 48,
+    "question": "Sree Narayana Guru founded the Advaita Asramam in 1913 at",
+    "options": ["Chempazhanthy", "Varkala", "Aluva", "Aruvippuram"],
+    "answer": "Aluva"
+  },
+  {
+    "number": 49,
+    "question": "Who edited and published the journal Abhinava Keralam?",
+    "options": ["Sahodaran Ayyappan", "Vaghbatananda", "Ayyankali", "Vakkom Moulavi"],
+    "answer": "Vaghbatananda"
+  },
+  {
+    "number": 50,
+    "question": "The Arabic Malayalam Journal published by Vakkom Abdul Khadar Moulavi in 1906",
+    "options": ["Al-Hind", "Al-Islam", "Al-Ameen", "Al-Ameer"],
+    "answer": "Al-Islam"
+  },
+  {
+    "number": 51,
+    "question": "_____ his illness Sriram decided to participate in the Cricket match.",
+    "options": ["In order to", "In spite of", "On account of", "With a view to"],
+    "answer": "In spite of"
+  },
+  {
+    "number": 52,
+    "question": "When she plays _____ piano, she seems to be in heaven.",
+    "options": ["An", "A", "The", "At"],
+    "answer": "The"
+  },
+  {
+    "number": 53,
+    "question": "In comparison _____ Madhya Pradesh, Kerala is a small state.",
+    "options": ["Of", "At", "To", "With"],
+    "answer": "To"
+  },
+  {
+    "number": 54,
+    "question": "The _____ part of the book is very dull.",
+    "options": ["Latter", "Later", "Latest", "Foremost"],
+    "answer": "Latter"
+  },
+  {
+    "number": 55,
+    "question": "Find one word for the words underlined: When the Union Minister of Finance landed at the Airport, the Governor moved forward with <u>an arrangement of flowers.</u>",
+    "options": ["Barren", "Bureau", "Bouquet", "Blanket"],
+    "answer": "Bouquet"
+  },
+  {
+    "number": 56,
+    "question": "Find the meaning of the word underlined: Mrs. Rose and her husband are going to start a <u>menagerie.</u>",
+    "options": ["A place for cultivating date palm", "A place for keeping children", "A place for keeping birds", "A place for keeping animals"],
+    "answer": "A place for keeping animals"
+  },
+  {
+    "number": 57,
+    "question": "Find the correct adverb for the words underlined: The thunder struck and <u>at the same time</u>, the electric charge went off.",
+    "options": ["Exasperatedly", "Simultaneously", "Desperately", "Eventually"],
+    "answer": "Simultaneously"
+  },
+  {
+    "number": 58,
+    "question": "Report the sentence given below: Raju asked, 'Can I help you'?",
+    "options": ["Raju wanted to know if he could help me", "Raju asked me whether he can help me", "Raju inquired me that how can he help me", "Raju asked how could he help me"],
+    "answer": "Raju wanted to know if he could help me"
+  },
+  {
+    "number": 59,
+    "question": "Change into Reported Speech: I will come to your party tomorrow.",
+    "options": ["I said that I would come to his party the next day", "I said that I will come to his party the next day", "I said that I will be coming to his party tomorrow", "I said that I will come to his party tomorrow"],
+    "answer": "I said that I would come to his party the next day"
+  },
+  {
+    "number": 60,
+    "question": "Change into Passive voice: Had the thieves stolen anything?",
+    "options": ["Had the thieves anything stolen?", "Had anything been stolen by the thieves?", "Anything had been stolen by the thieves?", "The thieves has stolen anything?"],
+    "answer": "Had anything been stolen by the thieves?"
+  },
+  {
+    "number": 61,
+    "question": "Who taught you to sing?",
+    "options": ["By whom you taught to sing?", "By whom was you taught to sing?", "By whom were you taught to sing?", "By whom were you have been taught to sing?"],
+    "answer": "By whom were you taught to sing?"
+  },
+  {
+    "number": 62,
+    "question": "Complete the sentence by choosing the correct form of the verb: Neither Raju nor Gopu _____ to be happy at this decision.",
+    "options": ["Seem", "Seemed", "Do not seem", "Seems"],
+    "answer": "Seems"
+  },
+  {
+    "number": 63,
+    "question": "Each one of these plots _____ to let.",
+    "options": ["Is", "Are", "Was", "Were"],
+    "answer": "Is"
+  },
+  {
+    "number": 64,
+    "question": "Nira is one of the _____ girls in our school.",
+    "options": ["Better", "Best", "Good", "Bad"],
+    "answer": "Best"
+  },
+  {
+    "number": 65,
+    "question": "Change into Active Voice: We were kept waiting by her.",
+    "options": ["She keeps us waiting", "She is keeping us waiting", "She kept us waiting", "She had kept us waiting"],
+    "answer": "She kept us waiting"
+  },
+  {
+    "number": 66,
+    "question": "Find one word for the words underlined: Balu was walking through a forest. <u>All at once</u> he saw an elephant in front of him.",
+    "options": ["Rapidly", "Occasionally", "Really", "Suddenly"],
+    "answer": "Suddenly"
+  },
+  {
+    "number": 67,
+    "question": "Jack is _____ than his brother.",
+    "options": ["Cleverer", "Clever", "More cleverer", "Cleverest"],
+    "answer": "Cleverer"
+  },
+  {
+    "number": 68,
+    "question": "The newspapers have the function to give correct news to the public. But now-a-days they used to _____ the public.",
+    "options": ["Sensitise", "Sensationalise", "Sentence", "Sensible"],
+    "answer": "Sensationalise"
+  },
+  {
+    "number": 69,
+    "question": "Foolish Syam <u>let the cat out of the bag.</u> Find one word for the idiom underlined.",
+    "options": ["Reply", "Remind", "Reveal", "Record"],
+    "answer": "Reveal"
+  },
+  {
+    "number": 70,
+    "question": "Find the meaning of the idiom underlined: The religious heads rushed to the spot for fanning the flame.",
+    "options": ["To release the people", "To make the people aware", "To relax the people", "To intensify the issue"],
+    "answer": "To intensify the issue"
+  },
+  {
+    "number": 71,
+    "question": "'ls' command in Linux is used for",
+    "options": ["Files listing", "Documents listing", "Table listing", "Directory listing"],
+    "answer": "Directory listing"
+  },
+  {
+    "number": 72,
+    "question": "One of the following is not an example of Search Engines",
+    "options": ["yahoo", "kosmix", "gmail.com", "ask.com"],
+    "answer": "gmail.com"
+  },
+  {
+    "number": 73,
+    "question": "What is the component in Open Office.org, which is equivalent to Access in MSOffice?",
+    "options": ["Draw", "Base", "Impress", "Writer"],
+    "answer": "Base"
+  },
+  {
+    "number": 74,
+    "question": "Command used in Linux to print a file",
+    "options": ["Ipr", "prl", "rpl", "print"],
+    "answer": "print"
+  },
+  {
+    "number": 75,
+    "question": "One of the following is not the correct version of Microsoft Office for Windows",
+    "options": ["Microsoft Office for windows 2.00", "Microsoft Office for windows 3.00", "Microsoft Office for windows 1.5", "Microsoft Office for windows 4.00"],
+    "answer": "Microsoft Office for windows 1.5"
+  },
+  {
+    "number": 76,
+    "question": "What is the maximum Font size in Libre Office Writer in Ubuntu Linux?",
+    "options": ["72", "76", "96", "86"],
+    "answer": "96"
+  },
+  {
+    "number": 77,
+    "question": "Which menu of the Adobe Pagemaker is used to select Font?",
+    "options": ["Element", "Type", "Layout", "Format"],
+    "answer": "Type"
+  },
+  {
+    "number": 78,
+    "question": "Pick out an operating system from the following",
+    "options": ["MS Word", "Open Office.Org", "DOS", "Corel Draw"],
+    "answer": "DOS"
+  },
+  {
+    "number": 79,
+    "question": "'Adobe PDF' option can be taken from one of the following steps",
+    "options": ["File->Open->Adobe PDF", "File->Acquire->Adobe PDF", "File->Links Manager->Adobe PDF", "File->Export->Adobe PDF"],
+    "answer": "File->Export->Adobe PDF"
+  },
+  {
+    "number": 80,
+    "question": "Adobe Pagemaker is an example of _____ software.",
+    "options": ["Photo Editing software", "DTP software", "Web designing software", "Graphic Designing software"],
+    "answer": "DTP software"
+  },
+  {
+    "number": 81,
+    "question": "One of the following is not true in the case of DTP Software features",
+    "options": ["Dropcap feature", "Autoflow Feature", "Auto Numbering", "Auto Formating"],
+    "answer": "Auto Formating"
+  },
+  {
+    "number": 82,
+    "question": "One of the following menu is not available in the CorelDRAW [Graphic] software",
+    "options": ["Arrange", "Effects", "Bitmaps", "Table"],
+    "answer": "Table"
+  },
+  {
+    "number": 83,
+    "question": "'Voice Response Systems' is an example of _____ device.",
+    "options": ["Input device", "Output device", "Not an example of an input or output device", "None of these"],
+    "answer": "Output device"
+  },
+  {
+    "number": 84,
+    "question": "Browse buttons in MS Word are located at",
+    "options": ["Below of the vertical scroll bar", "The horizontal scroll bar", "Tool bar", "Status bar"],
+    "answer": "Below of the vertical scroll bar"
+  },
+  {
+    "number": 85,
+    "question": "'Page Setup' option is available in which menu of the CorelDRAW [Graphic] software?",
+    "options": ["Layout", "File", "Text", "View"],
+    "answer": "File"
+  },
+  {
+    "number": 86,
+    "question": "How many Navigation keys are in computer keyboard?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "number": 87,
+    "question": "What is the size of width and height of A3 paper in MS Word?",
+    "options": ["5.83\" × 8.27\"", "8.5\" ×11\"", "11.69\" × 16.54\"", "8.27\" × 11.69\""],
+    "answer": "11.69\" × 16.54\""
+  },
+  {
+    "number": 88,
+    "question": "'Shift + F12' shortcut key is used to _____ a file.",
+    "options": ["Save as", "Save", "Close", "Paste"],
+    "answer": "Save"
+  },
+  {
+    "number": 89,
+    "question": "What is the shortcut key for 'Hanging Indent'?",
+    "options": ["Ctrl + T", "Ctrl + H", "Ctrl + I", "Ctrl + D"],
+    "answer": "Ctrl + T"
+  },
+  {
+    "number": 90,
+    "question": "Which is the correct step for insert a rectangle shape?",
+    "options": ["Table -> Insert", "Insert -> Autoshapes -> Picture", "Picture -> Insert -> Autoshapes", "Insert -> Picture -> Autoshapes"],
+    "answer": "Insert -> Picture -> Autoshapes"
+  },
+  {
+    "number": 91,
+    "question": "What is the steps for inserting symbols like ©, ® in MS Word?",
+    "options": ["Symbols ->Insert", "Insert -> Symbols -> Special Characters", "Insert -> Picture -> Autoshapes", "None of these"],
+    "answer": "Insert -> Symbols -> Special Characters"
+  },
+  {
+    "number": 92,
+    "question": "Which menu is used for 'Insert Text Box'?",
+    "options": ["Tools", "Table", "Insert", "Format"],
+    "answer": "Insert"
+  },
+  {
+    "number": 93,
+    "question": "One of the following bar is not seen in the MS Word window, but can be seen in the MS Excel window",
+    "options": ["Task Bar", "Tool Bar", "Formula Bar", "Menu Bar"],
+    "answer": "Formula Bar"
+  },
+  {
+    "number": 94,
+    "question": "What is the correct step to adjust Row Height in MS Excel?",
+    "options": ["Format -> Row -> Height", "Table -> Row -> Height", "Insert -> Row -> Height", "Tools -> Row -> Height"],
+    "answer": "Format -> Row -> Height"
+  },
+  {
+    "number": 95,
+    "question": "One of the following 'Chart type' is not available in MS Excel 2003",
+    "options": ["Pie", "Radar", "Stock", "Solid"],
+    "answer": "Solid"
+  },
+  {
+    "number": 96,
+    "question": "Which is the correct step to select Font in MS Excel 2003?",
+    "options": ["Format -> Font", "Format -> Cells -> Font", "Tools -> Font", "Insert -> Font"],
+    "answer": "Format -> Cells -> Font"
+  },
+  {
+    "number": 97,
+    "question": "'CONCATENATE' is the _____ available in MS Excel",
+    "options": ["Word", "Formula", "Method", "Function"],
+    "answer": "Function"
+  },
+  {
+    "number": 98,
+    "question": "What is the maximum Zoom percentage available in MS Word 2003?",
+    "options": ["1000%", "500%", "400%", "200%"],
+    "answer": "500%"
+  },
+  {
+    "number": 99,
+    "question": "What is the default layout view when we open word window?",
+    "options": ["Normal view", "Web layout view", "Print Layout view", "Outline View"],
+    "answer": "Print Layout view"
+  },
+  {
+    "number": 100,
+    "question": "Total number of lines can be found out by using _____ option.",
+    "options": ["Word count", "View", "Line count", "Page count"],
+    "answer": "Word count"
+  }
+                  ]}]
   },
   {
    "course":"Auditor",
-   "questionpapers":[]
+   "questionpapers":[{"40-2014":[
+  {
+    "number": 1,
+    "question": "It is being given that 232 is completely divisible by a whole number. Which of the following numbers is completely divisible by this number?",
+    "options": ["2^16 + 1", "2^16 - 1", "7 × 2^23", "2^96 + 1"],
+    "answer": "2^16 - 1"
+  },
+  {
+    "number": 2,
+    "question": "The greatest number of four digit which is divisible by 15, 25, 40 and 75 is:",
+    "options": ["9000", "9400", "9600", "9800"],
+    "answer": "9000"
+  },
+  {
+    "number": 3,
+    "question": "Two bus tickets from city A to B and three tickets from city A to C costs Rs. 90 but three tickets from city A to B and two tickets from city A to C costs Rs. 85. What are the fares for cities B and C from A?",
+    "options": ["Rs. 10, Rs. 20", "Rs. 15, Rs. 20", "Rs. 15, Rs. 14", "Rs. 20, Rs. 10"],
+    "answer": "Rs. 15, Rs. 14"
+  },
+  {
+    "number": 4,
+    "question": "14, 28, 20, 40, 32, 64, What number should come next?",
+    "options": ["52", "128", "96", "56"],
+    "answer": "56"
+  },
+  {
+    "number": 5,
+    "question": "A woman says \"if you reverse my own age the figure represents my husband's age, he is of course senior to me and the difference between our ages is one-eleventh of their sum\". The woman's age is:",
+    "options": ["24 years", "34 years", "45 years", "35 years"],
+    "answer": "45 years"
+  },
+  {
+    "number": 6,
+    "question": "A waiter's salary consists of his salary and tips. During one week his tips were 5/4 of his salary. What fraction of his income came from tips?",
+    "options": ["4/9", "5/4", "5/8", "5/9"],
+    "answer": "5/9"
+  },
+  {
+    "number": 7,
+    "question": "A man completes a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km:",
+    "options": ["220 km", "224 km", "230 km", "234 km"],
+    "answer": "224 km"
+  },
+  {
+    "number": 8,
+    "question": "A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. How many days more will A take to finish the work?",
+    "options": ["10", "8", "12", "15"],
+    "answer": "10"
+  },
+  {
+    "number": 9,
+    "question": "The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds is:",
+    "options": ["200", "225", "245", "250"],
+    "answer": "245"
+  },
+  {
+    "number": 10,
+    "question": "If one third of one fourth of a number is 15, then four tenth of that number is:",
+    "options": ["72", "70", "60", "62"],
+    "answer": "72"
+  },
+  {
+    "number": 11,
+    "question": "The angle between the minute hand and the hour hand of a clock when the time is 4:20 is:",
+    "options": ["0°", "10°", "5º", "20°"],
+    "answer": "10°"
+  },
+  {
+    "number": 12,
+    "question": "The curved surface area of a cylindrical pillar is 264 m² and its volume is 924 m³. Find the ratio of its diameter to its height:",
+    "options": ["3:7", "7:6", "6:7", "7:3"],
+    "answer": "6:7"
+  },
+  {
+    "number": 13,
+    "question": "Today is Monday. After 61 days it will be:",
+    "options": ["Wednesday", "Saturday", "Tuesday", "Thursday"],
+    "answer": "Saturday"
+  },
+  {
+    "number": 14,
+    "question": "Find odd man out: 8, 27, 64, 100, 125, 216, 343",
+    "options": ["125", "27", "100", "343"],
+    "answer": "100"
+  },
+  {
+    "number": 15,
+    "question": "The following words have a certain relation to each other. Select the pair which has the relationship: Distance : mile",
+    "options": ["liquid: litre", "bushel: corn", "weight: scale", "fame: television"],
+    "answer": "liquid: litre"
+  },
+  {
+    "number": 16,
+    "question": "Choose the word which best expresses the meaning of the given word: Infrequent",
+    "options": ["never", "usual", "rare", "sometimes"],
+    "answer": "rare"
+  },
+  {
+    "number": 17,
+    "question": "Choose the word which is the exact opposite of the given word: Confess",
+    "options": ["deny", "refuse", "contest", "contend"],
+    "answer": "deny"
+  },
+  {
+    "number": 18,
+    "question": "Siya runs faster than Jiya. Lily runs faster than Siya. Jiya runs faster than Lily. If the first two statements are true, the third statement is:",
+    "options": ["true", "false", "both true and false", "uncertain"],
+    "answer": "false"
+  },
+  {
+    "number": 19,
+    "question": "Kiran walks 5 km towards east and then turns left and walks 6 km. Again he turns right and walks 9 km. Finally he turns to his right and walks 6 km. How far is he from the starting point?",
+    "options": ["26 km", "21 km", "14 km", "9 km"],
+    "answer": "14 km"
+  },
+  {
+    "number": 20,
+    "question": "If 20% of a = b, then b% of 20 is same as:",
+    "options": ["4% of a", "5% of a", "20% of a", "none of these"],
+    "answer": "4% of a"
+  },
+  {
+    "number": 21,
+    "question": "Government of India recently declared an animal as National aquatic animal, for protecting aquatic life. Identify the animal:",
+    "options": ["Whale", "Crocodile", "River Dolphin", "Indian Mackerel"],
+    "answer": "River Dolphin"
+  },
+  {
+    "number": 22,
+    "question": "How many genes are present in the human genome?",
+    "options": ["1,00,000", "30,000", "50,000", "10,000"],
+    "answer": "30,000"
+  },
+  {
+    "number": 23,
+    "question": "Joule/second is the unit of:",
+    "options": ["Work", "Power", "Energy", "Force"],
+    "answer": "Power"
+  },
+  {
+    "number": 24,
+    "question": "Which country performed the world's first self regulating fully artificial heart transplantation in December 2013?",
+    "options": ["France", "Germany", "China", "USA"],
+    "answer": "France"
+  },
+  {
+    "number": 25,
+    "question": "Find out the odd one:",
+    "options": ["Zoological park", "Botanical Garden", "Seed Bank", "National Park"],
+    "answer": "Seed Bank"
+  },
+  {
+    "number": 26,
+    "question": "Who invented electric battery?",
+    "options": ["Thomas Alva Edison", "Isaac Newton", "Alessandro Volta", "Michael Faraday"],
+    "answer": "Alessandro Volta"
+  },
+  {
+    "number": 27,
+    "question": "Which among the following is not a monosaccharide?",
+    "options": ["Lactose", "Glucose", "Fructose", "Galactose"],
+    "answer": "Lactose"
+  },
+  {
+    "number": 28,
+    "question": "Wind glasses of vehicles are made by:",
+    "options": ["Fibre Glass", "Borosilicate Glass", "Flint Glass", "Safety Glass"],
+    "answer": "Safety Glass"
+  },
+  {
+    "number": 29,
+    "question": "Fuel with highest calorific value is:",
+    "options": ["Methane", "Biogas", "Hydrogen", "Petrol"],
+    "answer": "Hydrogen"
+  },
+  {
+    "number": 30,
+    "question": "Lens used to rectify farsightedness:",
+    "options": ["Concave", "Convex", "Cylindrical", "Biconcave"],
+    "answer": "Convex"
+  },
+  {
+    "number": 31,
+    "question": "The first ISO certified police station in Kerala:",
+    "options": ["Thiruvananthapuram", "Thrissur", "Ernakulam", "Kozhikkode"],
+    "answer": "Ernakulam"
+  },
+  {
+    "number": 32,
+    "question": "In which year Kuriakose Elias Chavara died?",
+    "options": ["1871", "1873", "1874", "1881"],
+    "answer": "1871"
+  },
+  {
+    "number": 33,
+    "question": "The season of retreating monsoon:",
+    "options": ["June-September", "December-February", "October-November", "March-May"],
+    "answer": "October-November"
+  },
+  {
+    "number": 34,
+    "question": "In which year India became a member of ADB?",
+    "options": ["1991", "1966", "1986", "1996"],
+    "answer": "1966"
+  },
+  {
+    "number": 35,
+    "question": "The first woman Keralite to become a member of both Lok Sabha and Rajya Sabha:",
+    "options": ["Ammu Swaminathan", "Akkamma Cheriyan", "Annie Mascarene", "Suseela Gopalan"],
+    "answer": "Annie Mascarene"
+  },
+  {
+    "number": 36,
+    "question": "The author of the book 'Swaraj':",
+    "options": ["Thushar Gandhi", "Aravind Kejriwal", "Bal Thackaray", "Narendra Modi"],
+    "answer": "Aravind Kejriwal"
+  },
+  {
+    "number": 37,
+    "question": "'Kuruva Island' is situated in:",
+    "options": ["Kabani", "Bhavani", "Pambar", "Chaliyar"],
+    "answer": "Kabani"
+  },
+  {
+    "number": 38,
+    "question": "The state which has lowest sex ratio:",
+    "options": ["Bihar", "Orissa", "Arunachal Pradesh", "Tripura"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "number": 39,
+    "question": "The founder of 'Sidhashramam':",
+    "options": ["Sree Narayana Guru", "Vagbhatananda", "Ayya Vaikundar", "Brahmananda Sivayogi"],
+    "answer": "Vagbhatananda"
+  },
+  {
+    "number": 40,
+    "question": "Who proclaimed \"Go back to Gita\"?",
+    "options": ["Dayananda Saraswathi", "Swami Vivekanandan", "Gandhiji", "Sree Ramakrishna Paramahamsan"],
+    "answer": "Dayananda Saraswathi"
+  },
+  {
+    "number": 41,
+    "question": "Which country hosts World Men Hockey Tournament in 2018?",
+    "options": ["Australia", "Kuwait", "India", "Newzealand"],
+    "answer": "India"
+  },
+  {
+    "number": 42,
+    "question": "The social reformer who is also known as 'Pulayan Mathayi':",
+    "options": ["Kumara Guru", "Sahodaran Ayyappan", "Pandit Karuppan", "Dr. Palpu"],
+    "answer": "Pandit Karuppan"
+  },
+  {
+    "number": 43,
+    "question": "The river flowing between Vindhya and Satpura Ranges:",
+    "options": ["Brahmaputra", "Mahanadi", "Krishna", "Narmada"],
+    "answer": "Narmada"
+  },
+  {
+    "number": 44,
+    "question": "The first film released through internet:",
+    "options": ["Vivah", "Munnabai MBBS", "Dhoom", "Sholay"],
+    "answer": "Vivah"
+  },
+  {
+    "number": 45,
+    "question": "'In the Line of Fire' is the autobiography of:",
+    "options": ["Ariel Sharon", "Saddam Hussain", "Parvez Musharraf", "Vladimir Putin"],
+    "answer": "Parvez Musharraf"
+  },
+  {
+    "number": 46,
+    "question": "The World Environment Day is:",
+    "options": ["May 5", "June 22", "July 10", "June 5"],
+    "answer": "June 5"
+  },
+  {
+    "number": 47,
+    "question": "Hari Prasad Chaurasia is famous in which field:",
+    "options": ["Tabla", "Flute", "Guitar", "Violin"],
+    "answer": "Flute"
+  },
+  {
+    "number": 48,
+    "question": "Which country shares the shortest international boundary with India?",
+    "options": ["Myanmar", "Nepal", "Bangladesh", "Afghanistan"],
+    "answer": "Afghanistan"
+  },
+  {
+    "number": 49,
+    "question": "Soil which predominates in Sundarban Area:",
+    "options": ["Alluvial soil", "Red soil", "Laterite soil", "Black soil"],
+    "answer": "Alluvial soil"
+  },
+  {
+    "number": 50,
+    "question": "The first aircraft carrier of Indian Navy:",
+    "options": ["INS Vikrant", "INS Tharangini", "INS Chakra", "INS Virat"],
+    "answer": "INS Vikrant"
+  },
+  {
+    "number": 51,
+    "question": "'Jal Mahal' situated in:",
+    "options": ["Jodhpur", "Udaipur", "Jaipur", "Raipur"],
+    "answer": "Jaipur"
+  },
+  {
+    "number": 52,
+    "question": "Nautanki is the dance form of which Indian state:",
+    "options": ["Manipur", "Uttar Pradesh", "Gujarat", "Punjab"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "number": 53,
+    "question": "Rajiv Gandhi Indian Institute of Management is in:",
+    "options": ["New Delhi", "Dehradun", "Shillong", "Hyderabad"],
+    "answer": "Shillong"
+  },
+  {
+    "number": 54,
+    "question": "Where was the 2010 Winter Olympics held?",
+    "options": ["USA", "Switzerland", "Italy", "Canada"],
+    "answer": "Canada"
+  },
+  {
+    "number": 55,
+    "question": "Who established Bharatiya Vidya Bhavan?",
+    "options": ["P. Mithra", "Lala Hardayal", "K.M. Munshi", "Athma Ram Pandurang"],
+    "answer": "K.M. Munshi"
+  },
+  {
+    "number": 56,
+    "question": "World Teachers Day is celebrated on:",
+    "options": ["September 5", "October 5", "September 20", "November 5"],
+    "answer": "October 5"
+  },
+  {
+    "number": 57,
+    "question": "Who won the World Chess Championship 2013?",
+    "options": ["Magnus Carlsen", "Vladimir Dyokovich", "Viswanathan Anand", "P. Harikrishnan"],
+    "answer": "Magnus Carlsen"
+  },
+  {
+    "number": 58,
+    "question": "Indian Prime Minister who established National Dairy Development Board:",
+    "options": ["Jawaharlal Nehru", "Narasimha Rao", "Morarji Desai", "Indira Gandhi"],
+    "answer": "Morarji Desai"
+  },
+  {
+    "number": 59,
+    "question": "The first cyber forensic laboratory in India:",
+    "options": ["Maharashtra", "Tripura", "Andhra Pradesh", "Kerala"],
+    "answer": "Kerala"
+  },
+  {
+    "number": 60,
+    "question": "Who was the first Indian woman to receive Magsaysay award?",
+    "options": ["Indira Gandhi", "Captain Lakshmi Sehgal", "Vandana Shiva", "Kiran Bedi"],
+    "answer": "Kiran Bedi"
+  },
+  {
+    "number": 61,
+    "question": "What is the minimum age qualification required for a candidate to be elected as a member of the Rajya Sabha?",
+    "options": ["25 years", "30 years", "18 years", "35 years"],
+    "answer": "30 years"
+  },
+  {
+    "number": 62,
+    "question": "Which one among the following was described by Dr. Ambedkar as the 'heart and soul' of the Constitution?",
+    "options": [
+      "Right to freedom of speech and expression",
+      "Right to equality",
+      "Right to constitutional remedies",
+      "Right against exploitation"
+    ],
+    "answer": "Right to constitutional remedies"
+  },
+  {
+    "number": 63,
+    "question": "Who among the following can preside but cannot vote in one of the Houses of Parliament?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "Deputy Speaker of Lok Sabha",
+      "Vice President of India",
+      "Deputy Chairman of Rajya Sabha"
+    ],
+    "answer": "Vice President of India"
+  },
+  {
+    "number": 64,
+    "question": "The Chief Election Commissioner holds office:",
+    "options": [
+      "for a period of six years",
+      "during the pleasure of the President",
+      "for a period of five years",
+      "for a period of six years or till the age of 65 years whichever is earlier"
+    ],
+    "answer": "for a period of six years or till the age of 65 years whichever is earlier"
+  },
+  {
+    "number": 65,
+    "question": "Who among the following was not a member of the Drafting Committee for the Constitution of India?",
+    "options": [
+      "T. Prakasam",
+      "Alladi Krishnaswamy Iyer",
+      "T.T. Krishnamachari",
+      "N. Gopalaswami Iyengar"
+    ],
+    "answer": "T. Prakasam"
+  },
+  {
+    "number": 66,
+    "question": "The 97th amendment to the Constitution dealt with:",
+    "options": [
+      "The structure of Election Commission",
+      "Universalising Elementary Education",
+      "Anti defection",
+      "The powers of Panchayati Raj institutions"
+    ],
+    "answer": "The powers of Panchayati Raj institutions"
+  },
+  {
+    "number": 67,
+    "question": "The age of retirement of the judges of the High Courts is:",
+    "options": ["62 years", "60 years", "58 years", "65 years"],
+    "answer": "62 years"
+  },
+  {
+    "number": 68,
+    "question": "The joint session of both Houses of Parliament is presided over by:",
+    "options": [
+      "The President",
+      "The Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha",
+      "The Prime Minister"
+    ],
+    "answer": "The Speaker of Lok Sabha"
+  },
+  {
+    "number": 69,
+    "question": "While General Emergency is in operation, the duration of Lok Sabha can be extended for a period of:",
+    "options": [
+      "six months only",
+      "six months at a time",
+      "one year only",
+      "one year at a time"
+    ],
+    "answer": "one year at a time"
+  },
+  {
+    "number": 70,
+    "question": "Under which of the following articles of the Indian Constitution provisions for the creation and abolition of Legislative Councils in states are made?",
+    "options": ["168", "169", "170", "171"],
+    "answer": "169"
+  },
+  {
+    "number": 71,
+    "question": "Which part of the following sentence is incorrect? The film that I watched yesterday is about a young lady who was a famous actress.",
+    "options": ["The film", "that I watched yesterday", "is about a young lady", "who was a famous actress"],
+    "answer": "who was a famous actress"
+  },
+  {
+    "number": 72,
+    "question": "The wall was _____ high that I could not reach its top.",
+    "options": ["so", "very", "too", "much"],
+    "answer": "so"
+  },
+  {
+    "number": 73,
+    "question": "When Sunny arrived home his children:",
+    "options": ["went to sleep", "had gone to sleep", "has gone to sleep", "was going to sleep"],
+    "answer": "had gone to sleep"
+  },
+  {
+    "number": 74,
+    "question": "The expression 'vox populi' means:",
+    "options": ["popular hatred", "electoral verdict", "opinion poll", "popular opinion"],
+    "answer": "popular opinion"
+  },
+  {
+    "number": 75,
+    "question": "Why don't you look _____ the dictionary to get the correct meaning of this word?",
+    "options": ["at", "on", "up", "upon"],
+    "answer": "up"
+  },
+  {
+    "number": 76,
+    "question": "The passive form of the sentence \"Her recklessness did her in.\" is:",
+    "options": [
+      "She is done in by her recklessness",
+      "She was done in by her recklessness",
+      "She has been done in by her recklessness",
+      "She had been done in by her recklessness"
+    ],
+    "answer": "She was done in by her recklessness"
+  },
+  {
+    "number": 77,
+    "question": "Germany is _____ European country.",
+    "options": ["a", "an", "the", "no article required"],
+    "answer": "a"
+  },
+  {
+    "number": 78,
+    "question": "Nowadays, companies _____ and fire employees as they please.",
+    "options": ["hair", "here", "hire", "hear"],
+    "answer": "hire"
+  },
+  {
+    "number": 79,
+    "question": "The indirect form of the sentence \"How did you solve this problem?' the teacher asked the girl\" is:",
+    "options": [
+      "The teacher asked the girl how she solved that problem",
+      "The teacher asked the girl how she had solved that problem",
+      "The teacher asked the girl how she has solved the problem",
+      "The teacher asked the girl whether she had solved that problem"
+    ],
+    "answer": "The teacher asked the girl how she had solved that problem"
+  },
+  {
+    "number": 80,
+    "question": "When I came to the railway station, the train had _____ left.",
+    "options": ["lately", "yet", "earlier", "already"],
+    "answer": "already"
+  },
+  {
+    "number": 81,
+    "question": "National Rural Employment Guarantee Act was passed in the year:",
+    "options": ["2001", "2003", "2005", "2007"],
+    "answer": "2005"
+  },
+  {
+    "number": 82,
+    "question": "Aam Admi Bima Yojana is a programme meant for:",
+    "options": [
+      "Housing for slum dwellers",
+      "Housing for Rural Landless Poor",
+      "Insurance for SC/ST",
+      "Insurance for Rural Landless Poor"
+    ],
+    "answer": "Insurance for Rural Landless Poor"
+  },
+  {
+    "number": 83,
+    "question": "'Slum Free India' is an objective of:",
+    "options": [
+      "Indira Awas Yojana",
+      "Rajiv Awas Yojana",
+      "Samagra Awas Yojana",
+      "Bharath Nirman"
+    ],
+    "answer": "Rajiv Awas Yojana"
+  },
+  {
+    "number": 84,
+    "question": "The programme implemented for the empowerment of women according to National Education Policy:",
+    "options": [
+      "Indira Mahila Yojana",
+      "Mahila Samakhya",
+      "Rashtriya Mahila Khosh",
+      "Mahila Samridhi Yojana"
+    ],
+    "answer": "Mahila Samakhya"
+  },
+  {
+    "number": 85,
+    "question": "Food for Work Programme was started in the year:",
+    "options": ["1957", "1974", "1977", "1979"],
+    "answer": "1977"
+  },
+  {
+    "number": 86,
+    "question": "PURA stands for:",
+    "options": [
+      "Poverty reduction in Urban and Rural Areas",
+      "Provision of Urban Amenities in Rural Areas",
+      "Provision of electricity in Urban and Rural Areas",
+      "Poverty and Unemployment Reduction Agency"
+    ],
+    "answer": "Provision of Urban Amenities in Rural Areas"
+  },
+  {
+    "number": 87,
+    "question": "Valmiki Awas Yojana is planned to provide:",
+    "options": [
+      "Housing for Rural landless poor",
+      "Housing for Urban Landless poor",
+      "Housing for Slum Inhabitants",
+      "Housing for SC/ST below poverty line"
+    ],
+    "answer": "Housing for Slum Inhabitants"
+  },
+  {
+    "number": 88,
+    "question": "Kutir Jyoti is a welfare programme for providing:",
+    "options": [
+      "Housing for rural poor",
+      "Electrification of houses of SC/ST",
+      "Housing for SC/ST",
+      "Electrification of urban slums"
+    ],
+    "answer": "Electrification of houses of SC/ST"
+  },
+  {
+    "number": 89,
+    "question": "Integrated Child Development Services was started in the year:",
+    "options": ["1970", "1972", "1975", "1980"],
+    "answer": "1975"
+  },
+  {
+    "number": 90,
+    "question": "Annapoorna is a welfare programme for:",
+    "options": [
+      "Providing Food for work",
+      "Food security of SC/ST",
+      "Food security of senior citizens",
+      "Food security of disabled"
+    ],
+    "answer": "Food security of senior citizens"
+  },
+  {
+    "number": 91,
+    "question": "A group of four bits is known as a/an:",
+    "options": ["byte", "nibble", "quartet", "octet"],
+    "answer": "nibble"
+  },
+  {
+    "number": 92,
+    "question": "The Hexadecimal equivalent of the decimal number 162 is:",
+    "options": ["A2", "B2", "C2", "D2"],
+    "answer": "A2"
+  },
+  {
+    "number": 93,
+    "question": "Which of the following system software translate and execute high level language source code, statement by statement?",
+    "options": ["Assembler", "Compiler", "Interpreter", "Operating system"],
+    "answer": "Interpreter"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following technology is used for exchange of data between different systems?",
+    "options": [
+      "Extensible markup language",
+      "Hypertext markup language",
+      "Dynamic Hypertext markup Language",
+      "Practical Extraction and Reporting Language"
+    ],
+    "answer": "Extensible markup language"
+  },
+  {
+    "number": 95,
+    "question": "A java program that executes from a web page is called:",
+    "options": ["Portlet", "Servlet", "Weblet", "Applet"],
+    "answer": "Applet"
+  },
+  {
+    "number": 96,
+    "question": "A private computer network within an organisation or company that allows controlled access from the outside is known as:",
+    "options": ["Intranet", "Extranet", "Biznet", "Firmnet"],
+    "answer": "Extranet"
+  },
+  {
+    "number": 97,
+    "question": "Which is the standard protocol for sending emails across the Internet?",
+    "options": [
+      "Hyper Text Transfer Protocols (HTTP)",
+      "Post Office Protocol (POP)",
+      "Simple Mail Transfer Protocol (SMTP)",
+      "Internet Message Access Protocol (IMAP)"
+    ],
+    "answer": "Simple Mail Transfer Protocol (SMTP)"
+  },
+  {
+    "number": 98,
+    "question": "'Software Piracy' refers to:",
+    "options": [
+      "Unauthorised copying of software",
+      "Data theft by means of software",
+      "Spreading of malicious software",
+      "Denial of service attack on a server"
+    ],
+    "answer": "Unauthorised copying of software"
+  },
+  {
+    "number": 99,
+    "question": "Which of the following terms is not associated with the cyber crime of attempting to acquire information by masquerading as a trustworthy entity?",
+    "options": ["Whaling", "Clone phishing", "Bait phishing", "Spear phishing"],
+    "answer": "Bait phishing"
+  },
+  {
+    "number": 100,
+    "question": "Section 67 of IT Act 2000 deals with:",
+    "options": [
+      "Tampering of computer source documents",
+      "Penalty for damage to computer, computer systems etc.",
+      "Establishment of cyber appellate Tribunal",
+      "Publishing of information which is obscene in electronic form"
+    ],
+    "answer": "Publishing of information which is obscene in electronic form"
+  }
+                  ]}]
   },
   {
    "course":"Ayurveda",

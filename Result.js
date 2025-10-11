@@ -40,7 +40,7 @@ function loadQuestionPaper(selectedCourse,selectedQuestionPaper){
                             newDiv.className="Question-Block";
                             newDiv.id=questionNumber.number;
                             const newQuestion=document.createElement("h2");
-                            newQuestion.textContent=questionNumber.number+". "+questionNumber.question;
+                            newQuestion.innerHTML=questionNumber.number+". "+questionNumber.question;
                             newDiv.appendChild(newQuestion);
                             questionNumber.options.forEach(option=>{
                                 const newLabel=document.createElement("label");
