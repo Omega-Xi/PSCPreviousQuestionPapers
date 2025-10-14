@@ -46,6 +46,9 @@ ul.courses > li{
     backdrop-filter: blur(5px);
     background-color: hsla(0, 0%, 25%, 0.126);
     border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 255, 255, 0.1);
+    transition:background-color 0.5s ease,box-shadow 0.3s ease, border-color 0.3s ease;
+    border: 2px solid transparent;
 }
 ul.courses li a{
     display: flex;
@@ -57,8 +60,11 @@ ul.courses li a{
     background-color: hsla(0, 100%, 99%, 0.11);
     cursor: pointer;
     border-radius: 20px;
-    transition-duration: 0.5s ease-in-out;
+    transition: color 0.3s ease-in-out,  0.5s ease-in-out;
     position: relative;
+}
+ul.courses li:hover,ul.courses li:focus{
+    background-color: hsla(0, 100%, 99%, 0.11);
 }
 ul.courses li a::after{
     content: '';
@@ -73,8 +79,8 @@ ul.courses li a::after{
 }
 ul.courses li a:hover,ul.courses li a:focus{
     color: hsla(0, 0%, 100%, 0.801);
-    background-color: hsla(196, 79%, 15%, 0.437);
-    box-shadow: 2px 2px rgba(0, 0, 0, 0.285);
+    animation: glowShift 2s ease-in-out infinite;
+    box-shadow: 0 4px 12px rgba(0, 255, 255, 0.2);
 }
 ul.courses li.selected{
     position: relative;
@@ -121,7 +127,6 @@ ul.courses li.selected ul.question-papers li{
 }
 ul.courses li.selected ul.question-papers li:hover{
         background: #333333b2;
-
 }
 footer{
   position: fixed;
@@ -172,7 +177,17 @@ h1::before{
   animation: spin 1s linear infinite;
   margin-bottom: 20px;
 }
-
+@keyframes glowShift {
+  0% {
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+  }
+  50% {
+    text-shadow: 0 0 15px #00ffff, 0 0 30px #00ffff;
+  }
+  100% {
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+  }
+}
 @keyframes spin {
   to { transform: rotate(360deg); }
 }
