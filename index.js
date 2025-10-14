@@ -1,6 +1,10 @@
 let selectedCourse=null;
 let selectedQuestionPaper=null;
 let examURL="exam.html"
+window.addEventListener("load", () => {
+  const loader = document.getElementById("loader");
+  loader.style.display = "none";
+});
 function loadPage(){
     const Courses=document.getElementById("courses");
     const clickSound=new Audio("Audio\\click.wav");
