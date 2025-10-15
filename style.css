@@ -2,6 +2,7 @@ body{
     margin: 0px;
     font-family: monospace;
     font-size: 1.5em;
+    overflow-x: hidden;
     background-image: url(Images/BGNew.png);
     background-position: center;
     background-size: cover;
@@ -154,6 +155,7 @@ h1::before{
     color: white;
     align-self: center;
     border-radius: 10px;
+    box-shadow: inset 2px 2px 7px 0px black;
 }
 #loader {
   position: fixed;
