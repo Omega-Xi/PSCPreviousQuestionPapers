@@ -1,0 +1,727 @@
+[
+  {
+    "number": 1,
+    "question": "Holy Hell : A Memoir of Faith, Devotion and Pure Madness is a book written by:",
+    "options": ["James P. Farwell", "Jennifer Lawrence", "Gail Tredwell", "Leonardo Di Caprio"],
+    "answer": "Gail Tredwell"
+  },
+  {
+    "number": 2,
+    "question": "Who has been named PETA Person of the Year?",
+    "options": ["Shashi Tharoor", "Hery Rajaonarimampiania", "Ghulam Nabi Azad", "Ban Ki-Moon"],
+    "answer": "Shashi Tharoor"
+  },
+  {
+    "number": 3,
+    "question": "Sree Narayana Guru died in the year:",
+    "options": ["1922", "1924", "1926", "1928"],
+    "answer": "1928"
+  },
+  {
+    "number": 4,
+    "question": "The British plan to imprison Gandhiji before 'Quit India' movement was called:",
+    "options": ["Operation White Point", "Operation Zero Hour", "Operation Success Night", "Operation Defend Star"],
+    "answer": "Operation Zero Hour"
+  },
+  {
+    "number": 5,
+    "question": "Champion of Australian Open Women's Singles 2014:",
+    "options": ["Dominika Cibulkova", "Li Na", "Victoria Azarenka", "Kim Clijster"],
+    "answer": "Li Na"
+  },
+  {
+    "number": 6,
+    "question": "Indian leader dismissed from Indian Civil Service:",
+    "options": ["Tej Bahadur Sapru", "Subhash Chandra Bose", "Surendranath Banerji", "Dadabhai Naoroji"],
+    "answer": "Surendranath Banerji"
+  },
+  {
+    "number": 7,
+    "question": "Watershed between India and Myanmar is formed by:",
+    "options": ["Naga Hills", "Kanchanjunga", "Aravallis", "Shivalic Hills"],
+    "answer": "Naga Hills"
+  },
+  {
+    "number": 8,
+    "question": "First woman head of State Bank of India:",
+    "options": ["Kanika Bhutani Anand", "Begum Parveen Sultana", "Kirti Garg", "Arundhati Bhattacharya"],
+    "answer": "Arundhati Bhattacharya"
+  },
+  {
+    "number": 9,
+    "question": "River 'Churni' in Arthasastra refers to:",
+    "options": ["Narmada", "Periyar", "Kaveri", "Bharatapuzha"],
+    "answer": "Bharatapuzha"
+  },
+  {
+    "number": 10,
+    "question": "India's representative at 22nd Commonwealth Heads meet in Colombo:",
+    "options": ["Manmohan Singh", "A.K. Antony", "Salman Khurshid", "Shashi Tharoor"],
+    "answer": "Salman Khurshid"
+  },
+  {
+    "number": 11,
+    "question": "First moon rover mission of China:",
+    "options": ["Chang'e-3", "Shenzhou-10", "Tiangong-1", "Long March-2-F"],
+    "answer": "Chang'e-3"
+  },
+  {
+    "number": 12,
+    "question": "Bandar Seri Begawan is the capital of:",
+    "options": ["Kiribati", "Micronesia", "Papua New Guinea", "Brunei"],
+    "answer": "Brunei"
+  },
+  {
+    "number": 13,
+    "question": "Country that withdrew from Commonwealth calling it neo-colonist:",
+    "options": ["South Africa", "Gambia", "Sudan", "DR Congo"],
+    "answer": "Gambia"
+  },
+  {
+    "number": 14,
+    "question": "Birthplace of Ayyankali:",
+    "options": ["Amboori", "Kaniyapuram", "Venganur", "Neyyattinkara"],
+    "answer": "Venganur"
+  },
+  {
+    "number": 15,
+    "question": "Indian PM who attended first UN environment conference:",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Sastri", "Indira Gandhi", "Rajeev Gandhi"],
+    "answer": "Indira Gandhi"
+  },
+  {
+    "number": 16,
+    "question": "UNESCO declared Nicobar Islands as:",
+    "options": ["World Biosphere Reserve", "World Heritage Site", "Environment Friendly Site", "Historical Site"],
+    "answer": "World Biosphere Reserve"
+  },
+  {
+    "number": 17,
+    "question": "Arakan Yoma is extension of Himalayas in:",
+    "options": ["Nepal", "India", "Bhutan", "Myanmar"],
+    "answer": "Myanmar"
+  },
+  {
+    "number": 18,
+    "question": "Author of book titled '1283':",
+    "options": ["Sania Mirza", "Pele", "Rafael Nadal", "Maradona"],
+    "answer": "Rafael Nadal"
+  },
+  {
+    "number": 19,
+    "question": "Founder of magazine 'The Indian Sociologist':",
+    "options": ["Subhash Chandra Bose", "Aurobindo Ghosh", "Surya Sen", "Shyamji Krishna Varma"],
+    "answer": "Shyamji Krishna Varma"
+  },
+  {
+    "number": 20,
+    "question": "Aitchson's remark “could not play off Mohammadans…” relates to:",
+    "options": ["Revolt of 1857", "Non-Cooperation Movement", "Civil Disobedience Movement", "Quit India Movement"],
+    "answer": "Revolt of 1857"
+  },
+  {
+    "number": 21,
+    "question": "A ring road ___ around the city.",
+    "options": ["is building", "have been building", "is being built", "has built"],
+    "answer": "is being built"
+  },
+  {
+    "number": 22,
+    "question": "It is high time you ___ that you are not the most important person.",
+    "options": ["have been realized", "realized", "realizing", "realize"],
+    "answer": "realized"
+  },
+  {
+    "number": 23,
+    "question": "He is one of the best actors that ___ ever lived.",
+    "options": ["has", "has been", "have been", "have"],
+    "answer": "have been"
+  },
+  {
+    "number": 24,
+    "question": "Indirect speech of “Let the guards be armed,” he ordered:",
+    "options": ["The guards ordered him to be armed.", "He ordered that the guards should be armed.", "He suggested that let the guards were armed.", "He suggested the guards that they are armed."],
+    "answer": "He ordered that the guards should be armed."
+  },
+  {
+    "number": 25,
+    "question": "Choose the correct sentence:",
+    "options": ["Ancient India was largely indebted to Iranian ideas and practices.", "Ancient India was largely indebted by Iranian ideas and practices.", "Ancient India was largely indebted with Iranian ideas and practices.", "Ancient India was largely indebted in Iranian ideas and practices."],
+    "answer": "Ancient India was largely indebted to Iranian ideas and practices."
+  },
+  {
+    "number": 26,
+    "question": "The meaning of the idiom \"to cook somebody's goose\" is:",
+    "options": [
+      "exaggerate the good qualities of a person",
+      "ensure that somebody wins",
+      "prepare a delicious dish",
+      "ensure that somebody fails"
+    ],
+    "answer": "ensure that somebody fails"
+  },
+  {
+    "number": 27,
+    "question": "Choose the best antonym for OBLITERATE:",
+    "options": [
+      "exculpate",
+      "forge",
+      "abhorrent",
+      "None of these"
+    ],
+    "answer": "forge"
+  },
+  {
+    "number": 28,
+    "question": "What do we call a group of dolphins?",
+    "options": [
+      "a herd",
+      "a pride",
+      "a pod",
+      "a swarm"
+    ],
+    "answer": "a pod"
+  },
+  {
+    "number": 29,
+    "question": "What is the feminine gender of 'ram'?",
+    "options": [
+      "doe",
+      "jenny",
+      "mare",
+      "ewe"
+    ],
+    "answer": "ewe"
+  },
+  {
+    "number": 30,
+    "question": "Choose the best synonym for DOCILE:",
+    "options": [
+      "gentle",
+      "puzzling",
+      "stupid",
+      "stubborn"
+    ],
+    "answer": "gentle"
+  },
+  {
+    "number": 31,
+    "question": "An accounting system which presents the Balance sheet in two parts is called:",
+    "options": [
+      "Double entry",
+      "Single entry",
+      "Double accounting",
+      "Statement of affairs"
+    ],
+    "answer": "Double accounting"
+  },
+  {
+    "number": 32,
+    "question": "Voyage Account is ___ account.",
+    "options": [
+      "Nominal",
+      "Real",
+      "Personal",
+      "None of these"
+    ],
+    "answer": "Nominal"
+  },
+  {
+    "number": 33,
+    "question": "In self balancing Bought Ledger Adjustment Account is opened in:",
+    "options": [
+      "Bought Ledger",
+      "General Ledger",
+      "Sold Ledger",
+      "None of these"
+    ],
+    "answer": "General Ledger"
+  },
+  {
+    "number": 34,
+    "question": "Manufacturing Account is prepared to find out:",
+    "options": [
+      "Cost of goods sold",
+      "Cost of goods produced",
+      "Net profit",
+      "Work in progress"
+    ],
+    "answer": "Cost of goods produced"
+  },
+  {
+    "number": 35,
+    "question": "The amount paid to an author for the use of copyright is called:",
+    "options": [
+      "Minimum rent",
+      "Commission",
+      "Patent",
+      "Royalty"
+    ],
+    "answer": "Royalty"
+  },
+  {
+    "number": 36,
+    "question": "___ refer to the amount spent on fuel, coal, diesel and freshwater used for the purpose of voyage.",
+    "options": [
+      "Port charges",
+      "Bunker cost",
+      "Primage",
+      "Passage money"
+    ],
+    "answer": "Bunker cost"
+  },
+  {
+    "number": 37,
+    "question": "Where the loss of an asset has been identified by the bank, but the amount has not been written off wholly or partly is known as:",
+    "options": [
+      "Bad debts",
+      "Sub standard assets",
+      "Loss asset",
+      "Doubtful assets"
+    ],
+    "answer": "Loss asset"
+  },
+  {
+    "number": 38,
+    "question": "Under inflationary condition ___ method will show highest value of closing stock.",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Average price",
+      "None of these"
+    ],
+    "answer": "FIFO"
+  },
+  {
+    "number": 39,
+    "question": "Anil drew a bill on Binil for Rs. 30,000 for three months. Proceeds are to be shared equally. A got the bill discounted @ 12% per annum and remits the required proceeds to 'B'. The amount of such remittance will be:",
+    "options": [
+      "Rs. 15,000",
+      "Rs. 14,500",
+      "Rs. 14,550",
+      "Rs. 14,650"
+    ],
+    "answer": "Rs. 14,550"
+  },
+  {
+    "number": 40,
+    "question": "During the year 2013 a business concern earned a net profit of Rs. 42,000. The manager is entitled to a commission of 5% of the net profit. Find the amount of the commission so charged.",
+    "options": [
+      "Rs. 2,000",
+      "Rs. 2,100",
+      "Rs. 2,200",
+      "Rs. 2,010"
+    ],
+    "answer": "Rs. 2,100"
+  },
+  {
+    "number": 41,
+    "question": "Valuation and presentation of inventories is:",
+    "options": [
+      "IAS 5",
+      "IAS 4",
+      "IAS 1",
+      "IAS 2"
+    ],
+    "answer": "IAS 2"
+  },
+  {
+    "number": 42,
+    "question": "Accounting principles are based on:",
+    "options": [
+      "Objectivity",
+      "Convenience",
+      "Practicability",
+      "Subjectivity"
+    ],
+    "answer": "Objectivity"
+  },
+  {
+    "number": 43,
+    "question": "Find the odd one:",
+    "options": [
+      "Purchase Book",
+      "Sales Book",
+      "Purchase Return Book",
+      "Cash Book"
+    ],
+    "answer": "Cash Book"
+  },
+  {
+    "number": 44,
+    "question": "A credit Sale of Rs. 5,000 to Sugunan has been wrongly passed through the purchase book. To rectify the error, Sugunan's Account is debited with:",
+    "options": [
+      "Rs. 10,000",
+      "Rs. 5,000",
+      "Rs. 15,000",
+      "Rs. 20,000"
+    ],
+    "answer": "Rs. 10,000"
+  },
+  {
+    "number": 45,
+    "question": "What is the total earnings of a worker from the following data? Standard time for completing the job 50 hours. Actual time taken for completing the job 45 hours. Time rate is Rs. 20 per hour, premium bonus is 60% of time saved.",
+    "options": [
+      "Rs. 900",
+      "Rs. 960",
+      "Rs. 980",
+      "Rs. 950"
+    ],
+    "answer": "Rs. 960"
+  },
+  {
+    "number": 46,
+    "question": "What is the Economic Order Quantity if annual requirement is 1,600 units, cost of material per unit is Rs. 40, cost of placing and receiving order Rs. 50. Annual carrying cost of inventory is 10% of inventory value?",
+    "options": [
+      "220 Units",
+      "200 Units",
+      "280 Units",
+      "300 Units"
+    ],
+    "answer": "200 Units"
+  },
+  {
+    "number": 47,
+    "question": "If sales is Rs. 2,40,000; percent of gross profit on sales 20%, purchase Rs. 1,75,000, closing stock Rs. 30,000. Then opening stock will be:",
+    "options": [
+      "Rs. 47,000",
+      "Rs. 60,000",
+      "Rs. 50,000",
+      "Rs. 67,000"
+    ],
+    "answer": "Rs. 47,000"
+  },
+  {
+    "number": 48,
+    "question": "Find the odd one out:",
+    "options": [
+      "Waste Book",
+      "Day Book",
+      "Rough Book",
+      "Memorandum Book"
+    ],
+    "answer": "Memorandum Book"
+  },
+  {
+    "number": 49,
+    "question": "If cost of an asset is Rs. 60,000 and life period is 4 years. The rate of depreciation is:",
+    "options": [
+      "20%",
+      "30%",
+      "25%",
+      "33%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "number": 50,
+    "question": "When furniture is purchased for Rs. 10,000:",
+    "options": [
+      "Capital is decreased",
+      "No change in capital",
+      "Capital is increased",
+      "Total amount of asset is changed"
+    ],
+    "answer": "No change in capital"
+  },
+  {
+    "number": 51,
+    "question": "___ ignores the outstanding income while preparing their income statement.",
+    "options": ["Sole traders", "Contractors", "Doctors", "Single Entry traders"],
+    "answer": "Single Entry traders"
+  },
+  {
+    "number": 52,
+    "question": "Identify the odd one:",
+    "options": ["Preliminary Expenses", "Repairs and Maintenance", "Erection Expenses", "Establishment Expenses"],
+    "answer": "Repairs and Maintenance"
+  },
+  {
+    "number": 53,
+    "question": "Before acceptance by the drawee a bill of exchange is known as:",
+    "options": ["Contract", "Agreement", "Draft", "None of these"],
+    "answer": "Draft"
+  },
+  {
+    "number": 54,
+    "question": "___ is against the principle of convention of conservatism.",
+    "options": ["Provision for Bad-debts", "Provision for discount on debtors", "Provision for discount on creditors", "Provision for depreciation"],
+    "answer": "Provision for discount on creditors"
+  },
+  {
+    "number": 55,
+    "question": "The term ___ is used to write off the value of lease hold properties.",
+    "options": ["Amortization", "Depreciation", "Obsolescence", "Depletion"],
+    "answer": "Amortization"
+  },
+  {
+    "number": 56,
+    "question": "If direct material consumed is Rs. 60,000, Direct Labour cost is Rs. 20,000, Factory overheads expense is Rs. 10,000, opening and closing work-in-progress are Rs. 15,000 and Rs. 18,000 respectively, then works cost will be:",
+    "options": ["Rs. 80,000", "Rs. 87,000", "Rs. 1,05,000", "Rs. 90,000"],
+    "answer": "Rs. 87,000"
+  },
+  {
+    "number": 57,
+    "question": "Ram sends 50 table fans to Rahim costing Rs. 300 per table fan, to be sold at 20% above cost price. Sales will be:",
+    "options": ["Rs. 18,000", "Rs. 15,000", "Rs. 20,000", "Rs. 22,000"],
+    "answer": "Rs. 18,000"
+  },
+  {
+    "number": 58,
+    "question": "If the cash book does not contain discount columns, discount allowed and received will be passed through:",
+    "options": ["Discount Account", "Journal", "Day Book", "Suspense Account"],
+    "answer": "Journal"
+  },
+  {
+    "number": 59,
+    "question": "___ is considered for the calculation of Capital Fund.",
+    "options": ["Salary outstanding", "Subscription outstanding", "Subscription prepaid of last year", "Salary prepaid"],
+    "answer": "Subscription outstanding"
+  },
+  {
+    "number": 60,
+    "question": "Find the odd one:",
+    "options": ["Dock dues", "Octroi", "Carriage", "Export duty"],
+    "answer": "Carriage"
+  },
+  {
+    "number": 61,
+    "question": "2, 5, 11, 17, 23, ___",
+    "options": ["21", "31", "34", "29"],
+    "answer": "29"
+  },
+  {
+    "number": 62,
+    "question": "0, 5, 22, 57, 116, ___",
+    "options": ["205", "200", "161", "None of these"],
+    "answer": "205"
+  },
+  {
+    "number": 63,
+    "question": "Which is the smallest number of six digits which is divisible by 111?",
+    "options": ["100121", "111111", "100111", "100011"],
+    "answer": "100011"
+  },
+  {
+    "number": 64,
+    "question": "What is 90% of 90% of 100?",
+    "options": ["63", "72", "81", "90"],
+    "answer": "81"
+  },
+  {
+    "number": 65,
+    "question": "333333 / 1.1 =",
+    "options": ["3130", "303030", "3010", "31003"],
+    "answer": "303030"
+  },
+  {
+    "number": 66,
+    "question": "From a given point, how many tangents can be drawn to a circle?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "number": 67,
+    "question": "Ravi ranks 18th in a class of forty students. What is his rank from the last?",
+    "options": ["23", "20", "19", "24"],
+    "answer": "23"
+  },
+  {
+    "number": 68,
+    "question": "If the time in a clock is 9 hours 20 minutes, what time does it show on a mirror?",
+    "options": ["2 hours 40 min.", "4 hours 20 min.", "6 hours 20 min.", "4 hours 40 min."],
+    "answer": "2 hours 40 min."
+  },
+  {
+    "number": 69,
+    "question": "5ⁿ(25)ⁿ⁻¹ / (5ⁿ⁻¹(25)ⁿ⁻¹) = ?",
+    "options": ["0", "20", "25", "5"],
+    "answer": "5"
+  },
+  {
+    "number": 70,
+    "question": "Find the angle between the minute hand and the hour hand of a clock when the time is 7.20?",
+    "options": ["90°", "95°", "100°", "105°"],
+    "answer": "100°"
+  },
+  {
+    "number": 71,
+    "question": "If the progression 3, 10, 17, ... and 63, 65, 67, ... are such that their nth terms are equal, then the value of n is?",
+    "options": ["17", "13", "63", "20"],
+    "answer": "13"
+  },
+  {
+    "number": 72,
+    "question": "How many three digit numbers are there in which all the digits are distinct?",
+    "options": ["648", "548", "608", "508"],
+    "answer": "648"
+  },
+  {
+    "number": 73,
+    "question": "A number when divided by 342 gives a remainder 47. When the same number is divided by 19, what should be the remainder?",
+    "options": ["12", "13", "9", "7"],
+    "answer": "9"
+  },
+  {
+    "number": 74,
+    "question": "The angles of a triangle are in the ratio of 4 : 6 : 10. What is the value of the largest angle?",
+    "options": ["60°", "90°", "70°", "80°"],
+    "answer": "90°"
+  },
+  {
+    "number": 75,
+    "question": "The sum of numerator and denominator of a certain fraction is 11. If one is added to the numerator, the value of fraction becomes 1/2. The fraction is:",
+    "options": ["8/3", "4/7", "5/6", "None of these"],
+    "answer": "5/6"
+  },
+  {
+    "number": 76,
+    "question": "The speed of a car is twice that of a truck. Both started from Palakkadu and reached at Salem. If the truck took 3 hours more than the car, what was the time taken by the truck to reach at Salem?",
+    "options": ["9 hours", "6 hours", "5 hours", "4 hours"],
+    "answer": "6 hours"
+  },
+  {
+    "number": 77,
+    "question": "A farmer has 50 kg wheat in hand, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% altogether. What is the quantity of wheat sold by him at 18% profit?",
+    "options": ["25 kg", "15 kg", "40 kg", "30 kg"],
+    "answer": "30 kg"
+  },
+  {
+    "number": 78,
+    "question": "The sum of two numbers is 2490. If 6.5% of one number is equal to 8.5% of other, then one of the number is:",
+    "options": ["1200", "1301", "1411", "2070"],
+    "answer": "1411"
+  },
+  {
+    "number": 79,
+    "question": "Weight of a cow and a buffalo are in the ratio of 4 : 5. Cow's weight increases by 10% and the total weight of cow and buffalo together becomes 82.8 kg, with an increase of 15%. By what percent does the weight of the buffalo increase?",
+    "options": ["20%", "19%", "27%", "29%"],
+    "answer": "27%"
+  },
+  {
+    "number": 80,
+    "question": "The least number of square tiles required to pave the floor of a room having length 11 m 47 cm and 10 m 36 cm breadth is",
+    "options": ["868", "930", "880", "836"],
+    "answer": "930"
+  },
+  {
+    "number": 81,
+    "question": "If the radius of a cylinder is doubled and the height is halved, what is the ratio between the new volume and previous volume?",
+    "options": ["1:2", "2:3", "2:1", "None of these"],
+    "answer": "2:1"
+  },
+  {
+    "number": 82,
+    "question": "How many days will be there from January 1992 to April 1992?",
+    "options": ["120", "121", "119", "122"],
+    "answer": "121"
+  },
+  {
+    "number": 83,
+    "question": "Area of square field is one hectare. What is the length of the diagonal?",
+    "options": ["100", "100√2", "50", "50√'2"],
+    "answer": "100√2"
+  },
+  {
+    "number": 84,
+    "question": "A Chess board contains 64 equal squares and the area of each square is 2.56 cm². Find the length of one side of the chess board?",
+    "options": ["12.8", "10.2", "13.4", "14.6"],
+    "answer": "12.8"
+  },
+  {
+    "number": 85,
+    "question": "In how many ways can 5 persons be seated around a circular table in a meeting?",
+    "options": ["22", "20", "24", "26"],
+    "answer": "24"
+  },
+  {
+    "number": 86,
+    "question": "Father is 4 times as old as his son, in 30 years he will be only twice as old as his son. Then the present age of the father is",
+    "options": ["50 years", "60 years", "80 years", "40 years"],
+    "answer": "60 years"
+  },
+  {
+    "number": 87,
+    "question": "The length of a rectangle is increased by 20%. What will be the percentage decrease in its breadth so as to have the same area?",
+    "options": ["16⅔", "14¼", "11⅖", "10⅓"],
+    "answer": "16⅔"
+  },
+  {
+    "number": 88,
+    "question": "The average of 11 results is 60. If the average of the first 6 result is 59 and that of the last six is 62, find the sixth result?",
+    "options": ["66", "76", "56", "70"],
+    "answer": "66"
+  },
+  {
+    "number": 89,
+    "question": "Six bells commence tolling together at regular intervals of 3, 6, 9, 12, 15 and 18 seconds respectively. In 30 minutes, how many times do they toll together?",
+    "options": ["13", "17", "11", "19"],
+    "answer": "11"
+  },
+  {
+    "number": 90,
+    "question": "The average of the two digit numbers which remains the same when the digits interchange their positions.",
+    "options": ["45", "55", "65", "74"],
+    "answer": "55"
+  },
+  {
+    "number": 91,
+    "question": "A school has only three classes comprised of 40, 50 and 60 students respectively. In these classes, 10%, 20% and 10% students respectively passed in the examinations. What is the percentage of students passed in the examination from the entire school?",
+    "options": ["12⅓%", "15⅓%", "11⅓%", "13⅓%"],
+    "answer": "12⅓%"
+  },
+  {
+    "number": 92,
+    "question": "The salary of a worker was first increased by 10% and thereafter decreased by 7%. What was the change in his salary?",
+    "options": ["4.5%", "5.6%", "2.3%", "3.4%"],
+    "answer": "2.3%"
+  },
+  {
+    "number": 93,
+    "question": "The sides of a triangle are in the ratio ½:⅓:¼. If the perimeter is 117 cm, find the length of the smallest side?",
+    "options": ["27", "28", "34", "38"],
+    "answer": "27"
+  },
+  {
+    "number": 94,
+    "question": "Sasi and Soman agreed to do a work for Rs. 112. Sasi alone can do it in 7 days and Soman alone in 8 days. With the help of another man they can finish the work in 3 days, then what amount does the man get?",
+    "options": ["30", "42", "32", "22"],
+    "answer": "30"
+  },
+  {
+    "number": 95,
+    "question": "A car during its journey travels 30 minutes at the speed of 40 km/hr, another 45 minutes at the speed of 60 km/hr and for two hours at a speed of 70 km/hr. Find the average speed of the car?",
+    "options": ["70 km/hr", "63 km/hr", "53 km/hr", "None of these"],
+    "answer": "63 km/hr"
+  },
+  {
+    "number": 96,
+    "question": "Everybody in a room shake hands with one another. The total number of handshakes is 66. The number of persons in the room is",
+    "options": ["12", "11", "14", "16"],
+    "answer": "12"
+  },
+  {
+    "number": 97,
+    "question": "A mathematics paper consists of ten questions, which is divided into two parts, I and II, each part contains five questions each. A student is required to attempt six questions in all, taking at least two questions from each part. In how many ways can the student select the questions?",
+    "options": ["100", "150", "200", "243"],
+    "answer": "150"
+  },
+  {
+    "number": 98,
+    "question": "In an election, involving two candidates, 132 votes were declared as invalid. The winning candidate got 54% of the votes and won by 192 votes. The total number of votes polled was",
+    "options": ["2400", "2532", "2530", "2525"],
+    "answer": "2525"
+  },
+  {
+    "number": 99,
+    "question": "A vessel contains 10 litres of milk. First, 2 litres of the content are removed and replaced by 2 litres of water. Subsequently, 4 litres of vessel's contents is removed and replaced by 4 litres of water. Finally, 6 litres of vessel's contents is removed and replaced by 6 litres of water. What is the quantity of milk left in the vessel?",
+    "options": ["1.92 litres", "1.82 litres", "1.72 litres", "1.62 litres"],
+    "answer": "1.62 litres"
+  },
+  {
+  "number": 100,
+  "question": "In a club 70% members read English newspapers and 75% members read Malayalam newspapers, while 20% do not read both papers. If 325 members read both the newspapers, then the total number of members in the club is:",
+  "options": ["600","400","450","500"],
+  "answer": "500"
+  }
+]

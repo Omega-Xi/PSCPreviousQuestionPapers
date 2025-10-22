@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "Who has written the book 'A Brief History of Time'?",
+    "options": ["Thomas Alwa Edison", "Isac Newton", "Albert Einstein", "Stephan Hawking"],
+    "answer": "Stephan Hawking"
+  },
+  {
+    "number": 2,
+    "question": "E=mc² is related with the:",
+    "options": ["Theory of Gravitation", "Theory of Population", "Theory of Atomic Fission", "Theory of Relativity"],
+    "answer": "Theory of Relativity"
+  },
+  {
+    "number": 3,
+    "question": "Cape of Good Hope is located in:",
+    "options": ["Southern tip of Africa", "Northern tip of Africa", "Southern tip of America", "Northern tip of Europe"],
+    "answer": "Southern tip of Africa"
+  },
+  {
+    "number": 4,
+    "question": "38th parallel line is the demarcation between:",
+    "options": ["Germany and France", "North Vietnam and South Vietnam", "Germany and Poland", "North Korea and South Korea"],
+    "answer": "North Korea and South Korea"
+  },
+  {
+    "number": 5,
+    "question": "Alfred Wagner introduced continental Drift theory in:",
+    "options": ["1892", "1898", "1902", "1912"],
+    "answer": "1912"
+  },
+  {
+    "number": 6,
+    "question": "The term perihelion is related to:",
+    "options": ["Longest distance between Sun and Earth", "Shortest distance between Sun and Earth", "Shortest distance between Sun and Moon", "Longest distance between Moon and Earth"],
+    "answer": "Shortest distance between Sun and Earth"
+  },
+  {
+    "number": 7,
+    "question": "Who was the temporary Chairman of Constituent Assembly of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Dr. Sachidananda Sinha", "C. Rajagopalachari"],
+    "answer": "Dr. Sachidananda Sinha"
+  },
+  {
+    "number": 8,
+    "question": "A candidate for election to the Lok Sabha should not be less than:",
+    "options": ["30 years of age", "28 years of age", "21 years of age", "25 years of age"],
+    "answer": "25 years of age"
+  },
+  {
+    "number": 9,
+    "question": "The term cold war has an American origin and was for the first time used by an American Statesman:",
+    "options": ["Barnard Baruch", "Theodore Roosevelt", "George C. Marshal", "Hary S. Truman"],
+    "answer": "Barnard Baruch"
+  },
+  {
+    "number": 10,
+    "question": "The Veto power of the UN Security Council was decided by the war time conference of:",
+    "options": ["San Francisco 1945", "Yalta 1945", "Tehran 1943", "Potsdam 1945"],
+    "answer": "Yalta 1945"
+  },
+  {
+    "number": 11,
+    "question": "What is called Magna Carta in English Education in India?",
+    "options": ["Macaulay Minutes", "Hunter Commission", "Woods Despatch", "Kothari Commission"],
+    "answer": "Woods Despatch"
+  },
+  {
+    "number": 12,
+    "question": "The Ashtapathy recited on Kerala temple is another form of:",
+    "options": ["Geetha Govinda", "Bhagavad Gita", "Ramayana", "Gayathrimantra"],
+    "answer": "Geetha Govinda"
+  },
+  {
+    "number": 13,
+    "question": "Who is the founder of Yogakshema Sabha?",
+    "options": ["Ayyankali", "Sahodaran Ayyappan", "V.T. Bhattatiripad", "K.P. Karuppan"],
+    "answer": "K.P. Karuppan"
+  },
+  {
+    "number": 14,
+    "question": "Who founded the organisation 'Khudai Khitmatgar'?",
+    "options": ["Moulana Abdul Kalam Azad", "Khan Abdul Gafar Khan", "Lala Har Dayal", "Ali Brothers"],
+    "answer": "Khan Abdul Gafar Khan"
+  },
+  {
+    "number": 15,
+    "question": "Guruvayur Satyagraha started in:",
+    "options": ["March 15 1931", "January 24 1931", "November 1 1931", "April 6 1931"],
+    "answer": "November 1 1931"
+  },
+  {
+    "number": 16,
+    "question": "Who is the author of 'Kerala Pazhama'?",
+    "options": ["Dr. Harman Gundert", "K.P. Padmanabha Menon", "C. Kesavan", "E.M.S. Namboothiripad"],
+    "answer": "K.P. Padmanabha Menon"
+  },
+  {
+    "number": 17,
+    "question": "In which year is called 'The year of Great Divide in Indian population'?",
+    "options": ["1951", "1921", "1961", "1971"],
+    "answer": "1921"
+  },
+  {
+    "number": 18,
+    "question": "Who is the founder of Atmavidya Sangham?",
+    "options": ["V.T. Bhatathiripad", "Vakkom Abdul Khadar Moulavi", "Vagbhatananda", "Ayyankali"],
+    "answer": "Vagbhatananda"
+  },
+  {
+    "number": 19,
+    "question": "Carbohydrates are stored in human body as:",
+    "options": ["Glucose", "Glycogen", "Galactose", "Glycine"],
+    "answer": "Glycogen"
+  },
+  {
+    "number": 20,
+    "question": "Who organised the literary organisation 'Vidyaposhini'?",
+    "options": ["Sahodaran Ayyappan", "K. Kelappan", "C. Kesavan", "Swadeshabhimani Ramakrishna Pillai"],
+    "answer": "Swadeshabhimani Ramakrishna Pillai"
+  },
+  {
+    "number": 21,
+    "question": "Indication of bheshaja in jwara is:",
+    "options": ["Nava jwara", "Mridu jwara", "Purana jwara", "Ama jwara"],
+    "answer": "Ama jwara"
+  },
+  {
+    "number": 22,
+    "question": "Which among the following is an indication of Drakshadi kashayam?",
+    "options": ["Vata jwaram", "Vata pitta jwaram", "Vata kapha jwaram", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 23,
+    "question": "Duration of Langhana in Jwara as per Vagbhata is:",
+    "options": ["10 days or more", "Upto kapha samana", "Pakwa doshavasta", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 24,
+    "question": "Indication of Gokshura Ksheera Kashayam is in:",
+    "options": ["Yakritroga", "Swasa roga", "Adhogatha raktha pittam", "Moothra margaja raktha pittam"],
+    "answer": "Moothra margaja raktha pittam"
+  },
+  {
+    "number": 25,
+    "question": "Which among the following is not indicated for Vasagritham?",
+    "options": ["Hridrogam", "Thimiram", "Swara sadam", "Atisaram"],
+    "answer": "Atisaram"
+  },
+  {
+    "number": 26,
+    "question": "Kshara used in Rakta Pitta Chikitsa is:",
+    "options": ["Kalyanaka ksharam", "Yava ksharam", "Utpala ksharam", "Palasa ksharam"],
+    "answer": "Yava ksharam"
+  },
+  {
+    "number": 27,
+    "question": "Kapha Kasa associated with Pittanubanda Tamaka Swasa the treatment principle adopted is:",
+    "options": ["Pitta kasa chikitsa", "Kapha kasa chikitsa", "Vata kapha kasa chikitsa", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 28,
+    "question": "Which among the following is not an indication for Agastya Rasayana?",
+    "options": ["Vishama jwaram", "Palitham", "Vata sonitham", "Prameham"],
+    "answer": "Prameham"
+  },
+  {
+    "number": 29,
+    "question": "Brimhana deepana chikitsa is indicated in:",
+    "options": ["Athisaram", "Vata shonitham", "Sosham", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 30,
+    "question": "Madyam is used as a part of chikitsa in:",
+    "options": ["Atisara chikitsa", "Sirasoola chikitsa", "Sosha chikitsa", "Grahani chikitsa"],
+    "answer": "Sosha chikitsa"
+  },
+  {
+    "number": 31,
+    "question": "Quantity of pippali in thaleesa pathrati choornam is:",
+    "options": ["2 parts", "3 parts", "4 parts", "Equal to other ingredients"],
+    "answer": "Equal to other ingredients"
+  },
+  {
+    "number": 32,
+    "question": "Agroushatam for all types of arsas is:",
+    "options": ["Bhallataka rasayanam", "Thakram", "Kudacham", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 33,
+    "question": "Aparajitha khalam is indicated in:",
+    "options": ["Arsas", "Athisaram", "Udavartham", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 34,
+    "question": "According to Vagbhata viddha vranas are:",
+    "options": ["9 types", "7 types", "8 types", "infinite"],
+    "answer": "8 types"
+  },
+  {
+    "number": 35,
+    "question": "In Kaphaja Vrana disease Sneha matra in Alepa is:",
+    "options": ["Half part", "1 by 15 part", "1 by 16 part", "1 by 8 part"],
+    "answer": "1 by 16 part"
+  },
+  {
+    "number": 36,
+    "question": "Type of bandha indicated in prista pradhesa:",
+    "options": ["Gadha", "Sama", "Sithila", "Athigadha"],
+    "answer": "Sama"
+  },
+  {
+    "number": 37,
+    "question": "Dosha involvement in Aarsobhagandara is:",
+    "options": ["Vata Pitta", "Vata Kapha", "Pitta Kapha", "Tridosha"],
+    "answer": "Tridosha"
+  },
+  {
+    "number": 38,
+    "question": "Dosha sthiratha is indicated in:",
+    "options": ["Apachi", "Galaganda", "Granthi", "Arbuda"],
+    "answer": "Arbuda"
+  },
+  {
+    "number": 39,
+    "question": "Madanaphala grahana kala is:",
+    "options": ["vasanta ritu", "greeshma ritu", "between vasanta and greeshma", "varsha ritu"],
+    "answer": "between vasanta and greeshma"
+  },
+  {
+    "number": 40,
+    "question": "Order of elimination of dosha in virechana is:",
+    "options": ["Vata, Pitta, Kapha and Pureesha", "Kapha, Pitta, Vata and Pureesha", "Vata, Pureesha, Kapha and Pitta", "Vata, Pureesha, Pitta and Kapha"],
+    "answer": "Kapha, Pitta, Vata and Pureesha"
+  },
+  {
+    "number": 41,
+    "question": "In Kala Vasti, number of Anuvasana Vasti are:",
+    "options": ["18", "5", "6", "10"],
+    "answer": "5"
+  },
+  {
+    "number": 42,
+    "question": "In Kaphaja roga, Ahara after niruha is:",
+    "options": ["Ksheera Yukta", "Yusa Yukta", "Mamsarasa Yukta", "None of the above"],
+    "answer": "Yusa Yukta"
+  },
+  {
+    "number": 43,
+    "question": "Types of nasyam according to Vagbhata is:",
+    "options": ["5", "4", "2", "3"],
+    "answer": "5"
+  },
+  {
+    "number": 44,
+    "question": "Heena Matra for Marsha Nasya is:",
+    "options": ["4 drops", "6 drops", "8 drops", "2 drops"],
+    "answer": "2 drops"
+  },
+  {
+    "number": 45,
+    "question": "Best sneha for marsha and prathimarsha nasya is:",
+    "options": ["Ghritham", "Mamsarasam", "Thailam", "Both (A) and (C)"],
+    "answer": "Both (A) and (C)"
+  },
+  {
+    "number": 46,
+    "question": "Sneha prayoga is contra indicated in:",
+    "options": ["Kushta", "Sopha", "Prameha", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 47,
+    "question": "Gandhoosha according to Vagbhata is:",
+    "options": ["3", "6", "4", "1"],
+    "answer": "4"
+  },
+  {
+    "number": 48,
+    "question": "Drugs and cosmetic rules was introduced in:",
+    "options": ["1940", "1962", "1950", "1945"],
+    "answer": "1945"
+  },
+  {
+    "number": 49,
+    "question": "If the drug is manufactured under insanitary conditions, it comes under:",
+    "options": ["Adulterated drug", "Misbranded drug", "Spurious drug", "Substituted drug"],
+    "answer": "Adulterated drug"
+  },
+  {
+    "number": 50,
+    "question": "Loan licence is issued in:",
+    "options": ["24D", "24E", "25D", "25E"],
+    "answer": "25E"
+  },
+  {
+    "number": 51,
+    "question": "Vyanga is a:",
+    "options": ["Kshudra roga", "Siro roga", "Kanta roga", "Nasa roga"],
+    "answer": "Kshudra roga"
+  },
+  {
+    "number": 52,
+    "question": "In Sneha paka vidhi if drava dravya is swarasam the quantity of kalkam should be:",
+    "options": ["1/6 of sneham", "1/4 of sneham", "1/8 of sneham", "1/10 of sneham"],
+    "answer": "1/6 of sneham"
+  },
+  {
+    "number": 53,
+    "question": "Yoga vasti consists of:",
+    "options": ["Two vasti", "Eight vasti", "Ten vasti", "Three vasti"],
+    "answer": "Eight vasti"
+  },
+  {
+    "number": 54,
+    "question": "Nasya is contra indicated:",
+    "options": ["Below ten years", "Below seven years", "Below 20 years", "Above 50 years"],
+    "answer": "Below seven years"
+  },
+  {
+    "number": 55,
+    "question": "Guggulu panchapala choorna indicated in:",
+    "options": ["Bhagandara", "Kasa", "Jwara", "Rakta pitta"],
+    "answer": "Bhagandara"
+  },
+  {
+    "number": 56,
+    "question": "In Jwara hot water is contraindicated in:",
+    "options": ["Ekanta pitta jwara", "Sannipathaja jwara", "Ekanta kaphaja jwara", "Ama jwara"],
+    "answer": "Ama jwara"
+  },
+  {
+    "number": 57,
+    "question": "Peyadi karma is advised after:",
+    "options": ["Langhana", "Ama", "Jeerna jwara", "Kasa"],
+    "answer": "Jeerna jwara"
+  },
+  {
+    "number": 58,
+    "question": "In which Athisara Hareetaki is indicated?",
+    "options": ["Vata Athisara", "Amathisara", "Pakwa athisara", "Kaphaja athisara"],
+    "answer": "Vata Athisara"
+  },
+  {
+    "number": 59,
+    "question": "\"Moodavatanulomana\" which yoga is indicated in this condition?",
+    "options": ["Agasthya rasayanam", "Thaleesapatradi choornam", "Tilwaka grita", "Indukanta grita"],
+    "answer": "Agasthya rasayanam"
+  },
+  {
+    "number": 60,
+    "question": "Tinospora cordifolia is the botanical name of:",
+    "options": ["Sireesha", "Pata", "Guduchi", "Padola"],
+    "answer": "Guduchi"
+  },
+  {
+    "number": 61,
+    "question": "Poothi lohas are:",
+    "options": ["Pithala and Vangam", "Naga and Rajatham", "Vangam and Rajatham", "Nagam and Vangam"],
+    "answer": "Nagam and Vangam"
+  },
+  {
+    "number": 62,
+    "question": "Kampillaka is a drug in:",
+    "options": ["Maharasa", "Sudha varga", "Sadharana rasa", "Uparasa"],
+    "answer": "Uparasa"
+  },
+  {
+    "number": 63,
+    "question": "Kajjali is a combination of:",
+    "options": ["Gandhaka and Rasam", "Gandhaka and Hingula", "Rasa and Kasisa", "Gandhaka and Kasisa"],
+    "answer": "Gandhaka and Hingula"
+  },
+  {
+    "number": 64,
+    "question": "The potency period of Choorna according to Sarngadhara Samhita is:",
+    "options": ["Four months", "Eight months", "Twelve months", "Six months"],
+    "answer": "Four months"
+  },
+  {
+    "number": 65,
+    "question": "Kharapaka sneha is for:",
+    "options": ["Nasyam", "Abhyanga", "Panam", "Vasti"],
+    "answer": "Vasti"
+  },
+  {
+    "number": 66,
+    "question": "The proportion of Dravyam, Ksheeram and Jalam in Ksheerapakam is:",
+    "options": ["1:6:24", "1:4:16", "1:8:32", "1:8:16"],
+    "answer": "1:8:32"
+  },
+  {
+    "number": 67,
+    "question": "Useful part of Dhataki is:",
+    "options": ["Root", "Leaf", "Flower", "Seed"],
+    "answer": "Flower"
+  },
+  {
+    "number": 68,
+    "question": "The best Medhya drug is:",
+    "options": ["Sankhapushpi", "Pippali", "Brahmi", "Madhuka"],
+    "answer": "Brahmi"
+  },
+  {
+    "number": 69,
+    "question": "Author of Raja Nigandhu is:",
+    "options": ["Pandit Narahari", "Vagbhata", "Nagarjuna", "Bhava Misra"],
+    "answer": "Pandit Narahari"
+  },
+  {
+    "number": 70,
+    "question": "Which rasa is absent in Hareetaki?",
+    "options": ["Amla", "Lavana", "Madhura", "Katu"],
+    "answer": "Lavana"
+  },
+  {
+    "number": 71,
+    "question": "Site of Tarpaka kapha is:",
+    "options": ["Sandhi", "Hridaya", "Amasaya", "Siras"],
+    "answer": "Siras"
+  },
+  {
+    "number": 72,
+    "question": "Sringataka marma is:",
+    "options": ["Mamsa marma", "Asthi marma", "Snayu marma", "Sira marma"],
+    "answer": "Sira marma"
+  },
+  {
+    "number": 73,
+    "question": "Rasa of jalam is:",
+    "options": ["Kashaya rasa", "Katu rasa", "Tikta rasa", "Avyakta rasa"],
+    "answer": "Avyakta rasa"
+  },
+  {
+    "number": 74,
+    "question": "Guru gunas are:",
+    "options": ["10", "20", "6", "41"],
+    "answer": "10"
+  },
+  {
+    "number": 75,
+    "question": "Colour of Kasisa bhasma is:",
+    "options": ["Yellow", "Black", "White", "Red"],
+    "answer": "Red"
+  },
+  {
+    "number": 76,
+    "question": "Author of Rasaratna Samuchaya?",
+    "options": ["Narjuna", "Acharya Soma Deva", "Vagbhata", "Yashodra Bhatta"],
+    "answer": "Acharya Soma Deva"
+  },
+  {
+    "number": 77,
+    "question": "One Karsha is ___ gram.",
+    "options": ["6", "12", "40", "4"],
+    "answer": "12"
+  },
+  {
+    "number": 78,
+    "question": "Sadhanantha Sarma is the author of:",
+    "options": ["Rasa tharangini", "Ayurveda prakasha", "Rasa kamadenu", "Rasa manjari"],
+    "answer": "Rasa kamadenu"
+  },
+  {
+    "number": 79,
+    "question": "Vanyopala used for the marana of Kasisa:",
+    "options": ["8 prasthas", "10 prasthas", "16 prasthas", "12 prasthas"],
+    "answer": "12 prasthas"
+  },
+  {
+    "number": 80,
+    "question": "Chemical formula of Kasisa is:",
+    "options": ["AS\u2082O\u2083", "FeSO\u2084.7H\u2082O", "AS\u2082S\u2082", "FeSO\u2084.5H\u2082O"],
+    "answer": "FeSO\u2084.7H\u2082O"
+  },
+  {
+    "number": 81,
+    "question": "Sasyaka is purified in:",
+    "options": ["Bringaraja Swarasa", "Rakthavarga", "Ardraka Swarasa", "Triphala Kwatha"],
+    "answer": "Ardraka Swarasa"
+  },
+  {
+    "number": 82,
+    "question": "The Vipaka of Sunti:",
+    "options": ["Madhura", "Amla", "Katu", "Lavana"],
+    "answer": "Madhura"
+  },
+  {
+    "number": 83,
+    "question": "The most Vata Samana Rasa:",
+    "options": ["Madhura", "Amla", "Lavana", "Katu"],
+    "answer": "Madhura"
+  },
+  {
+    "number": 84,
+    "question": "The patient like to eat Sarva rasa in:",
+    "options": ["Vatika Grahani", "Paittika Grahani", "Kaphaja Grahani", "Sannipata Grahani"],
+    "answer": "Sannipata Grahani"
+  },
+  {
+    "number": 85,
+    "question": "The Ritu in which Snuhi Ksheera is to be collected:",
+    "options": ["Sisira", "Greeshma", "Vasantha", "Sarad"],
+    "answer": "Greeshma"
+  },
+  {
+    "number": 86,
+    "question": "Snehana and Panchakarmas are contraindicated in:",
+    "options": ["Visarpa", "Urusthambha", "Rajayekshma", "Kushta"],
+    "answer": "Rajayekshma"
+  },
+  {
+    "number": 87,
+    "question": "Takra is indicated in:",
+    "options": ["Udara", "Grahani", "Arsas", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 88,
+    "question": "Pakshaghata is a disease of:",
+    "options": ["Bahya roga marga", "Madhyama roga marga", "Abhyantara roga marga", "None of the above"],
+    "answer": "Madhyama roga marga"
+  },
+  {
+    "number": 89,
+    "question": "Dasa vidha parikshas are described in:",
+    "options": ["Ashtanga Hridaya", "Susrutha Samhita", "Charaka Samhita", "Bhava Prakasha"],
+    "answer": "Charaka Samhita"
+  },
+  {
+    "number": 90,
+    "question": "Ama is due to:",
+    "options": ["Uttama bala of agni", "Alpa bala of agni", "Adhika bala of agni", "All the above"],
+    "answer": "Alpa bala of agni"
+  },
+  {
+    "number": 91,
+    "question": "According to Vagbhata, Dadru is a type of:",
+    "options": ["Maha kushta", "Kshudra roga", "Visarpa", "Visphota"],
+    "answer": "Kshudra roga"
+  },
+  {
+    "number": 92,
+    "question": "The best among fruit is:",
+    "options": ["Draksha", "Parushaka", "Triphala", "Dadima"],
+    "answer": "Draksha"
+  },
+  {
+    "number": 93,
+    "question": "Kalka of Vishnu kranti is mainly used for:",
+    "options": ["Arsas", "Gandhamala", "Rakta atisara", "Parinama Soola"],
+    "answer": "Gandhamala"
+  },
+  {
+    "number": 94,
+    "question": "'Sudhyanthi Rohanthi Cha' indicated in:",
+    "options": ["Kalyanaka ghrita", "Jatyadi ghrita", "Durvadi ghrita", "Dadimadi ghrita"],
+    "answer": "Jatyadi ghrita"
+  },
+  {
+    "number": 95,
+    "question": "Maximum limit of alcoholic content in Arishtas?",
+    "options": ["10%", "6%", "12%", "8%"],
+    "answer": "10%"
+  },
+  {
+    "number": 96,
+    "question": "Gowripashana is purified in:",
+    "options": ["Kasamardam", "Bringaraja", "Gomutra", "Karavelam"],
+    "answer": "Gomutra"
+  },
+  {
+    "number": 97,
+    "question": "The major ingredient of Chyavanaprasa is:",
+    "options": ["Abhaya", "Vibheetaki", "Amalaki", "Yavam"],
+    "answer": "Amalaki"
+  },
+  {
+    "number": 98,
+    "question": "Vagbhata mentioned Lepa in ___ types.",
+    "options": ["4", "10", "8", "5"],
+    "answer": "8"
+  },
+  {
+    "number": 99,
+    "question": "Number of yantras mentioned in Rasaratna Samuchaya:",
+    "options": ["32", "20", "22", "40"],
+    "answer": "32"
+  },
+  {
+    "number": 100,
+    "question": "Varieties of Kantha Loha according to Rasaratna Samuchaya are:",
+    "options": ["5", "6", "3", "4"],
+    "answer": "4"
+  }
+]

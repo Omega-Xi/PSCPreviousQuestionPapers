@@ -1,0 +1,603 @@
+[
+  { 
+    "number":1,
+    "question": "0.01 × 0.01 =",
+    "options": ["0.001", "0.0001", "0.1", "0.0101"],
+    "answer": "0.0001"
+  },
+  {
+    "number":2,
+    "question": "32°F =",
+    "options": ["32°C", "100°C", "-32°C", "0°C"],
+    "answer": "0°C"
+  },
+  {
+    "number":3,
+    "question": "0.5 kg =",
+    "options": ["5 grams", "50 grams", "500 grams", "5000 grams"],
+    "answer": "500 grams"
+  },
+  {
+    "number":4,
+    "question": "When measurements are required in three units --- scale is used.",
+    "options": ["diagonal", "plain", "comparative", "none of these"],
+    "answer": "diagonal"
+  },
+  {
+    "number":5,
+    "question": "735.5 watts =",
+    "options": ["550 kg metre/second", "750 kg metre/second", "75 kg metre/second", "7.5 kg metre/second"],
+    "answer": "750 kg metre/second"
+  },
+  {
+    "number":6,
+    "question": "200 cm =",
+    "options": ["0.2 metre", "0.02 metre", "0.002 metre", "2 metre"],
+    "answer": "2 metre"
+  },
+  {
+    "number":7,
+    "question": "Unit for stress in S.I. system is :",
+    "options": ["kg/cm²", "gm/mm²", "Newton/m²", "Newton/cm²"],
+    "answer": "Newton/m²"
+  },
+  {
+    "number":8,
+    "question": "1 kWh is equal to :",
+    "options": ["4.2 mega joules", "33000 joules", "0.42 kilo joules", "3.6 mega joules"],
+    "answer": "3.6 mega joules"
+  },
+  {
+    "number":9,
+    "question": "T-square is used for drawing ______ lines.",
+    "options": ["vertical", "curved", "horizontal", "oblique"],
+    "answer": "horizontal"
+  },
+  {
+    "number":10,
+    "question": "25.4 cm is equal to :",
+    "options": ["10 inches", "0.01 inch", "1 inch", "2.54 inches"],
+    "answer": "10 inches"
+  },
+  {
+    "number":11,
+    "question": "1 ton =",
+    "options": ["100 kg", "1016 kg", "1000 kg", "980 kg"],
+    "answer": "1016 kg"
+  },
+  {
+    "number":12,
+    "question": "L.C.M. of 3,4 and 5 is :",
+    "options": ["3", "4", "5", "60"],
+    "answer": "60"
+  },
+  {
+    "number":13,
+    "question": "The angle which is more than 180° and less than 360° is called :",
+    "options": ["Reflex angle", "Acute angle", "Straight angle", "Obtuse angle"],
+    "answer": "Reflex angle"
+  },
+  {
+    "number":14,
+    "question": "1 kilometre is equal to :",
+    "options": ["0.622 mile", "0.633 mile", "0.602 mile", "0.666 mile"],
+    "answer": "0.622 mile"
+  },
+  {
+    "number":15,
+    "question": "______ is used for setting-off short equal distance.",
+    "options": ["Compass", "Bow divider", "Scale", "None of these"],
+    "answer": "Bow divider"
+  },
+  {
+    "question": "2½ × 3½ is equal to :",
+    "number":16,
+    "options": ["0.5", "7.75", "8.75", "35"],
+    "answer": "8.75"
+  },
+  {
+    "number":17,
+    "question": "Which formula is used to calculate the diagonal of a rectangle when 'l' and 'b' are the length and breadth of the rectangle?",
+    "options": ["d = √(l² + b²)", "√(l² - b²)", "d = √(lb)", "√(l² · b²)"],
+    "answer": "d = √(l² + b²)"
+  },
+  {
+    "number":18,
+    "question": "To remove unnecessary lines ______ is used.",
+    "options": ["duster", "chalk", "sand paper", "eraser"],
+    "answer": "eraser"
+  },
+  {
+    "number":19,
+    "question": "As far as possible dimensions should be given in one unit, preferably in:",
+    "options": ["centimetres", "metres", "inches", "millimetres"],
+    "answer": "millimetres"
+  },
+  {
+    "number":20,
+    "question": "1 gallon equals to:",
+    "options": ["4.1 litres", "4.24 litres", "4.50 litres", "4.54 litres"],
+    "answer": "4.54 litres"
+  },
+  {
+    "number":21,
+    "question": "State which of the following are in proportion:",
+    "options": ["6:8::5:15", "3:7.5::2:7", "10:21::4:8.4", "7:10::14:18"],
+    "answer": "10:21::4:8.4"
+  },
+  {
+    "number":22,
+    "question": "In which quadrant the units 3, -7 will be plotted?",
+    "options": ["I quadrant", "II quadrant", "III quadrant", "IV quadrant"],
+    "answer": "IV quadrant"
+  },
+  {
+    "number":23,
+    "question": "The value of sin²30 + cos²30 equals to:",
+    "options": ["0", "1", "0.5", "1800"],
+    "answer": "1"
+  },
+  {
+    "number":24,
+    "question": "Which one is the improper fraction?",
+    "options": ["⅔", "⁹⁄₅", "(⅔)⁄₄", "5⅚"],
+    "answer": "⁹⁄₅"
+  },
+  {
+    "number":25,
+    "question": "Which one refers to temperature?",
+    "options": ["It is a form of energy", "It tells the state of heat", "Unit is calorie", "It is measured by calorimeter"],
+    "answer": "It tells the state of heat"
+  },
+  {
+    "number":26,
+    "question": "The value of 4^(3/2) is:",
+    "options": ["2", "6", "8", "4096"],
+    "answer": "8"
+  },
+  {
+    "number":27,
+    "question": "Drawings of buildings are drawn using:",
+    "options": ["full-size scale", "reduced scale", "scale of chords", "enlarged scale"],
+    "answer": "reduced scale"
+  },
+  {
+    "number":28,
+    "question": "If cos θ = 4/5, sin θ =",
+    "options": ["3/5", "4/5", "5/4", "√3"],
+    "answer": "3/5"
+  },
+  {
+    "number":29,
+    "question": "The H.C.F. of 66 and 330 is:",
+    "options": ["66", "330", "24", "3"],
+    "answer": "66"
+  },
+  {
+    "number":30,
+    "question": "Lateral surface area of a cone is:",
+    "options": ["πrl", "1/3 πrl", "1/4 πr²h", "1/3 πr²h"],
+    "answer": "πrl"
+  },
+  {
+    "number":31,
+    "question": "log(a/b) =",
+    "options": ["log a + log b", "log a - log b", "log(a+b)", "log ab"],
+    "answer": "log a - log b"
+  },
+  {
+    "number":32,
+    "question": "The bigger fraction is:",
+    "options": ["5/6", "5/12", "5/7", "5/18"],
+    "answer": "5/6"
+  },
+  {
+    "number":33,
+    "question": "What is the volume 'V' (in cm³) of the container which can hold 6.28 litres of water at 4°C?",
+    "options": ["V = 6.28 cm³", "V = 62.8 cm³", "V = 628 cm³", "V = 6280 cm³"],
+    "answer": "V = 6280 cm³"
+  },
+  {
+    "number":34,
+    "question": "The value of tan 45° + cot 45° =",
+    "options": ["√3", "1/2", "2", "2√2"],
+    "answer": "2"
+  },
+  {
+    "number":35,
+    "question": "Kinetic energy K.E. =",
+    "options": ["mV²", "1/2 mV²", "mV", "mgh"],
+    "answer": "1/2 mV²"
+  },
+  {
+    "number":36,
+    "question": "Decimal of 62% is :",
+    "options": ["0.31", "1.62", "0.62", "2.62"],
+    "answer": "0.62"
+  },
+  {
+    "number":37,
+    "question": "A body travels a distance of 20 metres in 10 seconds. What is its speed?",
+    "options": ["1 metre/second", "2 metres/second", "3 metres/second", "200 metres/second"],
+    "answer": "2 metres/second"
+  },
+  {
+    "number":38,
+    "question": "Perimeter of the rectangle with length 'l' and breadth 'b' is :",
+    "options": ["3(l+b)", "4(l+b)", "2(l+b)", "2lb"],
+    "answer": "2(l+b)"
+  },
+  {
+    "number":39,
+    "question": "The sum of interior angles of a pentagon is :",
+    "options": ["500°", "600°", "540°", "450°"],
+    "answer": "540°"
+  },
+  {
+    "number":40,
+    "question": "Which number is exactly divisible by 3?",
+    "options": ["10", "22", "95", "72"],
+    "answer": "72"
+  },
+  {
+    "number":41,
+    "question": "The value of 6+3+2 is :",
+    "options": ["1", "2", "3", "4"],
+    "answer": "11"
+  },
+  {
+    "number":42,
+    "question": "The unit of work is :",
+    "options": ["kg/cm²", "Newton", "kg/cm", "kg-cm"],
+    "answer": "kg-cm"
+  },
+  {
+    "number":43,
+    "question": "Pythagoras theorem applies to:",
+    "options": ["Square", "Right angled triangle", "Equilateral triangle", "Isosceles triangle"],
+    "answer": "Right angled triangle"
+  },
+  {
+    "number":44,
+    "question": "According to Newton:",
+    "options": ["Force = Mass × Acceleration", "Force = Mass × Velocity", "Force = Velocity × Time", "Force = Mass × Speed"],
+    "answer": "Force = Mass × Acceleration"
+  },
+  {
+    "number":45,
+    "question": "If a number is multiple of 2 is called:",
+    "options": ["Odd number", "Mixed number", "Even number", "Prime number"],
+    "answer": "Even number"
+  },
+  {
+    "number":46,
+    "question": "Density has relation between:",
+    "options": ["mass and volume", "volume and temperature", "temperature and pressure", "mass and velocity"],
+    "answer": "mass and volume"
+  },
+  {
+    "number":47,
+    "question": "Proper fraction is:",
+    "options": ["less than 1", "equal to 1", "more than 1", "zero"],
+    "answer": "less than 1"
+  },
+  {
+    "number":48,
+    "question": "The formula used for solving quadratic equation is:",
+    "options": ["x = (b ± √(b² - 4ac))/2a", "x = -b ± √((b² - 4ac)/2a)", "x = (-b ± √(b² - 4ac))/2a", "x = -b ± √((b² - 4ac)/2a)"],
+    "answer": "x = (-b ± √(b² - 4ac))/2a"
+  },
+  {
+    "number":49,
+    "question": "Force/Area =",
+    "options": ["Elasticity", "Load", "Stress", "Strain"],
+    "answer": "Stress"
+  },
+  {
+    "number":50,
+    "question": "In a motor, electric energy is transformed into:",
+    "options": ["Light energy", "Sound energy", "Vibrational energy", "Mechanical energy"],
+    "answer": "Mechanical energy"
+  },
+  {
+    "number":51,
+    "question": "Centigrade and Fahrenheit scale reading remains same at ______ temperature.",
+    "options": ["+40°", "0°", "+32°", "-40°"],
+    "answer": "-40°"
+  },
+  {
+    "number":52,
+    "question": "The factor of safety for any design work should be:",
+    "options": ["more than 1", "equal to 1", "less than 1", "zero"],
+    "answer": "more than 1"
+  },
+  {
+    "number":53,
+    "question": "In a plane, the maximum angle around a point is:",
+    "options": ["π radian", "2π radian", "3π radian", "π/2 radian"],
+    "answer": "2π radian"
+  },
+  {
+    "number":54,
+    "question": "Electrical power is measured in:",
+    "options": ["Kilowatt hour", "Watt", "Newton", "Newton-metre"],
+    "answer": "Watt"
+  },
+  {
+    "number":55,
+    "question": "In first angle projection method, the plan drawn at:",
+    "options": ["above the elevation", "right side of elevation", "below the elevation", "left side of elevation"],
+    "answer": "below the elevation"
+  },
+  {
+    "number":56,
+    "question": "The rate of change of velocity is:",
+    "options": ["Momentum", "Speed", "Acceleration", "Inertia"],
+    "answer": "Acceleration"
+  },
+  {
+    "number":57,
+    "question": "Which is the odd one of the following?",
+    "options": ["Vernier scale", "Scale of chords", "Plain scale", "Diagonal scale"],
+    "answer": "Scale of chords"
+  },
+  {
+    "number":58,
+    "question": "½ + ½ - ½ × ½ =",
+    "options": ["0", "½", "1", "¾"],
+    "answer": "¾"
+  },
+  {
+    "number":59,
+    "question": "Density is:",
+    "options": ["Mass/Volume", "Weight/Volume", "Volume/Mass", "Mass × Volume"],
+    "answer": "Mass/Volume"
+  },
+  {
+    "number":60,
+    "question": "(a + b)(a + b) =",
+    "options": ["a² - b²", "a² + b² + 2ab", "a² - 2ab + b²", "a² + 2ab - b²"],
+    "answer": "a² + b² + 2ab"
+  },
+  {
+    "number":61,
+    "question": "2^(0-2) =",
+    "options": ["1", "4", "1/2", "1/4"],
+    "answer": "1/4"
+  },
+  {
+    "number":62,
+    "question":"The symbol of Third Angle Projection is:",
+    "options":["A","B","C","D"],
+    "diagrams":true,
+    "answer":"B"
+  },
+  {
+    "number":63,
+    "question": "The product of two even numbers will be an ______ number.",
+    "options": ["Odd number", "Even number", "Prime number", "Proper fraction"],
+    "answer": "Even number"
+  },
+  {
+    "number":64,
+    "question": "Stress is the ratio of:",
+    "options": ["Load/Area", "Area/Load", "Load/(Increase in Length)", "Area/(Original Length)"],
+    "answer": "Load/Area"
+  },
+  {
+    "number":65,
+    "question": "Which one of the following is a vector quantity?",
+    "options": ["Speed", "Mass", "Force", "Specific gravity"],
+    "answer": "Force"
+  },
+  {
+    "number":66,
+    "question": "√(16/4) =",
+    "options": ["8", "2", "4", "1"],
+    "answer": "2"
+  },
+  {
+    "number":67,
+    "question": "The density of iron is 7.85 times the density of water at 4°C. Then the specific gravity of iron is:",
+    "options": ["7.85", "7.85 gm/cm³", "981", "981 gm/cm³"],
+    "answer": "7.85"
+  },
+  {
+    "number":68,
+    "question": "(100 - 1)(100 + 1) =",
+    "options": ["10099", "9999", "9901", "9900"],
+    "answer": "9999"
+  },
+  {
+    "number":69,
+    "question": "The isometric drawing of a circle is:",
+    "options": ["Circle itself", "Hyperbola", "Parabola", "Ellipse"],
+    "answer": "Ellipse"
+  },
+  {
+    "number":70,
+    "question": "The surface area of a sphere is 36π cm², then the volume of the sphere is:",
+    "options": ["12π cm³", "18π cm³", "72π cm³", "36π cm³"],
+    "answer": "36π cm³"
+  },
+  {
+    "number":71,
+    "question": "The mass of 1 litre of water at 4°C is:",
+    "options": ["10 gram", "100 gram", "1000 gram", "500 gram"],
+    "answer": "1000 gram"
+  },
+  {
+    "number":72,
+    "question": "______ is the most malleable of all metals.",
+    "options": ["Platinum", "Copper", "Silver", "Gold"],
+    "answer": "Gold"
+  },
+  {
+    "number":73,
+    "question": "Heat is produced by:",
+    "options": ["Temperature", "Energy", "Momentum", "Friction"],
+    "answer": "Friction"
+  },
+  {
+    "number":74,
+    "question": "Which one of the following is an example for Third Order Lever?",
+    "options": ["Wheel barrow", "Nut cracker", "Scissors", "Fore arm"],
+    "answer": "Fore arm"
+  },
+  {
+    "number":75,
+    "question": "1 micron is:",
+    "options": ["1 mm", "0.001 mm", "0.01 mm", "0.1 mm"],
+    "answer": "0.001 mm"
+  },
+  {
+    "number":76,
+    "question": "Heat is produced by:",
+    "options": ["Temperature", "Energy", "Momentum", "Friction"],
+    "answer": "Friction"
+  },
+  {
+    "number":77,
+    "question": "The included angle between any two sides of an equilateral triangle is:",
+    "options": ["90°", "60°", "45°", "30°"],
+    "answer": "60°"
+  },
+  {
+    "number":78,
+    "question": "Mass is defined as the quantity of:",
+    "options": ["Atoms", "Molecules", "Matter", "Electrons"],
+    "answer": "Matter"
+  },
+  {
+    "number":79,
+    "question": "The melting point of ice is:",
+    "options": ["0°C", "100°C", "4°C", "1°C"],
+    "answer": "0°C"
+  },
+  {
+    "number":80,
+    "question": "Output/Input =",
+    "options": ["Torque", "Work", "Efficiency", "None of these"],
+    "answer": "Efficiency"
+  },
+  {
+    "number":81,
+    "question": "Khe Khyber Pass exist in the North Western ranges of the Himalayas connects the following places:",
+    "options": ["India and Afghanistan", "Peshawar with Kabul", "India with Kabul", "Manipur with Chindwin"],
+    "answer": "Peshawar with Kabul"
+  },
+  {
+    "number":82,
+    "question": "Who among the following was elected as the Chairman of the drafting committee of Indian Constitution?",
+    "options": ["Dr. Rajendra Prasad", "Dr. B.N. Ravi", "Dr. Sachidananda Sinha", "Dr. B.R. Ambedkar"],
+    "answer": "Dr. B.R. Ambedkar"
+  },
+  {
+    "number":83,
+    "question": "The Planning Commission of India was set up in:",
+    "options": ["1950", "1951", "1948", "1964"],
+    "answer": "1950"
+  },
+  {
+    "number":84,
+    "question": "Who among the following founded The Servants of Indian Society?",
+    "options": ["Gopalakrishna Gokhale", "Balagangadhar Tilak", "Annie Beasant", "Vinobha bhave"],
+    "answer": "Gopalakrishna Gokhale"
+  },
+  {
+    "number":85,
+    "question": "Which was the first rocket launched from the Vikram Sarabhai Space Centre, Tumba on 21 November 1963?",
+    "options": ["RH 100", "Arkas", "Appache", "Judi Arc"],
+    "answer": "RH 100"
+  },
+  {
+    "number":86,
+    "question": "Who among the following cricketer scored six sixes in an over in the first class cricket?",
+    "options": ["Javed Miyandad", "Michael Hobbes", "Garry Sobers", "Alen Border"],
+    "answer": "Garry Sobers"
+  },
+  {
+    "number":87,
+    "question": "Which of the following rivers rises in the eastern base of the Kailas mountain and flows in Assam?",
+    "options": ["Ganges", "Narmada", "Cauvery", "Brahmaputhra"],
+    "answer": "Brahmaputhra"
+  },
+  {
+    "number":88,
+    "question": "The Progressive Party leader elected as the president of the Maldives on 17th Nov. 2013 :",
+    "options": ["Abdul Gayoob", "Abdulla Emin", "Abdul Nasheed", "Navas Sherif"],
+    "answer": "Abdulla Emin"
+  },
+  {
+    "number":89,
+    "question": "Who among the following was born in 14th Nov. 1889?",
+    "options": ["Mohandas Karamehand Gandhi", "Lala Lajpat Rai", "Jawaharlal Nehru", "Bala Gangadhar Tilak"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "number":90,
+    "question": "The Indian Scientist who received Bharat Ratna with Sachin Tendulkar in Nov. 2013 :",
+    "options": ["Prof. C.N.R. Rao", "Bhimsen Joshi", "Lata Mangeshkar", "Ustad Bismillah Khan"],
+    "answer": "Prof. C.N.R. Rao"
+  },
+  {
+    "number":91,
+    "question": "Who among the following wrote the famous Malayalam novel 'Ninamaninha Kalpadukal'?",
+    "options": ["Uroob P.C. Kuttikrishnan", "M.T. Vasudevan Nair", "Thakazhi Sivasankara Pillai", "Parappuram K.E. Mathai"],
+    "answer": "Uroob P.C. Kuttikrishnan"
+  },
+  {
+    "number":92,
+    "question": "The social reformer of Kerala who started the journal 'Swadeshabhimani' in 1905 to create an awareness against feudal autocracy in the state :",
+    "options": ["Sree Narayana Guru", "Vakkam Abdul Khader Moulavi", "V.T. Bhattathiripad", "Ayyankali"],
+    "answer": "Vakkam Abdul Khader Moulavi"
+  },
+  {
+    "number":93,
+    "question": "The external affairs minister of India who addressed the UN Assembly in Hindi in 1977:",
+    "options": ["Charan Singh", "Indira Gandhi", "A.B. Vajpayee", "Jayaprakash Narayan"],
+    "answer": "A.B. Vajpayee"
+  },
+  {
+    "number":94,
+    "question": "The autobiographical work 'Long Walk to Freedom' is written by:",
+    "options": ["Mahatma Gandhi", "Nelson Mandela", "Martin Luther King", "Zulficar Ali Bhutto"],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "number":95,
+    "question": "Who will acts as the President of India in the absence of both the President and Vice President?",
+    "options": ["The Chief Justice of India", "The Attorney General", "The Speaker of Lok Sabha", "The Defence Minister"],
+    "answer": "The Chief Justice of India"
+  },
+  {
+    "number":96,
+    "question": "Which of the following social reformer of Kerala founded the Sadhu Jana Samajam?",
+    "options": ["Mannathu Padmanabhan", "Pandit Karuppan", "Vagbhatanantha", "Ayyankali"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number":97,
+    "question": "Which cities of the following is the headquarters of World Health Organisation (WHO)?",
+    "options": ["Paris", "Washington DC", "Geneva", "London"],
+    "answer": "Geneva"
+  },
+  {
+    "number":98,
+    "question": "Which of the following chemical is known as 'laughing gas'?",
+    "options": ["Nitrogen peroxide", "Nitrous oxide", "Aniline", "Magnesium sulphate"],
+    "answer": "Nitrous oxide"
+  },
+  {
+    "number":99,
+    "question": "Which among the following is the organisation set up in 1995 as the successor of GATT?",
+    "options": ["UNICEF", "WTO", "IAEA", "FAO"],
+    "answer": "WTO"
+  },
+  {
+    "number":100,
+    "question": "Which of the following works is not written by Kumaranasan?",
+    "options": ["Bashpanjali", "Nalini", "Manimala", "Pushpavadi"],
+    "answer": "Pushpavadi"
+  }
+]

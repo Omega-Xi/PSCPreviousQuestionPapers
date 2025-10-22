@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
 function loadPage(){
     const Courses=document.getElementById("courses");
     const clickSound=new Audio("Audio\\click.wav");
-    fetch("Data.json")
+    fetch("Question Papers\\Data\\Courses.json")
     .then(response=>response.json())
     .then(datas=>datas.forEach(data=>{
         const newLi=document.createElement("li");
@@ -25,9 +25,8 @@ function loadPage(){
         newUl.id=data.course;
         data.questionpapers.forEach(questionpaper=>{
             const innerLi=document.createElement("li");
-            const newkeys=Object.keys(questionpaper);
-            innerLi.id=newkeys[0];
-            innerLi.textContent=newkeys[0];
+            innerLi.id=questionpaper;
+            innerLi.textContent=questionpaper;
             newUl.appendChild(innerLi);
         })
         newLi.appendChild(newA);

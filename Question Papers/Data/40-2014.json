@@ -1,0 +1,702 @@
+[
+  {
+    "number": 1,
+    "question": "It is being given that 2\u00b3\u00b2 is completely divisible by a whole number. Which of the following numbers is completely divisible by this number?",
+    "options": ["2\u00b9\u2076 + 1", "2\u00b9\u2076 - 1", "7 × 2\u00b2\u00b3", "2\u2079\u2076 + 1"],
+    "answer": "2\u00b9\u2076 - 1"
+  },
+  {
+    "number": 2,
+    "question": "The greatest number of four digit which is divisible by 15, 25, 40 and 75 is:",
+    "options": ["9000", "9400", "9600", "9800"],
+    "answer": "9000"
+  },
+  {
+    "number": 3,
+    "question": "Two bus tickets from city A to B and three tickets from city A to C costs Rs. 90 but three tickets from city A to B and two tickets from city A to C costs Rs. 85. What are the fares for cities B and C from A?",
+    "options": ["Rs. 10, Rs. 20", "Rs. 15, Rs. 20", "Rs. 15, Rs. 14", "Rs. 20, Rs. 10"],
+    "answer": "Rs. 15, Rs. 14"
+  },
+  {
+    "number": 4,
+    "question": "14, 28, 20, 40, 32, 64, What number should come next?",
+    "options": ["52", "128", "96", "56"],
+    "answer": "56"
+  },
+  {
+    "number": 5,
+    "question": "A woman says \"if you reverse my own age the figure represents my husband's age, he is of course senior to me and the difference between our ages is one-eleventh of their sum\". The woman's age is:",
+    "options": ["24 years", "34 years", "45 years", "35 years"],
+    "answer": "45 years"
+  },
+  {
+    "number": 6,
+    "question": "A waiter's salary consists of his salary and tips. During one week his tips were 5/4 of his salary. What fraction of his income came from tips?",
+    "options": ["4/9", "5/4", "5/8", "5/9"],
+    "answer": "5/9"
+  },
+  {
+    "number": 7,
+    "question": "A man completes a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km:",
+    "options": ["220 km", "224 km", "230 km", "234 km"],
+    "answer": "224 km"
+  },
+  {
+    "number": 8,
+    "question": "A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. How many days more will A take to finish the work?",
+    "options": ["10", "8", "12", "15"],
+    "answer": "10"
+  },
+  {
+    "number": 9,
+    "question": "The length of the bridge, which a train 130 meters long and travelling at 45 km/hr can cross in 30 seconds is:",
+    "options": ["200", "225", "245", "250"],
+    "answer": "245"
+  },
+  {
+    "number": 10,
+    "question": "If one third of one fourth of a number is 15, then four tenth of that number is:",
+    "options": ["72", "70", "60", "62"],
+    "answer": "72"
+  },
+  {
+    "number": 11,
+    "question": "The angle between the minute hand and the hour hand of a clock when the time is 4:20 is:",
+    "options": ["0°", "10°", "5º", "20°"],
+    "answer": "10°"
+  },
+  {
+    "number": 12,
+    "question": "The curved surface area of a cylindrical pillar is 264 m² and its volume is 924 m³. Find the ratio of its diameter to its height:",
+    "options": ["3:7", "7:6", "6:7", "7:3"],
+    "answer": "6:7"
+  },
+  {
+    "number": 13,
+    "question": "Today is Monday. After 61 days it will be:",
+    "options": ["Wednesday", "Saturday", "Tuesday", "Thursday"],
+    "answer": "Saturday"
+  },
+  {
+    "number": 14,
+    "question": "Find odd man out: 8, 27, 64, 100, 125, 216, 343",
+    "options": ["125", "27", "100", "343"],
+    "answer": "100"
+  },
+  {
+    "number": 15,
+    "question": "The following words have a certain relation to each other. Select the pair which has the relationship: Distance : mile",
+    "options": ["liquid: litre", "bushel: corn", "weight: scale", "fame: television"],
+    "answer": "liquid: litre"
+  },
+  {
+    "number": 16,
+    "question": "Choose the word which best expresses the meaning of the given word: Infrequent",
+    "options": ["never", "usual", "rare", "sometimes"],
+    "answer": "rare"
+  },
+  {
+    "number": 17,
+    "question": "Choose the word which is the exact opposite of the given word: Confess",
+    "options": ["deny", "refuse", "contest", "contend"],
+    "answer": "deny"
+  },
+  {
+    "number": 18,
+    "question": "Siya runs faster than Jiya. Lily runs faster than Siya. Jiya runs faster than Lily. If the first two statements are true, the third statement is:",
+    "options": ["true", "false", "both true and false", "uncertain"],
+    "answer": "false"
+  },
+  {
+    "number": 19,
+    "question": "Kiran walks 5 km towards east and then turns left and walks 6 km. Again he turns right and walks 9 km. Finally he turns to his right and walks 6 km. How far is he from the starting point?",
+    "options": ["26 km", "21 km", "14 km", "9 km"],
+    "answer": "14 km"
+  },
+  {
+    "number": 20,
+    "question": "If 20% of a = b, then b% of 20 is same as:",
+    "options": ["4% of a", "5% of a", "20% of a", "none of these"],
+    "answer": "4% of a"
+  },
+  {
+    "number": 21,
+    "question": "Government of India recently declared an animal as National aquatic animal, for protecting aquatic life. Identify the animal:",
+    "options": ["Whale", "Crocodile", "River Dolphin", "Indian Mackerel"],
+    "answer": "River Dolphin"
+  },
+  {
+    "number": 22,
+    "question": "How many genes are present in the human genome?",
+    "options": ["1,00,000", "30,000", "50,000", "10,000"],
+    "answer": "30,000"
+  },
+  {
+    "number": 23,
+    "question": "Joule/second is the unit of:",
+    "options": ["Work", "Power", "Energy", "Force"],
+    "answer": "Power"
+  },
+  {
+    "number": 24,
+    "question": "Which country performed the world's first self regulating fully artificial heart transplantation in December 2013?",
+    "options": ["France", "Germany", "China", "USA"],
+    "answer": "France"
+  },
+  {
+    "number": 25,
+    "question": "Find out the odd one:",
+    "options": ["Zoological park", "Botanical Garden", "Seed Bank", "National Park"],
+    "answer": "Seed Bank"
+  },
+  {
+    "number": 26,
+    "question": "Who invented electric battery?",
+    "options": ["Thomas Alva Edison", "Isaac Newton", "Alessandro Volta", "Michael Faraday"],
+    "answer": "Alessandro Volta"
+  },
+  {
+    "number": 27,
+    "question": "Which among the following is not a monosaccharide?",
+    "options": ["Lactose", "Glucose", "Fructose", "Galactose"],
+    "answer": "Lactose"
+  },
+  {
+    "number": 28,
+    "question": "Wind glasses of vehicles are made by:",
+    "options": ["Fibre Glass", "Borosilicate Glass", "Flint Glass", "Safety Glass"],
+    "answer": "Safety Glass"
+  },
+  {
+    "number": 29,
+    "question": "Fuel with highest calorific value is:",
+    "options": ["Methane", "Biogas", "Hydrogen", "Petrol"],
+    "answer": "Hydrogen"
+  },
+  {
+    "number": 30,
+    "question": "Lens used to rectify farsightedness:",
+    "options": ["Concave", "Convex", "Cylindrical", "Biconcave"],
+    "answer": "Convex"
+  },
+  {
+    "number": 31,
+    "question": "The first ISO certified police station in Kerala:",
+    "options": ["Thiruvananthapuram", "Thrissur", "Ernakulam", "Kozhikkode"],
+    "answer": "Ernakulam"
+  },
+  {
+    "number": 32,
+    "question": "In which year Kuriakose Elias Chavara died?",
+    "options": ["1871", "1873", "1874", "1881"],
+    "answer": "1871"
+  },
+  {
+    "number": 33,
+    "question": "The season of retreating monsoon:",
+    "options": ["June-September", "December-February", "October-November", "March-May"],
+    "answer": "October-November"
+  },
+  {
+    "number": 34,
+    "question": "In which year India became a member of ADB?",
+    "options": ["1991", "1966", "1986", "1996"],
+    "answer": "1966"
+  },
+  {
+    "number": 35,
+    "question": "The first woman Keralite to become a member of both Lok Sabha and Rajya Sabha:",
+    "options": ["Ammu Swaminathan", "Akkamma Cheriyan", "Annie Mascarene", "Suseela Gopalan"],
+    "answer": "Annie Mascarene"
+  },
+  {
+    "number": 36,
+    "question": "The author of the book 'Swaraj':",
+    "options": ["Thushar Gandhi", "Aravind Kejriwal", "Bal Thackaray", "Narendra Modi"],
+    "answer": "Aravind Kejriwal"
+  },
+  {
+    "number": 37,
+    "question": "'Kuruva Island' is situated in:",
+    "options": ["Kabani", "Bhavani", "Pambar", "Chaliyar"],
+    "answer": "Kabani"
+  },
+  {
+    "number": 38,
+    "question": "The state which has lowest sex ratio:",
+    "options": ["Bihar", "Orissa", "Arunachal Pradesh", "Tripura"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "number": 39,
+    "question": "The founder of 'Sidhashramam':",
+    "options": ["Sree Narayana Guru", "Vagbhatananda", "Ayya Vaikundar", "Brahmananda Sivayogi"],
+    "answer": "Vagbhatananda"
+  },
+  {
+    "number": 40,
+    "question": "Who proclaimed \"Go back to Gita\"?",
+    "options": ["Dayananda Saraswathi", "Swami Vivekanandan", "Gandhiji", "Sree Ramakrishna Paramahamsan"],
+    "answer": "Dayananda Saraswathi"
+  },
+  {
+    "number": 41,
+    "question": "Which country hosts World Men Hockey Tournament in 2018?",
+    "options": ["Australia", "Kuwait", "India", "Newzealand"],
+    "answer": "India"
+  },
+  {
+    "number": 42,
+    "question": "The social reformer who is also known as 'Pulayan Mathayi':",
+    "options": ["Kumara Guru", "Sahodaran Ayyappan", "Pandit Karuppan", "Dr. Palpu"],
+    "answer": "Pandit Karuppan"
+  },
+  {
+    "number": 43,
+    "question": "The river flowing between Vindhya and Satpura Ranges:",
+    "options": ["Brahmaputra", "Mahanadi", "Krishna", "Narmada"],
+    "answer": "Narmada"
+  },
+  {
+    "number": 44,
+    "question": "The first film released through internet:",
+    "options": ["Vivah", "Munnabai MBBS", "Dhoom", "Sholay"],
+    "answer": "Vivah"
+  },
+  {
+    "number": 45,
+    "question": "'In the Line of Fire' is the autobiography of:",
+    "options": ["Ariel Sharon", "Saddam Hussain", "Parvez Musharraf", "Vladimir Putin"],
+    "answer": "Parvez Musharraf"
+  },
+  {
+    "number": 46,
+    "question": "The World Environment Day is:",
+    "options": ["May 5", "June 22", "July 10", "June 5"],
+    "answer": "June 5"
+  },
+  {
+    "number": 47,
+    "question": "Hari Prasad Chaurasia is famous in which field:",
+    "options": ["Tabla", "Flute", "Guitar", "Violin"],
+    "answer": "Flute"
+  },
+  {
+    "number": 48,
+    "question": "Which country shares the shortest international boundary with India?",
+    "options": ["Myanmar", "Nepal", "Bangladesh", "Afghanistan"],
+    "answer": "Afghanistan"
+  },
+  {
+    "number": 49,
+    "question": "Soil which predominates in Sundarban Area:",
+    "options": ["Alluvial soil", "Red soil", "Laterite soil", "Black soil"],
+    "answer": "Alluvial soil"
+  },
+  {
+    "number": 50,
+    "question": "The first aircraft carrier of Indian Navy:",
+    "options": ["INS Vikrant", "INS Tharangini", "INS Chakra", "INS Virat"],
+    "answer": "INS Vikrant"
+  },
+  {
+    "number": 51,
+    "question": "'Jal Mahal' situated in:",
+    "options": ["Jodhpur", "Udaipur", "Jaipur", "Raipur"],
+    "answer": "Jaipur"
+  },
+  {
+    "number": 52,
+    "question": "Nautanki is the dance form of which Indian state:",
+    "options": ["Manipur", "Uttar Pradesh", "Gujarat", "Punjab"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "number": 53,
+    "question": "Rajiv Gandhi Indian Institute of Management is in:",
+    "options": ["New Delhi", "Dehradun", "Shillong", "Hyderabad"],
+    "answer": "Shillong"
+  },
+  {
+    "number": 54,
+    "question": "Where was the 2010 Winter Olympics held?",
+    "options": ["USA", "Switzerland", "Italy", "Canada"],
+    "answer": "Canada"
+  },
+  {
+    "number": 55,
+    "question": "Who established Bharatiya Vidya Bhavan?",
+    "options": ["P. Mithra", "Lala Hardayal", "K.M. Munshi", "Athma Ram Pandurang"],
+    "answer": "K.M. Munshi"
+  },
+  {
+    "number": 56,
+    "question": "World Teachers Day is celebrated on:",
+    "options": ["September 5", "October 5", "September 20", "November 5"],
+    "answer": "October 5"
+  },
+  {
+    "number": 57,
+    "question": "Who won the World Chess Championship 2013?",
+    "options": ["Magnus Carlsen", "Vladimir Dyokovich", "Viswanathan Anand", "P. Harikrishnan"],
+    "answer": "Magnus Carlsen"
+  },
+  {
+    "number": 58,
+    "question": "Indian Prime Minister who established National Dairy Development Board:",
+    "options": ["Jawaharlal Nehru", "Narasimha Rao", "Morarji Desai", "Indira Gandhi"],
+    "answer": "Morarji Desai"
+  },
+  {
+    "number": 59,
+    "question": "The first cyber forensic laboratory in India:",
+    "options": ["Maharashtra", "Tripura", "Andhra Pradesh", "Kerala"],
+    "answer": "Kerala"
+  },
+  {
+    "number": 60,
+    "question": "Who was the first Indian woman to receive Magsaysay award?",
+    "options": ["Indira Gandhi", "Captain Lakshmi Sehgal", "Vandana Shiva", "Kiran Bedi"],
+    "answer": "Kiran Bedi"
+  },
+  {
+    "number": 61,
+    "question": "What is the minimum age qualification required for a candidate to be elected as a member of the Rajya Sabha?",
+    "options": ["25 years", "30 years", "18 years", "35 years"],
+    "answer": "30 years"
+  },
+  {
+    "number": 62,
+    "question": "Which one among the following was described by Dr. Ambedkar as the 'heart and soul' of the Constitution?",
+    "options": [
+      "Right to freedom of speech and expression",
+      "Right to equality",
+      "Right to constitutional remedies",
+      "Right against exploitation"
+    ],
+    "answer": "Right to constitutional remedies"
+  },
+  {
+    "number": 63,
+    "question": "Who among the following can preside but cannot vote in one of the Houses of Parliament?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "Deputy Speaker of Lok Sabha",
+      "Vice President of India",
+      "Deputy Chairman of Rajya Sabha"
+    ],
+    "answer": "Vice President of India"
+  },
+  {
+    "number": 64,
+    "question": "The Chief Election Commissioner holds office:",
+    "options": [
+      "for a period of six years",
+      "during the pleasure of the President",
+      "for a period of five years",
+      "for a period of six years or till the age of 65 years whichever is earlier"
+    ],
+    "answer": "for a period of six years or till the age of 65 years whichever is earlier"
+  },
+  {
+    "number": 65,
+    "question": "Who among the following was not a member of the Drafting Committee for the Constitution of India?",
+    "options": [
+      "T. Prakasam",
+      "Alladi Krishnaswamy Iyer",
+      "T.T. Krishnamachari",
+      "N. Gopalaswami Iyengar"
+    ],
+    "answer": "T. Prakasam"
+  },
+  {
+    "number": 66,
+    "question": "The 97th amendment to the Constitution dealt with:",
+    "options": [
+      "The structure of Election Commission",
+      "Universalising Elementary Education",
+      "Anti defection",
+      "The powers of Panchayati Raj institutions"
+    ],
+    "answer": "The powers of Panchayati Raj institutions"
+  },
+  {
+    "number": 67,
+    "question": "The age of retirement of the judges of the High Courts is:",
+    "options": ["62 years", "60 years", "58 years", "65 years"],
+    "answer": "62 years"
+  },
+  {
+    "number": 68,
+    "question": "The joint session of both Houses of Parliament is presided over by:",
+    "options": [
+      "The President",
+      "The Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha",
+      "The Prime Minister"
+    ],
+    "answer": "The Speaker of Lok Sabha"
+  },
+  {
+    "number": 69,
+    "question": "While General Emergency is in operation, the duration of Lok Sabha can be extended for a period of:",
+    "options": [
+      "six months only",
+      "six months at a time",
+      "one year only",
+      "one year at a time"
+    ],
+    "answer": "one year at a time"
+  },
+  {
+    "number": 70,
+    "question": "Under which of the following articles of the Indian Constitution provisions for the creation and abolition of Legislative Councils in states are made?",
+    "options": ["168", "169", "170", "171"],
+    "answer": "169"
+  },
+  {
+    "number": 71,
+    "question": "Which part of the following sentence is incorrect? The film that I watched yesterday is about a young lady who was a famous actress.",
+    "options": ["The film", "that I watched yesterday", "is about a young lady", "who was a famous actress"],
+    "answer": "who was a famous actress"
+  },
+  {
+    "number": 72,
+    "question": "The wall was _____ high that I could not reach its top.",
+    "options": ["so", "very", "too", "much"],
+    "answer": "so"
+  },
+  {
+    "number": 73,
+    "question": "When Sunny arrived home his children:",
+    "options": ["went to sleep", "had gone to sleep", "has gone to sleep", "was going to sleep"],
+    "answer": "had gone to sleep"
+  },
+  {
+    "number": 74,
+    "question": "The expression 'vox populi' means:",
+    "options": ["popular hatred", "electoral verdict", "opinion poll", "popular opinion"],
+    "answer": "popular opinion"
+  },
+  {
+    "number": 75,
+    "question": "Why don't you look _____ the dictionary to get the correct meaning of this word?",
+    "options": ["at", "on", "up", "upon"],
+    "answer": "up"
+  },
+  {
+    "number": 76,
+    "question": "The passive form of the sentence \"Her recklessness did her in.\" is:",
+    "options": [
+      "She is done in by her recklessness",
+      "She was done in by her recklessness",
+      "She has been done in by her recklessness",
+      "She had been done in by her recklessness"
+    ],
+    "answer": "She was done in by her recklessness"
+  },
+  {
+    "number": 77,
+    "question": "Germany is _____ European country.",
+    "options": ["a", "an", "the", "no article required"],
+    "answer": "a"
+  },
+  {
+    "number": 78,
+    "question": "Nowadays, companies _____ and fire employees as they please.",
+    "options": ["hair", "here", "hire", "hear"],
+    "answer": "hire"
+  },
+  {
+    "number": 79,
+    "question": "The indirect form of the sentence \"How did you solve this problem?' the teacher asked the girl\" is:",
+    "options": [
+      "The teacher asked the girl how she solved that problem",
+      "The teacher asked the girl how she had solved that problem",
+      "The teacher asked the girl how she has solved the problem",
+      "The teacher asked the girl whether she had solved that problem"
+    ],
+    "answer": "The teacher asked the girl how she had solved that problem"
+  },
+  {
+    "number": 80,
+    "question": "When I came to the railway station, the train had _____ left.",
+    "options": ["lately", "yet", "earlier", "already"],
+    "answer": "already"
+  },
+  {
+    "number": 81,
+    "question": "National Rural Employment Guarantee Act was passed in the year:",
+    "options": ["2001", "2003", "2005", "2007"],
+    "answer": "2005"
+  },
+  {
+    "number": 82,
+    "question": "Aam Admi Bima Yojana is a programme meant for:",
+    "options": [
+      "Housing for slum dwellers",
+      "Housing for Rural Landless Poor",
+      "Insurance for SC/ST",
+      "Insurance for Rural Landless Poor"
+    ],
+    "answer": "Insurance for Rural Landless Poor"
+  },
+  {
+    "number": 83,
+    "question": "'Slum Free India' is an objective of:",
+    "options": [
+      "Indira Awas Yojana",
+      "Rajiv Awas Yojana",
+      "Samagra Awas Yojana",
+      "Bharath Nirman"
+    ],
+    "answer": "Rajiv Awas Yojana"
+  },
+  {
+    "number": 84,
+    "question": "The programme implemented for the empowerment of women according to National Education Policy:",
+    "options": [
+      "Indira Mahila Yojana",
+      "Mahila Samakhya",
+      "Rashtriya Mahila Khosh",
+      "Mahila Samridhi Yojana"
+    ],
+    "answer": "Mahila Samakhya"
+  },
+  {
+    "number": 85,
+    "question": "Food for Work Programme was started in the year:",
+    "options": ["1957", "1974", "1977", "1979"],
+    "answer": "1977"
+  },
+  {
+    "number": 86,
+    "question": "PURA stands for:",
+    "options": [
+      "Poverty reduction in Urban and Rural Areas",
+      "Provision of Urban Amenities in Rural Areas",
+      "Provision of electricity in Urban and Rural Areas",
+      "Poverty and Unemployment Reduction Agency"
+    ],
+    "answer": "Provision of Urban Amenities in Rural Areas"
+  },
+  {
+    "number": 87,
+    "question": "Valmiki Awas Yojana is planned to provide:",
+    "options": [
+      "Housing for Rural landless poor",
+      "Housing for Urban Landless poor",
+      "Housing for Slum Inhabitants",
+      "Housing for SC/ST below poverty line"
+    ],
+    "answer": "Housing for Slum Inhabitants"
+  },
+  {
+    "number": 88,
+    "question": "Kutir Jyoti is a welfare programme for providing:",
+    "options": [
+      "Housing for rural poor",
+      "Electrification of houses of SC/ST",
+      "Housing for SC/ST",
+      "Electrification of urban slums"
+    ],
+    "answer": "Electrification of houses of SC/ST"
+  },
+  {
+    "number": 89,
+    "question": "Integrated Child Development Services was started in the year:",
+    "options": ["1970", "1972", "1975", "1980"],
+    "answer": "1975"
+  },
+  {
+    "number": 90,
+    "question": "Annapoorna is a welfare programme for:",
+    "options": [
+      "Providing Food for work",
+      "Food security of SC/ST",
+      "Food security of senior citizens",
+      "Food security of disabled"
+    ],
+    "answer": "Food security of senior citizens"
+  },
+  {
+    "number": 91,
+    "question": "A group of four bits is known as a/an:",
+    "options": ["byte", "nibble", "quartet", "octet"],
+    "answer": "nibble"
+  },
+  {
+    "number": 92,
+    "question": "The Hexadecimal equivalent of the decimal number 162 is:",
+    "options": ["A2", "B2", "C2", "D2"],
+    "answer": "A2"
+  },
+  {
+    "number": 93,
+    "question": "Which of the following system software translate and execute high level language source code, statement by statement?",
+    "options": ["Assembler", "Compiler", "Interpreter", "Operating system"],
+    "answer": "Interpreter"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following technology is used for exchange of data between different systems?",
+    "options": [
+      "Extensible markup language",
+      "Hypertext markup language",
+      "Dynamic Hypertext markup Language",
+      "Practical Extraction and Reporting Language"
+    ],
+    "answer": "Extensible markup language"
+  },
+  {
+    "number": 95,
+    "question": "A java program that executes from a web page is called:",
+    "options": ["Portlet", "Servlet", "Weblet", "Applet"],
+    "answer": "Applet"
+  },
+  {
+    "number": 96,
+    "question": "A private computer network within an organisation or company that allows controlled access from the outside is known as:",
+    "options": ["Intranet", "Extranet", "Biznet", "Firmnet"],
+    "answer": "Extranet"
+  },
+  {
+    "number": 97,
+    "question": "Which is the standard protocol for sending emails across the Internet?",
+    "options": [
+      "Hyper Text Transfer Protocols (HTTP)",
+      "Post Office Protocol (POP)",
+      "Simple Mail Transfer Protocol (SMTP)",
+      "Internet Message Access Protocol (IMAP)"
+    ],
+    "answer": "Simple Mail Transfer Protocol (SMTP)"
+  },
+  {
+    "number": 98,
+    "question": "'Software Piracy' refers to:",
+    "options": [
+      "Unauthorised copying of software",
+      "Data theft by means of software",
+      "Spreading of malicious software",
+      "Denial of service attack on a server"
+    ],
+    "answer": "Unauthorised copying of software"
+  },
+  {
+    "number": 99,
+    "question": "Which of the following terms is not associated with the cyber crime of attempting to acquire information by masquerading as a trustworthy entity?",
+    "options": ["Whaling", "Clone phishing", "Bait phishing", "Spear phishing"],
+    "answer": "Bait phishing"
+  },
+  {
+    "number": 100,
+    "question": "Section 67 of IT Act 2000 deals with:",
+    "options": [
+      "Tampering of computer source documents",
+      "Penalty for damage to computer, computer systems etc.",
+      "Establishment of cyber appellate Tribunal",
+      "Publishing of information which is obscene in electronic form"
+    ],
+    "answer": "Publishing of information which is obscene in electronic form"
+  }
+]

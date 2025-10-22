@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "An under reinforced section is preferred than an over reinforced section because of:",
+    "options": ["The steel reaches its maximum stress earlier", "Brittle property of concrete", "High strength of concrete", "Cost of steel is high"],
+    "answer": "Brittle property of concrete"
+  },
+  {
+    "number": 2,
+    "question": "When a slab is considered as two way slab, its long span to short span ratio is:",
+    "options": ["less than 2", "greater than 2", "less than 1.5", "none of these"],
+    "answer": "less than 2"
+  },
+  {
+    "number": 3,
+    "question": "In the shape test of aggregates the particle whose least dimension is less than 0.6 times of their mean size are termed as:",
+    "options": ["Elongated", "Gap graded", "Close graded", "Flaky"],
+    "answer": "Flaky"
+  },
+  {
+    "number": 4,
+    "question": "A paved path provided for the purpose of allowing aircrafts to move to and from the runway and the apron is called:",
+    "options": ["Run way", "Lounge", "Taxy ways", "Aprons"],
+    "answer": "Taxy ways"
+  },
+  {
+    "number": 5,
+    "question": "In Indian railways the width of broad gauge is:",
+    "options": ["1.767 m", "1.676 m", "1.751 m", "1.810 m"],
+    "answer": "1.676 m"
+  },
+  {
+    "number": 6,
+    "question": "The limiting point in the converging track beyond which the train vehicle can stand safely without colliding with the train moving on the other track is:",
+    "options": ["Heel", "Gang beat", "Foul mark", "Crossing stations"],
+    "answer": "Foul mark"
+  },
+  {
+    "number": 7,
+    "question": "A layer of concrete, masonry or stone etc. which is placed at the entrance or outlet of a culvert or waterway to prevent the scouring is called:",
+    "options": ["Abutment", "afflux", "caisson", "apron"],
+    "answer": "apron"
+  },
+  {
+    "number": 8,
+    "question": "Maximum ruling gradient permitted in Indian railways in plains is:",
+    "options": ["1 in 50", "1 in 100", "1 in 150", "1 in 200"],
+    "answer": "1 in 100"
+  },
+  {
+    "number": 9,
+    "question": "The outer signal in Indian railways is provided at a minimum of distance from home signal:",
+    "options": ["1 km", "580 m", "860 m", "180 m"],
+    "answer": "580 m"
+  },
+  {
+    "number": 10,
+    "question": "The maximum value of super elevation provided in Indian railways is:",
+    "options": ["165 mm", "140 mm", "75 mm", "98 mm"],
+    "answer": "165 mm"
+  },
+  {
+    "number": 11,
+    "question": "Francis turbine is:",
+    "options": ["a radial flow impulse turbine", "an axial flow turbine", "a radial flow reaction turbine", "an impulse turbine"],
+    "answer": "a radial flow reaction turbine"
+  },
+  {
+    "number": 12,
+    "question": "When a fluid is at rest, the shear stress is:",
+    "options": ["Unpredictable", "Maximum", "Zero", "None of these"],
+    "answer": "Zero"
+  },
+  {
+    "number": 13,
+    "question": "Atmospheric pressure head in terms of water column is:",
+    "options": ["7.6 m", "6.0 m", "9.81 m", "10.3 m"],
+    "answer": "10.3 m"
+  },
+  {
+    "number": 14,
+    "question": "Unit power developed by a turbine is defined as when:",
+    "options": ["Power on the turbine is maximum", "Head on the turbine is unity", "Efficiency of the turbine is maximum", "None of these"],
+    "answer": "Head on the turbine is unity"
+  },
+  {
+    "number": 15,
+    "question": "The branch of science which deals with the study of fluid in motion without considering the forces causing the motion is known as:",
+    "options": ["Dynamics", "Statics", "Kinematics", "Phreatic"],
+    "answer": "Kinematics"
+  },
+  {
+    "number": 16,
+    "question": "The maximum amount of strain energy which can be stored in a unit volume without permanent set is called:",
+    "options": ["proof resilience", "resilience", "creep", "bulk modulus"],
+    "answer": "proof resilience"
+  },
+  {
+    "number": 17,
+    "question": "The ratio of shear stress to shear strain within the limit of proportionality is called:",
+    "options": ["Poisson's ratio", "Modulus of rigidity", "Elastic modulus", "Young's modulus"],
+    "answer": "Modulus of rigidity"
+  },
+  {
+    "number": 18,
+    "question": "The load required to cause unit deflection is called:",
+    "options": ["Strength", "Creep", "Ductility", "Stiffness"],
+    "answer": "Stiffness"
+  },
+  {
+    "number": 19,
+    "question": "For a column with one end fixed and the other end hinged the effective length is:",
+    "options": ["L", "2L", "L/√2", "L/2"],
+    "answer": "L/√2"
+  },
+  {
+    "number": 20,
+    "question": "The standard gauge length of a specimen for tensile test with initial cross section area a₀ is:",
+    "options": ["6.56 √a₀", "6.65 √a₀", "a₀ √6.65", "5.65 √a₀"],
+    "answer": "5.65 Va₀"
+  },
+  {
+    "number": 21,
+    "question": "The maximum bending moment for a simply supported beam which carries a uniform load 'w' throughout its span 'l' is:",
+    "options": ["w1/4", "w1²/4", "w1²/8", "w1/8"],
+    "answer": "w1²/8"
+  },
+  {
+    "number": 22,
+    "question": "An isotropic material is one which has:",
+    "options": ["the elastic constants identical in all directions", "same structure in all directions", "obeys hook's law up to failure", "young's modulus and rigidity moduli are same"],
+    "answer": "the elastic constants identical in all directions"
+  },
+  {
+    "number": 23,
+    "question": "The product of Elastic modulus and moment of inertia EI is called:",
+    "options": ["torsional rigidity", "flexural rigidity", "rigidity modulus", "stability"],
+    "answer": "flexural rigidity"
+  },
+  {
+    "number": 24,
+    "question": "The polar moment of inertia of a hollow circular section with external diameter 'D' and internal diameter 'd' is:",
+    "options": ["𝜋[D2 -d2]/64", "𝜋[D4 -d4]/32", "𝜋[D4-d4]/64", "𝜋[D3-d3]/32"],
+    "answer": "𝜋[D4-d4]/64"
+  },
+  {
+    "number": 25,
+    "question": "When a closed coil helical spring is subjected to an axial compressive load, the material will be subjected to:",
+    "options": ["shear stress", "axial compressive stress", "bending stress", "tensile stress"],
+    "answer": "shear stress"
+  },
+  {
+    "number": 26,
+    "question": "The force acting on a body moving in a circular path along the radius away from the centre of path is called:",
+    "options": ["centripetal force", "shear force", "centrifugal force", "torsion"],
+    "answer": "centrifugal force"
+  },
+  {
+    "number": 27,
+    "question": "Contour bunding is suitable for:",
+    "options": ["plain area", "dried up area", "water logged area", "hilly area"],
+    "answer": "hilly area"
+  },
+  {
+    "number": 28,
+    "question": "For no tension developed in the base of gravity dam, the eccentricity of the resultant force is within where b is the base width of dam:",
+    "options": ["b/6", "b/3", "b/4", "b/2"],
+    "answer": "b/6"
+  },
+  {
+    "number": 29,
+    "question": "The evaporation from plants and surrounding soil together is called:",
+    "options": ["vapourisation", "hydration", "evapotranspiration", "transpiration"],
+    "answer": "evapotranspiration"
+  },
+  {
+    "number": 30,
+    "question": "Cross drainage works are not required when the canal is:",
+    "options": ["contour canal", "ridge canal", "regime canal", "carrier canal"],
+    "answer": "ridge canal"
+  },
+  {
+    "number": 31,
+    "question": "The level difference between the top of bank of a canal and the maximum water level is:",
+    "options": ["berm", "afflux", "free board", "critical depth"],
+    "answer": "free board"
+  },
+  {
+    "number": 32,
+    "question": "Conductivity is directly depends on:",
+    "options": ["total dissolved solids", "volatile organic solids", "total solids", "ionized dissolved solids"],
+    "answer": "ionized dissolved solids"
+  },
+  {
+    "number": 33,
+    "question": "Minimum amount of dissolved oxygen desirable in any water body is less than:",
+    "options": ["2 mg/l", "1 mg/l", "3 mg/l", "5 mg/l"],
+    "answer": "5 mg/l" 
+  },
+  {
+    "number": 34,
+    "question": "The pipe carrying sewage is called:",
+    "options": ["sewage", "sewer", "sullage", "sewerage"],
+    "answer": "sewer"
+  },
+  {
+    "number": 35,
+    "question": "Plasticity index is:",
+    "options": ["liquid limit - plastic limit", "plastic limit - shrinkage limit", "water content - plastic limit", "liquid limit - shrinkage limit"],
+    "answer": "liquid limit - plastic limit"
+  },
+  {
+    "number": 36,
+    "question": "The ratio of unconfined compression strength in natural state to that in the remoulded state is:",
+    "options": ["permeability", "flow index", "sensitivity", "thixotrophy"],
+    "answer": "sensitivity"
+  },
+  {
+    "number": 37,
+    "question": "The difference between the total stress at a point and the pore water pressure at that point is:",
+    "options": ["total stress", "effective stress", "neutral stress", "shear stress"],
+    "answer": "effective stress"
+  },
+  {
+    "number": 38,
+    "question": "When a retaining wall moves towards the backfill when the wall tends to compress the soil horizontally, is due to:",
+    "options": ["At-rest pressure", "Active earth pressure", "Passive earth pressure", "Effective pressure"],
+    "answer": "Passive earth pressure"
+  },
+  {
+    "number": 39,
+    "question": "The hydrometer analysis is based on the principle of:",
+    "options": ["Stoke's law", "Darcy's law", "Mannings law", "Newton's law"],
+    "answer": "Stoke's law"
+  },
+  {
+    "number": 40,
+    "question": "The maximum water content of the soil at which no further reduction in the volume of soil mass is called:",
+    "options": ["Plastic limit", "Liquid limit", "Water limit", "Shrinkage limit"],
+    "answer": "Shrinkage limit"
+  },
+  {
+    "number": 41,
+    "question": "The difference between plastic limit and shrinkage limit is called:",
+    "options": ["fluidity index", "shrinkage index", "plasticity index", "density index"],
+    "answer": "shrinkage index"
+  },
+  {
+    "number": 42,
+    "question": "Quick sand is:",
+    "options": ["pure silica sand", "a sand act as a quick filter", "a condition when cohesion decreases", "a condition in which cohesionless soil loses its shear strength due to the upward flow of water"],
+    "answer": "a condition in which cohesionless soil loses its shear strength due to the upward flow of water"
+  },
+  {
+    "number": 43,
+    "question": "Consolidation is a process in which:",
+    "options": ["sudden compression of soil", "gradual expulsion of pore water", "abnormal shrinking of soil", "tilting and failure of soil"],
+    "answer": "gradual expulsion of pore water"
+  },
+  {
+    "number": 44,
+    "question": "The minimum depth of exploration in the case of gravity dam is:",
+    "options": ["base width of dam", "twice the base width", "twice the height of the dam", "height of dam"],
+    "answer": "twice the base width"
+  },
+  {
+    "number": 45,
+    "question": "Samples from auger boring are:",
+    "options": ["non representative sample", "undisturbed sample", "representative sample", "none"],
+    "answer": "non representative sample"
+  },
+  {
+    "number": 46,
+    "question": "Vane shear test is used for measuring:",
+    "options": ["voids ratio of soil", "shear strength of cohesive soil", "bearing capacity of soil", "all the above"],
+    "answer": "shear strength of cohesive soil"
+  },
+  {
+    "number": 47,
+    "question": "The material that is retained by a retaining structure is generally called as:",
+    "options": ["surcharge", "soil slope", "backfill", "all these"],
+    "answer": "backfill"
+  },
+  {
+    "number": 48,
+    "question": "Shallow footing is one whose depth is:",
+    "options": ["equal to width", "less than width", "more than width", "none of these"],
+    "answer": "less than width"
+  },
+  {
+    "number": 49,
+    "question": "Yellow (amber) colour of a coloured light traffic signal in a junction indicates:",
+    "options": ["go", "stop", "be ready to go", "clearance time"],
+    "answer": "clearance time"
+  },
+  {
+    "number": 50,
+    "question": "The first railway train in India ran between:",
+    "options": ["Chennai and Bengaluru", "Mumbai and Thana", "Calcutta and Delhi", "Howrah and Dadar"],
+    "answer": "Mumbai and Thana"
+  },
+  {
+    "number": 51,
+    "question": "The standard length of rail section for broad gauge rail is:",
+    "options": ["12 m", "10 m", "13 m", "15 m"],
+    "answer": "13 m"
+  },
+  {
+    "number": 52,
+    "question": "The maximum degree of curve in a broad gauge is:",
+    "options": ["10°", "12°", "13°", "14°"],
+    "answer": "10°"
+  },
+  {
+    "number": 53,
+    "question": "The principal constituent of argillaceous rocks is:",
+    "options": ["lime", "silica", "clay", "sand"],
+    "answer": "clay"
+  },
+  {
+    "number": 54,
+    "question": "The indentation provided in a face of the brick is called:",
+    "options": ["pallet", "strike", "bullnose", "frog"],
+    "answer": "frog"
+  },
+  {
+    "number": 55,
+    "question": "The phenomenon of increasing the volume of a moist sand is called:",
+    "options": ["bleeding", "bulking", "segregation", "thawing"],
+    "answer": "bulking"
+  },
+  {
+    "number": 56,
+    "question": "The volume of one bag (50 kg) of cement is:",
+    "options": ["0.04 m³", "0.034 m³", "0.045 m³", "0.025 m³"],
+    "answer": "0.034 m³"
+  },
+  {
+    "number": 57,
+    "question": "The age of a tree can be judged from:",
+    "options": ["diameter", "leaf", "annual rings", "height"],
+    "answer": "annual rings"
+  },
+  {
+    "number": 58,
+    "question": "Snowcem is a:",
+    "options": ["cement paint", "oil paint", "enamel paint", "cellulose paint"],
+    "answer": "cement paint"
+  },
+  {
+    "number": 59,
+    "question": "Asphalt is a mixture of:",
+    "options": ["bitumen and asbestos", "bitumen and cement", "tar and asbestos", "bitumen and inert mineral matter"],
+    "answer": "bitumen and inert mineral matter"
+  },
+  {
+    "number": 60,
+    "question": "The height of slump cone in slump test is:",
+    "options": ["40 cm", "45 cm", "30 cm", "38 cm"],
+    "answer": "30 cm"
+  },
+  {
+    "number": 61,
+    "question": "The tendency of the mineral to split along a certain plane is called:",
+    "options": ["cleavage", "fractive", "lusture", "softness"],
+    "answer": "cleavage"
+  },
+  {
+    "number": 62,
+    "question": "The exterior corner of a wall is known as:",
+    "options": ["jamb", "frog", "bullnose", "quoin"],
+    "answer": "quoin"
+  },
+  {
+    "number": 63,
+    "question": "The row of arches in continuation is called:",
+    "options": ["archline", "arcade", "conclave", "multiple arch"],
+    "answer": "arcade"
+  },
+  {
+    "number": 64,
+    "question": "The vertical distance between the top of two successive treads is:",
+    "options": ["going", "flight", "rise", "run"],
+    "answer": "rise"
+  },
+  {
+    "number": 65,
+    "question": "The vertical intermediate member of the frame which divides the window vertically is:",
+    "options": ["mullion", "cross style", "pillion", "rail"],
+    "answer": "mullion"
+  },
+  {
+    "number": 66,
+    "question": "The vertical window provided on the sloping roof is known as:",
+    "options": ["lantern window", "gable window", "dormer window", "bay window"],
+    "answer": "dormer window"
+  },
+  {
+    "number": 67,
+    "question": "A dog legged stair connecting two floors with floor to floor height is 4.2 m and with a rise of 15 cm. Then the total number of treads in that stair is:",
+    "options": ["26", "25", "28", "27"],
+    "answer": "27"
+  },
+  {
+    "number": 68,
+    "question": "An instrument used to measure the depth of foundation is:",
+    "options": ["Ranging rod", "T-square", "Leveling staff", "Boning rod"],
+    "answer": "Boning rod"
+  },
+  {
+    "number": 69,
+    "question": "A cut made in the frame of a door to receive the shutter is:",
+    "options": ["louver", "groove", "gang", "rebate"],
+    "answer": "rebate"
+  },
+  {
+    "number": 70,
+    "question": "A propped cantilever with uniformly distributed load 'w/m' and span 'l', then the prop reaction is:",
+    "options": ["3 w1/8", "5 w1/8", "w1/8", "w1/2"],
+    "answer": "3 w1/8"
+  },
+  {
+    "number": 71,
+    "question": "A pin jointed perfect frame is to satisfy where 'n' is number of members and 'j' is the number of joints:",
+    "options": ["n > 2j-3", "n < 2j-3", "n = 2j -3", "n = 2j+3"],
+    "answer": "n = 2j -3"
+  },
+  {
+    "number": 72,
+    "question": "A partition wall is designed to carry:",
+    "options": ["live loads", "imposed load", "vertical loads", "no external loads"],
+    "answer": "no external loads"
+  },
+  {
+    "number": 73,
+    "question": "In the limit state method of design the maximum compressive strain in concrete is taken as:",
+    "options": ["0.0035", "0.035", "0.002", "0.02"],
+    "answer": "0.0035"
+  },
+  {
+    "number": 74,
+    "question": "In singly reinforced beam if the concrete is stressed to its allowable limit earlier than steel the section is said to be:",
+    "options": ["over reinforced beam", "balanced section", "under reinforced section", "critical section"],
+    "answer": "over reinforced beam"
+  },
+  {
+    "number": 75,
+    "question": "For a simply supported beam, the maximum deflection permitted is:",
+    "options": ["1/300 of the span", "1/325 of span", "1/350 of span", "1/400 of span"],
+    "answer": "1/325 of span"
+  },
+  {
+    "number": 76,
+    "question": "Isogonics lines are the lines having the same:",
+    "options": ["bearing", "dip", "declination", "elevation"],
+    "answer": "declination"
+  },
+  {
+    "number": 77,
+    "question": "A bench mark is a:",
+    "options": ["Reference point", "Point of known elevation", "The very first station", "The last station where the survey closes"],
+    "answer": "Point of known elevation"
+  },
+  {
+    "number": 78,
+    "question": "Point of tangency is the:",
+    "options": ["end of the curve", "beginning of the curve", "common point where the radius changes", "common point where the direction changes"],
+    "answer": "beginning of the curve"
+  },
+  {
+    "number": 79,
+    "question": "The instrument used to reproduce plans to a different scale is called:",
+    "options": ["planimeter", "pantograph", "clinometers", "box sextant"],
+    "answer": "pantograph"
+  },
+  {
+    "number": 80,
+    "question": "The approximate weight of one cubic metre of mild steel is:",
+    "options": ["2400 kg", "1440 kg", "7850 kg", "2500 kg"],
+    "answer": "7850 kg"
+  },
+  {
+    "number": 81,
+    "question": "Which of these metals is the best conductor of heat?",
+    "options": ["Aluminium", "Iron", "Copper", "Silver"],
+    "answer": "Silver"
+  },
+  {
+    "number": 82,
+    "question": "Which among the following is not an example of Rabi crop?",
+    "options": ["Wheat", "Barley", "Rice", "Mustard"],
+    "answer": "Rice"
+  },
+  {
+    "number": 83,
+    "question": "The first talkie film in Malayalam 'Balan' was directed by:",
+    "options": ["J.C. Daniel", "Ramu Karyat", "S. Nottani", "V. Vincent"],
+    "answer": "S. Nottani"
+  },
+  {
+    "number": 84,
+    "question": "The highest dam in India, the Tehri dam is built in which river:",
+    "options": ["Bagiradhi", "Narmada", "Brahmaputra", "Sutlej"],
+    "answer": "Bagiradhi"
+  },
+  {
+    "number": 85,
+    "question": "'Kozhinha Ilakal' is the autobiography of:",
+    "options": ["M.P. Paul", "Joseph Mundassery", "S.K. Pottakkat", "C. Kesavan"],
+    "answer": "C. Kesavan"
+  },
+  {
+    "number": 86,
+    "question": "Which among the following is a disease caused by virus:",
+    "options": ["Measles", "Diphtheria", "Leprosy", "Tuberculosis"],
+    "answer": "Measles"
+  },
+  {
+    "number": 87,
+    "question": "The poem 'Jathikkummi' which criticized the caste system in Kerala was written by:",
+    "options": ["Kumaranasan", "K. Ayyappan", "K.P. Karuppan", "Kuttippurath Kesavan Nair"],
+    "answer": "K.P. Karuppan"
+  },
+  {
+    "number": 88,
+    "question": "The Malayalam writer who was selected for Kendra Sahitya Academy fellowship in 2013:",
+    "options": ["Sara Joseph", "C. Radhakrishnan", "Sachidanandan", "M.T. Vasudevan Nair"],
+    "answer": "C. Radhakrishnan"
+  },
+  {
+    "number": 89,
+    "question": "The first state in India which is declared as tobacco free state:",
+    "options": ["Uttaranchal", "Himachal Pradesh", "Hariana", "Odisha"],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "number": 90,
+    "question": "Rangaswami cup is associated with which of the following games:",
+    "options": ["Badminton", "Hockey", "Football", "Cricket"],
+    "answer": "Hockey"
+  },
+  {
+    "number": 91,
+    "question": "The editor of 'Nasrani Deepika' started publication in 1887 from Mannanam was:",
+    "options": ["Poykayil Yohannan", "Nidhirikkal Manikathanar", "Arnos Pathiri", "Father Hanxelden"],
+    "answer": "Nidhirikkal Manikathanar"
+  },
+  {
+    "number": 92,
+    "question": "The investors meeting conducted by Kerala Government in 2012:",
+    "options": ["GIM", "Vision Kerala 2030", "Emerging Kerala", "Kerala conference of investors"],
+    "answer": "Emerging Kerala"
+  },
+  {
+    "number": 93,
+    "question": "The primary memory of a computer is:",
+    "options": ["CPU", "C.D. ROM", "RAM", "Hard disk"],
+    "answer": "RAM"
+  },
+  {
+    "number": 94,
+    "question": "The renaissance leader of Kerala who was the disciple of Brahmananda Sivayogi:",
+    "options": ["Vagbhadananda", "Ayyankali", "Vaikunda Swamikal", "Dr. Palpu"],
+    "answer": "Vagbhadananda"
+  },
+  {
+    "number": 95,
+    "question": "International cyber safety day is:",
+    "options": ["December 10", "October 24", "September 16", "November 30"],
+    "answer": "November 30"
+  },
+  {
+    "number": 96,
+    "question": "Which of these vitamins is soluble in water?",
+    "options": ["Vitamin E", "Vitamin D", "Vitamin A", "Vitamin B"],
+    "answer": "Vitamin B"
+  },
+  {
+    "number": 97,
+    "question": "The constitutional amendment which made 'Right to Education' a fundamental right:",
+    "options": ["73rd", "86th", "126th", "21st"],
+    "answer": "86th"
+  },
+  {
+    "number": 98,
+    "question": "The congress session which passed 'Poorna Swaraj' resolution:",
+    "options": ["Bombay", "Calcutta", "Lucknow", "Lahore"],
+    "answer": "Lahore"
+  },
+  {
+    "number": 99,
+    "question": "Which among the following is not a work by Vallathol Narayana Menon?",
+    "options": ["Umakeralam", "Badhiravilapam", "Chitrayogam", "Sahityamanjari"],
+    "answer": "Badhiravilapam"
+  },
+  {
+    "number": 100,
+    "question": "The editor of the newspaper 'Mitavadi' published in Travancore:",
+    "options": ["C. Krishnan", "Vakkom Abdul Khadar Moulavi", "K. Ramakrishna Pilla", "G.P. Pilla"],
+    "answer": "C. Krishnan"
+  }
+]

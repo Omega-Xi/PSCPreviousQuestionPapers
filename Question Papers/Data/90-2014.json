@@ -1,0 +1,717 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following income is not taxable under the head income from salary?",
+    "options": ["Salary of a Govt. employee", "Pension", "Salary of a Govt. employee posted abroad", "Salary of a member of parliament"],
+    "answer": "Salary of a member of parliament"
+  },
+  {
+    "number": 2,
+    "question": "Any income from slump sale is taxable under:",
+    "options": ["Income from other sources", "Capital gain", "Profits and gains from business or profession", "Income from house property"],
+    "answer": "Capital gain"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is not a casual income?",
+    "options": ["Winning from lottery", "A gift from relative", "Habitual betting", "Income from card games"],
+    "answer": "A gift from relative"
+  },
+  {
+    "number": 4,
+    "question": "Variable working capital is required to meet:",
+    "options": ["Seasonal demand", "Special exigencies", "Temporary needs", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is not a method of slowing cash outflows?",
+    "options": ["Lock box system", "Centralization of payments", "Making use of float", "Reducing frequency of payments"],
+    "answer": "Lock box system"
+  },
+  {
+    "number": 6,
+    "question": "Cost of capital is not similar to one of the following:",
+    "options": ["Cut off rate", "Target rate", "Hurdle rate", "Internal Rate of Return"],
+    "answer": "Target rate"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following factor does not influence the capital structure decision?",
+    "options": ["Cost of capital", "Risk", "Corporate tax", "Composition of fixed assets"],
+    "answer": "Composition of fixed assets"
+  },
+  {
+    "number": 8,
+    "question": "Capital Index Bonds are linked with:",
+    "options": ["BSE sensex", "NSE nifty", "Consumer price index", "BSE-100"],
+    "answer": "Consumer price index"
+  },
+  {
+    "number": 9,
+    "question": "Open ended mutual fund schemes are:",
+    "options": ["Open for a particular period", "Have fixed period of maturity", "Listed in the stock exchange", "Open on a continuous basis"],
+    "answer": "Open on a continuous basis"
+  },
+  {
+    "number": 10,
+    "question": "Compulsory delisting of a company from stock market is due to:",
+    "options": ["Violation of listing agreement", "Capital size is small", "Merger", "Thin trading"],
+    "answer": "Violation of listing agreement"
+  },
+  {
+    "number": 11,
+    "question": "Market value of bond depends on:",
+    "options": ["The coupon rate", "Years to maturity", "Expected yield to maturity", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 12,
+    "question": "What is the dividend yield of a stock having a face value of Rs. 10? Which has declared 35% dividend for the current year? The present market value of the stock is Rs. 40:",
+    "options": ["35%", "70%", "8.75%", "8.5%"],
+    "answer": "8.75%"
+  },
+  {
+    "number": 13,
+    "question": "Diversification of investments helps to reduce:",
+    "options": ["Interest rate risk", "Market risk", "Unique risk", "Inflation risk"],
+    "answer": "Unique risk"
+  },
+  {
+    "number": 14,
+    "question": "The put option buyer gains:",
+    "options": ["In the bullish market", "In the bearish market", "In the stable market", "When the strike price is lower than stock price"],
+    "answer": "In the bearish market"
+  },
+  {
+    "number": 15,
+    "question": "The mutual funds listed in the stock exchange are:",
+    "options": ["Closed-end funds", "Open-end funds", "Growth schemes", "Stock index funds"],
+    "answer": "Closed-end funds"
+  },
+  {
+    "number": 16,
+    "question": "Among the following which one represents a potential use of working capital:",
+    "options": ["Sale of fixed assets at a loss", "Net loss from operation", "Declaration of dividend", "Payment to creditors"],
+    "answer": "Payment to creditors"
+  },
+  {
+    "number": 17,
+    "question": "The father of scientific management is:",
+    "options": ["F.W. Taylor", "F.E.L. Brach", "Peter. F. Drucker", "Michael. J. Jucious"],
+    "answer": "F.W. Taylor"
+  },
+  {
+    "number": 18,
+    "question": "Periodical cost is also known as:",
+    "options": ["Variable cost", "Revenue cost", "Marginal cost", "Fixed cost"],
+    "answer": "Fixed cost"
+  },
+  {
+    "number": 19,
+    "question": "The process of delegation is always:",
+    "options": ["Circular", "Horizontal", "Top down", "Bottom up"],
+    "answer": "Top down"
+  },
+  {
+    "number": 20,
+    "question": "Management By Objective was developed as a philosophy by:",
+    "options": ["Peter. F. Drucker", "F.W. Taylor", "Mayo", "Simon"],
+    "answer": "Peter. F. Drucker"
+  },
+  {
+    "number": 21,
+    "question": "Financial structure represents:",
+    "options": ["Long term liabilities", "Capital structure", "Long term and short term liabilities", "Working capital"],
+    "answer": "Long term and short term liabilities"
+  },
+  {
+    "number": 22,
+    "question": "Usually dividend declared and paid as a percentage of:",
+    "options": ["Authorized capital", "Issued capital", "Called up capital", "Paid up capital"],
+    "answer": "Paid up capital"
+  },
+  {
+    "number": 23,
+    "question": "To determine the intrinsic value of share, which of the following data is essential:",
+    "options": ["Dividend per share", "Market value per share", "Expected rate of return", "Net equity"],
+    "answer": "Expected rate of return"
+  },
+  {
+    "number": 24,
+    "question": "In a fund flow statement (working capital basis) a current liability repaid by the organization:",
+    "options": ["Is shown as a source of working capital", "Is shown as an application of working capital", "Is shown as a decrease in cash", "Do not affect the working capital"],
+    "answer": "Is shown as an application of working capital"
+  },
+  {
+    "number": 25,
+    "question": "A manager who works with the help of rules and regulations is called:",
+    "options": ["Traipest leader", "Laissez faire leader", "Participator leader", "Bureaucratic leader"],
+    "answer": "Bureaucratic leader"
+  },
+  {
+    "number": 26,
+    "question": "Income Tax is imposed by:",
+    "options": ["Central Govt.", "State Govt.", "Local authority", "Central and State Govt."],
+    "answer": "Central Govt."
+  },
+  {
+    "number": 27,
+    "question": "Inflation can be checked through:",
+    "options": ["Reducing public expenditure", "Increasing direct taxation", "Surplus budgeting", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "number": 28,
+    "question": "Which of the following statement is/are true?<br>(1) Patent account is a nominal<br>(2) Capital account is a real account<br>(3) Prepaid rent is a personal account<br>(4) Outstanding salaries is a nominal account<br>(5) Drawings account is a nominal account",
+    "options": [
+      "Only (1) above",
+      "Only (3) above",
+      "Both (1) and (2) above",
+      "(2), (3) and (5) above"
+    ],
+    "answer": "(2), (3) and (5) above"
+  },
+  {
+    "number": 29,
+    "question": "The major source of revenue to the Government is:",
+    "options": ["Income tax other than corporate tax", "Corporate tax", "Wealth tax", "Gift tax"],
+    "answer": "Corporate tax"
+  },
+  {
+    "number": 30,
+    "question": "Cost of acquisition of natural resources are allocated through:",
+    "options": ["Depletion", "Depreciation", "Allocation", "Amortization"],
+    "answer": "Depletion"
+  },
+  {
+    "number": 31,
+    "question": "The technique used to study the position and performance of an undertaking with focus on financial statement is termed as:",
+    "options": ["Fundamental analysis", "Break even analysis", "Cross sectional analysis", "Technical analysis"],
+    "answer": "Fundamental analysis"
+  },
+  {
+    "number": 32,
+    "question": "The marginal cost equation is:",
+    "options": ["S-V=F+P", "S+V=F+P", "S=V-C", "S+C=F±P"],
+    "answer": "S-V=F+P"
+  },
+  {
+    "number": 33,
+    "question": "Capital of a company is raised in the following sequence:",
+    "options": [
+      "Issued, subscribed, called up, nominal",
+      "Nominal, issued, called up, subscribed",
+      "Issued, nominal, subscribed, called up",
+      "Nominal, subscribed issued, called up"
+    ],
+    "answer": "Nominal, subscribed issued, called up"
+  },
+  {
+    "number": 34,
+    "question": "Contingent liabilities appearing as a note to balance sheet as a part of:",
+    "options": ["Concept of full disclosure", "Consistency concept", "Conservatism concept", "Realization concept"],
+    "answer": "Concept of full disclosure"
+  },
+  {
+    "number": 35,
+    "question": "The immediate solvency ratio is:",
+    "options": ["Current ratio", "Quick ratio", "Debt equity ratio", "Stock turnover ratio"],
+    "answer": "Quick ratio"
+  },
+  {
+    "number": 36,
+    "question": "Which of the following will result in decreasing margin of safety?",
+    "options": ["Increase in variable cost", "Reduction in fixed cost", "Increase in selling price", "Change in sales mix in order to increase contribution"],
+    "answer": "Increase in variable cost"
+  },
+  {
+    "number": 37,
+    "question": "In Maslow's Need Hierarchy Theory, in which of the following order human needs arise:",
+    "options": [
+      "Physiological needs, social needs, safety needs, ego needs, self actualization needs",
+      "Physiological needs, social needs, ego needs, safety needs, self actualization needs",
+      "Physiological needs, safety needs, social needs, ego needs, self actualization needs.",
+      "Physiological needs, safety needs, ego needs, social needs, self actualization needs"
+    ],
+    "answer": "Physiological needs, safety needs, social needs, ego needs, self actualization needs."
+  },
+  {
+    "number": 38,
+    "question": "The activity which is not helpful in controlling money supply?",
+    "options": ["CRR", "Free market policy", "Bank rate", "Change in margin requirements"],
+    "answer": "Free market policy"
+  },
+  {
+    "number": 39,
+    "question": "'Stagflation' means:",
+    "options": ["Inflation with depression", "Inflation with growth", "Deflation with growth", "Inflation after deflation"],
+    "answer": "Inflation with depression"
+  },
+  {
+    "number": 40,
+    "question": "Purchase and distribution of imported products by Govt. is called:",
+    "options": ["Cartel", "Canalization", "Grey marketing", "None of the above"],
+    "answer": "Canalization"
+  },
+  {
+    "number": 41,
+    "question": "Generally, orientation is given to:",
+    "options": ["Supervisory staff", "Clerical staff", "New entrants", "Previous employees"],
+    "answer": "New entrants"
+  },
+  {
+    "number": 42,
+    "question": "Full cost pricing method means:",
+    "options": ["Fixed cost plus mark-up", "All cost plus normal profit margin", "Standard cost plus mark-up", "Market price plus mark-up"],
+    "answer": "All cost plus normal profit margin"
+  },
+  {
+    "number": 43,
+    "question": "When a balance sheet is arranged in liquidity order, which of the following is correct?",
+    "options": [
+      "Fixed assets, short term investments, cash and current assets",
+      "Cash, short term investments, current assets, fixed assets",
+      "Cash, current assets, short term investments, fixed assets",
+      "Short term investments, cash, current assets, fixed assets"
+    ],
+    "answer": "Cash, short term investments, current assets, fixed assets"
+  },
+  {
+    "number": 44,
+    "question": "Risk involved in a firm is higher where:",
+    "options": ["Cost of capital is low", "Cost of capital is high", "Cost of capital is neutral", "None of these"],
+    "answer": "Cost of capital is high"
+  },
+  {
+    "number": 45,
+    "question": "In respect of planning, which of the following statement is incorrect?",
+    "options": [
+      "Planning is forward looking",
+      "Planning is intellectual activity",
+      "Planning is not performed by top management",
+      "Planning is related to objectives"
+    ],
+    "answer": "Planning is not performed by top management"
+  },
+  {
+    "number": 46,
+    "question": "A company acquired assets worth Rs.1,98,000 and the purchase price is paid by issue of equity shares of Rs. 10 each at 10% discount. The number of shares issued:",
+    "options": ["19,800", "20,000", "22,000", "18,000"],
+    "answer": "22,000"
+  },
+  {
+    "number": 47,
+    "question": "Which one of the following is not a distinctive feature of co-operative organization?",
+    "options": ["Service motto", "Democratic management", "One share one vote system", "Corporate status"],
+    "answer": "Corporate status"
+  },
+  {
+    "number": 48,
+    "question": "Harish LTD furnished the following information:<br>10% preference share capital RS.12,00,000<br>12% debentures Rs.8,00,000<br>Equity share holders fund Rs.50,00,000<br>The capital gearing ratio of Harish LTD was:",
+    "options": ["0.40", "0.60", "2.50", "0.16"],
+    "answer": "0.40"
+  },
+  {
+    "number": 49,
+    "question": "Gopal LTD furnished the following information:<br>Return on total assets-10%<br>Return on net worth-20%<br>Net worth-10,00,000<br>The total assets of the company were:",
+    "options": ["Rs. 10,00,000", "Rs. 20,00,000", "Rs. 12,00,000", "Rs. 15,00,000"],
+    "answer": "Rs. 20,00,000"
+  },
+  {
+    "number": 50,
+    "question": "Y LTD has furnished the following information:<br>Period-I Sales-7,00,000 Profit/Loss-10,000(loss)<br>Period-II Sales-9,00,000 Profit/Loss-10,000<br>The variable cost of period II is:",
+    "options": ["6,30,000", "7,20,000", "8,90,000", "8,10,000"],
+    "answer": "7,20,000"
+  },
+  {
+    "number": 51,
+    "question": "Geethu LTD has furnished the following information:<br>Fixed cost Rs.1,50,000<br>Variable cost per unit Rs.10<br>Selling price per unit Rs.15<br>To brought down the break even point to 25000 unit, the selling price should be:",
+    "options": ["Rs. 10", "Rs. 6", "Rs. 16", "Rs. 20"],
+    "answer": "Rs. 16"
+  },
+  {
+    "number": 52,
+    "question": "Five 'm's of management are:",
+    "options": [
+      "Marketing, monitoring, motivation, machinery and methods",
+      "Manager, muscle, machinery and methods",
+      "Man, money, material, machinery and methods",
+      "Marketing, man power, muscle, motivation and methods"
+    ],
+    "answer": "Man, money, material, machinery and methods"
+  },
+  {
+    "number": 53,
+    "question": "Current ratio = 2.8<br>Acid-test ratio = 1.5<br>Working capital = 1,62,000<br>The amount of current asset:",
+    "options": ["90,000", "2,52,000", "1,35,000", "1,52,000"],
+    "answer": "2,52,000"
+  },
+  {
+    "number": 54,
+    "question": "In life insurance, age of applicant and the insurance premium is:",
+    "options": ["Positively correlated", "Negatively correlated", "Zero correlated", "None of the above"],
+    "answer": "Positively correlated"
+  },
+  {
+    "number": 55,
+    "question": "Credit sales Rs.1,20,000<br>Debtors Rs.20,000<br>Bills receivable Rs.10,000<br>Average collection period is:",
+    "options": ["4 months", "5 months", "3 months", "6 months"],
+    "answer": "2 months"
+  },
+  {
+    "number": 56,
+    "question": "In determining the fund from operation gain on sale of fixed assets should be ___ from the net profit and the loss on sale of fixed asset should be ___ to the net profit.",
+    "options": [
+      "Added, deducted",
+      "Added, added",
+      "Deducted, added",
+      "Deducted, deducted"
+    ],
+    "answer": "Deducted, added"
+  },
+  {
+    "number": 57,
+    "question": "Net profit-60,000<br>Total purchase-1,40,000<br>Opening creditors-48,000<br>Closing creditors-72,000<br>The amount of cash from operation will be:",
+    "options": ["2,00,000", "60,000", "1,32,000", "84,000"],
+    "answer": "84,000"
+  },
+  {
+    "number": 58,
+    "question": "Which of the following statement is the basis of diversification?",
+    "options": [
+      "It never rains, but it pours",
+      "Make hay while the sun shines",
+      "Don't look a gift horse in the mouth",
+      "Don't put all your eggs in one basket"
+    ],
+    "answer": "Don't put all your eggs in one basket"
+  },
+  {
+    "number": 59,
+    "question": "Income received in India in the previous year is taxable in the hands of:",
+    "options": ["Resident", "Not ordinarily resident", "Non resident", "All above"],
+    "answer": "All above"
+  },
+  {
+    "number": 60,
+    "question": "Technical analysis helps:",
+    "options": [
+      "To find out the present state of stock market",
+      "To estimate the growth of the stock market",
+      "To show the direction of the stock market",
+      "To indicate the economic activity"
+    ],
+    "answer": "To show the direction of the stock market"
+  },
+  {
+    "number": 61,
+    "question": "What is subscript?",
+    "options": [
+      "Text that is smaller and below the baseline",
+      "Text that is smaller and above the baseline",
+      "Text that is larger and below the baseline",
+      "Text that is larger and above the baseline"
+    ],
+    "answer": "Text that is smaller and below the baseline"
+  },
+  {
+    "number": 62,
+    "question": "What language does the computer use and understand?",
+    "options": ["High-level", "Assembly", "Machine", "None of the above"],
+    "answer": "Machine"
+  },
+  {
+    "number": 63,
+    "question": "What is a firewall?",
+    "options": ["Antivirus program", "Internet blocker", "Internet logger", "Internet filter"],
+    "answer": "Internet filter"
+  },
+  {
+    "number": 64,
+    "question": "What is BIOS short for?",
+    "options": [
+      "Not short for anything",
+      "Basic Input / Output System",
+      "Binary Input / Output System",
+      "Bus Input / Output System"
+    ],
+    "answer": "Basic Input / Output System"
+  },
+  {
+    "number": 65,
+    "question": "Which below IP address would be used for a local network?",
+    "options": [
+      "192.168.1.100",
+      "69.72.169.241",
+      "74.125.127.100",
+      "209.131.36.100"
+    ],
+    "answer": "192.168.1.100"
+  },
+  {
+    "number": 66,
+    "question": "What does the term MIME stand for?",
+    "options": [
+      "Mail Internet Mail Exchange",
+      "Mail Interleave Method Exchange",
+      "Multipurpose Internet Mail Extensions",
+      "Multipurpose Interleave Mail Exchange"
+    ],
+    "answer": "Multipurpose Internet Mail Extensions"
+  },
+  {
+    "number": 67,
+    "question": "Why should you avoid downloading files using file-sharing programs like Limewire or Frostwire?",
+    "options": [
+      "(A) Against Copy right laws",
+      "(B) Risk of Viruses",
+      "(C) High Penalty once Caught",
+      "(A) (B) and (C)"
+    ],
+    "answer": "(A) (B) and (C)"
+  },
+  {
+    "number": 68,
+    "question": "What does the term IRQ stand for?",
+    "options": [
+      "Input Request Queue",
+      "Interrupt Request Queue",
+      "Interrupt Request",
+      "Input Request"
+    ],
+    "answer": "Interrupt Request"
+  },
+  {
+    "number": 69,
+    "question": "Which Storage Technology is more durable?",
+    "options": ["Magnetic Tape", "M-Disc", "Hard Disk", "DVD"],
+    "answer": "M-Disc"
+  },
+  {
+    "number": 70,
+    "question": "The results of arithmetical and logical operations are stored in a / an:",
+    "options": ["Accumulator", "Instruction register", "Cache", "ROM"],
+    "answer": "Accumulator"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following operating systems is produced by IBM?",
+    "options": ["OS-2", "Windows", "DOS", "UNIX"],
+    "answer": "OS-2"
+  },
+  {
+    "number": 72,
+    "question": "_____ is an error in computer programme.",
+    "options": ["Virus", "Bug", "Crash", "Power Failure"],
+    "answer": "Bug"
+  },
+  {
+    "number": 73,
+    "question": "Minimize all of the opened windows:",
+    "options": [
+      "Windows Logo + M",
+      "Windows Logo",
+      "Windows Logo + BREAK",
+      "Windows Logo + D"
+    ],
+    "answer": "Windows Logo + M"
+  },
+  {
+    "number": 74,
+    "question": "_____ Provides a common address space and routes the packets of data across the entire Internet.",
+    "options": ["UDP", "TCP", "FTP", "IP"],
+    "answer": "IP"
+  },
+  {
+    "number": 75,
+    "question": "Who is considered to be The Father of Artificial Intelligence?",
+    "options": ["George Boole", "John McCarthy", "Allen Newell", "Alan Turing"],
+    "answer": "John McCarthy"
+  },
+  {
+    "number": 76,
+    "question": "The use of parity bit is for:",
+    "options": ["Coding", "Indexing", "Error detection", "None of these"],
+    "answer": "Error detection"
+  },
+  {
+    "number": 77,
+    "question": "One MB =",
+    "options": ["1000 KB", "1024 Bytes", "10000 Bits", "210 KB"],
+    "answer": "1024 Bytes"
+  },
+  {
+    "number": 78,
+    "question": "Programs stored in ROM Chips are called:",
+    "options": ["Hardware", "Software", "Firmware", "None of these"],
+    "answer": "Firmware"
+  },
+  {
+    "number": 79,
+    "question": "Which among is the fastest Super Computer?",
+    "options": ["Stampede", "Tianhe-2", "Mira", "Param"],
+    "answer": "Tianhe-2"
+  },
+  {
+    "number": 80,
+    "question": "Which Memory is more fast?",
+    "options": ["ROM", "Secondary Memory", "RAM", "Cache Memory"],
+    "answer": "Cache Memory"
+  },
+  {
+    "number": 81,
+    "question": "Which of the following Indian was honoured by a special Oscar Award?",
+    "options": ["Mira Nair", "O.P. Sippy", "Satyajith Ray", "Mahesh Bhatt"],
+    "answer": "Satyajith Ray"
+  },
+  {
+    "number": 82,
+    "question": "\"Equal Pay for Equal Work both Men and Women\" has been ensured in the Indian Constitution as:",
+    "options": [
+      "Directive Principles of State Policy",
+      "Fundamental Right",
+      "Fundamental Duties",
+      "Economic Right"
+    ],
+    "answer": "Directive Principles of State Policy"
+  },
+  {
+    "number": 83,
+    "question": "The largest number of Buddhist's found in:",
+    "options": ["Orissa", "Uttar Pradesh", "Madhya Pradesh", "Maharashtra"],
+    "answer": "Maharashtra"
+  },
+  {
+    "number": 84,
+    "question": "The statement about a federal union composed of British Provinces is related to:",
+    "options": ["Gandhi - Irwin Pact", "Cripps Mission", "Cabinet Mission", "Simon Commission"],
+    "answer": "Cabinet Mission"
+  },
+  {
+    "number": 85,
+    "question": "Which among the following ports was called Babl-al-Makka (Gate of Makka) during the Mugal period?",
+    "options": ["Calicut", "Surat", "Thoothukudi", "Vishakapattanam"],
+    "answer": "Surat"
+  },
+  {
+    "number": 86,
+    "question": "Which Article of the Indian Constitution speaks that \"India, that is Bharat, shall be a Union of States\"?",
+    "options": ["Article 1", "Article 2", "Article 4", "Article 5"],
+    "answer": "Article 1"
+  },
+  {
+    "number": 87,
+    "question": "Monopolies and Restrictive Trade practices (Prevention) Act came into force on:",
+    "options": ["January 1, 1970", "June 1, 1970", "December 2, 1970", "January 1, 1971"],
+    "answer": "June 1, 1970"
+  },
+  {
+    "number": 88,
+    "question": "NABARD was setup on July 1, 1982 by taking over the functions of the agricultural credit department of RBI and:",
+    "options": [
+      "Agricultural Money Lending Corporation",
+      "Agricultural Refinance and Development Corporations (ARDC)",
+      "Central Agricultural Financing Corporation",
+      "National Crop Insurance Organisation"
+    ],
+    "answer": "Agricultural Refinance and Development Corporations (ARDC)"
+  },
+  {
+    "number": 89,
+    "question": "Common Wealth Day is celebrated around the World on:",
+    "options": [
+      "2nd Monday in January",
+      "2nd Monday in March",
+      "2nd Monday in April",
+      "2nd Monday in June"
+    ],
+    "answer": "2nd Monday in March"
+  },
+  {
+    "number": 90,
+    "question": "Japan shutdown its last nuclear power station on:",
+    "options": [
+      "September 12, 2013",
+      "September 15, 2013",
+      "September 22, 2013",
+      "October 14, 2013"
+    ],
+    "answer": "September 15, 2013"
+  },
+  {
+    "number": 91,
+    "question": "National Communal Harmony Awards 2011-2012 was shared by:",
+    "options": [
+      "Khamliana of Mizoram and Mohammad Abdul Bari by Odisha",
+      "Gopal Shukla of Jaipur and Mohammad Sulphikar of Jammu",
+      "T.C. Shetty of Tamil Nadu and Gopalaswami of Bihar",
+      "J.K. Singh of Punjab and Gopal Iyyankar of Kerala"
+    ],
+    "answer": "Khamliana of Mizoram and Mohammad Abdul Bari by Odisha"
+  },
+  {
+    "number": 92,
+    "question": "Which of the following countries opened the world's largest offshore wind farm on July 4, 2013?",
+    "options": ["Canada", "China", "Switzerland", "Britain"],
+    "answer": "Britain"
+  },
+  {
+    "number": 93,
+    "question": "World day against Child Labour is observed on:",
+    "options": ["June 12", "June 22", "June 26", "June 28"],
+    "answer": "June 12"
+  },
+  {
+    "number": 94,
+    "question": "The theme of World Habitat Day 2013 is:",
+    "options": [
+      "Changing cities, building opportunities",
+      "Urban mobility to encourage people to shift towards more sustainable modes of transportation",
+      "Pollution free cities and safe living",
+      "Living together is happiness, protecting the rights of each other"
+    ],
+    "answer": "Urban mobility to encourage people to shift towards more sustainable modes of transportation"
+  },
+  {
+    "number": 95,
+    "question": "Sachin Tendulkar's last test match was with which country?",
+    "options": ["South Africa", "Srilanka", "West Indies", "Bangladesh"],
+    "answer": "West Indies"
+  },
+  {
+    "number": 96,
+    "question": "Chief Information Officer of India:",
+    "options": ["Deepak Sandhu", "Sushama Singh", "Deepa Goyal", "Gopika Kelkhar"],
+    "answer": "Sushama Singh"
+  },
+  {
+    "number": 97,
+    "question": "Postal department launches a new PIN Code: 110201 for:",
+    "options": [
+      "Parliament of India",
+      "Prime Minister's Office",
+      "Supreme Court of India",
+      "Delhi High Court"
+    ],
+    "answer": "Parliament of India"
+  },
+  {
+    "number": 98,
+    "question": "Malala Yousafzai's autobiography \"I am Malala\" is co-written by:",
+    "options": ["Christopher Joseph", "Charles Worth", "Catherine Lewins", "Christina Lamb"],
+    "answer": "Christina Lamb"
+  },
+  {
+    "number": 99,
+    "question": "In protest against British Policy \"Individual Civil Disobedience\" was started under the leadership of:",
+    "options": ["Thilak", "Gokhale", "Patel", "Gandhiji"],
+    "answer": "Gandhiji"
+  },
+  {
+    "number": 100,
+    "question": "The architect of Human Rights Declaration:",
+    "options": ["Humphry David", "John David", "John Locke", "John Peters Humphry"],
+    "answer": "John Peters Humphry"
+  }
+]

@@ -1,0 +1,702 @@
+[
+    {
+      "number": 1,
+      "question": "'One caste, One religion and One God for man' was the message of:",
+      "options": ["Sree Narayana Guru", "Chattampi Swamikal", "Ayyankali", "Pandit Karuppan"],
+
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "number": 2,
+      "question": "Scientific study of soils is called:",
+      "options": ["Cartography", "Pedology", "Physiology", "Palaeology"],
+
+      "answer": "Pedology"
+    },
+    {
+      "number": 3,
+      "question": "Father of 'White Revolution':",
+      "options": ["M.S. Swaminathan", "Dadabhai Naoroji", "Verghese Kurien", "Amartya Sen"],
+
+      "answer": "Verghese Kurien"
+    },
+    {
+      "number": 4,
+      "question": "Who published the famous 'Swadeshabhimani' newspaper?",
+      "options": ["Vakkom Moulavi", "C. Krishnan", "E.V. Krishna Pillai", "K.C. Kesava Pillai"],
+
+      "answer": "Vakkom Moulavi"
+    },
+    {
+      "number": 5,
+      "question": "First Five Year Plan started in India:",
+      "options": ["1950", "1954", "1956", "1951"],
+
+      "answer": "1951"
+    },
+    {
+      "number": 6,
+      "question": "Ezuthachan Award Winner of 2013:",
+      "options": ["Dr. M. Leelavathi", "Dr. M.K. Sanu", "M.T. Vasudevan Nair", "Attoor Ravivarma"],
+
+      "answer": "M.T. Vasudevan Nair"
+    },
+    {
+      "number": 7,
+      "question": "Lines connecting places of equal temperature are called:",
+      "options": ["Isobars", "Isohels", "Isonephs", "Isotherms"],
+
+      "answer": "Isotherms"
+    },
+    {
+      "number": 8,
+      "question": "Play 'Adukkalayil ninnum arangathekku' was written by:",
+      "options": ["E.M.S. Namboothirippad", "K.M. Panikkar", "V.T. Bhattathirippad", "Vishnu Narayanan Namboothiri"],
+
+      "answer": "V.T. Bhattathirippad"
+    },
+    {
+      "number": 9,
+      "question": "'Fourth Estate' refers to:",
+      "options": ["Press", "Sports", "Judiciary", "Population"],
+
+      "answer": "Press"
+    },
+    {
+      "number": 10,
+      "question": "Kaziranga sanctuary is situated in:",
+      "options": ["Kerala", "Assam", "Bihar", "Gujarat"],
+
+      "answer": "Assam"
+    },
+    {
+      "number": 11,
+      "question": "Mary Kom is associated with:",
+      "options": ["Hockey", "Kabaddi", "Football", "Boxing"],
+
+      "answer": "Boxing"
+    },
+    {
+      "number": 12,
+      "question": "Leader of 'Ezhava Memorial':",
+      "options": ["K. Kelappan", "G.P. Pillai", "Dr. Palpu", "K. Damodharan"],
+
+      "answer": "Dr. Palpu"
+    },
+    {
+      "number": 13,
+      "question": "Who launched the Bhoodan Movement?",
+      "options": ["Acharya Vinoba Bhave", "C.R. Das", "Motilal Nehru", "Mahatma Gandhi"],
+
+      "answer": "Acharya Vinoba Bhave"
+    },
+    {
+      "number": 14,
+      "question": "Bhagat Singh was hanged on:",
+      "options": ["23 April 1930", "10 June 1929", "23 March 1931", "13 May 1932"],
+
+      "answer": "23 March 1931"
+    },
+    {
+      "number": 15,
+      "question": "'Sahodara Prasthanam' was started by:",
+      "options": ["T.K. Madhavan", "C. Sankaran Nair", "Mannathu Padmanabhan", "K. Ayyappan"],
+
+      "answer": "K. Ayyappan"
+    },
+    {
+      "number": 16,
+      "question": "Temple Entry Proclamation was issued in the year:",
+      "options": ["1921", "1936", "1930", "1932"],
+
+      "answer": "1936"
+    },
+    {
+      "number": 17,
+      "question": "Who directed the film 'Indian Rupee'?",
+      "options": ["Ranjith", "Blessy", "I.V. Sasi", "Padmarajan"],
+
+      "answer": "Ranjith"
+    },
+    {
+      "number": 18,
+      "question": "NASA sent 'Curiosity' to:",
+      "options": ["Jupiter", "Venus", "Mars", "Saturn"],
+
+      "answer": "Mars"
+    },
+    {
+      "number": 19,
+      "question": "March 8 is observed as:",
+      "options": ["Hiroshima Day", "Women's Day", "Population Day", "Teacher's Day"],
+
+      "answer": "Women's Day"
+    },
+    {
+      "number": 20,
+      "question": "Which river is not related to the Himalayan rivers?",
+      "options": ["River Sindhu", "River Satluj", "River Ganga", "River Cauvery"],
+
+      "answer": "River Cauvery"
+    },
+    {
+      "number": 21,
+      "question": "Corporate governance ensures managers look after the interest of:",
+      "options": ["Government", "Board of Directors", "Stakeholders", "General Public"],
+
+      "answer": "Stakeholders"
+    },
+    {
+      "number": 22,
+      "question": "Outstanding expense is a:",
+      "options": ["Personal account", "Real account", "Nominal account", "None of these"],
+
+      "answer": "Nominal account"
+    },
+    {
+      "number": 23,
+      "question": "Converting physical share certificates into electronic form is called:",
+      "options": ["Rematerialisation", "Dematerialisation", "Gematerialisation", "None of the above"],
+
+      "answer": "Dematerialisation"
+    },
+    {
+      "number": 24,
+      "question": "Ratio used to evaluate a firm's ability to meet short-term obligations:",
+      "options": ["Solvency ratios", "Profitability ratios", "Liquid ratios", "Activity ratios"],
+
+      "answer": "Liquid ratios"
+    },
+    {
+      "number": 25,
+      "question": "Origin of auditing can be traced back to:",
+      "options": ["1914", "1494", "1956", "1949"],
+
+      "answer": "1494"
+    },
+    {
+      "number": 26,
+      "question": "“Statistics is the science of counting” — whose statement is this?",
+      "options": ["Bowley", "Karl Pearson", "Kimbal", "Boddington"],
+
+      "answer": "Boddington"
+    },
+    {
+      "number": 27,
+      "question": "Provides accounting information useful to management:",
+      "options": ["Financial accounting", "Ledger", "Profit and loss account", "Management accounting"],
+
+      "answer": "Management accounting"
+    },
+    {
+      "number": 28,
+      "question": "A budget in capsule form is called:",
+      "options": ["Flexible budget", "Master budget", "Sales budget", "Fixed budget"],
+
+      "answer": "Master budget"
+    },
+    {
+      "number": 29,
+      "question": "Evidence of a contract of insurance is:",
+      "options": ["Policy", "Insurer", "Subject matter", "Premium"],
+
+      "answer": "Policy"
+    },
+    {
+      "number": 30,
+      "question": "Hire Purchase Act was enacted in:",
+      "options": ["1969", "1970", "1971", "1972"],
+
+      "answer": "1972"
+    },
+    {
+      "number": 31,
+      "question": "First Leasing Company of India Ltd was established in:",
+      "options": ["Calcutta", "Bombay", "Madras", "Delhi"],
+
+      "answer": "Madras"
+    },
+    {
+      "number": 32,
+      "question": "Translating messages into words is called:",
+      "options": ["Encoding", "Feedback", "Communication", "Decoding"],
+
+      "answer": "Encoding"
+    },
+    {
+      "number": 33,
+      "question": "When shares are forfeited, the share capital account is debited by:",
+      "options": ["Paid-up amount", "Called-up amount", "Calls in arrear", "Nominal value of shares"],
+
+      "answer": "Nominal value of shares"
+    },
+    {
+      "number": 34,
+      "question": "CII stands for:",
+      "options": ["Cost Inflation Index", "Capital Inflation Index", "Cost Interest Index", "Capital Interest Index"],
+
+      "answer": "Cost Inflation Index"
+    },
+    {
+      "number": 35,
+      "question": "Concept of marketing mix was developed by:",
+      "options": ["Philip Kotler", "W.J. Stanton", "Clark and Clark", "N.H. Borden"],
+
+      "answer": "N.H. Borden"
+    },
+    {
+      "number": 36,
+      "question": "Section 89(1) of Income Tax Act deals with relief for:",
+      "options": ["Advance salary", "Compensation", "Arrear salary", "Gratuity"],
+
+      "answer": "Arrear salary"
+    },
+    {
+      "number": 37,
+      "question": "An agreement to do an impossible act is:",
+      "options": ["Voidable", "Void", "Valid", "Illegal"],
+
+      "answer": "Void"
+    },
+    {
+      "number": 38,
+      "question": "Registration period of a Trade Mark is:",
+      "options": ["5 years", "20 years", "40 years", "10 years"],
+
+      "answer": "10 years"
+    },
+    {
+      "number": 39,
+      "question": "Father of Management Process School:",
+      "options": ["Henry Fayol", "Elton Mayo", "H.A. Simon", "R.H. Johnson"],
+
+      "answer": "Henry Fayol"
+    },
+    {
+      "number": 40,
+      "question": "Central Chief Information Commissioner is appointed by:",
+      "options": ["Prime Minister", "Chief Justice of India", "President of India", "Council of Central Ministers"],
+
+      "answer": "President of India"
+    },
+    {
+      "number": 41,
+      "question": "Motivation theory X and Y was developed by:",
+      "options": ["Herzberg", "M.C. Gregor", "Victor Vroom", "None"],
+
+      "answer": "M.C. Gregor"
+    },
+    {
+      "number": 42,
+      "question": "Capital Reduction Account is used in:",
+      "options": ["Internal reconstruction", "External reconstruction", "Amalgamation", "Absorption"],
+
+      "answer": "Internal reconstruction"
+    },
+    {
+      "number": 43,
+      "question": "Committee on insurance sector reforms in 1993 was headed by:",
+      "options": ["P. Chidambaram", "Manmohan Singh", "Narasimham", "R.N. Malhotra"],
+
+      "answer": "R.N. Malhotra"
+    },
+    {
+      "number": 44,
+      "question": "To calculate market value using P/E ratio, you need:",
+      "options": ["Rate of dividend", "Average profit", "Earnings per share", "Super profits"],
+
+      "answer": "Earnings per share"
+    },
+    {
+      "number": 45,
+      "question": "Fund from operations if net profit is ₹50,000, gain on asset sale ₹5,000, depreciation ₹20,000:",
+      "options": ["₹70,000", "₹65,000", "₹75,000", "₹55,000"],
+
+      "answer": "₹65,000"
+    },
+    {
+      "number": 46,
+      "question": "A bank included in the second schedule of RBI Act is called:",
+      "options": ["Scheduled Bank", "Non-Scheduled Bank", "State Co-operative Bank", "Central Co-operative Bank"],
+
+      "answer": "Scheduled Bank"
+    },
+    {
+      "number": 47,
+      "question": "Position of imports and exports of a country is called:",
+      "options": ["Balance of payments", "Balance of trade", "Terms of trade", "Dumping"],
+
+      "answer": "Balance of payments"
+    },
+    {
+      "number": 48,
+      "question": "Electronic transfer of funds is called:",
+      "options": ["ECS", "Telebanking", "RTES", "EFT"],
+
+      "answer": "EFT"
+    },
+    {
+      "number": 49,
+      "question": "Objectives of companies are given in the:",
+      "options": ["Articles of Association", "Prospectus", "Memorandum of Association", "Subsidiary rules"],
+
+      "answer": "Memorandum of Association"
+    },
+    {
+      "number": 50,
+      "question": "Depletion method of depreciation is useful for:",
+      "options": ["Livestock", "Loose tools", "Mines", "None of these"],
+
+      "answer": "Mines"
+    },
+    {
+      "number": 51,
+      "question": "Budget is a:",
+      "options": ["Plan of operation", "Statement of probable events", "Collection of historical financial data", "None of these"],
+
+      "answer": "Plan of operation"
+    },
+    {
+      "number": 52,
+      "question": "Functional level strategy is also known as:",
+      "options": ["Corporate level strategy", "Operating level strategy", "Business level strategy", "All of these"],
+
+      "answer": "Operating level strategy"
+    },
+    {
+      "number": 53,
+      "question": "A dollar denominated instrument tradable on stock exchange in Europe:",
+      "options": ["FRB", "EDR", "FCCB", "GDR"],
+
+      "answer": "GDR"
+    },
+    {
+      "number": 54,
+      "question": "AS-6 relates to:",
+      "options": ["Accounting policies", "Valuation of inventories", "Depreciation accounting", "Contingencies"],
+
+      "answer": "Depreciation accounting"
+    },
+    {
+      "number": 55,
+      "question": "B Ltd. forfeited 20 shares of ₹10 each, ₹8 called up, for non-payment of first call ₹2. Of these, 15 were reissued at ₹6. Amount transferred to capital reserve is:",
+      "options": ["₹60", "₹30", "₹48", "None"],
+
+      "answer": "₹48"
+    },
+    {
+      "number": 56,
+      "question": "The insurance effected by an insurance company with another insurance company is called:",
+      "options": ["Reinsurance", "Double insurance", "Multiple insurance", "None of these"],
+
+      "answer": "Reinsurance"
+    },
+    {
+      "number": 57,
+      "question": "A statutory reserve is a compulsory reserve kept under Banking Regulation Act as per Section:",
+      "options": ["9", "15", "18", "17"],
+
+      "answer": "17"
+    },
+    {
+      "number": 58,
+      "question": "Offering of ESOS to employees requires:",
+      "options": ["Resolution by the board", "Ordinary resolution", "Special resolution in general meeting by shareholders", "Permission from SEBI"],
+
+      "answer": "Special resolution in general meeting by shareholders"
+    },
+    {
+      "number": 59,
+      "question": "Statutory report is necessary in the case of:",
+      "options": ["Public limited companies", "FERA companies", "Foreign companies", "Private limited companies"],
+
+      "answer": "Public limited companies"
+    },
+    {
+      "number": 60,
+      "question": "Preliminary expenses is an example of:",
+      "options": ["Current asset", "Tangible asset", "Prepaid expenses", "Fictitious asset"],
+
+      "answer": "Fictitious asset"
+    },
+    {
+      "number": 61,
+      "question": "Unrehearsed speech is:",
+      "options": ["Impromptu", "Extempore", "Reading from the pre-text", "Memorising"],
+
+      "answer": "Impromptu"
+    },
+    {
+      "number": 62,
+      "question": "The first credit rating agency in India is:",
+      "options": ["ICRA", "CRISIL", "CARE", "ICSA"],
+
+      "answer": "CRISIL"
+    },
+    {
+      "number": 63,
+      "question": "Accounting Standard Board in India was constituted on:",
+      "options": ["June 1977", "January 1978", "April 1977", "None of these"],
+
+      "answer": "June 1977"
+    },
+    {
+      "number": 64,
+      "question": "Leveraged lease is a special form of leasing developed in recent years in:",
+      "options": ["India", "Britain", "Germany", "USA"],
+
+      "answer": "USA"
+    },
+    {
+      "number": 65,
+      "question": "Units of finished product not up to the standard and can be rectified are called:",
+      "options": ["Defective", "Scrap", "Spoilage", "None"],
+
+      "answer": "Defective"
+    },
+    {
+      "number": 66,
+      "question": "The most suitable average for index number is:",
+      "options": ["Mean", "Median", "Harmonic mean", "Geometric mean"],
+
+      "answer": "Geometric mean"
+    },
+    {
+      "number": 67,
+      "question": "Combination of different securities with varying risk and return is called:",
+      "options": ["SAP", "Portfolio", "CAP", "OCP"],
+
+      "answer": "Portfolio"
+    },
+    {
+      "number": 68,
+      "question": "Teaming and lading is a method of misappropriation of:",
+      "options": ["Goods", "Petty cash", "Cash", "Accounts"],
+
+      "answer": "Cash"
+    },
+    {
+      "number": 69,
+      "question": "Misstatements in prospectus by the auditor result in:",
+      "options": ["Civil liability", "Criminal liability", "Liability for negligence", "Liability for misfeasance"],
+
+      "answer": "Criminal liability"
+    },
+    {
+      "number": 70,
+      "question": "The first general meeting of the company is called:",
+      "options": ["Statutory meeting", "Annual general meeting", "Extraordinary meeting", "Emergency meeting"],
+
+      "answer": "Statutory meeting"
+    },
+    {
+      "number": 71,
+      "question": "Operating system is a:",
+      "options": ["System software", "Application software", "Hardware", "Firmware"],
+
+      "answer": "System software"
+    },
+    {
+      "number": 72,
+      "question": "Binary number system has the base:",
+      "options": ["10", "1", "2", "16"],
+
+      "answer": "2"
+    },
+    {
+      "number": 73,
+      "question": "Nibble is a group of:",
+      "options": ["4 bits", "6 bits", "8 bits", "16 bits"],
+
+      "answer": "4 bits"
+    },
+    {
+      "number": 74,
+      "question": "UNIX is a:",
+      "options": ["Programming language", "Compiler", "Operating system", "File system"],
+
+      "answer": "Operating system"
+    },
+    {
+      "number": 75,
+      "question": "In a hard disk, each track is a collection of:",
+      "options": ["Cylinders", "Disks", "Files", "Sectors"],
+
+      "answer": "Sectors"
+    },
+    {
+      "number": 76,
+      "question": "Which of the following is not an input device?",
+      "options": ["Microphone", "Stylus", "Speaker", "Joystick"],
+
+      "answer": "Speaker"
+    },
+    {
+      "number": 77,
+      "question": "Which of the following is not true about ROM?",
+      "options": ["Firmware", "Volatile", "Read only", "None of these"],
+
+      "answer": "Volatile"
+    },
+    {
+      "number": 78,
+      "question": "NTFS is:",
+      "options": ["Network switch", "Router", "Operating system", "File system"],
+
+      "answer": "File system"
+    },
+    {
+      "number": 79,
+      "question": "Which of the following is not a web browser?",
+      "options": ["Internet Explorer", "Mozilla Firefox", "Opera", "Apache"],
+
+      "answer": "Apache"
+    },
+    {
+      "number": 80,
+      "question": "Graphic representation of program logic sequence is known as:",
+      "options": ["Icons", "Algorithm", "Flow chart", "Pseudo code"],
+
+      "answer": "Flow chart"
+    },
+    {
+      "number": 81,
+      "question": "An installation file usually has the following extension:",
+      "options": [".org", ".doc", ".zip", ".exe"],
+
+      "answer": ".exe"
+    },
+    {
+      "number": 82,
+      "question": "Bluetooth is a:",
+      "options": ["Wireless network", "Antivirus", "Wired LAN", "Type of mobile phone"],
+
+      "answer": "Wireless network"
+    },
+    {
+      "number": 83,
+      "question": "Which of the following is not an Internet access method?",
+      "options": ["DSL", "Dial-up", "Podcast", "Cable"],
+
+      "answer": "Podcast"
+    },
+    {
+      "number": 84,
+      "question": "1 GB is:",
+      "options": ["1024 bits", "1024 bytes", "1024 KB", "1024 MB"],
+
+      "answer": "1024 MB"
+    },
+    {
+      "number": 85,
+      "question": "Which of the following is not an example of a search engine?",
+      "options": ["Google", "Facebook", "Yahoo", "AltaVista"],
+
+      "answer": "Facebook"
+    },
+    {
+      "number": 86,
+      "question": "Which of the following is not a monitor type?",
+      "options": ["CRT", "LCD", "LED", "Blu-ray"],
+
+      "answer": "Blu-ray"
+    },
+    {
+      "number": 87,
+      "question": "The BIOS is responsible for handling:",
+      "options": ["Memory", "Input-output operations", "File management", "Directory management"],
+
+      "answer": "Input-output operations"
+    },
+    {
+      "number": 88,
+      "question": "A small text file that some websites automatically store on your hard drive when you visit the site is called:",
+      "options": ["Spam", "Blog", "Cookie", "Worm"],
+
+      "answer": "Cookie"
+    },
+    {
+      "number": 89,
+      "question": "GIF is a file format usually associated with:",
+      "options": ["Documents", "Spreadsheets", "Images", "Compressed files"],
+
+      "answer": "Images"
+    },
+    {
+      "number": 90,
+      "question": "In programming, syntax error is:",
+      "options": ["Violation of programming language rules", "Use of incorrect sequence of statements", "Due to lack of free memory space", "Logical mistake in the program"],
+
+      "answer": "Violation of programming language rules"
+    },
+    {
+      "number": 91,
+      "question": "When a program's address space can be greater than its actual real memory, the system is said to implement:",
+      "options": ["Cache memory", "Virtual memory", "Secondary memory", "File management"],
+
+      "answer": "Virtual memory"
+    },
+    {
+      "number": 92,
+      "question": "Compiler is used to translate:",
+      "options": ["Machine language into high-level language", "Assembly language into high-level language", "High-level language into machine language", "High-level language into assembly language"],
+
+      "answer": "High-level language into machine language"
+    },
+    {
+      "number": 93,
+      "question": "Trojan horse is a:",
+      "options": ["Search engine", "Operating system", "Programming language", "Malicious software"],
+
+      "answer": "Malicious software"
+    },
+    {
+      "number": 94,
+      "question": "Broadcasting of audio or video content over the Internet is known as:",
+      "options": ["Wiki", "Webcast", "Blog", "Instant messaging"],
+
+      "answer": "Webcast"
+    },
+    {
+      "number": 95,
+      "question": "Microsoft Excel is a software for:",
+      "options": ["Word processing", "Spreadsheet", "Database", "Presentation"],
+
+      "answer": "Spreadsheet"
+    },
+    {
+      "number": 96,
+      "question": "Bootstrap loader is a program normally stored in:",
+      "options": ["ROM", "RAM", "Hard disk", "Cache memory"],
+
+      "answer": "ROM"
+    },
+    {
+      "number": 97,
+      "question": "Firewalls are used for:",
+      "options": ["Cyber security", "E-commerce", "E-mail", "Wireless networks"],
+
+      "answer": "Cyber security"
+    },
+    {
+      "number": 98,
+      "question": "An example of impact type printer is:",
+      "options": ["Dot matrix", "Inkjet", "Laser", "All of these"],
+
+      "answer": "Dot matrix"
+    },
+    {
+      "number": 99,
+      "question": "The IEEE standard for wireless LAN is:",
+      "options": ["802.2", "802.11", "802.3", "802.13"],
+
+      "answer": "802.11"
+    },
+    {
+      "number": 100,
+      "question": "In Database Management System, the overall design of the database is called:",
+      "options": ["Entity", "Schema", "Data manager", "DML"],
+
+      "answer": "Schema"
+    }
+]

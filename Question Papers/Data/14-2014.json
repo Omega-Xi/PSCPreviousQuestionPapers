@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "Among the following, the work of Sree Narayana Guru is:",
+    "options": ["Gitanjaly", "Daivadasakam", "Jathikkummi", "Odakkuzhal"],
+    "answer": "Daivadasakam"
+  },
+  {
+    "number": 2,
+    "question": "Ayyankali formed the 'Sadhujana Paripalana Sangam' in the year:",
+    "options": ["1905", "1906", "1907", "1908"],
+    "answer": "1907"
+  },
+  {
+    "number": 3,
+    "question": "'Treatment of Thiyyas in Travancore' is a work by:",
+    "options": ["Sree Narayana Guru", "K. Kelappan", "T.K. Madhavan", "Dr. Palpu"],
+    "answer": "Dr. Palpu"
+  },
+  {
+    "number": 4,
+    "question": "The famous drama 'Adukkalayil Ninnum Arangathekku', is written by:",
+    "options": ["V.T. Bhattathirippadu", "Mannathu Padmanabhan", "Pandit Karuppan", "C. Kesavan"],
+    "answer": "V.T. Bhattathirippadu"
+  },
+  {
+    "number": 5,
+    "question": "Poikayil Yohannan is also known as:",
+    "options": ["Vagbhatanandha", "Karunakara Guru", "Kumara Guru", "Ayya Vaikundar"],
+    "answer": "Kumara Guru"
+  },
+  {
+    "number": 6,
+    "question": "The Southern most ranges of the Himalayas is:",
+    "options": ["The Himadri", "The Himachal", "The Siwalik", "The Zasker"],
+    "answer": "The Siwalik"
+  },
+  {
+    "number": 7,
+    "question": "Which among the following state is the leading producer of Rubber in India?",
+    "options": ["Assam", "Bihar", "Karnataka", "Kerala"],
+    "answer": "Kerala"
+  },
+  {
+    "number": 8,
+    "question": "The longest among the Peninsular rivers is:",
+    "options": ["Mahanadi", "Godavari", "Krishna", "Kaveri"],
+    "answer": "Godavari"
+  },
+  {
+    "number": 9,
+    "question": "Find out a developing country from the following:",
+    "options": ["India", "Canada", "Australia", "New Zealand"],
+    "answer": "India"
+  },
+  {
+    "number": 10,
+    "question": "One of the following is an activity belongs to primary sector. Find it out:",
+    "options": ["construction", "banking", "real estate", "fishing"],
+    "answer": "fishing"
+  },
+  {
+    "number": 11,
+    "question": "Expand the terms GDP associated with an economy:",
+    "options": ["Gross Domestic Product", "Govt. Direct Product", "Grass Development Project", "General Development Policy"],
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "number": 12,
+    "question": "Jallianwalla Bagh massacre occured when a large crowd had gathered to protest against an act issued by the British Govt. What was that contraversial Act?",
+    "options": ["Stamp Act", "Rowlatt Act", "Govt. of India Act", "Sugar Act"],
+    "answer": "Rowlatt Act"
+  },
+  {
+    "number": 13,
+    "question": "The Partition of Bengal was in the year:",
+    "options": ["1903", "1904", "1905", "1906"],
+    "answer": "1905"
+  },
+  {
+    "number": 14,
+    "question": "Who among the following was a member of the Cabinet Mission?",
+    "options": ["Mr. Clement Attlee", "Dr. B.R.Ambedkar", "Dr. Rajendra Prasad", "Mr. A.V. Alexander"],
+    "answer": "Mr. A.V. Alexander"
+  },
+  {
+    "number": 15,
+    "question": "The sole representative of Congress Party to the Second Round Table Conference was:",
+    "options": ["Gandhiji", "Jawaharlal Nehru", "Sardar Patel", "Subhash Chandra Bose"],
+    "answer": "Gandhiji"
+  },
+  {
+    "number": 16,
+    "question": "Which among the following is an East flowing river in Kerala?",
+    "options": ["Periyar", "Mancheswaram river", "Karamanayar", "Kabani"],
+    "answer": "Kabani"
+  },
+  {
+    "number": 17,
+    "question": "The largest backwaters of Kerala is:",
+    "options": ["Vembanad Lake", "Sastham Kotta Lake", "Ashtamudi Lake", "Vellayani Lake"],
+    "answer": "Vembanad Lake"
+  },
+  {
+    "number": 18,
+    "question": "Groundnut and cotton are cultivated in a district of Kerala. Find it out from the following:",
+    "options": ["Kottayam", "Palakkad", "Idukki", "Alappuzha"],
+    "answer": "Palakkad"
+  },
+  {
+    "number": 19,
+    "question": "Kuttiadi Hydroelectric project is in the district:",
+    "options": ["Ernakulam", "Kannur", "Kozhikkode", "Idukki"],
+    "answer": "Kozhikkode"
+  },
+  {
+    "number": 20,
+    "question": "The real name of Chattampi Swamikal is:",
+    "options": ["Raman Pilla", "Kunjan Pilla", "Raghavan Pilla", "Kesavan Pilla"],
+    "answer": "Kunjan Pilla"
+  },
+  {
+    "number": 21,
+    "question": "Cell wall is made up of:",
+    "options": ["starch", "glucose", "maltose", "cellulose"],
+    "answer": "cellulose"
+  },
+  {
+    "number": 22,
+    "question": "Normal level of calcium in human blood is:",
+    "options": ["6-8 mg in 100 ml", "10-12 mg in 100 ml", "80-120 mg in 100 ml", "70-110 mg in 100 ml"],
+    "answer": "10-12 mg in 100 ml"
+  },
+  {
+    "number": 23,
+    "question": "Dalton's atomic theory is based on the principles of:",
+    "options": ["Avogadro's Law", "Boyles Law", "Law of reciprocal proportions", "Law of multiple proportion"],
+    "answer": "Law of multiple proportion"
+  },
+  {
+    "number": 24,
+    "question": "At the boiling point, the surface tension of a liquid is:",
+    "options": ["infinite", "zero", "same as that at any other temperature", "increase slightly, then decrease"],
+    "answer": "zero"
+  },
+  {
+    "number": 25,
+    "question": "Which of the following organelle contains its own genetic material?",
+    "options": ["Mitochondria", "Golgi apparatus", "Lysosomes", "Endoplasmic reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "number": 26,
+    "question": "Stainless steel is an alloy of iron with:",
+    "options": ["Nickel and Chromium", "Nickel and Copper", "Chromium and Copper", "Zine and Chromium"],
+    "answer": "Nickel and Chromium"
+  },
+  {
+    "number": 27,
+    "question": "A solution turns red litmus blue. The pH of the solution is likely to:",
+    "options": ["2", "4", "5", "10"],
+    "answer": "10"
+  },
+  {
+    "number": 28,
+    "question": "The SI unit of power of a lens is:",
+    "options": ["Dioptre", "Ampere", "Watt", "Joule"],
+    "answer": "Dioptre"
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is a plant hormone that can inhibits plant growth?",
+    "options": ["Auxin", "Cytokinins", "3-4-D", "Abscisic acid"],
+    "answer": "Abscisic acid"
+  },
+  {
+    "number": 30,
+    "question": "In a myopic eye the image of a distant object is formed:",
+    "options": ["at the retina", "infront of the retina", "behind the retina", "behind the lens"],
+    "answer": "infront of the retina"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is an instrument to detect the presence of current in a circuit?",
+    "options": ["galvano meter", "ammeter", "volt meter", "rheostat"],
+    "answer": "galvano meter"
+  },
+  {
+    "number": 32,
+    "question": "The black sea has a blackish tinge because it contains a lot of:",
+    "options": ["Black algae", "Ferrous sulphate", "Hydrogen sulphide", "Copper and Arsenic"],
+    "answer": "Hydrogen sulphide"
+  },
+  {
+    "number": 33,
+    "question": "A change of state of matter directly from solid to gas without changing into liquid or vice versa is called:",
+    "options": ["Evaporation", "Inter conversion", "Sedimentation", "Sublimation"],
+    "answer": "Sublimation"
+  },
+  {
+    "number": 34,
+    "question": "Cells were first discovered by:",
+    "options": ["Leeuwen Hock", "Robert Hooke", "Robert Brown", "Schleiden"],
+    "answer": "Robert Hooke"
+  },
+  {
+    "number": 35,
+    "question": "The girth of the stem or root increases due to:",
+    "options": ["Apical Meristem", "Intercalary Meristem", "Cambium", "Vascular bundle"],
+    "answer": "Cambium"
+  },
+  {
+    "number": 36,
+    "question": "Which of the following elements are liquids at room temperature?",
+    "options": ["mercury and iodine", "mercury and bromine", "mercury and cesium", "mercury and gallium"],
+    "answer": "mercury and bromine"
+  },
+  {
+    "number": 37,
+    "question": "The scientific name of paddy is:",
+    "options": ["Mimosa pudica", "Perna indica", "Oryza sativa", "Cocos nucifera"],
+    "answer": "Oryza sativa"
+  },
+  {
+    "number": 38,
+    "question": "A generator converts mechanical energy into electrical energy. It works on the basis of:",
+    "options": ["magnetism", "electrolysis", "electro magnetic induction", "hydro electric induction"],
+    "answer": "electro magnetic induction"
+  },
+  {
+    "number": 39,
+    "question": "The hormones of fight or flight are:",
+    "options": ["adrenaline and nor adrenaline", "aldosterone and cortisol", "oestrogen and testo sterone", "adrenaline and cortisol"],
+    "answer": "adrenaline and nor adrenaline"
+  },
+  {
+    "number": 40,
+    "question": "The right and left cerebral hemispheres are connected by a tract of nerve fibres called:",
+    "options": ["cranial meninges", "corpora quadrigemina", "corpus callosum", "cranial nerves"],
+    "answer": "corpus callosum"
+  },
+  {
+    "number": 41,
+    "question": "Vatsaka is the synonym of:",
+    "options": ["Vatsanabhi", "Kutaja", "Guduchi", "Vasa"],
+    "answer": "Kutaja"
+  },
+  {
+    "number": 42,
+    "question": "Diuretics means:",
+    "options": ["Drug which decrease the flow of urine", "Drug which increase the flow of urine", "Drug which contracts the uterus", "Drug which prevent conception"],
+    "answer": "Drug which increase the flow of urine"
+  },
+  {
+    "number": 43,
+    "question": "Which of the following is Chakshushya?",
+    "options": ["Asoka", "Bala", "Yastimadhu", "Punarnava"],
+    "answer": "Yastimadhu"
+  },
+  {
+    "number": 44,
+    "question": "Matra of Srita kashaya according to Sargadhara Samhitha:",
+    "options": ["Two Pala", "One Pala", "Half Pala", "As required"],
+    "answer": "One Pala"
+  },
+  {
+    "number": 45,
+    "question": "The drug which is to be used always fresh:",
+    "options": ["Shathavari", "Guduchi", "Pippali", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 46,
+    "question": "Metric equivalent of Gunja:",
+    "options": ["100 mg", "125 mg", "60 mg", "None of the above"],
+    "answer": "125 mg"
+  },
+  {
+    "number": 47,
+    "question": "The ratio of Kalka, Sneha and Drava in Snehapaka Samanya vidhi:",
+    "options": ["1:4:16", "4:1:16", "1:4:8", "1:6:8"],
+    "answer": "1:4:16"
+  },
+  {
+    "number": 48,
+    "question": "Which is not an ingredient of Amruthotharam kashayam?",
+    "options": ["Guduchi", "Shunti", "Abhaya", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "number": 49,
+    "question": "Vyoshadi Kashaya is indicated in:",
+    "options": ["Kasa", "Svasam", "Both (A) and (B)", "Pandu"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 50,
+    "question": "Intake of fish along with milk is:",
+    "options": ["Samskaravirudha", "Veerya virudha", "Aacharavirudha", "Kala virudha"],
+    "answer": "Veerya virudha"
+  },
+  {
+    "number": 51,
+    "question": "Oushadha kala for Urdhvajathru vikaras:",
+    "options": ["Prabhatham", "Samudgam", "Nishi", "Muhurmuhu"],
+    "answer": "Muhurmuhu"
+  },
+  {
+    "number": 52,
+    "question": "Shelf life of Avaleha:",
+    "options": ["Two months", "Six months", "Twelve months", "Sixteen months"],
+    "answer": "Six months"
+  },
+  {
+    "number": 53,
+    "question": "If Chandana is included in a kashaya yoga is taken:",
+    "options": ["Svetha chandana", "Rakthachandana", "Either (A) or (B)", "A substitute"],
+    "answer": "Either (A) or (B)"
+  },
+  {
+    "number": 54,
+    "question": "Which ritu is the best time for collection of fresh drugs, according to Sharngadhara Samhitha?",
+    "options": ["Hemanta", "Vasanta", "Sarat", "Greeshma"],
+    "answer": "Sarat"
+  },
+  {
+    "number": 55,
+    "question": "Which is an example of Pachana Dravya?",
+    "options": ["Nagakesaram", "Chitrakam", "Misi", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following dravya is grahi?",
+    "options": ["Shunti", "Jeeraka", "Abhaya", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 57,
+    "question": "Collection of cells having same structure and function is termed as:",
+    "options": ["Tissue", "Organ", "System", "None"],
+    "answer": "Tissue"
+  },
+  {
+    "number": 58,
+    "question": "Which of the following is not a constituent of plasma?",
+    "options": ["Water", "Electrolytes", "Proteins", "Platelets"],
+    "answer": "Platelets"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following is fat soluble?",
+    "options": ["Vitamin A", "Vitamin E", "Vitamin C", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 60,
+    "question": "Where is bile stored?",
+    "options": ["Liver", "Gall Bladder", "Stomach", "Both (A) and (B)"],
+    "answer": "Gall Bladder"
+  },
+  {
+    "number": 61,
+    "question": "Temperature regulatory centre is present in the:",
+    "options": ["Hypothalamus", "Pituitary gland", "Medulla oblongata", "None of the above"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "number": 62,
+    "question": "Vilepi comes under:",
+    "options": ["Sandhana Kalpana", "Sneha Kalpana", "Kritanna Vargam", "Mamsa Vargam"],
+    "answer": "Kritanna Vargam"
+  },
+  {
+    "number": 63,
+    "question": "Pinaka is a variety of:",
+    "options": ["Naga", "Parada", "Abhraka", "Vaikranta"],
+    "answer": "Vaikranta"
+  },
+  {
+    "number": 64,
+    "question": "One Aratni is the pramana of which Puta:",
+    "options": ["Gaja Puta", "Varaha Puta", "Kukkuta Puta", "Kapota Puta"],
+    "answer": "Kukkuta Puta"
+  },
+  {
+    "number": 65,
+    "question": "Which of the following is an Upadhathu?",
+    "options": ["Gandhaka", "Shilajathu", "Sasyaka", "Vahnijara"],
+    "answer": "Sasyaka"
+  },
+  {
+    "number": 66,
+    "question": "Which of the following is not an Upavisha?",
+    "options": ["Vatsanabhi", "Bhallathaka", "Karaskara", "Arkaksheera"],
+    "answer": "Karaskara"
+  },
+  {
+    "number": 67,
+    "question": "Mriddarasringa is included under:",
+    "options": ["Sudhavarga", "Upavisha", "Sadharana Rasa", "Updhathu"],
+    "answer": "Sudhavarga"
+  },
+  {
+    "number": 68,
+    "question": "Requirement of factory premises and hygienic conditions for ASU Drug manufacture is dealt in which schedule of D & C rules 1945:",
+    "options": ["Schedule J", "Schedule T", "Schedule A", "1ª Schedule"],
+    "answer": "Schedule T"
+  },
+  {
+    "number": 69,
+    "question": "Which of the following formulations contains Silajathu?",
+    "options": ["Tribhuvanakirti Rasa", "Arogyavardhini Rasa", "Chandraprabha vati", "Both (B) and (C)"],
+    "answer": "Both (B) and (C)"
+  },
+  {
+    "number": 70,
+    "question": "Bali is the synonym of:",
+    "options": ["Gandhaka", "Abhraka", "Parada", "Hingula"],
+    "answer": "Parada"
+  },
+  {
+    "number": 71,
+    "question": "Number of Suddha Lohas in Rasa Ratna Samuchaya:",
+    "options": ["Nine", "Four", "Seven", "Two"],
+    "answer": "Seven"
+  },
+  {
+    "number": 72,
+    "question": "Which of the formulations contain Jayapala?",
+    "options": ["Hinguleswara Rasa", "Siddhamakaradhvaja", "Icchabhedi Rasa", "None"],
+    "answer": "Icchabhedi Rasa"
+  },
+  {
+    "number": 73,
+    "question": "Chemical composition of Navasara:",
+    "options": ["Ammonium chloride", "Aluminium Oxide", "Alum", "Potassium Chloride"],
+    "answer": "Ammonium chloride"
+  },
+  {
+    "number": 74,
+    "question": "Arjuna Ksheera is indicated in:",
+    "options": ["Vatha vyadhi", "Thimiram", "Hridyamayam", "Arshas"],
+    "answer": "Hridyamayam"
+  },
+  {
+    "number": 75,
+    "question": "Sugar is an ingredient in:",
+    "options": ["Asta choornam", "Avipathi choornam", "Dadimastaka choornam", "Both (B) and (C)"],
+    "answer": "Both (B) and (C)"
+  },
+  {
+    "number": 76,
+    "question": "Which is not an ingredient of Dasamoolarishta?",
+    "options": ["Kasturi", "Guduchi", "Chitraka", "None of the above"],
+    "answer": "Kasturi"
+  },
+  {
+    "number": 77,
+    "question": "Ratio of Kanaka and Vasa in Kanakasavanam:",
+    "options": ["1:1", "1:2", "2:1", "None of the above"],
+    "answer": "1:2"
+  },
+  {
+    "number": 78,
+    "question": "Chinchadi Taila is indicated in:",
+    "options": ["Vatha Roga", "Sopha", "Kushtam", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 79,
+    "question": "Panchakola is an ingredient in:",
+    "options": ["Vaisvanara Choornam", "Ksheerashatpala Ghritham", "Indukanta Ghritham", "Both (B) and (C)"],
+    "answer": "Vaisvanara Choornam"
+  },
+  {
+    "number": 80,
+    "question": "Punarnava is not an ingredient in:",
+    "options": ["Vyoshadi Kashayam", "Gandharvahasthyadi Kashayam", "Sapthasaram Kashayam", "Pathyashadangam Kashayam"],
+    "answer": "Pathyashadangam Kashayam"
+  },
+  {
+    "number": 81,
+    "question": "Ratio of Dravya and Jala in Hima Kashaya:",
+    "options": ["1:4", "1:6", "1:8", "1:16"],
+    "answer": "1:6"
+  },
+  {
+    "number": 82,
+    "question": "Sneha paka which can be used in all karmas according to Sarngadhara Samhita:",
+    "options": ["Mridu paka", "Madhyama paka", "Khara paka", "Amapaka"],
+    "answer": "Madhyama paka"
+  },
+  {
+    "number": 83,
+    "question": "The causative organism for Chickenpox:",
+    "options": ["Varicella Zoster Virus", "Cytomegalo Virus", "Flavi Virus", "Helicobacter pylori"],
+    "answer": "Varicella Zoster Virus"
+  },
+  {
+    "number": 84,
+    "question": "World Health Day is celebrated on:",
+    "options": ["5th July", "1st December", "7th April", "22nd November"],
+    "answer": "7th April"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is concerned with the detection, assessment and prevention of adverse reactions to drugs?",
+    "options": ["Pharmacotherapeutics", "Pharmacokinetics", "Pharmacovigilance", "Pharmacodynamics"],
+    "answer": "Pharmacovigilance"
+  },
+  {
+    "number": 86,
+    "question": "\"Traya Upasthambhas\" are:",
+    "options": ["Vata, Pitha & Kapa", "Ahara, Nidra & Brahmacharya", "Sattva, Rajas & Tamas", "Sareera, Indriya & Sattva"],
+    "answer": "Ahara, Nidra & Brahmacharya"
+  },
+  {
+    "number": 87,
+    "question": "In which ritu is Divasvapna (sleeping at day time) indicated:",
+    "options": ["Vasanta ritu", "Sarat ritu", "Sisira ritu", "Grishma ritu"],
+    "answer": "Grishma ritu"
+  },
+  {
+    "number": 88,
+    "question": "Which among the following can be used for Dantadhavana?",
+    "options": ["Vyosha", "Trijata", "Saindhava", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 89,
+    "question": "The prescribed length of Dhooma Netra used for Prayogika (daily) Dhoomapana according to Acharya Charaka is:",
+    "options": ["24 Angula", "32 Angula", "36 Angula", "38 Angula"],
+    "answer": "32 Angula"
+  },
+  {
+    "number": 90,
+    "question": "Which among the following is 'dharaneeya Vega'?",
+    "options": ["Nidra", "Chardi", "Soka", "Bashpa"],
+    "answer": "Bashpa"
+  },
+  {
+    "number": 91,
+    "question": "Among the following which is wrongly matched?",
+    "options": ["Sabdam- Bhumi", "Rasa-Jala", "Rupa-Agni", "Sparsa-Vayu"],
+    "answer": "Sabdam- Bhumi"
+  },
+  {
+    "number": 92,
+    "question": "Ayus (longevity) is acquired from:",
+    "options": ["Father and Mother", "Atma", "Anna", "Satmya"],
+    "answer": "Father and Mother"
+  },
+  {
+    "number": 93,
+    "question": "'Jataragni' is located in:",
+    "options": ["Yakrit", "Grahani", "Pleeha", "Pakvasava"],
+    "answer": "Grahani"
+  },
+  {
+    "number": 94,
+    "question": "Number of Paradi gunas:",
+    "options": ["20", "8", "41", "10"],
+    "answer": "10"
+  },
+  {
+    "number": 95,
+    "question": "Tikta, Kasaya and Madhura rasa are:",
+    "options": ["Vata samana", "Pitta Samana", "Kapha samana", "Vata kopana"],
+    "answer": "Kapha samana"
+  },
+  {
+    "number": 96,
+    "question": "Krimighna property is the prabhava of:",
+    "options": ["Dattura", "Kushta", "Vilva", "Vidanga"],
+    "answer": "Vidanga"
+  },
+  {
+    "number": 97,
+    "question": "Substitute of Ativisha is:",
+    "options": ["Atibala", "Hareetaki", "Musta", "Vatsanabhi"],
+    "answer": "Musta"
+  },
+  {
+    "number": 98,
+    "question": "Useful part of Pippali is:",
+    "options": ["Fruit", "Root", "Seed", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 99,
+    "question": "Bala is indicated in:",
+    "options": ["Vatavyadhi", "Raktapitta", "Kshaya", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 100,
+    "question": "Semicarpus Anacardium is the latin name of:",
+    "options": ["Kumari", "Kutaja", "Bhallataka", "Dhathaki"],
+    "answer": "Bhallataka"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "Excessive intake of Kulatha results:",
+    "options": ["Rakta pitta", "Vata rakta", "Amlapitta", "Udavartha"],
+    "answer": "Rakta pitta"
+  },
+  {
+    "number": 2,
+    "question": "Piltachaya occurs in:",
+    "options": ["Sarat Ritu", "Greeshma Ritu", "Varsha Ritu", "Hemauta Ritu"],
+    "answer": "Sarat Ritu"
+  },
+  {
+    "number": 3,
+    "question": "Vikasi guna causes:",
+    "options": ["Sandhi Saithilya and Ojo Visram sa", "Samjna nasa and Pranoparodha", "Nidranasa and Atisara", "Balakshaya and Agninasa"],
+    "answer": "Samjna nasa and Pranoparodha"
+  },
+  {
+    "number": 4,
+    "question": "Swedavaha srotho dushti Chikitsa principle is:",
+    "options": ["Urusthambha Chikitsa", "Prameha Chikitsa", "Seethapilta Chikitsa", "Jwara Chikitsa"],
+    "answer": "Urusthambha Chikitsa"
+  },
+  {
+    "number": 5,
+    "question": "The principle for Apatharpana Chikitsa is:",
+    "options": ["Laghu - Apatharpana", "Guru - Apatharpana", "Rooksha - Apatharpana", "Sookshma - Apatharpana"],
+    "answer": "Rooksha - Apatharpana"
+  },
+  {
+    "number": 6,
+    "question": "In Rogotpatti the principles of panchamahabhuta is known as:",
+    "options": ["Pratithantra Sidhanta", "Adhikarana Sidhanta", "Sarvatantra Sidhanta", "Abhyupagama Sidhanta"],
+    "answer": "Sarvatantra Sidhanta"
+  },
+  {
+    "number": 7,
+    "question": "Sthanya Vaha srothas is mentioned by:",
+    "options": ["Susrutha", "Charaka", "Kashyapa", "Sarngadhara"],
+    "answer": "Charaka"
+  },
+  {
+    "number": 8,
+    "question": "In Dravya - Ardha Souhitya is advocated for:",
+    "options": ["Madhura", "Seetha", "Snigdha", "Guru"],
+    "answer": "Seetha"
+  },
+  {
+    "number": 9,
+    "question": "Which one is Adharaniya Vega:",
+    "options": ["Srama niswasa", "Soka", "Irshya", "Kama"],
+    "answer": "Srama niswasa"
+  },
+  {
+    "number": 10,
+    "question": "Danta dhavana kashta having:",
+    "options": ["6 Anguli", "8 Anguli", "10 Anguli", "12 Anguli"],
+    "answer": "12 Anguli"
+  },
+  {
+    "number": 11,
+    "question": "Cell mediated immunity is linked with:",
+    "options": ["Complimentary system", "B-Lymphocyte", "T-Lymphocyte", "Bone marrow"],
+    "answer": "T-Lymphocyte"
+  },
+  {
+    "number": 12,
+    "question": "Janapadodhwamsa the dushti of which factor is important:",
+    "options": ["Vayu", "Jala", "Desa", "Kala"],
+    "answer": "Kala"
+  },
+  {
+    "number": 13,
+    "question": "The snehasayas are -- in number:",
+    "options": ["16", "18", "24", "64"],
+    "answer": "4"
+  },
+  {
+    "number": 14,
+    "question": "Name the Vyapth in Alpa dosha with Atimatra Vasthi:",
+    "options": ["Adhmana", "Klama", "Parisrava", "Parikartika"],
+    "answer": "Parikartika"
+  },
+  {
+    "number": 15,
+    "question": "Length of Uttara Vasthi netra for female is:",
+    "options": ["8 Angula", "10 Angula", "12 Angula", "14 Angula"],
+    "answer": "12 Angula"
+  },
+  {
+    "number": 16,
+    "question": "Kasaghna dhoomapana is described by:",
+    "options": ["Charaka", "Vagbhata", "Susrutha", "Bhavaprakasha"],
+    "answer": "Charaka"
+  },
+  {
+    "number": 17,
+    "question": "Uttama matra for Avapeedaka nasya:",
+    "options": ["16 Bindhu", "12 Bindhu", "10 Bindhu", "8 Bindhu"],
+    "answer": "8 Bindhu"
+  },
+  {
+    "number": 18,
+    "question": "Prior to Virechana vasthi is indicated in persons with:",
+    "options": ["Excess exercises", "Excess thirst", "Excess sleep", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 19,
+    "question": "Vamana is sukumara sarcera results:",
+    "options": ["Vatha vridhi", "Hridaya pakarshana", "Udavartha", "Pranoparodha"],
+    "answer": "Pranoparodha"
+  },
+  {
+    "number": 20,
+    "question": "Churna vasthi is mentioned by:",
+    "options": ["Bhava prakasha", "Chakra pani", "Adhamalla", "Vanga sena"],
+    "answer": "Bhava prakasha"
+  },
+  {
+    "number": 21,
+    "question": "The main pathogenic change in the quality (guna) of kapha in kaphaprameha is:",
+    "options": ["Athimadhura", "Athiseetha", "Bahudrava", "Bahusnigdha"],
+    "answer": "Bahudrava"
+  },
+  {
+    "number": 22,
+    "question": "The taste (rasa) of food causing madhumeha according to Acharya Charaka is:",
+    "options": ["Kashaya, Kadu, Thiktha", "Amla, Lavana", "All the above", "None of the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 23,
+    "question": "The type of kushta, not included in 7 types of kushta (sapthakushta) as per Charaka Samhitha:",
+    "options": ["Dadru", "Mandala", "Sidhma", "Pundareeka"],
+    "answer": "Pundareeka"
+  },
+  {
+    "number": 24,
+    "question": "The origin (adhishtana) of abhighathaja jwara according to Acharya Charaka is:",
+    "options": ["Dushta Mamsa", "Dushta Sonitha", "All the above", "None of the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 25,
+    "question": "The remote cause (Viprakrishta nidana) of Jwara is:",
+    "options": ["Abhishanga", "Rudrakopa", "Thridosha", "Vishamasana"],
+    "answer": "Abhishanga"
+  },
+  {
+    "number": 26,
+    "question": "In which disease, glittering eyes (Sreemath darsana nethratha) is included as a symptom by Acharya Vagbhada:",
+    "options": ["Kshayaja kasa", "Yamala hikka", "Kshathaja kasa", "Maha hikka"],
+    "answer": "Kshayaja kasa"
+  },
+  {
+    "number": 27,
+    "question": "The dooshya involved in the pathogenesis (samprapthi) of hridroga as per Madhavanidana is:",
+    "options": ["Rasa", "Medas", "Raktha", "Majja"],
+    "answer": "Rasa"
+  },
+  {
+    "number": 28,
+    "question": "The srothas, not involved in the samprapthi of swasa roga are:",
+    "options": ["Pranavahasrothas", "Annavahasrothas", "Udakavahasrothas", "Rasavahasrothas"],
+    "answer": "Annavahasrothas"
+  },
+  {
+    "number": 29,
+    "question": "The type of grahani which is aggravating during day time and relieving during night is:",
+    "options": ["Samgraha grahani", "Vathaja Grahani", "Khadiyanthra grahani", "Pithaja Grahani"],
+    "answer": "Samgraha grahani"
+  },
+  {
+    "number": 30,
+    "question": "In which disease, red color in one eye (Raktha eka lochana) is one of the symptom:",
+    "options": ["Kshathaja Kasa", "Chinna Swasa", "Pithaja Kasa", "Maha Swasa"],
+    "answer": "Kshathaja Kasa"
+  },
+  {
+    "number": 31,
+    "question": "The type of Visarpa having cadaveric (savagandhi) smell is:",
+    "options": ["Paithika Visarpa", "Grandhi Visarpa", "Agni Visarpa", "Kardama Visarpa"],
+    "answer": "Paithika Visarpa"
+  },
+  {
+    "number": 32,
+    "question": "According to Ashtangahridaya, the Upadhathu involved in Apabahuka is:",
+    "options": ["Snayu", "Kandara", "Sira", "None of the above"],
+    "answer": "Snayu"
+  },
+  {
+    "number": 33,
+    "question": "In which type of avarana death can happen:",
+    "options": ["Udanavritha prana", "Vyanavritha prana", "Pranavritha udana", "Pranavritha Vyana"],
+    "answer": "Pranavritha udana"
+  },
+  {
+    "number": 34,
+    "question": "The decoction with astringent taste (Kashaya Rasa) is contraindicated in Nava Jwara because, it may cause:",
+    "options": ["Vishama Jwara", "Adhmana", "Hidhma", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 35,
+    "question": "The line of treatment of Urdhwaga Rakthapitha is:",
+    "options": ["Vamana", "Asthapana", "Virechana", "Rakthamoksha"],
+    "answer": "Rakthamoksha"
+  },
+  {
+    "number": 36,
+    "question": "Mahapaisachika ghritham is indicated in:",
+    "options": ["Graha", "Apasmara", "Unmada", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 37,
+    "question": "Deeper Q waves, more than 2mm in an ECG are indicative of:",
+    "options": ["Ischemic heart disease", "Myocardial Infarction", "Coronary Artery Disease", "Heart Block"],
+    "answer": "Myocardial Infarction"
+  },
+  {
+    "number": 38,
+    "question": "In which disease retention of faeces (pureesharakshana) is very important:",
+    "options": ["Athisara", "Rajayakshma", "Jwara", "Vishoochika"],
+    "answer": "Rajayakshma"
+  },
+  {
+    "number": 39,
+    "question": "As per Susrutha Samhitha, anuthaila can be used in Pakshaghatha chikitsa for:",
+    "options": ["Abhyangam", "Panam", "Nasyam", "Anuvasanam"],
+    "answer": "Nasyam"
+  },
+  {
+    "number": 40,
+    "question": "The best treatment prescribed for vatharaktha as per Ashtanga Hridaya is:",
+    "options": ["Vamana", "Vasthi", "Virechana", "Rakthamoksha"],
+    "answer": "Rakthamoksha"
+  },
+  {
+    "number": 41,
+    "question": "Thakram is best for Grahani roga due to:",
+    "options": ["Deepana", "Laghavam", "Grahi", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 42,
+    "question": "The Kernig's sign is positive in:",
+    "options": ["Tuberculosis", "Typhoid", "Meningitis", "Malaria"],
+    "answer": "Meningitis"
+  },
+  {
+    "number": 43,
+    "question": "A convenient and suitable test for evaluating the diabetic control for 3 months is:",
+    "options": ["GTT", "GCT", "HbAlc", "FBS"],
+    "answer": "HbAlc"
+  },
+  {
+    "number": 44,
+    "question": "Increased Alkaline Phosphatase level in a patient is indicative of:",
+    "options": ["Toxic hepatitis", "Carcinoma Liver", "Viral hepatitis", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 45,
+    "question": "Which Sastra is used for the Visravana Karma in Mootra Vridhi:",
+    "options": ["Vreehimukha Sastra", "Ara Sastra", "Badisha Sastra", "Mandalagra Sastra"],
+    "answer": "Vreehimukha Sastra"
+  },
+  {
+    "number": 46,
+    "question": "Upadamsha types according to Sushrutha:",
+    "options": ["4", "3", "5", "7"],
+    "answer": "5"
+  },
+  {
+    "number": 47,
+    "question": "Rakta Visravana according to Sushrutha:",
+    "options": ["5", "3", "2", "4"],
+    "answer": "4"
+  },
+  {
+    "number": 48,
+    "question": "Balavarthi mentioned in:",
+    "options": ["Vrana in Children", "Vrana in Shiras", "Vrana in Udara", "Vrana in Uras"],
+    "answer": "Vrana in Uras"
+  },
+  {
+    "number": 49,
+    "question": "Wilm's Tumour related to:",
+    "options": ["Spleen", "Kidney", "Brain", "Gall Bladder"],
+    "answer": "Kidney"
+  },
+  {
+    "number": 50,
+    "question": "Hrit peedanam mentioned in which Visha Yoga:",
+    "options": ["Dhathu", "Ksheera", "Pushpa", "Phala"],
+    "answer": "Pushpa"
+  },
+  {
+    "number": 51,
+    "question": "Sthavara Visha types according to Charaka and Sushrutha:",
+    "options": ["7,7", "8,8", "8,7", "7,8"],
+    "answer": "8,7"
+  },
+  {
+    "number": 52,
+    "question": "Naga Visha - Khaathaka Matra:",
+    "options": ["10 gm", "20 gm", "30 gm", "40 gm"],
+    "answer": "30 gm"
+  },
+  {
+    "number": 53,
+    "question": "Types of Sarpa Damsa according to Charaka, Sushrutha and Vagbhata:",
+    "options": ["6,3,5", "3,5,6", "5,6,3", "6,3,6"],
+    "answer": "6,3,5"
+  },
+  {
+    "number": 54,
+    "question": "According to Sharngadhara Visha Gunas:",
+    "options": ["8", "6", "7", "5"],
+    "answer": "8"
+  },
+  {
+    "number": 55,
+    "question": "In which Rogadhikara Dashamoolarishta mentioned:",
+    "options": ["Udara Roga", "Stree Roga", "Kasa Swasa", "Vatha Vyadhi"],
+    "answer": "Vatha Vyadhi"
+  },
+  {
+    "number": 56,
+    "question": "Bhavana dravya of Chandra prabha Vati:",
+    "options": ["Aja dugdham", "Amalaki Swarasam", "Gomootra", "Dhanyamla"],
+    "answer": "Gomootra"
+  },
+  {
+    "number": 57,
+    "question": "Main drug in Arogyavardhini Vati:",
+    "options": ["Pippali", "Chitraka", "Guloochi", "Kutaki"],
+    "answer": "Kutaki"
+  },
+  {
+    "number": 58,
+    "question": "Sarpirguda indicated in:",
+    "options": ["Kasa", "Raja yakshma", "Kshatha Ksheena", "Pandu"],
+    "answer": "Kshatha Ksheena"
+  },
+  {
+    "number": 59,
+    "question": "Which is called as Sushka Kalka:",
+    "options": ["Vatakam", "Churnam", "Varthi", "Gulika"],
+    "answer": "Churnam"
+  },
+  {
+    "number": 60,
+    "question": "Bhaanda Matra according to Sarngadhara:",
+    "options": ["1 Pala", "2 Pala", "3 Pala", "4 Pala"],
+    "answer": "2 Pala"
+  },
+  {
+    "number": 61,
+    "question": "The ratio Dravya, Ksheera and Kalka in Ksheera Paka:",
+    "options": ["1:8:32", "1:4:16", "1:8:16", "1:4:32"],
+    "answer": "1:4:32"
+  },
+  {
+    "number": 62,
+    "question": "Tandulodaka indicated in:",
+    "options": ["Rakthapradara", "Shushka Arsas", "Bhagandara", "Yakrit Vidradhi"],
+    "answer": "Rakthapradara"
+  },
+  {
+    "number": 63,
+    "question": "Navayasa Churna indicated in:",
+    "options": ["Kasa", "Swasa", "Raja Yakshma", "Pandu"],
+    "answer": "Pandu"
+  },
+  {
+    "number": 64,
+    "question": "Aushadha Virya Hina Kala of Taila:",
+    "options": ["2 months", "8 months", "12 months", "4 months"],
+    "answer": "4 months"
+  },
+  {
+    "number": 65,
+    "question": "This drug is not advised for long term use in Rasayana Vidhi:",
+    "options": ["Lashuna", "Pippali", "Guluchi", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 66,
+    "question": "Dominant Chandramasi Nadi in female produces progeny:",
+    "options": ["Sthree", "Purusha", "Napumsaka", "Vikruta - Garbha"],
+    "answer": "Sthree"
+  },
+  {
+    "number": 67,
+    "question": "Moro's reflex upto three months is:",
+    "options": ["Sub normal", "Abnormal", "Normal", "None of the above"],
+    "answer": "Normal"
+  },
+  {
+    "number": 68,
+    "question": "Siravyadha is contra indicated in:",
+    "options": ["Suryavartha", "Ananthavata", "Krimija sirasoola", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 69,
+    "question": "Length of Anjana Salaka according to Susruta is:",
+    "options": ["10 Angula", "18 Angula", "12 Angula", "8 Angula"],
+    "answer": "12 Angula"
+  },
+  {
+    "number": 70,
+    "question": "Which among the following is not included in Ashtadasa pilla roga?",
+    "options": ["Pithotklishta", "Sushkakshipaka", "Pakshmasata", "Amloshita"],
+    "answer": "Amloshita"
+  },
+  {
+    "number": 71,
+    "question": "'Rising sun' appearance is seen in:",
+    "options": ["Keratoconus", "Glomus tumour", "Cortical cataract", "Primary angle-closure glaucoma"],
+    "answer": "Primary angle-closure glaucoma"
+  },
+  {
+    "number": 72,
+    "question": "Application of panchakola and Kuladha over the breast is advised by Charaka in the treatment of:",
+    "options": ["Rooksha sthanya", "Kukoonaka", "Sthana vidradhi", "Virasa sthanya"],
+    "answer": "Sthana vidradhi"
+  },
+  {
+    "number": 73,
+    "question": "Drava dravya used in the preparation of Lakshadi Taila is:",
+    "options": ["Laksha rasa", "Laksha rasa and Gomuthra", "Laksha rasa and Kanchika", "Laksha rasa and Masthu"],
+    "answer": "Laksha rasa and Masthu"
+  },
+  {
+    "number": 74,
+    "question": "Attractive hands and feet are features of Graha badhas:",
+    "options": ["Mukha mandita", "Revati", "Sushka Revati", "Skanda"],
+    "answer": "Revati"
+  },
+  {
+    "number": 75,
+    "question": "Prasava kala according to Kasyapa is:",
+    "options": ["9-10 months", "10-12 months", "10 months", "9 months"],
+    "answer": "10 months"
+  },
+  {
+    "number": 76,
+    "question": "Strawberry cervix is seen in infection by:",
+    "options": ["Trichomonas Vaginalis", "Candida albicans", "Chlamidia trachomatis", "Neisseria gonorrhoea"],
+    "answer": "Trichomonas Vaginalis"
+  },
+  {
+    "number": 77,
+    "question": "Commonest cause of non-engagement of head at term in a primy is:",
+    "options": ["Hydramnios", "CPD", "Brow presentation", "Breech"],
+    "answer": "CPD"
+  },
+  {
+    "number": 78,
+    "question": "Padhyapadhya is essential for this drug even if used as Vatatapika Rasayana:",
+    "options": ["Shilajathu", "Thriphala", "Thila", "Bhallataka"],
+    "answer": "Bhallataka"
+  },
+  {
+    "number": 79,
+    "question": "This drug is used for bhavana of pippali in Rasayana:",
+    "options": ["Kimshuka", "Hareetaki", "Nagara", "Ksheera"],
+    "answer": "Ksheera"
+  },
+  {
+    "number": 80,
+    "question": "Shashtikoudana and sita along with ___ is vrishya:",
+    "options": ["Masthu", "Dadhi Sara", "Navaneetham", "Ghritam"],
+    "answer": "Ghritam"
+  },
+  {
+    "number": 81,
+    "question": "Which of the following hills are found, where the Western Ghats and Eastern Ghats meet?",
+    "options": ["Anaimalai hills", "Nallamala hills", "Ambukuthy hill", "Nilagiri hills"],
+    "answer": "Nilagiri hills"
+  },
+  {
+    "number": 82,
+    "question": "What is the name of the Island, Nelson Mandela was held prisoner at:",
+    "options": ["Seal Island", "Dassen Island", "Robben Island", "Duiker Island"],
+    "answer": "Robben Island"
+  },
+  {
+    "number": 83,
+    "question": "The Egyptian pilot, Hippalus discovered South West moon soon in:",
+    "options": ["45 A.D", "55 A.D", "100 A.D", "45 B.C"],
+    "answer": "45 A.D"
+  },
+  {
+    "number": 84,
+    "question": "Who was founded the Advaita Ashram at Aluva in 1913?",
+    "options": ["Chattampi Swami", "Ayya Vaikundar", "Sri Narayana Guru", "Brahmananda Swami Sivayogi"],
+    "answer": "Sri Narayana Guru"
+  },
+  {
+    "number": 85,
+    "question": "The Anarchical and Revolutionary Crimes Act (1919) was popularly known as the:",
+    "options": ["Indian Arms Act", "Pitt's India Act", "Ilbert Bill", "Rowlatt Act"],
+    "answer": "Rowlatt Act"
+  },
+  {
+    "number": 86,
+    "question": "Who is the winner of the Ranji Trophy cricket championship (2013):",
+    "options": ["Tamil Nadu", "Mumbai", "Rajastan", "Kerala"],
+    "answer": "Mumbai"
+  },
+  {
+    "number": 87,
+    "question": "Gandhi hailed it as a \"a miracle of modern time\". Which incident was connected with this statement:",
+    "options": ["Vaikkom Satyagraha", "Guruvayur - Sathyagraha", "Salt Satyagraha", "Temple entry proclamation"],
+    "answer": "Vaikkom Satyagraha"
+  },
+  {
+    "number": 88,
+    "question": "Among the following states, which one has the highest percentage of rural population (on the basis of the census, 2011)?",
+    "options": ["Himachal Pradesh", "Bihar", "Odisha", "Uttar Pradesh"],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "number": 89,
+    "question": "Which of the following river originates in silent valley:",
+    "options": ["Periyar river", "Kunthi river", "Pampa river", "Chaliyar river"],
+    "answer": "Kunthi river"
+  },
+  {
+    "number": 90,
+    "question": "Who among the following was the Chief Election Commissioner of India from December 1990 to 11 December 1996:",
+    "options": ["T.N. Seshan", "M.S. Gill", "Smt. V.S. Rama Devi", "J.M.Lyngdoh"],
+    "answer": "T.N. Seshan"
+  },
+  {
+    "number": 91,
+    "question": "Who among the following was founded \"The Sadhu Jana Paripalana Yogam\"?",
+    "options": ["Kumaranasan", "Ayyankali", "K. Kelappan", "A. Ayyappan"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number": 92,
+    "question": "The Government has changed the name of NREGA scheme and the renamed scheme is associated with the name of:",
+    "options": ["Mahatma Gandhi", "Rajeev Gandhi", "Indira Gandhi", "Jawaharlal Nehru"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "number": 93,
+    "question": "Rabindranath Tagore gave up his Knighthood because of:",
+    "options": ["Chauri Chaura incident", "Salt Satyagraha", "Jallian Walla Bagh Tragedy", "Execution of Bhagat Singh"],
+    "answer": "Jallian Walla Bagh Tragedy"
+  },
+  {
+    "number": 94,
+    "question": "One among the following was not a member of the first batch of Vaikom Satyagrahis?",
+    "options": ["Kunhappi", "Bahuleyan", "Govinda panikkar", "Gopalan"],
+    "answer": "Gopalan"
+  },
+  {
+    "number": 95,
+    "question": "\"The Indian struggle\" is an autobiography of:",
+    "options": ["C.R. Das", "Subhash Chandra Bose", "Jayaprakash Narayan", "Jawaharlal Nehru"],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "number": 96,
+    "question": "'Kunhi Kannan' was the original name of one of the social reformers of Kerala. Who was he?",
+    "options": ["Kumara Guru", "Vagbhatananda", "Dr. Palpu", "Thycad Ayya"],
+    "answer": "Vagbhatananda"
+  },
+  {
+    "number": 97,
+    "question": "The Kottukkal rock-cut temple is situated at:",
+    "options": ["Kollam District", "Thrissur district", "Alappuzha district", "Thiruvananthapuram district"],
+    "answer": "Kollam District"
+  },
+  {
+    "number": 98,
+    "question": "K. Kasturirangan committee, which submitted report in 2013, is related to:",
+    "options": ["Gas pricing", "Defence purchase", "Allocation of natural resources", "Western Ghats ecology"],
+    "answer": "Western Ghats ecology"
+  },
+  {
+    "number": 99,
+    "question": "First Talkie film in India is:",
+    "options": ["Pundalika", "Aan", "Alam Ara", "Raja Harish Chandra"],
+    "answer": "Alam Ara"
+  },
+  {
+    "number": 100,
+    "question": "Saraswati Samman (2012) was conferred in 2013 on:",
+    "options": ["Vikas Kumar Jha", "Narendra Kohli", "Sugatha Kumari", "Arjundeo Charan"],
+    "answer": "Sugatha Kumari"
+  }
+]

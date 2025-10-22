@@ -1,0 +1,712 @@
+[
+  {
+    "number": 1,
+    "question": "The naturalist who independently conceived the idea of natural selection along with Darwin",
+    "options": ["Alfred Russel Wallace", "Charles Lyell", "Joseph Hooker", "John Henslow"],
+    "answer": "Alfred Russel Wallace"
+  },
+  {
+    "number": 2,
+    "question": "The theory proposed by Stephen Jay Gould and Niles Eldredge to explain Evolution",
+    "options": ["Theory of Genetic drift", "Theory of punctuated Equilibrium", "Theory of Genetic Equilibrium", "Theory of Orthogenesis"],
+    "answer": "Theory of punctuated Equilibrium"
+  },
+  {
+    "number": 3,
+    "question": "A system of classification based on the phylogenetic relationships and evolutionary history of groups of organisms",
+    "options": ["Phenetics", "Phyletics", "Cladistics", "Phylogenetics"],
+    "answer": "Cladistics"
+  },
+  {
+    "number": 4,
+    "question": "Eight kingdom classification was proposed by",
+    "options": ["R.H. Whittaker", "Carl Woese", "Carolus Linnaeus", "Cavalier Smith"],
+    "answer": "Cavalier Smith"
+  },
+  {
+    "number": 5,
+    "question": "Protein that was used to create the first phylogenetic tree based on molecular data",
+    "options": ["Cytochrome A", "Cytochrome B", "Cytochrome C", "Cytochrome D"],
+    "answer": "Cytochrome C"
+  },
+  {
+    "number": 6,
+    "question": "Malaise traps are used to collect",
+    "options": ["Birds", "Insects", "Mammals", "Plankton"],
+    "answer": "Insects"
+  },
+  {
+    "number": 7,
+    "question": "The loss of genetic variation that occurs when a new population is established by a very small number of individuals from a larger population is known as",
+    "options": ["Genetic stability principle", "Hardy Weinberg Principle", "Speciation principle", "Founder Principle"],
+    "answer": "Founder Principle"
+  },
+  {
+    "number": 8,
+    "question": "An example for Co evolution is",
+    "options": ["Evolution of bees and flowers they pollinate", "Evolution of horse and deer", "Evolution of marsupials and placental mammals", "Evolution of man and ape"],
+    "answer": "Evolution of bees and flowers they pollinate"
+  },
+  {
+    "number": 9,
+    "question": "The technique that uses rates of molecular changes to study phylogenetic relationship is",
+    "options": ["Molecular taxonomy", "Molecular clock", "Molecular genetics", "Molecular Phylogeny"],
+    "answer": "Molecular clock"
+  },
+  {
+    "number": 10,
+    "question": "When the name of a species or subspecies is the repetition of the generic name e.g. Apis apis apis it is known as?",
+    "options": ["Homonym", "Heteronym", "Synonym", "Tautonym"],
+    "answer": "Tautonym"
+  },
+  {
+    "number": 11,
+    "question": "Cyclic AMP is the second messenger of",
+    "options": ["Testosterone", "Catecholamine", "Progesterone", "Insulin"],
+    "answer": "Catecholamine"
+  },
+  {
+    "number": 12,
+    "question": "The enzyme that convert Dihydroxy acetone phosphate to D glyceraldehyde 3 phosphate is",
+    "options": ["Glyceraldehyde 3 phosphate dehydrogenase", "Enoyl coenzyme A hydratase", "Glycerol kinase", "Triose phosphate isomerase"],
+    "answer": "Triose phosphate isomerase"
+  },
+  {
+    "number": 13,
+    "question": "Normal value of glomerular filtration rate is",
+    "options": ["10 ml/minute", "525 ml/minute", "125 ml/minute", "750 ml/minute"],
+    "answer": "125 ml/minute"
+  },
+  {
+    "number": 14,
+    "question": "Gastric inhibitory peptide is secreted by",
+    "options": ["G cells of the stomach", "L cells of the duodenum and jejunum", "Alpha cells of Pancreatic islands", "K cells of duodenum and jejunum"],
+    "answer": "K cells of duodenum and jejunum"
+  },
+  {
+    "number": 15,
+    "question": "At high concentration of substrate an uncompetitive inhibitor",
+    "options": ["Lowers Vmax. and Km", "Increases Vmax and Km", "Lowers Vmax and increases Km", "Increases Vmax and Km get unaltered"],
+    "answer": "Lowers Vmax. and Km"
+  },
+  {
+    "number": 16,
+    "question": "Diabetes insipidus is caused by the absence of the secretion of",
+    "options": ["Insulin", "Gastrin", "Antidiuretic hormone", "Estrogen"],
+    "answer": "Antidiuretic hormone"
+  },
+  {
+    "number": 17,
+    "question": "Depolarisation of SA node is mainly due to",
+    "options": ["Influx of calcium ions", "Influx of magnesium ions", "Efflux of calcium ions", "Efflux of magnesium ions"],
+    "answer": "Influx of calcium ions"
+  },
+  {
+    "number": 18,
+    "question": "Precursor for catecholamine hormones is",
+    "options": ["Methionine", "Alanine", "Tyrosine", "Serine"],
+    "answer": "Tyrosine"
+  },
+  {
+    "number": 19,
+    "question": "Chitin is",
+    "options": [
+      "Heteropolysaccharide with glucuronic acid and N-acetyl glucosamine residues linked by beta 1 - 4 linkage",
+      "Homopolysaccharide with D glucose residues linked by beta 1- 4 linkage",
+      "Homopolysaccharide of D fructose residues linked by beta 1 - 2 linkage",
+      "Homopolysaccharide with N-acetyl glucosamine residues linked by beta 1- 4 linkage"
+    ],
+    "answer": "Homopolysaccharide with N-acetyl glucosamine residues linked by beta 1- 4 linkage"
+  },
+  {
+    "number": 20,
+    "question": "Human ABO blood group is determined by",
+    "options": [
+      "Antigenic property of lecithin of the membrane",
+      "Antigenic property of oligosaccharide head group of glycosphingo lipid",
+      "Antigenic properties of ethanolamines",
+      "Antigenic properties of cholesterol of the membrane lipid"
+    ],
+    "answer": "Antigenic property of oligosaccharide head group of glycosphingo lipid"
+  },
+  {
+    "number": 21,
+    "question": "Select the correct combination. The immunoglobulin class produced in a primary response to an antigen and the first immunoglobulin to be synthesized by the neonate are",
+    "options": ["IgM, IgM", "IgM, IgG", "IgM, IgA", "IgM, IgD"],
+    "answer": "IgM, IgM"
+  },
+  {
+    "number": 22,
+    "question": "In Graves' disease, auto-antibodies",
+    "options": ["Bind to receptor for TSH", "Its action mimic the normal action of TSH", "Overstimulate the thyroid", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is correct with respect to the function of complement system?",
+    "options": ["Lysis", "Opsonization", "Clearance of immune complexes", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 24,
+    "question": "Haptens are",
+    "options": ["Antigenic", "Immunogenic", "Both antigenic and immunogenic", "Non-antigenic and non-immunogenic"],
+    "answer": "Antigenic"
+  },
+  {
+    "number": 25,
+    "question": "Georges Köhler and Cesar Milstein are associated with",
+    "options": ["Transplantation", "Hybridoma technology", "Vaccine development", "Complement system"],
+    "answer": "Hybridoma technology"
+  },
+  {
+    "number": 26,
+    "question": "If E.coli is grown in a minimal medium containing glucose and lactose",
+    "options": ["It use glucose first", "It use lactose first", "It use both glucose and lactose together", "All are correct"],
+    "answer": "It use glucose first"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is correct",
+    "options": [
+      "Gram positive bacteria can have peptidoglycan up to 10% of cell wall",
+      "Gram negative bacteria can have peptidoglycan up to 90% of cell wall",
+      "Gram positive bacteria can have peptidoglycan up to 90% of cell wall",
+      "Both gram positive and negative bacteria can have peptidoglycan up to 50% of cell wall"
+    ],
+    "answer": "Gram positive bacteria can have peptidoglycan up to 90% of cell wall"
+  },
+  {
+    "number": 28,
+    "question": "Lysozyme sensitive bond is",
+    "options": [
+      "β(1,1) glycosidic bond present in peptidoglycan",
+      "β(1,2) glycosidic bond present in peptidoglycan",
+      "β(1,3) glycosidic bond present in peptidoglycan",
+      "β(1,4) glycosidic bond present in peptidoglycan"
+    ],
+    "answer": "β(1,4) glycosidic bond present in peptidoglycan"
+  },
+  {
+    "number": 29,
+    "question": "Lipopolysaccharide is characteristic feature of",
+    "options": ["Gram positive bacteria", "Gram negative bacteria", "Both (A) and (B)", "None of the above"],
+    "answer": "Gram negative bacteria"
+  },
+  {
+    "number": 30,
+    "question": "Dipicolinic acid is associated with",
+    "options": ["Bacterial cell", "Bacterial flagella", "Bacterial surface", "Bacterial spore"],
+    "answer": "Bacterial spore"
+  },
+  {
+    "number": 31,
+    "question": "The first eukaryotic organism whose complete DNA is sequenced",
+    "options": ["Chlamydomonas", "Sacharomyces cerevisiae", "Pseudomonas", "Caenorhabditis elegans"],
+    "answer": "Sacharomyces cerevisiae"
+  },
+  {
+    "number": 32,
+    "question": "The first amino acid synthesized during protein synthesis",
+    "options": ["Tyrosine", "Proline", "Methionine", "Tryptophan"],
+    "answer": "Methionine"
+  },
+  {
+    "number": 33,
+    "question": "The heat stable DNA polymerase used in Polymerase Chain Reaction",
+    "options": ["T7 DNA Polymerase", "Thermo Polymerase", "Taq DNA Polymerase", "Poly (A) Polymerase"],
+    "answer": "Taq DNA Polymerase"
+  },
+  {
+    "number": 34,
+    "question": "The insert capacity of plasmid vectors",
+    "options": ["0.1–10 kb", "10–20", "35–45", "80–100"],
+    "answer": "0.1–10 kb"
+  },
+  {
+    "number": 35,
+    "question": "The blotting technique used to detect RNA",
+    "options": ["Western Blot", "Southern Blot", "Northern Blot", "Eastern Blot"],
+    "answer": "Northern Blot"
+  },
+  {
+    "number": 36,
+    "question": "A molecular marker utilizing restriction enzymes",
+    "options": ["RAPD", "AFLP", "Microsatellite", "RFLP"],
+    "answer": "RFLP"
+  },
+  {
+    "number": 37,
+    "question": "Which one is not a DNA staining reagent aiding DNA visualization",
+    "options": ["Ethidium bromide", "Sybr Green", "Hoechst stain", "Methyl red"],
+    "answer": "Methyl red"
+  },
+  {
+    "number": 38,
+    "question": "The theory behind si-RNA therapy",
+    "options": [
+      "Correction of gene mutation with an oligonucleotide",
+      "Blocking translation of mRNA from a mutant gene with an oligonucleotide",
+      "Providing needed protein synthesized by blood cells",
+      "Removal of toxic molecules"
+    ],
+    "answer": "Blocking translation of mRNA from a mutant gene with an oligonucleotide"
+  },
+  {
+    "number": 39,
+    "question": "The enzyme that degrades double stranded DNA",
+    "options": ["DNase I", "Mung Bean nuclease", "S1 nuclease", "RNase H"],
+    "answer": "DNase I"
+  },
+  {
+    "number": 40,
+    "question": "Identify a recombinant vaccine",
+    "options": ["MMR vaccine", "BCG", "Polio", "Hepatitis B vaccine"],
+    "answer": "Hepatitis B vaccine"
+  },
+  {
+    "number": 41,
+    "question": "U-rich mRNAs participate in pre-mRNA splicing are",
+    "options": ["U1, U2, U3, U4, U5", "U1, U3, U5, U7, U5, U9", "U2, U4, U6, U8, U10", "U1, U2, U4, U5, U6"],
+    "answer": "U1, U2, U4, U5, U6"
+  },
+  {
+    "number": 42,
+    "question": "Extent of interference can be measured by coefficient of co-incidence. Therefore",
+    "options": [
+      "C = Expected frequency of double cross overs × 100 / Observed frequency of double cross overs",
+      "C = Observed frequency of double cross overs / Expected frequency of double cross overs",
+      "C = Expected frequency of double cross overs / Observed frequency of double cross overs × 100",
+      "C = Expected frequency of double cross overs"
+    ],
+    "answer": "C = Observed frequency of double cross overs / Expected frequency of double cross overs"
+  },
+  {
+    "number": 43,
+    "question": "During replication in E.Coli the unwinding of DNA is catalyzed by",
+    "options": ["DNA Helicase", "SSDNA Binding protein", "DNA topoisomerase", "DNA polymerase"],
+    "answer": "DNA Helicase"
+  },
+  {
+    "number": 44,
+    "question": "47 xxy in man indicates",
+    "options": ["Down's syndrome", "Klinfelter syndrome", "Turner syndrome", "Cri-du-chat syndrome"],
+    "answer": "Klinfelter syndrome"
+  },
+  {
+    "number": 45,
+    "question": "Trichothiodystrophy is associated with",
+    "options": ["Structural gene mutation", "Defect in nucleotide excision repair", "Defect in DNA metabolism", "Defect in mismatch repair mechanism"],
+    "answer": "Defect in nucleotide excision repair"
+  },
+  {
+    "number": 46,
+    "question": "Calcium plays an important role in cortical granule reaction. Upon fertilization the level of Ca²⁺",
+    "options": ["Increases", "Decrease", "Remains same", "Decreases with increase in K⁺"],
+    "answer": "Increases"
+  },
+  {
+    "number": 47,
+    "question": "_____ is a maternally expressed polypeptide that may control the fate of EMS blastomere in C.elegans",
+    "options": ["PAL-1", "PIE-1", "SKN-1", "MOM-2"],
+    "answer": "SKN-1"
+  },
+  {
+    "number": 48,
+    "question": "Identify the correct statement from the following",
+    "options": [
+      "Mutation of CSX gene results in heart attack",
+      "Reiger syndrome is a mutation phenotype of the gene PIT x\u2083",
+      "Mutation of WTI gene in man results in congenital cataract",
+      "Greig syndrome is a mutation phenotype of the gene SOX9"
+    ],
+    "answer": "Reiger syndrome is a mutation phenotype of the gene PIT x\u2083"
+  },
+  {
+    "number": 49,
+    "question": "Which group of genes identified by Nusselein Volhard and Carroll is responsible for the final stages of segmentation in Drosophila embryo?",
+    "options": ["Morphogen gradient gene", "Gap gene", "Pair rule genes", "Segment polarity gene"],
+    "answer": "Segment polarity gene"
+  },
+  {
+    "number": 50,
+    "question": "Which of the following series of events represents the path of vertebrate development?",
+    "options": [
+      "Blastula, cleavage, neurulation, cell migration, gastrulation, organogenesis, growth",
+      "Blastula, cleavage, gastrulation, neurulation, cell migration, organogenesis, growth",
+      "Cleavage, blastula, gastrulation, neurulation, cell migration, growth",
+      "Cleavage, gastrulation, blastulation, neurulation, cell migration, growth"
+    ],
+    "answer": "Blastula, cleavage, gastrulation, neurulation, cell migration, organogenesis, growth"
+  },
+  {
+    "number": 51,
+    "question": "A keystone species",
+    "options": [
+      "Exert great influence on structure of ecosystem",
+      "Exert great influence on functioning of ecosystem",
+      "Both (A) and (B)",
+      "None of the above"
+    ],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 52,
+    "question": "System for the control of hunger and thirst are linked with the _____ of the brain",
+    "options": ["Pituitary", "Hypothalamus", "Thalamus", "All the above"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "number": 53,
+    "question": "The frequency distribution for nominal /ordinal data",
+    "options": ["Bar chart", "Histogram", "Frequency polygon", "All the above"],
+    "answer": "Bar chart"
+  },
+  {
+    "number": 54,
+    "question": "Principle of competitive exclusion was given by",
+    "options": ["E. P. Odum", "G. F. Gause", "J. H. Conell", "E. F. Clements"],
+    "answer": "G. F. Gause"
+  },
+  {
+    "number": 55,
+    "question": "Which of the following is true",
+    "options": [
+      "In a wild life sanctuary human activities are not allowed",
+      "In a national park human activities are not allowed",
+      "Both (A) and (B)",
+      "None"
+    ],
+    "answer": "In a national park human activities are not allowed"
+  },
+  {
+    "number": 56,
+    "question": "Zero population growth occurs when",
+    "options": [
+      "Death rate equals birth rate and net migration is zero",
+      "Death rate is greater than birth rate and net migration is zero",
+      "Death rate is lesser than birth rate and net migration is zero",
+      "All the above"
+    ],
+    "answer": "Death rate equals birth rate and net migration is zero"
+  },
+  {
+    "number": 57,
+    "question": "Classical conditioning is reinforced when the _____ follows the _____",
+    "options": [
+      "Conditioned Stimulus, Unconditioned Stimulus",
+      "Unconditioned Response, Conditioned Response",
+      "Conditioned Stimulus, Conditioned Response",
+      "Unconditioned Stimulus, Conditioned Stimulus"
+    ],
+    "answer": "Conditioned Stimulus, Unconditioned Stimulus"
+  },
+  {
+    "number": 58,
+    "question": "A stable community of a sere is",
+    "options": ["Seral community", "Lithosere", "Climax community", "Xerosere"],
+    "answer": "Climax community"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following is not true for green house gases",
+    "options": [
+      "CO\u2082, methane, CFC",
+      "CO\u2082, methane, Ozone",
+      "CO\u2082, water vapour, CFC",
+      "CO\u2082, nitrous oxide, Oxygen"
+    ],
+    "answer": "CO\u2082, nitrous oxide, Oxygen"
+  },
+  {
+    "number": 60,
+    "question": "The following is not a major cause of species extinction",
+    "options": ["Habitat loss", "Hunting and poaching", "Fire", "Exotic species"],
+    "answer": "Fire"
+  },
+  {
+    "number": 61,
+    "question": "A three-dimensional image of a bacterium is achieved by using",
+    "options": ["Phase contrast microscopy", "Scanning electron microscopy", "Transmission electron microscopy", "Bright field microscopy"],
+    "answer": "Scanning electron microscopy"
+  },
+  {
+    "number": 62,
+    "question": "Two-dimensional gels are used to",
+    "options": ["Separate DNA fragments", "Separate DNA from RNA", "Separate different proteins", "Observe protein in two-dimensions"],
+    "answer": "Separate different proteins"
+  },
+  {
+    "number": 63,
+    "question": "In reversed phase HPLC",
+    "options": [
+      "A hydrophilic stationary phase is combined with a polar mobile phase",
+      "A hydrophobic stationary phase is combined with a polar mobile phase",
+      "A hydrophobic stationary phase is combined with a non-polar mobile phase",
+      "A hydrophilic stationary phase is combined with a non-polar mobile phase"
+    ],
+    "answer": "A hydrophobic stationary phase is combined with a polar mobile phase"
+  },
+  {
+    "number": 64,
+    "question": "Human genome comprises of",
+    "options": ["20 billion nucleotides", "5 million nucleotides", "3.1 billion nucleotides", "5 billion nucleotides"],
+    "answer": "3.1 billion nucleotides"
+  },
+  {
+    "number": 65,
+    "question": "CpG islands and codon bias are tools used in eukaryotic genomics to",
+    "options": [
+      "Final regular sequences",
+      "Identify a gene's function",
+      "Identify open reading frames",
+      "Look for DNA binding domains"
+    ],
+    "answer": "Identify open reading frames"
+  },
+  {
+    "number": 66,
+    "question": "The assembly of final genomic sequence from multiple sequencing running is called",
+    "options": ["Annotating", "Compiling", "Computing", "Sequencing"],
+    "answer": "Compiling"
+  },
+  {
+    "number": 67,
+    "question": "Which statement is incorrect about the SDS PAGE technique?",
+    "options": [
+      "Sodium dodecyl sulfate is used to denature the samples being separated",
+      "It is used to separate proteins",
+      "It is a type of gas chromatographic method of separation",
+      "Separations are run on gel covered plates"
+    ],
+    "answer": "It is a type of gas chromatographic method of separation"
+  },
+  {
+    "number": 68,
+    "question": "Which of the following is a protein sequence database?",
+    "options": ["DDBJ", "EMBL", "Gen Bank", "PIR"],
+    "answer": "PIR"
+  },
+  {
+    "number": 69,
+    "question": "How many countries have ratified the Kyoto protocol of 1997 to date?",
+    "options": ["275", "175", "75", "150"],
+    "answer": "175"
+  },
+  {
+    "number": 70,
+    "question": "Which protein has been produced generating a transgenic sheep that is used for replacement therapy for individuals at risk from emphysema?",
+    "options": ["Casein", "α - anti trypsin (AAT)", "Plasminogen activator (tPA)", "Amyloid precursor proteins"],
+    "answer": "α - anti trypsin (AAT)"
+  },
+  {
+    "number": 71,
+    "question": "Which of the following sampling method is preferred for studying heterogeneous population?",
+    "options": ["Simple random sampling", "Stratified sampling", "Convenient sampling", "Systematic sampling"],
+    "answer": "Stratified sampling"
+  },
+  {
+    "number": 72,
+    "question": "A test that examine subjects' thoughts and thought processes is",
+    "options": ["Cognitive test", "Affective test", "Standardized test", "Generalized test"],
+    "answer": "Cognitive test"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is most appropriate about discussion part of a research paper?",
+    "options": [
+      "It elaborates importance of the topic",
+      "Explain how the findings concur with that of others",
+      "Deals with method of sampling and recruitments",
+      "Deals with findings of the relevant studies"
+    ],
+    "answer": "Explain how the findings concur with that of others"
+  },
+  {
+    "number": 74,
+    "question": "The process of collecting and analyzing information to develop or enhance a theory is",
+    "options": ["Basic research", "Applied research", "Evaluation", "None of the above"],
+    "answer": "Basic research"
+  },
+  {
+    "number": 75,
+    "question": "If you want to determine whether and to what degree a relationship exists between two or more variables what kind of study you have to do?",
+    "options": ["Descriptive", "Correlation", "Causal-comparative", "Experimental"],
+    "answer": "Correlation"
+  },
+  {
+    "number": 76,
+    "question": "Creating a class room climate conducive to develop positive self concept in students is by",
+    "options": ["Challenge and freedom", "Respect and warmth", "Control and success", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 77,
+    "question": "Which of the following teacher will be liked most?",
+    "options": [
+      "A teacher who maintain discipline in the classroom",
+      "A teacher who make teaching learning process enjoyable",
+      "A teacher who give more home work",
+      "A teacher who take more number of classes"
+    ],
+    "answer": "A teacher who make teaching learning process enjoyable"
+  },
+  {
+    "number": 78,
+    "question": "An instructional model that identifies the major variable in the teaching learning process includes",
+    "options": ["Individual differences", "Principle of learning", "Teacher behaviour", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 79,
+    "question": "The extent of teachers' subject matter and pedagogical expertise indicates the teachers",
+    "options": ["Efficacy", "Morale", "Competency", "Efficiency"],
+    "answer": "Competency"
+  },
+  {
+    "number": 80,
+    "question": "What will be the impact of interactive teaching?",
+    "options": [
+      "It will make teaching learning process difficult",
+      "It will create confusion among students",
+      "Students will be expected to listen only",
+      "It will make teaching learning process effective, democratic and friendly"
+    ],
+    "answer": "It will make teaching learning process effective, democratic and friendly"
+  },
+  {
+    "number": 81,
+    "question": "The term socialist has been inserted in the preamble by the _____ Amendment Act of the Constitution.",
+    "options": ["43", "42", "41", "40"],
+    "answer": "42"
+  },
+  {
+    "number": 82,
+    "question": "Right for freedom to form Association is provided in Article _____ of the Constitution.",
+    "options": ["19(1)(a)", "19(1)(b)", "19(1)(c)", "19(1)(d)"],
+    "answer": "19(1)(c)"
+  },
+  {
+    "number": 83,
+    "question": "Money Bill can be introduced in",
+    "options": ["Lok Sabha", "Rajya Sabha", "Both (A) and (B)", "None of the above"],
+    "answer": "Lok Sabha"
+  },
+  {
+    "number": 84,
+    "question": "Legislative council of a State",
+    "options": [
+      "Can be dissolved by the Governor",
+      "Can be abolished by the President with the advice of the Governor of the State",
+      "Can be abolished by the Parliament based on the resolution passed by the majority of the Legislative Assembly",
+      "Can be abolished by the Governor based on the resolution passed by the majority of the Legislative Assembly"
+    ],
+    "answer": "Can be abolished by the Parliament based on the resolution passed by the majority of the Legislative Assembly"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following statement is true?<br>1) The President can make a proclamation declaring emergency only when he receives in writing the decision of the Union Cabinet.<br>2) The President can declare emergency on the ground of threat of Armed Rebellion.<br>3) The President can declare emergency on the ground of threat of External Aggression.<br>4) The president could make a proclamation declaring emergency on the ground of threat of internal disturbance.",
+    "options": ["1,2,3","1,3,4","2,3,4","1,2,3,4"],
+    "answer": "1,2,3"
+  },
+  {
+    "number": 86,
+    "question": "According to Child Labour (Prohibition and Regulation) Act, 1986 Child means the person who has not completed his _____ year of age.",
+    "options": ["18", "16", "15", "14"],
+    "answer": "14"
+  },
+  {
+    "number": 87,
+    "question": "What is the penalty for the refusal of the RTI application by the Public information Officer?",
+    "options": ["Rs. 5,000 and 1 month imprisonment", "Rs. 1,000 and 1 month imprisonment", "Rs. 5,000", "Rs. 25,000"],
+    "answer": "Rs. 25,000"
+  },
+  {
+    "number": 88,
+    "question": "Which of the following statement is not true?",
+    "options": [
+      "No child shall be required to work for more than 3 hours at a stretch",
+      "No child shall be required to work for more than 6 hours including rest period",
+      "No child shall be permitted to work between 8 p.m. and 8 a.m.",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "number": 89,
+    "question": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013<br>(1) Protects women working in that place<br>(2) Protects any women who enters the work place like clients, customer, etc.<br>(3) Protects all the employees who are working there<br>(4) Protects only women working in government institutions",
+    "options": ["1 and 2","2 and 3","3 and 4","1,3,4"],
+    "answer": "1 and 2"
+  },
+  {
+    "number": 90,
+    "question": "Whoever contravenes the provisions of S.24 of the Water (Prevention and Control of Pollution) Act, prohibition on use of stream or well for disposal of polluting matter shall be punishable with imprisonment for a term which shall not be less than",
+    "options": [
+      "1 year but which may extend to 6 years",
+      "2 year but which may extend to 8 years",
+      "1½ year but which may extend to 8 years and with fine",
+      "1¼ year but which may extend to 6 years and with fine"
+    ],
+    "answer": "1½ year but which may extend to 8 years and with fine"
+  },
+  {
+    "number": 91,
+    "question": "In which novel of Kesava Dev 'Pappu' appears as the main character?",
+    "options": ["Odayil Ninnu", "Branthalayam", "Kannadi", "Ayalkkar"],
+    "answer": "Odayil Ninnu"
+  },
+  {
+    "number": 92,
+    "question": "The First editor of 'Swadeshabhimani' daily",
+    "options": ["Balakrishna Pilla", "K. Ramakrishna Pilla", "Vakkam Abdulkhader Moulavi", "C.P. Govinda Pilla"],
+    "answer": "K. Ramakrishna Pilla"
+  },
+  {
+    "number": 93,
+    "question": "Who organised 'Misrabhojanam'?",
+    "options": ["Sri Narayana Guru", "Sahodaran Ayyappan", "Ayyamkali", "Chattambhi Swamikal"],
+    "answer": "Sahodaran Ayyappan"
+  },
+  {
+    "number": 94,
+    "question": "'Pattini Jatha' led by",
+    "options": ["K. Kelappan", "Dr. Ayyathan Gopalan", "A.K. Gopalan", "P.K. Chathan Master"],
+    "answer": "A.K. Gopalan"
+  },
+  {
+    "number": 95,
+    "question": "Who took Prime role in the publication of 'Rajyasamacharam'?",
+    "options": ["Clement piyanoos padre", "Dr. Herman Gundert", "Arnos Padre", "James Augustus"],
+    "answer": "Dr. Herman Gundert"
+  },
+  {
+    "number": 96,
+    "question": "The Chief guest on the occasion of 65th Republic day celebration",
+    "options": ["Shinzo Abe", "Hu Zhang Tao", "Yoshihiko Noda", "Wen Jiabo"],
+    "answer": "Shinzo Abe"
+  },
+  {
+    "number": 97,
+    "question": "Which among the following diseases is eradicated through immunisation programme in India?",
+    "options": ["Polio", "Tuberculosis", "Diptheria", "Jaundice"],
+    "answer": "Polio"
+  },
+  {
+    "number": 98,
+    "question": "Who inaugurated the new Kerala legislative assembly building in 1998?",
+    "options": ["A.B. Vajpayee", "I.K. Gujral", "K.R. Narayanan", "Krishna Kant"],
+    "answer": "K.R. Narayanan"
+  },
+  {
+    "number": 99,
+    "question": "The Minister who presented and passed the Land reformation act of Kerala in 1969",
+    "options": ["T.V. Thomas", "K.T. Jacob", "C. Achutha Menon", "K.R. Gouri"],
+    "answer": "K.R. Gouri"
+  },
+  {
+    "number": 100,
+    "question": "The bowler to take Sachin's wicket in his last test",
+    "options": ["Darren Sammy", "Narsingh Deo Narine", "Chris Gayle", "Keron Pollard"],
+    "answer": "Narsingh Deo Narine"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "The continuous process of measuring a firm's goods, practices and services against those of its toughest competitors is:",
+    "options": ["Megamarketing", "Overmarketing", "Benchmarketing", "None of these"],
+    "answer": "Benchmarketing"
+  },
+  {
+    "number": 2,
+    "question": "Performance appraisal done by supervisors, peers, subordinates, employees themselves, users of services and consultants is known as:",
+    "options": ["360° Performance Appraisal", "Forced Choice Method", "BARS", "Group Appraisal"],
+    "answer": "360° Performance Appraisal"
+  },
+  {
+    "number": 3,
+    "question": "Which committee reviewed the role, structure and operations of development financial institutions and banks in 1998?",
+    "options": ["Verma Committee", "Narasimham Committee", "Khan Committee", "None of these"],
+    "answer": "Khan Committee"
+  },
+  {
+    "number": 4,
+    "question": "An agreement in restraint of marriage is valid in the case of:",
+    "options": ["Minor", "Uneducated", "Married", "None of these"],
+    "answer": "Minor"
+  },
+  {
+    "number": 5,
+    "question": "An investor must be very cautious when buying a share that belongs to:",
+    "options": ["A Group", "S Group", "Z Group", "None of these"],
+    "answer": "Z Group"
+  },
+  {
+    "number": 6,
+    "question": "In which production function is the degree of homogeneity always 1?",
+    "options": ["Cobb-Douglas Production Function", "Homogeneous Production Function", "Linear Homogeneous Production Function", "None of these"],
+    "answer": "Linear Homogeneous Production Function"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following ratio is not used for determining the solvency of a concern?",
+    "options": ["Debt-Equity Ratio", "Proprietory Ratio", "Debt Service Ratio", "Creditors Turnover Ratio"],
+    "answer": "Creditors Turnover Ratio"
+  },
+  {
+    "number": 8,
+    "question": "Rent of owned building is:",
+    "options": ["Sunk Cost", "Shut Down Cost", "Imputed Cost", "Out of Pocket Cost"],
+    "answer": "Imputed Cost"
+  },
+  {
+    "number": 9,
+    "question": "Matrix type of marketing organisation is most suited for:",
+    "options": ["Single Product, Single Market Situation", "Multi Product, Single Market Situation", "Multi Product, Multi Market Situation", "Single Product, Multi Market Situation"],
+    "answer": "Multi Product, Multi Market Situation"
+  },
+  {
+    "number": 10,
+    "question": "Franco price covers:",
+    "options": ["Charges for placing goods near the ship", "Cost of loading goods on board", "Cost, Freight and Insurance", "All charges necessary for sending goods to buyer’s place"],
+    "answer": "All charges necessary for sending goods to buyer’s place"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following is not an important source of power of a leader in an organisation?",
+    "options": ["Referent Power", "Behavioural Power", "Legitimate Power", "Coercive Power"],
+    "answer": "Behavioural Power"
+  },
+  {
+    "number": 12,
+    "question": "Which bank set up its merchant banking division in 1969 for the first time in India?",
+    "options": ["State Bank of India", "Grindlays Bank", "ICICI", "None of these"],
+    "answer": "Grindlays Bank"
+  },
+  {
+    "number": 13,
+    "question": "Novation means:",
+    "options": ["Cancellation of the existing contract", "Change in one or more terms", "Substitution of existing contract for a new one", "None of these"],
+    "answer": "Substitution of existing contract for a new one"
+  },
+  {
+    "number": 14,
+    "question": "Which is a tradable instrument with detachable warrant for equity shares after a fixed period?",
+    "options": ["Secured Premium Notes", "Zero Coupon Bond", "Collable Bond", "Equity Warrant"],
+    "answer": "Secured Premium Notes"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following is not a property of isoquant?",
+    "options": ["Downward Sloping", "Convex", "Negative Slope", "Positive Slope"],
+    "answer": "Positive Slope"
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is a non-current liability?",
+    "options": ["Mortgage Loan", "Bank Balance", "Outstanding Salary", "Salary"],
+    "answer": "Mortgage Loan"
+  },
+  {
+    "number": 17,
+    "question": "Which method is used in the control of spare parts?",
+    "options": ["ABC Analysis", "HML Analysis", "JIT", "VED Analysis"],
+    "answer": "ABC Analysis"
+  },
+  {
+    "number": 18,
+    "question": "The aspect of marketing that discourages customers temporarily or permanently is:",
+    "options": ["Remarketing", "Demarketing", "Overmarketing", "None of these"],
+    "answer": "Demarketing"
+  },
+  {
+    "number": 19,
+    "question": "A statement of minimum acceptable human qualities for a job is:",
+    "options": ["Job Specification", "Job Description", "Job Classification", "Job Enrichment"],
+    "answer": "Job Specification"
+  },
+  {
+    "number": 20,
+    "question": "Expansion and contraction of currency takes place through the ______ of RBI.",
+    "options": ["Banking Department", "Currency Department", "Credit Department", "None of these"],
+    "answer": "Currency Department"
+  },
+  {
+    "number": 21,
+    "question": "Rejecting a true null hypothesis is committing a:",
+    "options": ["Type I Error", "Type II Error", "Type III Error", "Sampling Error"],
+    "answer": "Type I Error"
+  },
+  {
+    "number": 22,
+    "question": "An agreement to pay based on whether it rains is a:",
+    "options": ["Quasi Contract", "Contingent Contract", "Wagering Agreement", "Voidable Contract"],
+    "answer": "Wagering Agreement"
+  },
+  {
+    "number": 23,
+    "question": "A company making a public issue through book building process issues:",
+    "options": ["Shelf Prospectus", "Statement in Lieu of Prospectus", "Deemed Prospectus", "Red-Herring Prospectus"],
+    "answer": "Red-Herring Prospectus"
+  },
+  {
+    "number": 24,
+    "question": "Grey market is an:",
+    "options": ["Official Market", "Unofficial Market", "Regulated Market", "None of these"],
+    "answer": "Unofficial Market"
+  },
+  {
+    "number": 25,
+    "question": "Price discrimination is possible in:",
+    "options": ["Perfect Competition", "Monopoly", "Monopolistic Competition", "None of these"],
+    "answer": "Monopoly"
+  },
+  {
+    "number": 26,
+    "question": "If an asset transferred without consideration is again transferred by the transferee, the resultant gain or loss is clubbed with the income of:",
+    "options": ["Former transferor", "Former transferee", "Latter transferee", "None of these"],
+    "answer": "Former transferor"
+  },
+  {
+    "number": 27,
+    "question": "______ is calculated to find the extent to which earnings per share have been retained in the business.",
+    "options": ["Dividend pay-out ratio", "Dividend yield ratio", "Price earning ratio", "None of these"],
+    "answer": "Dividend pay-out ratio"
+  },
+  {
+    "number": 28,
+    "question": "If the annual usage is 6000 units, cost of placing an order is Rs.60 and annual carrying cost per unit is Rs.2, EOQ is:",
+    "options": ["60 unit", "600 unit", "6000 unit", "300 unit"],
+    "answer": "600 unit"
+  },
+  {
+    "number": 29,
+    "question": "Sales based on verbal understanding between buyers and sellers without mentioning the rate with the understanding that buyer will pay the prevailing rate is:",
+    "options": ["Sale by open auction", "Dara sale", "Moghum sale", "None of these"],
+    "answer": "Moghum sale"
+  },
+  {
+    "number": 30,
+    "question": "Market integration is the strategy of:",
+    "options": ["Counter integration", "Additional segmentation", "Product differentiation", "Concentrated marketing"],
+    "answer": "Concentrated marketing"
+  },
+  {
+    "number": 31,
+    "question": "What is the significance of the year “1926” in the development of HRM in India?",
+    "options": ["The Payment of Wages Act was passed", "The All India Trade Union Congress was formed", "Indian Trade Unions Act was passed", "The Bombay Trade Disputes Conciliation Act was passed"],
+    "answer": "The All India Trade Union Congress was formed"
+  },
+  {
+    "number": 32,
+    "question": "______ was established in 1990 with an objective to provide an alternate market for the securities of smaller companies.",
+    "options": ["OTCEI", "NSE", "BOLT", "SHCIL"],
+    "answer": "OTCEI"
+  },
+  {
+    "number": 33,
+    "question": "If the variables are measured on nominal and ordinal scales, the tools of analysis are called ______ statistics.",
+    "options": ["Parametric", "Non-parametric", "Descriptive", "Inferential"],
+    "answer": "Non-parametric"
+  },
+  {
+    "number": 34,
+    "question": "A stipulation in a contract of sale of goods whose violation by seller gives a right of rescission to buyer is called:",
+    "options": ["Guarantee", "Warranty", "Condition", "Term"],
+    "answer": "Condition"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following is not a mutual fund scheme?",
+    "options": ["Equity schemes", "Debt schemes", "Balanced schemes", "Mutual benefit schemes"],
+    "answer": "Mutual benefit schemes"
+  },
+  {
+    "number": 36,
+    "question": "Variables that contain data with only two categories are called ______ variables.",
+    "options": ["Interval", "Ordinal", "Nominal", "Dichotomous"],
+    "answer": "Dichotomous"
+  },
+  {
+    "number": 37,
+    "question": "The income elasticity of demand is negative for a:",
+    "options": ["Positive good", "Normal good", "Elastic good", "Inferior good"],
+    "answer": "Inferior good"
+  },
+  {
+    "number": 38,
+    "question": "In the case of gift of movable property, tax is levied on the basis of:",
+    "options": ["Fair market value", "Stamp duty value", "Declared value", "None of these"],
+    "answer": "Fair market value"
+  },
+  {
+    "number": 39,
+    "question": "The term “Caveat Emptor” means:",
+    "options": ["Let the seller beware", "Let the buyer beware", "Let the buyer and seller beware", "None of these"],
+    "answer": "Let the buyer beware"
+  },
+  {
+    "number": 40,
+    "question": "Rapid penetration strategy opted in the introduction stage of Product Life Cycle is:",
+    "options": ["High price, high promotion", "High price, low promotion", "Low price, high promotion", "Low price, low promotion"],
+    "answer": "Low price, high promotion"
+  },
+  {
+    "number": 41,
+    "question": "______ means shares having no face value.",
+    "options": ["Sweat equity", "Deferred shares", "Equity shares", "No par stock"],
+    "answer": "No par stock"
+  },
+  {
+    "number": 42,
+    "question": "If there is no accessible sampling frame, ______ sampling is used.",
+    "options": ["Judgement", "Snowball", "Systematic", "Random"],
+    "answer": "Snowball"
+  },
+  {
+    "number": 43,
+    "question": "The threat to commit suicide amounts to:",
+    "options": ["Undue influence", "Misrepresentation", "Coercion", "Fraud"],
+    "answer": "Coercion"
+  },
+  {
+    "number": 44,
+    "question": "The principle that a company cannot lawfully do that which is beyond its powers is explained by:",
+    "options": ["Doctrine of ultra vires", "Doctrine of indoor management", "Doctrine of constructive notice", "None of these"],
+    "answer": "Doctrine of ultra vires"
+  },
+  {
+    "number": 45,
+    "question": "“A rupee tomorrow is worth less than a rupee today” relates to:",
+    "options": ["Discounting principle", "Opportunity cost principle", "Equi-marginal principle", "None of these"],
+    "answer": "Discounting principle"
+  },
+  {
+    "number": 46,
+    "question": "Where the employee pays rent which is less than 10% of salary, HRA is:",
+    "options": ["Not taxable", "Partly taxable", "Fully taxable", "Proportionally taxable"],
+    "answer": "Fully taxable"
+  },
+  {
+    "number": 47,
+    "question": "______ scheme is more beneficial to the workers at lower levels of efficiency:",
+    "options": ["Rowan", "Halsey", "Halsey-Weir", "None of these"],
+    "answer": "Rowan"
+  },
+  {
+    "number": 48,
+    "question": "Who has introduced the concept of marketing-mix?",
+    "options": ["N.H. Bordon", "E.F.L. Brech", "Henry L. Hernam", "William J. Stanton"],
+    "answer": "N.H. Bordon"
+  },
+  {
+    "number": 49,
+    "question": "Which of the following is not promotional pricing?",
+    "options": ["Special event pricing", "Price leaders", "Superficial discounting", "Prestige pricing"],
+    "answer": "Prestige pricing"
+  },
+  {
+    "number": 50,
+    "question": "______ is a process of fixing price for an issue of securities on a feedback from potential investors based on their perception about a company:",
+    "options": ["Tender method", "Book building", "Underwritten placement", "None of these"],
+    "answer": "Book building"
+  },
+  {
+    "number": 51,
+    "question": "______ samples are best suited for exploratory research.",
+    "options": ["Systematic", "Convenience", "Judgement", "Random"],
+    "answer": "Convenience"
+  },
+  {
+    "number": 52,
+    "question": "Which of the following is not a form of delivery of goods?",
+    "options": ["Constructive delivery", "Structured delivery", "Actual delivery", "Symbolic delivery"],
+    "answer": "Structured delivery"
+  },
+  {
+    "number": 53,
+    "question": "The transfer of right shares in favour of a third party is called:",
+    "options": ["Renouncement of shares", "Allotment of shares", "Transfer of shares", "Transmission of shares"],
+    "answer": "Renouncement of shares"
+  },
+  {
+    "number": 54,
+    "question": "Take out financing is:",
+    "options": ["A sort of bank financing", "Coming under hire purchase", "Coming under lease financing", "None of these"],
+    "answer": "A sort of bank financing"
+  },
+  {
+    "number": 55,
+    "question": "Capital gains used for acquiring land, buildings, plant or machinery to shift the industrial undertaking to non-urban area is eligible for exemption under section ______ of I.T. Act.",
+    "options": ["54A", "54B", "54GA", "54G"],
+    "answer": "54GA"
+  },
+  {
+    "number": 56,
+    "question": "Retention money is the difference between the work certified and:",
+    "options": ["Work uncertified", "Contract price", "Cash received", "None of these"],
+    "answer": "Cash received"
+  },
+  {
+    "number": 57,
+    "question": "In the intensive growth strategies, develop new markets for its current products is:",
+    "options": ["Market penetration strategy", "Market development strategy", "Product development strategy", "None of these"],
+    "answer": "Market development strategy"
+  },
+  {
+    "number": 58,
+    "question": "The authority to implement Ecomark scheme on voluntary basis in India is:",
+    "options": ["The Central Pollution Control Board", "Environment and Pollution Board", "Eco-planning Management Board", "None of these"],
+    "answer": "The Central Pollution Control Board"
+  },
+  {
+    "number": 59,
+    "question": "Contago charge is related to:",
+    "options": ["Liquidation by payment of differences", "Liquidation in full", "Carry over to next settlement", "None of these"],
+    "answer": "Carry over to next settlement"
+  },
+  {
+    "number": 60,
+    "question": "______ scale is also called summated rating scale.",
+    "options": ["Likert", "Semantic differential", "Nominal", "Ordinal"],
+    "answer": "Likert"
+  },
+  {
+    "number": 61,
+    "question": "Which of the following is not representing a virtual organisation?",
+    "options": ["Digital organisation", "Network organisation", "Modular organisation", "Concurrent organisation"],
+    "answer": "Concurrent organisation"
+  },
+  {
+    "number": 62,
+    "question": "Dow theory is associated with:",
+    "options": ["Market analysis", "Technical analysis", "Fundamental analysis", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "number": 63,
+    "question": "Income tax is shared among Centre and States based on the recommendations of:",
+    "options": ["Finance ministry", "Finance commission", "Planning commission", "None of these"],
+    "answer": "Finance commission"
+  },
+  {
+    "number": 64,
+    "question": "Supervisor's salary is an example of:",
+    "options": ["Variable cost", "Fixed cost", "Step cost", "Semi-variable cost"],
+    "answer": "Fixed cost"
+  },
+  {
+    "number": 65,
+    "question": "Market orchestration is the technique of selecting:",
+    "options": ["Product integration", "Additional segmentation", "Concentrated marketing", "Marketing mix"],
+    "answer": "Marketing mix"
+  },
+  {
+    "number": 66,
+    "question": "Settlement of Forward Delivery contract cannot be done through:",
+    "options": ["Liquidation in full", "Liquidation by payment of difference", "Carry over to the next settlement", "None of these"],
+    "answer": "None of these"
+  },
+  {
+    "number": 67,
+    "question": "The listing of the accessible population from which the sample is drawn is called:",
+    "options": ["Sample design", "Sample block", "Sampling frame", "Sampling premises"],
+    "answer": "Sampling frame"
+  },
+  {
+    "number": 68,
+    "question": "Long-term capital losses can be set-off against:",
+    "options": ["Any capital gain", "Long-term capital gains only", "Short-term capital gains only", "None of these"],
+    "answer": "Long-term capital gains only"
+  },
+  {
+    "number": 69,
+    "question": "For the purpose of verification, material cost variance is equal to:",
+    "options": ["Material price variance + material usage variance", "Material price variance + material yield variance", "Material mix variance + material yield variance", "Material usage variance + material mix variance"],
+    "answer": "Material price variance + material usage variance"
+  },
+  {
+    "number": 70,
+    "question": "When the buyers have too narrow an image of the brand, it is known as:",
+    "options": ["Under positioning error", "Confused positioning error", "Doubtful positioning error", "Overpositioning error"],
+    "answer": "Overpositioning error"
+  },
+  {
+    "number": 71,
+    "question": "A name neither related to product, nor the producer is termed as:",
+    "options": ["Coined name", "Arbitrary name", "Suggestive name", "None of these"],
+    "answer": "Arbitrary name"
+  },
+  {
+    "number": 72,
+    "question": "Consumers likely to retain only that information which support their beliefs and attitudes are known as:",
+    "options": ["Selective exposure", "Selective distortion", "Selective retention", "None of the above"],
+    "answer": "Selective retention"
+  },
+  {
+    "number": 73,
+    "question": "______ was set up by RBI in 1994 for developing secondary market for Government dated securities.",
+    "options": ["SHCIL", "OTCEI", "NSE", "STCI"],
+    "answer": "STCI"
+  },
+  {
+    "number": 74,
+    "question": "Coefficient of variation is developed by:",
+    "options": ["Rensis Likert", "Wilkoxen", "Pearson", "R.A.Fisher"],
+    "answer": "R.A.Fisher"
+  },
+  {
+    "number": 75,
+    "question": "The concept of \"producer company\" is based on the recommendations of committee led by:",
+    "options": ["Narayana Murthy", "Y.B. Tandon", "P.K. Gupta", "Y.K. Alagh"],
+    "answer": "Y.K. Alagh"
+  },
+  {
+    "number": 76,
+    "question": "Venture capital Financing is:",
+    "options": ["High risk low return business", "High risk high return business", "Low risk high return business", "None of these"],
+    "answer": "High risk high return business"
+  },
+  {
+    "number": 77,
+    "question": "Products which do not give immediate satisfaction to customers, but these are beneficial in the long-run are:",
+    "options": ["Pleasing products", "Satutory products", "Desirable products", "Deficient products"],
+    "answer": "Desirable products"
+  },
+  {
+    "number": 78,
+    "question": "A projector that can project objects on to a screen at rates so fast that the viewer cannot detect the message is:",
+    "options": ["Psychogalvanometer", "Eye camera", "Techistoscope", "None of these"],
+    "answer": "Techistoscope"
+  },
+  {
+    "number": 79,
+    "question": "Under the \"Family Decision Making\" model of consumer behaviour those family members who control the flow of information about a product/service are called:",
+    "options": ["Influencer", "Dealers", "Buyers", "Gatekeepers"],
+    "answer": "Gatekeepers"
+  },
+  {
+    "number": 80,
+    "question": "White candlestick represents:",
+    "options": ["Beerish trend", "Neutral trend", "Bullish trend", "None of these"],
+    "answer": "Bullish trend"
+  },
+  {
+    "number": 81,
+    "question": "The Keibul Lamjao National park, an integral part of Loktak lake, world's only floating National Park, is located in the state of:",
+    "options": ["Himachal Pradesh", "Manipur", "Uttarakhand", "West Bengal"],
+    "answer": "Manipur"
+  },
+  {
+    "number": 82,
+    "question": "Adam's bridge connects:",
+    "options": ["India and Myanmar", "India and Pakistan", "India and Srilanka", "India and China"],
+    "answer": "India and Srilanka"
+  },
+  {
+    "number": 83,
+    "question": "Which of the following is known as a universal fibre?",
+    "options": ["Cotton", "Silk", "Linen", "Wool"],
+    "answer": "Cotton"
+  },
+  {
+    "number": 84,
+    "question": "The Salt Satyagraha began with the Dandi March on:",
+    "options": ["12th March 1930", "12th April 1930", "12th May 1930", "12th June 1930"],
+    "answer": "12th March 1930"
+  },
+  {
+    "number": 85,
+    "question": "Central statistical organisation is located in:",
+    "options": ["Mumbai", "Bangalore", "Delhi", "Kolkata"],
+    "answer": "Delhi"
+  },
+  {
+    "number": 86,
+    "question": "Mars Orbiter Mission (Mangalyan) was launched on 5 November 2013 using the space vehicle:",
+    "options": ["PSLV-CA-9", "PSLV-C-25", "PSVL-XL-22", "PSLV-20"],
+    "answer": "PSLV-C-25"
+  },
+  {
+    "number": 87,
+    "question": "Prime Minister of India inaugurated Sardar Vallabhai Patel national museum on 29 October 2013:",
+    "options": ["New Delhi", "Kolkata", "Guwahati", "Ahmedabad"],
+    "answer": "Ahmedabad"
+  },
+  {
+    "number": 88,
+    "question": "Sachin Tendulkar, the cricket icon of India, bid farewell to cricket matches after the final test against:",
+    "options": ["Australia", "West Indies", "Newzealand", "England"],
+    "answer": "West Indies"
+  },
+  {
+    "number": 89,
+    "question": "The Bollywood actress who was honoured in the house of commons in London in October 2013:",
+    "options": ["Priyanka Chopra", "Aishwarya Rai", "Kareena Kapoor", "Deepika Padukone"],
+    "answer": "Aishwarya Rai"
+  },
+  {
+    "number": 90,
+    "question": "The autobiography \"Kathayillathavante katha\" which got Kendra Sahithya academy award was written by:",
+    "options": ["Attoor Ravivarma", "Sachidanandan", "P. Ramachandran", "M.N. Palooru"],
+    "answer": "M.N. Palooru"
+  },
+  {
+    "number": 91,
+    "question": "Kasturirangan panel recommended a ban on developmental activities in ecologically sensitive area spread over six states of India. Which of the following states does not come under the reference of Kasturirangan panel report?",
+    "options": ["Karnataka", "Goa", "Maharashtra", "Andra Pradesh"],
+    "answer": "Andra Pradesh"
+  },
+  {
+    "number": 92,
+    "question": "Kerala coast was affected by the Indian ocean Tsunami for the first time in:",
+    "options": ["2000", "2003", "2004", "2005"],
+    "answer": "2004"
+  },
+  {
+    "number": 93,
+    "question": "Bekal fort of Kasargod in Kerala was constructed by:",
+    "options": ["Shivappa Nayak", "Tipu Sultan", "Bhaskara Ravi II", "Ikkeri Nayak"],
+    "answer": "Shivappa Nayak"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following is an east flowing river in Kerala?",
+    "options": ["Pamba", "Chaliyar", "Pambar", "Chandragiri"],
+    "answer": "Pambar"
+  },
+  {
+    "number": 95,
+    "question": "Attappadi reserve forest is in the district of:",
+    "options": ["Wayanad", "Idukki", "Thrissur", "Palakkad"],
+    "answer": "Palakkad"
+  },
+  {
+    "number": 96,
+    "question": "Which of the following renaissance leader is referred to as Sampooranathevan?",
+    "options": ["Thycaud Ayya", "Ayya Vaikundar", "Kumara Guru", "Chattampi Swami"],
+    "answer": "Ayya Vaikundar"
+  },
+  {
+    "number": 97,
+    "question": "Velutheri Kesavan Vaidhyan was one of the disciples of:",
+    "options": ["Sree Narayana Guru", "Chattampi Swami", "Thycaud Ayya", "Brahmananda Sivayogi"],
+    "answer": "Chattampi Swami"
+  },
+  {
+    "number": 98,
+    "question": "Who among the following was a leader of Vaikom Satyagraha?",
+    "options": ["T. K. Madhavan", "A.K. Gopalan", "Barrister G.P. Pillai", "C. Kesavan"],
+    "answer": "T. K. Madhavan"
+  },
+  {
+    "number": 99,
+    "question": "\"Vedadhikara Niroopanam\" was written by:",
+    "options": ["Sree Narayana Guru", "Kumara Guru", "Chattampi Swami", "Pandit Karuppan"],
+    "answer": "Chattampi Swami"
+  },
+  {
+    "number": 100,
+    "question": "'Malayalee memorial' was submitted before:",
+    "options": ["Swathy Thirunal", "Rani Gouri Lakshmi Bhai", "Ayilyam Thirunal", "Sree Moolam Thirunal"],
+    "answer": "Ayilyam Thirunal"
+  }
+]

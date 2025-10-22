@@ -1,0 +1,602 @@
+[
+  {
+    "number": 1,
+    "question": "According to Census 2011, the taluk in Kerala having the highest birth rate is",
+    "options": ["Thiruvalla", "Tirurangadi", "Cherthala", "Adoor"],
+    "answer": "Tirurangadi"
+  },
+  {
+    "number": 2,
+    "question": "India's first spacecraft for Mars is named",
+    "options": ["Chandrayaan", "Agni", "Indra", "Mangalyan"],
+    "answer": "Mangalyan"
+  },
+  {
+    "number": 3,
+    "question": "Srinagar is located on the banks of",
+    "options": ["Jhelum", "Beas", "Tapti", "Son"],
+    "answer": "Jhelum"
+  },
+  {
+    "number": 4,
+    "question": "Indian Viceroy who abolished sati in 1829",
+    "options": ["Lord Wellesley", "Lord Linlithgow", "Lord William Bentick", "Lord Macaulay"],
+    "answer": "Lord William Bentick"
+  },
+  {
+    "number": 5,
+    "question": "India's first bank to open a branch in Antarctica",
+    "options": ["Central Bank of India", "State Bank of Mysore", "Allahabad Bank", "Bank of Baroda"],
+    "answer": "Allahabad Bank"
+  },
+  {
+    "number": 6,
+    "question": "India's first Oil Refinery in public sector is located at",
+    "options": ["Ludhiana, Punjab", "Guwahati, Assam", "Indore, Madhya Pradesh", "Kota, Rajasthan"],
+    "answer": "Guwahati, Assam"
+  },
+  {
+    "number": 7,
+    "question": "The Alphabet 'S' in the abbreviation IRAS stands for",
+    "options": ["Society", "Service", "Syndrome", "Satellite"],
+    "answer": "Service"
+  },
+  {
+    "number": 8,
+    "question": "Servants of India Society was founded by",
+    "options": ["Bal Gangadhar Tilak", "Gopala Krishna Gokhale", "Annie Beasant", "Atmaram Panduranga"],
+    "answer": "Gopala Krishna Gokhale"
+  },
+  {
+    "number": 9,
+    "question": "The architect of Mullaperiyar Dam",
+    "options": ["H. Slocum", "Sir Edwin Lutyens", "Moshe Safdie", "John Pennycuick"],
+    "answer": "John Pennycuick"
+  },
+  {
+    "number": 10,
+    "question": "Chavara deposit in Kerala is famous for",
+    "options": ["Iron ore", "Aluminium", "Heavy mineral sand", "Copper Ore"],
+    "answer": "Heavy mineral sand"
+  },
+  {
+    "number": 11,
+    "question": "The Treaty of Mavelikkara was signed between Travancore and the Dutch in",
+    "options": ["1753", "1754", "1757", "1759"],
+    "answer": "1753"
+  },
+  {
+    "number": 12,
+    "question": "Who is the first Malayalee President of the Indian National Congress?",
+    "options": ["V.P. Menon", "K. Krishna Pillai", "Sardar K.M. Panicker", "Sir C. Sankaran Nair"],
+    "answer": "Sir C. Sankaran Nair"
+  },
+  {
+    "number": 13,
+    "question": "Who was the editor of the journal 'Mitavadi'?",
+    "options": ["C. Krishnan", "Sahodaran Ayyappan", "V.T Bhattathiripad", "Palpu"],
+    "answer": "C. Krishnan"
+  },
+  {
+    "number": 14,
+    "question": "Nair Service Society (NSS) was formed in",
+    "options": ["1910", "1912", "1914", "1916"],
+    "answer": "1914"
+  },
+  {
+    "number": 15,
+    "question": "Kochi Pulaya Mahasabha was founded in 1913 under the leadership of",
+    "options": ["Ayyankali", "K. Kelappan", "C. Krishnan", "K. Karuppan"],
+    "answer": "K. Karuppan"
+  },
+  {
+    "number": 16,
+    "question": "Which among the following is the UNESCO recognized theatre art form of Kerala?",
+    "options": ["Koodiyattom", "Theyyam", "Kathakali", "Mudiyettu"],
+    "answer": "Koodiyattom"
+  },
+  {
+    "number": 17,
+    "question": "The Nobel Prize in Literature 2013 was awarded to",
+    "options": ["Aravind Adiga", "Chinua Achebe", "Alice Munro", "Henrick Pontoppidan"],
+    "answer": "Alice Munro"
+  },
+  {
+    "number": 18,
+    "question": "Untouchability is abolished as per the Indian Constitution Article",
+    "options": ["17", "18", "19", "20"],
+    "answer": "17"
+  },
+  {
+    "number": 19,
+    "question": "Who is the present chairperson of National Women's Commission?",
+    "options": ["Mamta Sarma", "Jayanti Patnaik", "Vibha Parthasarathy", "Girija Vyas"],
+    "answer": "Girija Vyas"
+  },
+  {
+    "number": 20,
+    "question": "Indian National Forest Academy is located at",
+    "options": ["Darjeeling", "Dehradun", "Simla", "Kodaikkanal"],
+    "answer": "Dehradun"
+  },
+  {
+    "number": 21,
+    "question": "The Cherambadi pass connects Kerala with",
+    "options": ["Coorg", "Mysore", "Tirunelveli", "Madurai"],
+    "answer": "Mysore"
+  },
+  {
+    "number": 22,
+    "question": "Mahatma Gandhi translated John Ruskin's 'Unto this Last' to Gujarati under the title",
+    "options": ["Swadeshi", "Swarajya", "Harijan", "Sarvodaya"],
+    "answer": "Sarvodaya"
+  },
+  {
+    "number": 23,
+    "question": "The author of the book 'Chorayum Kanneerum Nananja Vazhikal'",
+    "options": ["J. Devika", "K. Devayani", "P. Valsala", "Sugathakumari"],
+    "answer": "P. Valsala"
+  },
+  {
+    "number": 24,
+    "question": "Steve Irwin Wild Life Park in Kerala is located at",
+    "options": ["Tenmala", "Silent valley", "Neyyar", "Thattekkad"],
+    "answer": "Neyyar"
+  },
+  {
+    "number": 25,
+    "question": "National Research Centre for Spices (NRCS) also known as 'Sugandha Bhavan' is located at",
+    "options": ["Thiruvananthapuram", "Kochi", "Kollam", "Kozhikode"],
+    "answer": "Kozhikode"
+  },
+  {
+    "number": 26,
+    "question": "In which one of the following Five Year Plans the National Horticulture Mission (NHM) was implemented in India?",
+    "options": ["Eighth Five Year Plan", "Ninth Five Year Plan", "Tenth Five Year Plan", "Eleventh Five Year Plan"],
+    "answer": "Tenth Five Year Plan"
+  },
+  {
+    "number": 27,
+    "question": "Who is the author of the book 'Globalisation and its Discontents' which won the Nobel Prize for Economics?",
+    "options": ["Amartya Sen", "Paul Crugman", "David Rockefeller", "Joseph Stigglitz"],
+    "answer": "Joseph Stigglitz"
+  },
+  {
+    "number": 28,
+    "question": "Which of the following countries has its capital at Baku?",
+    "options": ["Brunei", "Azerbaijan", "Cyprus", "Djibouti"],
+    "answer": "Azerbaijan"
+  },
+  {
+    "number": 29,
+    "question": "Which is the largest producer of gold as per 2012 survey?",
+    "options": ["South Africa", "Peru", "India", "China"],
+    "answer": "China"
+  },
+  {
+    "number": 30,
+    "question": "Which district in Kerala is rated second among the Indian cities in suicidal rate as per 2011 census?",
+    "options": ["Alappuzha", "Malappuram", "Kollam", "Idukki"],
+    "answer": "Kollam"
+  },
+  {
+    "number": 31,
+    "question": "Kwacha is the currency of which country?",
+    "options": ["Zimbabwe", "Cuba", "Thailand", "Zambia"],
+    "answer": "Zambia"
+  },
+  {
+    "number": 32,
+    "question": "Largest producer of rice in India",
+    "options": ["West Bengal", "Andhra Pradesh", "Punjab", "Karnataka"],
+    "answer": "West Bengal"
+  },
+  {
+    "number": 33,
+    "question": "Who is the Minister for Khadi and Village Industries in Kerala?",
+    "options": ["K.C. Joseph", "Shibu Baby John", "C.N. Balakrishnan", "K.P. Mohanan"],
+    "answer": "C.N. Balakrishnan"
+  },
+  {
+    "number": 34,
+    "question": "The All India Muslim League was formed in",
+    "options": ["1905", "1906", "1907", "1908"],
+    "answer": "1906"
+  },
+  {
+    "number": 35,
+    "question": "Who is the founder of Sathyasodhak Samaj?",
+    "options": ["Dayananda Saraswati", "Jyothiba Phule", "Atmaram Pandurang", "Sivanarayan Agnihotri"],
+    "answer": "Jyothiba Phule"
+  },
+  {
+    "number": 36,
+    "question": "RIN Mutiny or the Mutiny of the Royal Indian Navy took place in",
+    "options": ["1942", "1944", "1946", "1948"],
+    "answer": "1946"
+  },
+  {
+    "number": 37,
+    "question": "The Viceroy of India who was murdered at Andaman Nicobar Islands",
+    "options": ["Lord Elgin", "Lord Mayo", "Lord Irwin", "Lord Wellington"],
+    "answer": "Lord Mayo"
+  },
+  {
+    "number": 38,
+    "question": "Who branded the Indian National leaders as 'Disloyal Babus', 'Seditious Brahmins' and 'Violent Villains'?",
+    "options": ["Lord Dufferin", "Lord Curzon", "Lord Rippon", "Lord Irwin"],
+    "answer": "Lord Curzon"
+  },
+  {
+    "number": 39,
+    "question": "'Sedition has become my religion' Mahatma Gandhi told this during",
+    "options": ["Champaran Satyagraha", "Quit India Movement", "Dandi March", "Khilafat Agitation"],
+    "answer": "Champaran Satyagraha"
+  },
+  {
+    "number": 40,
+    "question": "The year in which Marthanda Varma dedicated his kingdom to Sri Padmanabha - known in history as Trippadidanam?",
+    "options": ["1749", "1750", "1754", "1760"],
+    "answer": "1750"
+  },
+  {
+    "number": 41,
+    "question": "'Struggle for Existence' is the autobiography of which Indian Woman Leader?",
+    "options": ["Mamta Banerjee", "Jayalalita", "Mayawati", "Sushma Swaraj"],
+    "answer": "Mayawati"
+  },
+  {
+    "number": 42,
+    "question": "Which National Film award is given for the best first film of a director?",
+    "options": ["Rajat Kamal", "Swarna Kamal", "Nargis Dutt Award", "Indira Gandhi Award"],
+    "answer": "Indira Gandhi Award"
+  },
+  {
+    "number": 43,
+    "question": "Who was the first cricketer in the world to score 10,000 runs in the test cricket?",
+    "options": ["Brian Lara", "Allan Border", "Steve Waugh", "Sunil Gavaskar"],
+    "answer": "Sunil Gavaskar"
+  },
+  {
+    "number": 44,
+    "question": "Mandovi and Zuari are the major rivers of which Indian state?",
+    "options": ["Goa", "Assam", "Manipur", "Tripura"],
+    "answer": "Goa"
+  },
+  {
+    "number": 45,
+    "question": "What does the term 'Pisciculture' refer to?",
+    "options": ["Silkworm farming", "Fish farming", "Dairy farming", "Bee Keeping"],
+    "answer": "Fish farming"
+  },
+  {
+    "number": 46,
+    "question": "The first Sree Narayana Guru Global Secular and Peace Award 2013 was presented to",
+    "options": ["Shashi Tharoor", "A.K Antony", "V.M. Sudheeran", "Vayalar Ravi"],
+    "answer": "Shashi Tharoor"
+  },
+  {
+    "number": 47,
+    "question": "The Sanskrit Educational Centre called Tatwa Prakasika Ashramam was founded by",
+    "options": ["Karunakara Guru", "Sree Narayana Guru", "Vaghbatananda", "Chattampi Swamikal"],
+    "answer": "Chattampi Swamikal"
+  },
+  {
+    "number": 48,
+    "question": "Sree Narayana Guru founded the Advaita Asramam in 1913 at",
+    "options": ["Chempazhanthy", "Varkala", "Aluva", "Aruvippuram"],
+    "answer": "Aluva"
+  },
+  {
+    "number": 49,
+    "question": "Who edited and published the journal Abhinava Keralam?",
+    "options": ["Sahodaran Ayyappan", "Vaghbatananda", "Ayyankali", "Vakkom Moulavi"],
+    "answer": "Vaghbatananda"
+  },
+  {
+    "number": 50,
+    "question": "The Arabic Malayalam Journal published by Vakkom Abdul Khadar Moulavi in 1906",
+    "options": ["Al-Hind", "Al-Islam", "Al-Ameen", "Al-Ameer"],
+    "answer": "Al-Islam"
+  },
+  {
+    "number": 51,
+    "question": "_____ his illness Sriram decided to participate in the Cricket match.",
+    "options": ["In order to", "In spite of", "On account of", "With a view to"],
+    "answer": "In spite of"
+  },
+  {
+    "number": 52,
+    "question": "When she plays _____ piano, she seems to be in heaven.",
+    "options": ["An", "A", "The", "At"],
+    "answer": "The"
+  },
+  {
+    "number": 53,
+    "question": "In comparison _____ Madhya Pradesh, Kerala is a small state.",
+    "options": ["Of", "At", "To", "With"],
+    "answer": "To"
+  },
+  {
+    "number": 54,
+    "question": "The _____ part of the book is very dull.",
+    "options": ["Latter", "Later", "Latest", "Foremost"],
+    "answer": "Latter"
+  },
+  {
+    "number": 55,
+    "question": "Find one word for the words underlined: When the Union Minister of Finance landed at the Airport, the Governor moved forward with <u>an arrangement of flowers.</u>",
+    "options": ["Barren", "Bureau", "Bouquet", "Blanket"],
+    "answer": "Bouquet"
+  },
+  {
+    "number": 56,
+    "question": "Find the meaning of the word underlined: Mrs. Rose and her husband are going to start a <u>menagerie.</u>",
+    "options": ["A place for cultivating date palm", "A place for keeping children", "A place for keeping birds", "A place for keeping animals"],
+    "answer": "A place for keeping animals"
+  },
+  {
+    "number": 57,
+    "question": "Find the correct adverb for the words underlined: The thunder struck and <u>at the same time</u>, the electric charge went off.",
+    "options": ["Exasperatedly", "Simultaneously", "Desperately", "Eventually"],
+    "answer": "Simultaneously"
+  },
+  {
+    "number": 58,
+    "question": "Report the sentence given below: Raju asked, 'Can I help you'?",
+    "options": ["Raju wanted to know if he could help me", "Raju asked me whether he can help me", "Raju inquired me that how can he help me", "Raju asked how could he help me"],
+    "answer": "Raju wanted to know if he could help me"
+  },
+  {
+    "number": 59,
+    "question": "Change into Reported Speech: I will come to your party tomorrow.",
+    "options": ["I said that I would come to his party the next day", "I said that I will come to his party the next day", "I said that I will be coming to his party tomorrow", "I said that I will come to his party tomorrow"],
+    "answer": "I said that I would come to his party the next day"
+  },
+  {
+    "number": 60,
+    "question": "Change into Passive voice: Had the thieves stolen anything?",
+    "options": ["Had the thieves anything stolen?", "Had anything been stolen by the thieves?", "Anything had been stolen by the thieves?", "The thieves has stolen anything?"],
+    "answer": "Had anything been stolen by the thieves?"
+  },
+  {
+    "number": 61,
+    "question": "Who taught you to sing?",
+    "options": ["By whom you taught to sing?", "By whom was you taught to sing?", "By whom were you taught to sing?", "By whom were you have been taught to sing?"],
+    "answer": "By whom were you taught to sing?"
+  },
+  {
+    "number": 62,
+    "question": "Complete the sentence by choosing the correct form of the verb: Neither Raju nor Gopu _____ to be happy at this decision.",
+    "options": ["Seem", "Seemed", "Do not seem", "Seems"],
+    "answer": "Seems"
+  },
+  {
+    "number": 63,
+    "question": "Each one of these plots _____ to let.",
+    "options": ["Is", "Are", "Was", "Were"],
+    "answer": "Is"
+  },
+  {
+    "number": 64,
+    "question": "Nira is one of the _____ girls in our school.",
+    "options": ["Better", "Best", "Good", "Bad"],
+    "answer": "Best"
+  },
+  {
+    "number": 65,
+    "question": "Change into Active Voice: We were kept waiting by her.",
+    "options": ["She keeps us waiting", "She is keeping us waiting", "She kept us waiting", "She had kept us waiting"],
+    "answer": "She kept us waiting"
+  },
+  {
+    "number": 66,
+    "question": "Find one word for the words underlined: Balu was walking through a forest. <u>All at once</u> he saw an elephant in front of him.",
+    "options": ["Rapidly", "Occasionally", "Really", "Suddenly"],
+    "answer": "Suddenly"
+  },
+  {
+    "number": 67,
+    "question": "Jack is _____ than his brother.",
+    "options": ["Cleverer", "Clever", "More cleverer", "Cleverest"],
+    "answer": "Cleverer"
+  },
+  {
+    "number": 68,
+    "question": "The newspapers have the function to give correct news to the public. But now-a-days they used to _____ the public.",
+    "options": ["Sensitise", "Sensationalise", "Sentence", "Sensible"],
+    "answer": "Sensationalise"
+  },
+  {
+    "number": 69,
+    "question": "Foolish Syam <u>let the cat out of the bag.</u> Find one word for the idiom underlined.",
+    "options": ["Reply", "Remind", "Reveal", "Record"],
+    "answer": "Reveal"
+  },
+  {
+    "number": 70,
+    "question": "Find the meaning of the idiom: The religious heads rushed to the spot for fanning the flame.",
+    "options": ["To release the people", "To make the people aware", "To relax the people", "To intensify the issue"],
+    "answer": "To intensify the issue"
+  },
+  {
+    "number": 71,
+    "question": "'ls' command in Linux is used for",
+    "options": ["Files listing", "Documents listing", "Table listing", "Directory listing"],
+    "answer": "Directory listing"
+  },
+  {
+    "number": 72,
+    "question": "One of the following is not an example of Search Engines",
+    "options": ["yahoo", "kosmix", "gmail.com", "ask.com"],
+    "answer": "gmail.com"
+  },
+  {
+    "number": 73,
+    "question": "What is the component in Open Office.org, which is equivalent to Access in MSOffice?",
+    "options": ["Draw", "Base", "Impress", "Writer"],
+    "answer": "Base"
+  },
+  {
+    "number": 74,
+    "question": "Command used in Linux to print a file",
+    "options": ["Ipr", "prl", "rpl", "print"],
+    "answer": "print"
+  },
+  {
+    "number": 75,
+    "question": "One of the following is not the correct version of Microsoft Office for Windows",
+    "options": ["Microsoft Office for windows 2.00", "Microsoft Office for windows 3.00", "Microsoft Office for windows 1.5", "Microsoft Office for windows 4.00"],
+    "answer": "Microsoft Office for windows 1.5"
+  },
+  {
+    "number": 76,
+    "question": "What is the maximum Font size in Libre Office Writer in Ubuntu Linux?",
+    "options": ["72", "76", "96", "86"],
+    "answer": "96"
+  },
+  {
+    "number": 77,
+    "question": "Which menu of the Adobe Pagemaker is used to select Font?",
+    "options": ["Element", "Type", "Layout", "Format"],
+    "answer": "Type"
+  },
+  {
+    "number": 78,
+    "question": "Pick out an operating system from the following",
+    "options": ["MS Word", "Open Office.Org", "DOS", "Corel Draw"],
+    "answer": "DOS"
+  },
+  {
+    "number": 79,
+    "question": "'Adobe PDF' option can be taken from one of the following steps",
+    "options": ["File->Open->Adobe PDF", "File->Acquire->Adobe PDF", "File->Links Manager->Adobe PDF", "File->Export->Adobe PDF"],
+    "answer": "File->Export->Adobe PDF"
+  },
+  {
+    "number": 80,
+    "question": "Adobe Pagemaker is an example of _____ software.",
+    "options": ["Photo Editing software", "DTP software", "Web designing software", "Graphic Designing software"],
+    "answer": "DTP software"
+  },
+  {
+    "number": 81,
+    "question": "One of the following is not true in the case of DTP Software features",
+    "options": ["Dropcap feature", "Autoflow Feature", "Auto Numbering", "Auto Formating"],
+    "answer": "Auto Formating"
+  },
+  {
+    "number": 82,
+    "question": "One of the following menu is not available in the CorelDRAW [Graphic] software",
+    "options": ["Arrange", "Effects", "Bitmaps", "Table"],
+    "answer": "Table"
+  },
+  {
+    "number": 83,
+    "question": "'Voice Response Systems' is an example of _____ device.",
+    "options": ["Input device", "Output device", "Not an example of an input or output device", "None of these"],
+    "answer": "Output device"
+  },
+  {
+    "number": 84,
+    "question": "Browse buttons in MS Word are located at",
+    "options": ["Below of the vertical scroll bar", "The horizontal scroll bar", "Tool bar", "Status bar"],
+    "answer": "Below of the vertical scroll bar"
+  },
+  {
+    "number": 85,
+    "question": "'Page Setup' option is available in which menu of the CorelDRAW [Graphic] software?",
+    "options": ["Layout", "File", "Text", "View"],
+    "answer": "File"
+  },
+  {
+    "number": 86,
+    "question": "How many Navigation keys are in computer keyboard?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "number": 87,
+    "question": "What is the size of width and height of A3 paper in MS Word?",
+    "options": ["5.83\" × 8.27\"", "8.5\" ×11\"", "11.69\" × 16.54\"", "8.27\" × 11.69\""],
+    "answer": "11.69\" × 16.54\""
+  },
+  {
+    "number": 88,
+    "question": "'Shift + F12' shortcut key is used to _____ a file.",
+    "options": ["Save as", "Save", "Close", "Paste"],
+    "answer": "Save"
+  },
+  {
+    "number": 89,
+    "question": "What is the shortcut key for 'Hanging Indent'?",
+    "options": ["Ctrl + T", "Ctrl + H", "Ctrl + I", "Ctrl + D"],
+    "answer": "Ctrl + T"
+  },
+  {
+    "number": 90,
+    "question": "Which is the correct step for insert a rectangle shape?",
+    "options": ["Table -> Insert", "Insert -> Autoshapes -> Picture", "Picture -> Insert -> Autoshapes", "Insert -> Picture -> Autoshapes"],
+    "answer": "Insert -> Picture -> Autoshapes"
+  },
+  {
+    "number": 91,
+    "question": "What is the steps for inserting symbols like ©, ® in MS Word?",
+    "options": ["Symbols ->Insert", "Insert -> Symbols -> Special Characters", "Insert -> Picture -> Autoshapes", "None of these"],
+    "answer": "Insert -> Symbols -> Special Characters"
+  },
+  {
+    "number": 92,
+    "question": "Which menu is used for 'Insert Text Box'?",
+    "options": ["Tools", "Table", "Insert", "Format"],
+    "answer": "Insert"
+  },
+  {
+    "number": 93,
+    "question": "One of the following bar is not seen in the MS Word window, but can be seen in the MS Excel window",
+    "options": ["Task Bar", "Tool Bar", "Formula Bar", "Menu Bar"],
+    "answer": "Formula Bar"
+  },
+  {
+    "number": 94,
+    "question": "What is the correct step to adjust Row Height in MS Excel?",
+    "options": ["Format -> Row -> Height", "Table -> Row -> Height", "Insert -> Row -> Height", "Tools -> Row -> Height"],
+    "answer": "Format -> Row -> Height"
+  },
+  {
+    "number": 95,
+    "question": "One of the following 'Chart type' is not available in MS Excel 2003",
+    "options": ["Pie", "Radar", "Stock", "Solid"],
+    "answer": "Solid"
+  },
+  {
+    "number": 96,
+    "question": "Which is the correct step to select Font in MS Excel 2003?",
+    "options": ["Format -> Font", "Format -> Cells -> Font", "Tools -> Font", "Insert -> Font"],
+    "answer": "Format -> Cells -> Font"
+  },
+  {
+    "number": 97,
+    "question": "'CONCATENATE' is the _____ available in MS Excel",
+    "options": ["Word", "Formula", "Method", "Function"],
+    "answer": "Function"
+  },
+  {
+    "number": 98,
+    "question": "What is the maximum Zoom percentage available in MS Word 2003?",
+    "options": ["1000%", "500%", "400%", "200%"],
+    "answer": "500%"
+  },
+  {
+    "number": 99,
+    "question": "What is the default layout view when we open word window?",
+    "options": ["Normal view", "Web layout view", "Print Layout view", "Outline View"],
+    "answer": "Print Layout view"
+  },
+  {
+    "number": 100,
+    "question": "Total number of lines can be found out by using _____ option.",
+    "options": ["Word count", "View", "Line count", "Page count"],
+    "answer": "Word count"
+  }
+]
