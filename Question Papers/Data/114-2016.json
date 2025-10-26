@@ -1,0 +1,737 @@
+[
+  {
+    "number": 1,
+    "question": "Volunteer Caption of the Guruvayoor Satyagraha was",
+    "options": ["K. Kelappan", "T. K. Madhavan", "A. K. Gopalan", "K. P. Kesava Menon"],
+    "answer": "K. Kelappan"
+  },
+  {
+    "number": 2,
+    "question": "Who was the Maharaja of Travancore issued the famous Temple Entry Proclamation?",
+    "options": ["Sri Chithira Thirunal", "Sri Uthram Thirunal", "Sri Moolam Thirunal", "Sri Karthika Thirunal"],
+    "answer": "Sri Chithira Thirunal"
+  },
+  {
+    "number": 3,
+    "question": "Which year UN proclaimed the convention on the Right of the Child?",
+    "options": ["10th December 1945", "20th November 1989", "20th November 1945", "10th December 1980"],
+    "answer": "20th November 1989"
+  },
+  {
+    "number": 4,
+    "question": "Which agitation was related to Joint Political Congress?",
+    "options": ["Vaikkam Satyagraha", "Malayali Memorial", "Guruvayoor Satyagraha", "Nivarthana Agitation"],
+    "answer": "Nivarthana Agitation"
+  },
+  {
+    "number": 5,
+    "question": "Who was the Malayali Leader mentioned by Gandhiji in his autobiography?",
+    "options": ["C. Kesavan", "T. K. Madhavan", "K. Kelappan", "G. P. Pillai"],
+    "answer": "T. K. Madhavan"
+  },
+  {
+    "number": 6,
+    "question": "Name the renaissance leader of Kerala who opposed the \"Uzhiyam\" or forced labour.",
+    "options": ["Vaikunda Swamikal", "Chattambi Swamikal", "Ayyankali", "Narayana Guru"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number": 7,
+    "question": "Select the author of the poem \"Keralam\"",
+    "options": [
+      "Keralavarma Valiyakoyi Thampuran",
+      "Kodungallur Kunhikkuttan Thampuran",
+      "Ulloor S. Parameswara Iyer",
+      "G. Sankara Kurup"
+    ],
+    "answer": "Ulloor S. Parameswara Iyer"
+  },
+  {
+    "number": 8,
+    "question": "Who is the Architect of Fundamental Rights in Indian Constitution?",
+    "options": ["Sardar Vallabhbhai Patel", "Dr. Rajendra Prasad", "Dr. B. R. Ambedkar", "Jawaharlal Nehru"],
+    "answer": "Dr. B. R. Ambedkar"
+  },
+  {
+    "number": 9,
+    "question": "Who is known as Kerala Valmeeki?",
+    "options": ["Ulloor Parameswara Iyer", "Ezhuthachan", "Vallathol Narayana Menon", "Kumaranasan"],
+    "answer": "Vallathol Narayana Menon"
+  },
+  {
+    "number": 10,
+    "question": "Name the Maharaja of Travancore issued the famous Channar Proclamation.",
+    "options": ["Sri Chithira Thirunal", "Sri Moolam Thirunal", "Sri Uthram Thirunal", "Sri Karthika Thirunal"],
+    "answer": "Sri Uthram Thirunal"
+  },
+  {
+    "number": 11,
+    "question": "The square matrix A has an inverse if and only if",
+    "options": ["|A| = 0", "|A| ≠ 0", "|A| > 1", "|A| < 1"],
+    "answer": "|A| ≠ 0"
+  },
+  {
+    "number": 12,
+    "question": "If A and B are symmetric matrices, then",
+    "options": ["A + B is symmetric", "A + B is skew symmetric", "A + B is identity", "None of these"],
+    "answer": "A + B is symmetric"
+  },
+  {
+    "number": 13,
+    "question": "If two rows of a matrix A are identical, then",
+    "options": ["|A| = 1", "|A| = 0", "|A| ≠ 0", "None of these"],
+    "answer": "|A| = 0"
+  },
+  {
+    "number": 14,
+    "question": "The expansion of (3 - 4x²)^5 has _____ terms.",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "number": 15,
+    "question": "The value of tan 315° =",
+    "options": ["1", "-1", "0", "√3"],
+    "answer": "-1"
+  },
+  {
+    "number": 16,
+    "question": "What is the slope of the straight line perpendicular to the straight line 3x - 4y + 12 = 0?",
+    "options": ["3/4", "3", "-4/3", "-4"],
+    "answer": "-4/3"
+  },
+  {
+    "number": 17,
+    "question": "The value of lim (5x - 3) as x → 1 is",
+    "options": ["5", "3", "1", "2"],
+    "answer": "2"
+  },
+  {
+    "number": 18,
+    "question": "What is the slope of the parabola y = x² at the point (2, 4)?",
+    "options": ["4", "2", "1", "0"],
+    "answer": "4"
+  },
+  {
+    "number": 19,
+    "question": "The value of the integral ∫ from -2 to 1 of 5 dx is",
+    "options": ["5", "10", "-15", "15"],
+    "answer": "15"
+  },
+  {
+    "number": 20,
+    "question": "The general solution of the differential equation dy/dx = -x/y is",
+    "options": [
+      "x² + y² = c, c an arbitrary constant",
+      "x² - y² = c",
+      "x = -y",
+      "x + y = c"
+    ],
+    "answer": "x² + y² = c, c an arbitrary constant"
+  },
+  {
+    "number": 21,
+    "question": "When a brick is cut off length wise, the cut out bricks are called",
+    "options": ["Queen closer", "King closer", "Corbel", "Bat"],
+    "answer": "Queen closer"
+  },
+  {
+    "number": 22,
+    "question": "While laying bricks in a wall, frog of the brick must be kept",
+    "options": ["Sideward", "Downward", "Upward", "In any position"],
+    "answer": "Upward"
+  },
+  {
+    "number": 23,
+    "question": "Metallic tapes are made of",
+    "options": ["Steel", "Cloth and Wires", "Invar", "Nickel"],
+    "answer": "Steel"
+  },
+  {
+    "number": 24,
+    "question": "The line of collimation method of reduction of levels, does not provide a check on",
+    "options": ["Reduced Levels", "Back Sights", "Fore Sights", "Intermediate Sights"],
+    "answer": "Intermediate Sights"
+  },
+  {
+    "number": 25,
+    "question": "A Total Station measures",
+    "options": [
+      "Co-ordinates alone",
+      "Slope distance and horizontal distance",
+      "Co-ordinates and horizontal distance",
+      "Vertical, horizontal angles and slope distance"
+    ],
+    "answer": "Vertical, horizontal angles and slope distance"
+  },
+  {
+    "number": 26,
+    "question": "In a four stroke engine when one stroke of the piston completed, the crank rotates through",
+    "options": ["90°", "180°", "270°", "360°"],
+    "answer": "180°"
+  },
+  {
+    "number": 27,
+    "question": "The excess energy developed during power stroke in an engine is stored by",
+    "options": ["Governor", "Flywheel", "Crank shaft", "Piston"],
+    "answer": "Flywheel"
+  },
+  {
+    "number": 28,
+    "question": "The function of a differential is to",
+    "options": [
+      "Connect two rear wheels in correct alignment",
+      "Receive power from the engine and to transmit to the rear wheels",
+      "Absorb shocks and keeps the stability of the vehicle",
+      "Provide relative motion to the two rear wheels when the vehicle is taking a turn"
+    ],
+    "answer": "Provide relative motion to the two rear wheels when the vehicle is taking a turn"
+  },
+  {
+    "number": 29,
+    "question": "A condenser in a steam power plant is used to",
+    "options": [
+      "Generate steam",
+      "Increase pressure",
+      "Exchange the heat of low pressure steam to the cooling medium",
+      "Convert heat energy of steam to mechanical energy"
+    ],
+    "answer": "Exchange the heat of low pressure steam to the cooling medium"
+  },
+  {
+    "number": 30,
+    "question": "Which power plant is more efficient?",
+    "options": [
+      "Hydro-electric power plant",
+      "Nuclear power plant",
+      "Thermal power plant",
+      "Diesel power plant"
+    ],
+    "answer": "Nuclear power plant"
+  },
+  {
+    "number": 31,
+    "question": "Voltage applied across 40W lamp is halved. Power consumed by this lamp at this voltage is",
+    "options": ["20W", "10W", "40W", "5W"],
+    "answer": "10W"
+  },
+  {
+    "number": 32,
+    "question": "Which of the following statement associated with purely inductive circuit is True?",
+    "options": [
+      "Current lead the voltage by 90°",
+      "Current is in phase with voltage",
+      "Power factor unity",
+      "Average power zero"
+    ],
+    "answer": "Average power zero"
+  },
+  {
+    "number": 33,
+    "question": "RLC series circuit will resonate, if",
+    "options": ["XL > XC", "XL < XC", "XL = XC", "XL = 1/XC"],
+    "answer": "XL = XC"
+  },
+  {
+    "number": 34,
+    "question": "Energy consumed by 750 W electric iron for 6 minutes is",
+    "options": ["0.075 kWh", "0.45 kWh", "4.5 kWh", "0.75 kWh"],
+    "answer": "0.075 kWh"
+  },
+  {
+    "number": 35,
+    "question": "Permeance of a magnetic circuit is given by reciprocal of",
+    "options": ["Permeability", "Flux density", "Reluctivity", "Reluctance"],
+    "answer": "Reluctance"
+  },
+  {
+    "number": 36,
+    "question": "Which colour is emitted by an LED when the semiconductor material Gallium Arsenide phosphide is used?",
+    "options": ["Yellow", "Red", "Green", "Blue"],
+    "answer": "Red"
+  },
+  {
+    "number": 37,
+    "question": "Name the sensor which is used to detect the presence of nearby objects without any physical contact with the object.",
+    "options": ["Limit Switch", "Relay", "Proximity Switch", "DPDT"],
+    "answer": "Proximity Switch"
+  },
+  {
+    "number": 38,
+    "question": "The program for a microcontroller is stored in its",
+    "options": ["ROM", "RAM", "CPU", "None of the above"],
+    "answer": "ROM"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following technology is used in CDMA?",
+    "options": ["Time Division", "Frequency Division", "GSM", "Spread Spectrum"],
+    "answer": "Spread Spectrum"
+  },
+  {
+    "number": 40,
+    "question": "Nowadays, the battery available for exclusive usage in inverters are",
+    "options": [
+      "Nickel-Cadmium Batteries",
+      "Lithium Batteries",
+      "Tubular Batteries",
+      "None of the above"
+    ],
+    "answer": "Tubular Batteries"
+  },
+  {
+    "number": 41,
+    "question": "The most popular technology in time-division switching is called the",
+    "options": ["TSI", "STI", "ITS", "None of the above"],
+    "answer": "TSI"
+  },
+  {
+    "number": 42,
+    "question": "Which multiplexing technique involves signals composed of light beams?",
+    "options": ["WDM", "FDM", "TDM", "None of the above"],
+    "answer": "WDM"
+  },
+  {
+    "number": 43,
+    "question": "Which of the following primarily uses guided media?",
+    "options": [
+      "Radio broadcasting",
+      "Satellite communications",
+      "Local telephone system",
+      "Cellular telephone system"
+    ],
+    "answer": "Local telephone system"
+  },
+  {
+    "number": 44,
+    "question": "When a beam of light travels through media of two different densities, if the angle of incidence is greater than the critical angle, ___ occurs.",
+    "options": ["Refraction", "Reflection", "Criticism", "Incidence"],
+    "answer": "Reflection"
+  },
+  {
+    "number": 45,
+    "question": "In IP networking, network and Host address are separated using",
+    "options": ["ARP", "Separator", "Net mask", "TCP"],
+    "answer": "Net mask"
+  },
+  {
+    "number": 46,
+    "question": "In a router, what is the name of the structure that tells where to deliver IP packet?",
+    "options": ["Routing address", "Routing table", "Delivery table", "Status table"],
+    "answer": "Routing table"
+  },
+  {
+    "number": 47,
+    "question": "What is the nominal bit rate of fast Ethernet?",
+    "options": ["10 MB/s", "100 MB/s", "10 GB/s", "1000 MB/s"],
+    "answer": "100 MB/s"
+  },
+  {
+    "number": 48,
+    "question": "The synchronous modems are more costly than the asynchronous modems because",
+    "options": [
+      "They produce large volume of data",
+      "They operate with a larger bandwidth",
+      "They transmit the data with stop and start bits",
+      "They contain clock recovery circuits"
+    ],
+    "answer": "They contain clock recovery circuits"
+  },
+  {
+    "number": 49,
+    "question": "What is data encryption standard?",
+    "options": ["Block cipher", "Stream cipher", "Bit cipher", "None of the above"],
+    "answer": "Block cipher"
+  },
+  {
+    "number": 50,
+    "question": "Which of the malicious program do not replicate automatically?",
+    "options": ["Worm", "Trap doors", "Logic bomb", "Trojan horse"],
+    "answer": "Trojan horse"
+  },
+  {
+    "number": 51,
+    "question": "In which OSI layer, bits are converted to frames?",
+    "options": ["Presentation layer", "Data link layer", "Transport layer", "Network layer"],
+    "answer": "Data link layer"
+  },
+  {
+    "number": 52,
+    "question": "A firewall protects:",
+    "options": ["Viruses", "Fire", "Worms", "Unauthenticated interactive logins from outside world"],
+    "answer": "Unauthenticated interactive logins from outside world"
+  },
+  {
+    "number": 53,
+    "question": "A 32 : 1 multiplexer can be designed using:",
+    "options": [
+      "Two 16 : 1 multiplexers and one two input OR gate",
+      "Two 16 : 1 multiplexers and one two input AND gate",
+      "Two 16 : 1 multiplexers and two two input OR gate",
+      "Two 16 : 1 multiplexers only"
+    ],
+    "answer": "Two 16 : 1 multiplexers and one two input OR gate"
+  },
+  {
+    "number": 54,
+    "question": "Which logic device is called a data distributor?",
+    "options": ["Multiplexer", "Encoder", "Decoder", "Demultiplexer"],
+    "answer": "Demultiplexer"
+  },
+  {
+    "number": 55,
+    "question": "A full adder can be realized using:",
+    "options": [
+      "One half adder and two OR gates",
+      "Two half adders and one OR gate",
+      "Two half adders and two OR gates",
+      "Two half adders and one AND gate"
+    ],
+    "answer": "Two half adders and one OR gate"
+  },
+  {
+    "number": 56,
+    "question": "The output frequency of a mod-12 counter is 6 kHz. Its input frequency is:",
+    "options": ["6 kHz", "500 Hz", "24 kHz", "72 kHz"],
+    "answer": "72 kHz"
+  },
+  {
+    "number": 57,
+    "question": "Which of the following flip flop is used as a latch?",
+    "options": ["T flip flop", "Master slave flip flop", "JK flip flop", "D flip flop"],
+    "answer": "D flip flop"
+  },
+  {
+    "number": 58,
+    "question": "A decoder with 64 output lines has ___ select lines.",
+    "options": ["4", "6", "12", "8"],
+    "answer": "6"
+  },
+  {
+    "number": 59,
+    "question": "The instruction queue in a microprocessor is a ___ group of registers.",
+    "options": [
+      "First in first out",
+      "Last in first out",
+      "Last in last out",
+      "First in last out"
+    ],
+    "answer": "First in first out"
+  },
+  {
+    "number": 60,
+    "question": "The physical memory size of 8086 processor is:",
+    "options": ["1 terabyte", "1 Mbyte", "64 kilobyte", "20 megabyte"],
+    "answer": "1 Mbyte"
+  },
+  {
+    "number": 61,
+    "question": "In 8086, the interrupts initiated by executing \"INT n\" instruction are called:",
+    "options": ["Vectored interrupt", "Non vectored interrupt", "Hardware interrupt", "Software interrupt"],
+    "answer": "Software interrupt"
+  },
+  {
+    "number": 62,
+    "question": "Type 4 interrupt in 8086 is called:",
+    "options": [
+      "Divide by zero interrupt",
+      "Break point interrupt",
+      "Overflow interrupt",
+      "Single step interrupt"
+    ],
+    "answer": "Overflow interrupt"
+  },
+  {
+    "number": 63,
+    "question": "In ___ addressing mode, the instruction itself will specify the data to be operated by the instruction.",
+    "options": ["Direct addressing", "Relative addressing", "Indexed addressing", "Implied addressing"],
+    "answer": "Implied addressing"
+  },
+  {
+    "number": 64,
+    "question": "The maximum mode in 8086 is called:",
+    "options": ["Uniprocessor mode", "Multiprocessor mode", "Handshake mode", "Bidirectional mode"],
+    "answer": "Multiprocessor mode"
+  },
+  {
+    "number": 65,
+    "question": "The idea of cache memory is based on which of the following?",
+    "options": [
+      "The property of locality of reference",
+      "The heuristic 90-10 rule",
+      "The fact that references generally tend to cluster",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "number": 66,
+    "question": "In a virtual memory system the addresses used by the programmer belongs to:",
+    "options": ["Memory space", "Physical address", "Address space", "Main memory system"],
+    "answer": "Address space"
+  },
+  {
+    "number": 67,
+    "question": "The ___ provides path between the CPU and peripheral devices which are connected via interface cards.",
+    "options": ["Computer", "Expansion bus", "Memory", "CPU"],
+    "answer": "Expansion bus"
+  },
+  {
+    "number": 68,
+    "question": "A nonvolatile type of memory that can be programmed and erased in sectors, rather than one byte at a time is:",
+    "options": ["Flash memory", "EEPROM", "MPROM", "EPROM"],
+    "answer": "Flash memory"
+  },
+  {
+    "number": 69,
+    "question": "A complete microcomputer system consists of:",
+    "options": ["Microprocessor", "Memory", "Peripheral equipment", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 70,
+    "question": "The address mapping is done, when the program is initially loaded is called:",
+    "options": [
+      "Dynamic relocation",
+      "Relocation",
+      "Static relocation",
+      "Dynamic as well as static relocation"
+    ],
+    "answer": "Static relocation"
+  },
+  {
+    "number": 71,
+    "question": "Semaphores are mostly used to implement:",
+    "options": ["System calls", "IPC mechanism", "System protection", "None of the above"],
+    "answer": "IPC mechanism"
+  },
+  {
+    "number": 72,
+    "question": "Optimal page-replacement algorithm is:",
+    "options": [
+      "Replace the page that has not been used for a long time",
+      "Replace the page that has been used for a long time",
+      "Replace the page that will not be used for a long time",
+      "None of the above"
+    ],
+    "answer": "Replace the page that will not be used for a long time"
+  },
+  {
+    "number": 73,
+    "question": "Bankers algorithm for resource allocation deals with:",
+    "options": [
+      "Deadlock prevention",
+      "Deadlock recovery",
+      "Mutual exclusion",
+      "Deadlock avoidance"
+    ],
+    "answer": "Deadlock avoidance"
+  },
+  {
+    "number": 74,
+    "question": "The problem of thrashing is affected significantly by:",
+    "options": ["Program structure", "Program size", "Primary storage size", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 75,
+    "question": "When the page-fault rate is low:",
+    "options": [
+      "The turnaround time increases",
+      "The effective access time increases",
+      "The effective access time decreases",
+      "Both A) and B)"
+    ],
+    "answer": "The effective access time decreases"
+  },
+  {
+    "number": 76,
+    "question": "To avoid the race condition, the number of processes that may be simultaneously inside their critical section is",
+    "options": ["8", "1", "16", "0"],
+    "answer": "1"
+  },
+  {
+    "number": 77,
+    "question": "Converting a primitive type data into its corresponding wrapper class object instance is called",
+    "options": ["Boxing", "Wrapping", "Instantiation", "Autoboxing"],
+    "answer": "Autoboxing"
+  },
+  {
+    "number": 78,
+    "question": "Which of these modifiers can be used for a variable so that it can be accessed from any thread or parts of a program?",
+    "options": ["Transient", "Volatile", "Global", "No modifier is needed"],
+    "answer": "Volatile"
+  },
+  {
+    "number": 79,
+    "question": "Which method can't be overridden?",
+    "options": ["Super", "Static", "Final", "Printin"],
+    "answer": "Final"
+  },
+  {
+    "number": 80,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "Default constructor is called at the time of declaration of the object if a constructor has not been defined.",
+      "Constructor can be parameterized.",
+      "finalize() method is called when an object goes out of scope and is no longer needed.",
+      "finalize() method must be declared protected."
+    ],
+    "answer": "finalize() method must be declared protected."
+  },
+  {
+    "number": 81,
+    "question": "Statistical use testing relies on probability distributions based on",
+    "options": [
+      "Mixture of control structures used in the program",
+      "Order in which the module execute",
+      "The way software will actually be used",
+      "User interface design standards"
+    ],
+    "answer": "The way software will actually be used"
+  },
+  {
+    "number": 82,
+    "question": "The problem that threatens the success of a project but which has not yet happened?",
+    "options": ["Bug", "Error", "Risk", "Failure"],
+    "answer": "Risk"
+  },
+  {
+    "number": 83,
+    "question": "Which is not a size metric?",
+    "options": ["LOC", "Function count", "Program length", "Cyclomatic complexity"],
+    "answer": "Cyclomatic complexity"
+  },
+  {
+    "number": 84,
+    "question": "Number of clauses used in ISO 9001 to specify quality software requirements",
+    "options": ["15", "20", "25", "28"],
+    "answer": "20"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is not the required condition for binary search algorithm?",
+    "options": [
+      "The list must be sorted",
+      "There should be the direct access to the middle element in any sublist",
+      "There must be mechanism to delete and/or insert elements in list",
+      "None of the above"
+    ],
+    "answer": "There must be mechanism to delete and/or insert elements in list"
+  },
+  {
+    "number": 86,
+    "question": "Which of the following data structure can't store the non-homogeneous data elements?",
+    "options": ["Arrays", "Records", "Pointers", "Stacks"],
+    "answer": "Arrays"
+  },
+  {
+    "number": 87,
+    "question": "The situation when in a linked list START=NULL is",
+    "options": ["Underflow", "Overflow", "Houseful", "Saturated"],
+    "answer": "Underflow"
+  },
+  {
+    "number": 88,
+    "question": "If every node u in G is adjacent to every other node v in G. A graph is said to be",
+    "options": ["Isolated", "Finite", "Complete", "Strongly connected"],
+    "answer": "Complete"
+  },
+  {
+    "number": 89,
+    "question": "Data independence allows",
+    "options": [
+      "Sharing the same database by several applications",
+      "Extensive modification of applications",
+      "No data sharing between applications",
+      "Elimination of several application programs"
+    ],
+    "answer": "Sharing the same database by several applications"
+  },
+  {
+    "number": 90,
+    "question": "The number of attributes in relation is called as its",
+    "options": ["Cardinality", "Entity", "Tuples", "Degree"],
+    "answer": "Degree"
+  },
+  {
+    "number": 91,
+    "question": "Which of the following is the syntax for views where v is view name?",
+    "options": [
+      "Create view v as \"query name\";",
+      "Create \"query expression\" as view;",
+      "Create view v as \"query expression\";",
+      "Create view \"query expression\""
+    ],
+    "answer": "Create view v as \"query expression\";"
+  },
+  {
+    "number": 92,
+    "question": "___ command can be used to modify a column in a table.",
+    "options": ["Alter", "Update", "Set", "Create"],
+    "answer": "Alter"
+  },
+  {
+    "number": 93,
+    "question": "The main task carried out in the ___ is to remove repeating attributes to separate tables.",
+    "options": ["First Normal Form", "Second Normal Form", "Third Normal Form", "Fourth Normal Form"],
+    "answer": "First Normal Form"
+  },
+  {
+    "number": 94,
+    "question": "A ___ is a set of column that identifies every row in a table.",
+    "options": ["Composite key", "Candidate key", "Foreign key", "Super key"],
+    "answer": "Super key"
+  },
+  {
+    "number": 95,
+    "question": "The output of XML document can be viewed in",
+    "options": ["Word processor", "Web browser", "Notepad", "None of the above"],
+    "answer": "Web browser"
+  },
+  {
+    "number": 96,
+    "question": "What is a FTP program used for?",
+    "options": [
+      "Transfer files to and from internet server",
+      "Designing a web site",
+      "Connecting to the internet",
+      "None of the above"
+    ],
+    "answer": "Transfer files to and from internet server"
+  },
+  {
+    "number": 97,
+    "question": "Which statement is true?",
+    "options": [
+      "An XML document can have one root element",
+      "An XML document can have one child element",
+      "XML element have to be lower case",
+      "All the above"
+    ],
+    "answer": "An XML document can have one root element"
+  },
+  {
+    "number": 98,
+    "question": "Which of the following statement is false regarding \"Cookies\"?",
+    "options": [
+      "Cookies are programs which run in the background of the web-client.",
+      "Cookies have the potential of being used to violate the privacy of users.",
+      "Cookies are very helpful in keeping track of users in developing online shopping cart applications, personalized portals and in advertising on web sites.",
+      "Cookies cannot contain more than 4 Kb of data."
+    ],
+    "answer": "Cookies are programs which run in the background of the web-client."
+  },
+  {
+    "number": 99,
+    "question": "Which of the following attributes of text box control allow to limit the maximum character?",
+    "options": ["Size", "Len", "Maxlength", "All of these"],
+    "answer": "Maxlength"
+  },
+  {
+    "number": 100,
+    "question": "A much better approach to establish the base URL is to use",
+    "options": ["BASE element", "HEAD element", "Both A) and B)", "None of these"],
+    "answer": "BASE element"
+  }
+]

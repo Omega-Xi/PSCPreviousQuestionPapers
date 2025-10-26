@@ -1,0 +1,687 @@
+[
+  {
+    "number": 1,
+    "question": "The Constituent Assembly met for the first time on 9th December in which year?",
+    "options": ["1947", "1946", "1950", "1949"],
+    "answer": "1946"
+  },
+  {
+    "number": 2,
+    "question": "'Objective Resolution' drafted and moved by Pandit Jawaharlal Nehru in the Constituent Assembly on",
+    "options": [
+      "13 December, 1946",
+      "30 January, 1946",
+      "26 January, 1950",
+      "3 December, 1950"
+    ],
+    "answer": "13 December, 1946"
+  },
+  {
+    "number": 3,
+    "question": "First Delimitation Commission was setup in India on",
+    "options": ["1976", "1955", "1951", "1960"],
+    "answer": "1952"
+  },
+  {
+    "number": 4,
+    "question": "The Prime Minister's Secretariat was renamed into Prime Minister's Office at the time of",
+    "options": ["P. V. Narasimha Rao", "Jawaharlal Nehru", "V. P. Singh", "Morarji Desai"],
+    "answer": "Morarji Desai"
+  },
+  {
+    "number": 5,
+    "question": "Who fixes the number of Judges in the Supreme Court?",
+    "options": ["The President", "The Chief Justice", "The Parliament", "Vice President"],
+    "answer": "The Parliament"
+  },
+  {
+    "number": 6,
+    "question": "Malayalam newspaper 'Paschimodayam' published in 1847 by",
+    "options": ["Maman Mapilla", "Ramakrishna Pilla", "Benjamin Bailey", "Herman Gundert"],
+    "answer": "Herman Gundert"
+  },
+  {
+    "number": 7,
+    "question": "Kallumala agitation associated with",
+    "options": ["Dress Code", "Educational Reform", "Political Changes", "Temple Entry"],
+    "answer": "Dress Code"
+  },
+  {
+    "number": 8,
+    "question": "Name the work of K. Damodaran.",
+    "options": [
+      "Ritumati",
+      "Pattabakhi",
+      "Adukkalayil ninum Arangathekku",
+      "Mathilukalkkapuram"
+    ],
+    "answer": "Pattabakhi"
+  },
+  {
+    "number": 9,
+    "question": "Who has not participated in Vaikkam Sathyagraha?",
+    "options": ["K. Kelappan", "K. P. Kesava Menon", "A. K. Gopalan", "Mannath Padmanabhan"],
+    "answer": "A. K. Gopalan"
+  },
+  {
+    "number": 10,
+    "question": "Who among the following became the member of 'Malayala Pradesh Congress Committee'?",
+    "options": ["Kuttimalu Amma", "Kittur Channamma", "Captain Lakshmi", "Akkama Cherian"],
+    "answer": "Kuttimalu Amma"
+  },
+  {
+    "number": 11,
+    "question": "Father of Indian Unrest",
+    "options": ["Lala Lajpat Rai", "Bhagat Singh", "Bipin Chandra Pal", "Bal Gangadhar Tilak"],
+    "answer": "Bal Gangadhar Tilak"
+  },
+  {
+    "number": 12,
+    "question": "Mathikettan Shola National Park is situated in which District?",
+    "options": ["Wayanad", "Idukki", "Palakkad", "Pathanam Thitta"],
+    "answer": "Idukki"
+  },
+  {
+    "number": 13,
+    "question": "Bhakra Nangal Dam is across which river?",
+    "options": ["Kaveri", "Mahanadi", "Satluj", "Krishna"],
+    "answer": "Satluj"
+  },
+  {
+    "number": 14,
+    "question": "Current General Manager of South Eastern Railway",
+    "options": ["A. K. Goel", "S. Gehlot", "A. Datta", "B. K. Jain"],
+    "answer": "A. K. Goel"
+  },
+  {
+    "number": 15,
+    "question": "Which company has launched BBM money transfer service in India?",
+    "options": ["Microsoft", "Sony", "Apple", "Black Berry"],
+    "answer": "Black Berry"
+  },
+  {
+    "number": 16,
+    "question": "Who among the following is not the Goodwill Ambassador of India in Rio Olympics?",
+    "options": ["Sachin Tendulkar", "Abinav Bindra", "Sushil Kumar", "Salman Khan"],
+    "answer": "Sushil Kumar"
+  },
+  {
+    "number": 17,
+    "question": "2015 Kendra Sahitya Academy Award Winning Book",
+    "options": ["Agnisakshi", "Ratrimazha", "Marannu Vecha Vasthukkal", "Aarachaar"],
+    "answer": "Aarachaar"
+  },
+  {
+    "number": 18,
+    "question": "Which is known as Indian Education Commission?",
+    "options": [
+      "Kothari Commission",
+      "Mudaliar Commission",
+      "Radhakrishnan Commission",
+      "Saikia Committee"
+    ],
+    "answer": "Kothari Commission"
+  },
+  {
+    "number": 19,
+    "question": "'Tamasa' is the dance form of",
+    "options": ["Gujarat", "Rajasthan", "Maharashtra", "Bihar"],
+    "answer": "Maharashtra"
+  },
+  {
+    "number": 20,
+    "question": "Which day was celebrated as National Education Day?",
+    "options": ["September 10", "November 11", "October 2", "December 20"],
+    "answer": "November 11"
+  },
+  {
+    "number": 21,
+    "question": "If v = x² î + y² ĵ + z² k̂, find div (curl v).",
+    "options": ["0", "2(x + y + z)", "2(xî + yĵ + zk̂)", "1"],
+    "answer": "0"
+  },
+  {
+    "number": 22,
+    "question": "Find the Laplace transform of cosh(at)",
+    "options": [
+      "s / (s² - a²)",
+      "s² - a² / 2",
+      "2 / (s² - a²)",
+      "2a / (s² + a²)"
+    ],
+    "answer": "s / (s² - a²)"
+  },
+  {
+    "number": 23,
+    "question": "Find the rank of matrix:<br>200<br>020<br>002<br>000",
+    "options": ["2", "3", "8", "0"],
+    "answer": "3"
+  },
+  {
+    "number": 24,
+    "question": "Find the general solution of the differential equation (D³ - D² - D + 1)y = 0.",
+    "options": [
+      "c₁e^x + c₂x + c₃e^(-x)",
+      "(c₁ + c₂x)e^(-x) + c₃e^x",
+      "c₁e^(-x) + c₂e^(-x) + c₃e^x",
+      "c₁e^(-x) + (c₂ + c₃x)e^x"
+    ],
+    "answer": "(c₁ + c₂x)e^(-x) + c₃e^x"
+  },
+  {
+    "number": 25,
+    "question": "If C is the unit circle, ∮(z² + 4) dz = ?",
+    "options": ["4π", "0", "2π", "6"],
+    "answer": "0"
+  },
+  {
+    "number": 26,
+    "question": "Pick up the incorrect statement from the following:",
+    "options": [
+      "The straight distance between end points of a suspended tape is reduced by an amount called the sag correction.",
+      "While measuring a distance with a tape of length 100.005 m, the distance should be increased by 0.005 m for each tape length.",
+      "An increase in temperature causes a tape to increase in length and the measured distance is too large.",
+      "A 100 m tape of cross section 10 mm × 0.25 mm stretches about 10 mm under 5 kg pull."
+    ],
+    "answer": "A 100 m tape of cross section 10 mm × 0.25 mm stretches about 10 mm under 5 kg pull."
+  },
+  {
+    "number": 27,
+    "question": "A stone of mass 1 kg is tied to a string of length 1 m and whirled in a horizontal circle at a constant angular speed 5 rad/sec. The tension in the string is",
+    "options": ["30 N", "25 N", "15 N", "10 N"],
+    "answer": "25 N"
+  },
+  {
+    "number": 28,
+    "question": "The ratio of the moment of inertia of a rectangle about its centroidal axis to that about its base is",
+    "options": ["1/3", "1/4", "3/4", "4"],
+    "answer": "1/3"
+  },
+  {
+    "number": 29,
+    "question": "Ultimate strength to cement is provided by",
+    "options": [
+      "Di-calcium silicate",
+      "Tri-calcium silicate",
+      "Tri-calcium aluminate",
+      "Tetra calcium alumino ferrite"
+    ],
+    "answer": "Tri-calcium silicate"
+  },
+  {
+    "number": 30,
+    "question": "The portion of the brick without a triangular corner equal to half the width and half the length is called",
+    "options": ["Brick bat", "Queen closer", "Squint brick", "King closer"],
+    "answer": "King closer"
+  },
+  {
+    "number": 31,
+    "question": "An industrial heat pump operates between the temperatures of 27°C and -13ºC. The rates of heat addition and heat rejection are 750 W and 1000 W respectively. The COP for the heat pump is",
+    "options": ["7.5", "6.5", "4.0", "3.0"],
+    "answer": "3.0"
+  },
+  {
+    "number": 32,
+    "question": "A hydraulic turbine develops 1000 kW power for a head of 40 m. If the head is reduced to 20 m, the power developed (in kW) is",
+    "options": ["177", "354", "500", "800"],
+    "answer": "500"
+  },
+  {
+    "number": 33,
+    "question": "Two mating spur gears have 40 and 120 teeth respectively. The pinion rotates at 1200 rpm and transmits a torque of 20 Nm. The torque transmitted by gear is",
+    "options": ["80 Nm", "30 Nm", "40 Nm", "60 Nm"],
+    "answer": "60 Nm"
+  },
+  {
+    "number": 34,
+    "question": "Misrun is a casting defect which occurs due to",
+    "options": [
+      "Very high pouring temperature of the molten metal",
+      "Insufficient fluidity of the molten metal",
+      "Absorption of gases by the liquid metal",
+      "Improper alignment of the mould flasks"
+    ],
+    "answer": "Insufficient fluidity of the molten metal"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following arc welding process does not use consumable electrode?",
+    "options": ["GTAW", "GMAW", "SAW", "None of these"],
+    "answer": "GTAW"
+  },
+  {
+    "number": 36,
+    "question": "A 500 kVA transformer has full load efficiency of 95% at UPF. It gives the same efficiency at 60% of full load and at UPF. The iron loss of the transformer is",
+    "options": ["10.35 kW", "9.87 kW", "9.08 kW", "10.71 kW"],
+    "answer": "9.87 kW"
+  },
+  {
+    "number": 37,
+    "question": "Leakage flux in an induction motor is the flux that",
+    "options": [
+      "Links stator and rotor windings",
+      "Leaks through the machine",
+      "Links stator winding or the rotor winding but not both",
+      "Links none of the windings"
+    ],
+    "answer": "Links stator winding or the rotor winding but not both"
+  },
+  {
+    "number": 38,
+    "question": "It is desired to have a constant direct current through an ideal inductor, the nature of the voltage source must be",
+    "options": [
+      "Constant voltage",
+      "Linearly increasing voltage",
+      "Exponentially increasing voltage",
+      "An ideal impulse"
+    ],
+    "answer": "An ideal impulse"
+  },
+  {
+    "number": 39,
+    "question": "A filament bulb rated at 500 W, 100 V is to be connected in series with capacitance across 220 V, 50 Hz supply. What will be the value of the capacitor such that the voltage across the bulb and the power consumed by the bulb are according to the rating of the bulb?",
+    "options": ["78 µF", "81 µF", "90 µF", "86 µF"],
+    "answer": "81 µF"
+  },
+  {
+    "number": 40,
+    "question": "In delta to star transformation, if the three elements of the delta connection are scaled by a factor 'm', m > 0, the elements of the corresponding star equivalent will be scaled by a factor of",
+    "options": ["m²", "√m", "⅓m", "m"],
+    "answer": "m"
+  },
+  {
+    "number": 41,
+    "question": "In an OPAMP output offset voltage due to input offset current is given by",
+    "options": ["Vₒ = IᵢₒRᵢ", "Vₒ = Iᵢₒ(Rբ/(Rᵢ + Rբ))", "Vₒ = IᵢₒRբ", "Vₒ = -IᵢₒRᵢ"],
+    "answer": "Vₒ = IᵢₒRբ"
+  },
+  {
+    "number": 42,
+    "question": "For a PN diode, maximum reverse bias potential that can be applied before entering a zener region is called",
+    "options": [
+      "Break down voltage",
+      "Peak inverse voltage",
+      "Reverse bias voltage",
+      "None of the above"
+    ],
+    "answer": "Peak inverse voltage"
+  },
+  {
+    "number": 43,
+    "question": "In a fullwave rectifier the DC voltage is given by",
+    "options": ["0.318 Vm", "0.636 Vm", "0.836 Vm", "0.218 Vm"],
+    "answer": "0.636 Vm"
+  },
+  {
+    "number": 44,
+    "question": "Frequency of oscillation for an RC phase shift oscillator is given by",
+    "options": [
+      "f = 1 / 2π√(RC)",
+      "f = 1 / 2πRC√6",
+      "f = 1 / 2πRC√2",
+      "f = 1 / 2πRC√4"
+    ],
+    "answer": "f = 1 / 2πRC√6"
+  },
+  {
+    "number": 45,
+    "question": "If delay line is not used in vertical section of a CRO",
+    "options": [
+      "Initial Part is lost",
+      "Final Part is lost",
+      "No signal in the display",
+      "Always shows a horizontal line"
+    ],
+    "answer": "Initial Part is lost"
+  },
+  {
+    "number": 46,
+    "question": "What will be the output of the following program?<br>void main() {<br>int i=1;<br>printf(\"%d\", i=++i == 1);<br>}",
+    "options": ["0", "1", "2", "error"],
+    "answer": "0"
+  },
+  {
+    "number": 47,
+    "question": "What will be the value of 'f' after the execution of the following program?<br>void main() {<br>char a;<br>float f = 10;<br>for(a=1; a <= 5;a++) {f -= .2;}<br>printf(\"Inf=%g\",f);<br>}",
+    "options": ["5.0", "9", "9.0", "error"],
+    "answer": "9"
+  },
+  {
+    "number": 48,
+    "question": "What will be the output of the following program?<br>#define abc(x,y) x*y<br>void main() {<br>int a=1, b=2;<br>printf(\"%d\",abc(a+1,b-2));<br>}",
+    "options": ["0", "1", "2", "3"],
+    "answer":"1"
+  },
+  {
+    "number": 49,
+    "question": "Which statement is added to the following program such that address of \"r1\" gets stored in \"r2\"?<br>void main() {<br>  int *r2;<br>  void abc(int **);<br>  abc(&r2);<br>  printf(\"%d\", *r2);<br>}<br>void abc(int **r3) {<br>  int r1 = 5;<br>  /* add statement here */<br>}",
+    "options": [
+      "*r2 = &r1",
+      "*r1 = &r3",
+      "*r3 = &r1",
+      "none of the above"
+    ],
+    "answer": "*r3 = &r1"
+  },
+  {
+    "number": 50,
+    "question": "The CPU can also be called as",
+    "options": [
+      "Processor hub",
+      "ISP",
+      "Node",
+      "All the above"
+    ],
+    "answer": "Processor hub"
+  },
+  {
+    "number": 51,
+    "question": "Numbers are represented in a computer in 2's complement because",
+    "options": ["It requires less storage", "There is a unique representation for zero", "It produces less error when compared to other representations", "None of the above"],
+    "answer": "There is a unique representation for zero"
+  },
+  {
+    "number": 52,
+    "question": "Which of the following is equivalent to the Boolean expression (A+B)'.(A'-B').(A +B) ?",
+    "options": ["F", "T", "(A+B)'", "A'·B'"],
+    "answer": "A'·B'"
+  },
+  {
+    "number": 53,
+    "question": "Which of the following is an example of a combinational logic circuit?",
+    "options": ["MUX", "Adder", "Counter", "Decoder"],
+    "answer": "Adder"
+  },
+  {
+    "number": 54,
+    "question": "Which of the following is an example of a synchronous interrupt?",
+    "options": ["Keyboard interrupt", "Pushing the reset button", "Divide by zero", "None of the above"],
+    "answer": "Divide by zero"
+  },
+  {
+    "number": 55,
+    "question": "Which of the following is true?",
+    "options": ["Every instruction will have atleast one machine cycle", "The opcode of an instruction can never be one byte long", "Every instruction has opcode fetch and memory read operation", "None of the above"],
+    "answer": "Every instruction will have atleast one machine cycle"
+  },
+  {
+    "number": 56,
+    "question": "Matrix manipulation and sorting can be easily performed by which of the type of computer?",
+    "options": ["SISD", "MIMD", "MISD", "SIMD"],
+    "answer": "SIMD"
+  },
+  {
+    "number": 57,
+    "question": "Operand forwarding helps to overcome",
+    "options": ["Branch hazards", "Data hazards", "Both A) and B)", "None of the above"],
+    "answer": "Data hazards"
+  },
+  {
+    "number": 58,
+    "question": "Which of the flags will be affected by the instruction INC AL, if AL = FFH?",
+    "options": ["Zero, Carry", "Zero, Auxiliary Carry, Carry, Overflow", "Zero only", "Carry only"],
+    "answer": "Zero, Auxiliary Carry, Carry, Overflow"
+  },
+  {
+    "number": 59,
+    "question": "Which of the following methods is best suited for transferring 250 MB of data from hard disk to memory?",
+    "options": ["Polling", "DMA", "Interrupt", "None of the above"],
+    "answer": "DMA"
+  },
+  {
+    "number": 60,
+    "question": "Which of the following is not true for a microcontroller?",
+    "options": ["Microcontrollers have special instructions for bit manipulation", "They are commonly used in embedded systems", "Microcontrollers with Harvard architecture are available", "Microcontrollers cannot run without external memory"],
+    "answer": "Microcontrollers cannot run without external memory"
+  },
+  {
+    "number": 72,
+    "question": "Which of the following is likely to be the most expensive cost of quality in Software Engineering?",
+    "options": ["External Failure Cost", "Appraisal Cost", "Internal Failure Cost", "Prevention Cost"],
+    "answer": "External Failure Cost"
+  },
+  {
+    "number": 73,
+    "figure": true,
+    "question": "Which is the correct preorder traversal of the following binary tree?",
+    "options": [
+      "14, 2, 1, 3, 11, 10, 7, 30, 40",
+      "14, 2, 3, 1, 11, 10, 30, 7, 40",
+      "1, 2, 3, 7, 10, 11, 14, 30, 40",
+      "40, 30, 14, 11, 10, 7, 3, 2, 1"
+    ],
+    "answer": "14, 2, 1, 3, 11, 10, 7, 30, 40"
+  },
+  {
+    "number": 74,
+    "question": "After the first partition step of quicksort, the array is: 3 9 1 18 19 24 22 20. Which statement is correct?",
+    "options": [
+      "The pivot could have been 18, but could not have been 19",
+      "The pivot could have been 19, but could not have been 18",
+      "The pivot could have been either 18 or 19",
+      "Neither 18 nor 19 could have been the pivot"
+    ],
+    "answer": "The pivot could have been either 18 or 19"
+  },
+  {
+    "number": 75,
+    "question": "Which data structure is best to store information about paintings in an art dealer's showroom?",
+    "options": ["Unordered array", "Sorted array", "Binary search tree", "It depends"],
+    "answer": "It depends"
+  },
+  {
+    "number": 76,
+    "question": "What is the running time of the following code fragment?<br>for(int i = 0;i < 10;i++)<br>for(int j = 0;j < N;j++)<br>for(int k = N-2;k < N;k++)<br>cout< < i < < \" \"< < j < < endl;",
+    "options": ["O (log N)", "O (N)", "O (N log N)", "O (N2)"],
+    "answer": "O (N)"
+  },
+  {
+    "number": 77,
+    "question": "Breadth first search",
+    "options": [
+      "Scans each incident node along with its children",
+      "Scans all incident edges before moving to other node",
+      "Is same as back tracking",
+      "Scans all the nodes in random order"
+    ],
+    "answer": "Scans all incident edges before moving to other node"
+  },
+  {
+    "number": 78,
+    "question": "The Knapsack problem where the objective function is to minimize the profit is",
+    "options": ["Greedy", "Dynamic", "Back tracking", "Branch and Bound"],
+    "answer": "Branch and Bound"
+  },
+  {
+    "number": 79,
+    "question": "Choose the correct answer for the following statements:<br>I. NP problem can run in polynomial time on a non-deterministic turing machine.<br>II. All NP complete problem are NP-Hard.",
+    "options": [
+      "I is false and II is true",
+      "I is true and II is false",
+      "Both are false",
+      "Both are true"
+    ],
+    "answer": "Both are true"
+  },
+  {
+    "number": 80,
+    "question": "A Hamiltonian cycle in a Hamiltonian graph of order 24 has",
+    "options": ["12 edges", "23 edges", "24 edges", "None of the above"],
+    "answer": "24 edges"
+  },
+  {
+    "number": 81,
+    "question": "Which of the following is not a group?",
+    "options": [
+      "The integers under addition",
+      "The non-zero integers under multiplication",
+      "The non-zero real numbers under multiplication",
+      "The complex numbers under addition"
+    ],
+    "answer": "The non-zero integers under multiplication"
+  },
+  {
+    "number": 82,
+    "question": "The binary relation R = {(0, 0), (1, 1)} on A = {0, 1, 2, 3} is",
+    "options": [
+      "Reflexive, Not Symmetric, Transitive",
+      "Not Reflexive, Symmetric, Transitive",
+      "Reflexive, Symmetric, Not Transitive",
+      "Reflexive, Not Symmetric, Not Transitive"
+    ],
+    "answer": "Not Reflexive, Symmetric, Transitive"
+  },
+  {
+    "number": 83,
+    "question": "Let R={(a, a), (a, b), (b, b), (a, c), (c, c)} be a partial order relation on ∑={a, b, c}. Let '<=' be the corresponding lexicographic order on ∑. Which of the following is true?",
+    "options": ["bc <= ba", "abbac <= abb", "abbac <= abbab", "abbaaacc <= abbaab"],
+    "answer": "abbac <= abbab"
+  },
+  {
+    "number": 84,
+    "question": "What is the language of the grammar with the following production rules?<br>S -> ASb | c<br>A -> a",
+    "options": [
+      "{aⁿ cbⁿ | n ∈ N}",
+      "{xcb | x ∈ {a} * }",
+      "{acy | y ∈ {b} * }",
+      "All of the answers above are incorrect"
+    ],
+    "answer": "{aⁿ cbⁿ | n ∈ N}"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is not decidable?",
+    "options": [
+      "Given a turing machine M, a string S and an integer k, M accepts S within k steps",
+      "Equivalence of two given turing machines",
+      "Language accepted by a given finite state machine is not empty",
+      "Language generated by a context free grammar is not empty"
+    ],
+    "answer": "Equivalence of two given turing machines"
+  },
+  {
+    "number": 86,
+    "question": "Choose the correct statement.",
+    "options": [
+      "The recursively enumerable sets are closed under complementation",
+      "Deterministic context free languages are closed under intersection",
+      "Context sensitive languages are closed under homomorphism",
+      "A is recursive if both A and its complement are accepted by turing machines"
+    ],
+    "answer": "A is recursive if both A and its complement are accepted by turing machines"
+  },
+  {
+    "number": 87,
+    "question": "Which of the following statements is the most correct answer?",
+    "options": [
+      "A language is ambiguous if every sentence has two or more parse trees",
+      "A context-free grammar is ambiguous if the right-hand side of one of its production rules starts with the non-terminal that appears on the left-hand side",
+      "A language is unambiguous if every sentence has a unique left-most derivation",
+      "All three statements above are valid"
+    ],
+    "answer": "All three statements above are valid"
+  },
+  {
+    "number": 88,
+    "question": "What is a sentential form?",
+    "options": [
+      "One line of a derivation",
+      "An arbitrary string of grammar symbols",
+      "The content of the LL(1) parse stack",
+      "The string of symbols between the current point in the parse and the root of the parse tree"
+    ],
+    "answer": "An arbitrary string of grammar symbols"
+  },
+  {
+    "number": 89,
+    "question": "Which of the following is not used for synchronization?",
+    "options": [
+      "The Banker's algorithm",
+      "The Bakery algorithm",
+      "Busy waiting with test and set",
+      "Monitors"
+    ],
+    "answer": "The Banker's algorithm"
+  },
+  {
+    "number": 90,
+    "question": "The problem of internal fragmentation can be lessened in systems employing a fixed partition memory management scheme by using",
+    "options": [
+      "Random size partitions",
+      "Equal size partitions",
+      "Unequal size partitions",
+      "None of the above"
+    ],
+    "answer": "Unequal size partitions"
+  },
+  {
+    "number": 91,
+    "question": "The purpose of a TLB is",
+    "options": [
+      "To cache page translation information",
+      "To cache frequently used data",
+      "To hold register values while a process is waiting to run",
+      "To hold page table start and end"
+    ],
+    "answer": "To cache page translation information"
+  },
+  {
+    "number": 92,
+    "question": "Which of the following is not a web server?",
+    "options": ["Internet Information Server", "NetBeans", "Apache", "None of the above"],
+    "answer": "NetBeans"
+  },
+  {
+    "number": 93,
+    "question": "E-commerce transactions between a company and its stakeholders are often referred to as",
+    "options": ["C2C, C2B", "B2B, C2B", "B2C, B2B", "B2C, C2C"],
+    "answer": "B2C, B2B"
+  },
+  {
+    "number": 94,
+    "question": "Which of the following is not used for inter process communication?",
+    "options": ["Message queue", "Semaphore", "Pipes", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "number": 95,
+    "question": "A distributed file system exhibits location transparency if",
+    "options": [
+      "The name of a file indicates exactly where the file can be found",
+      "The name of a file does not indicate where the file can be found",
+      "The name of a file does not need to be changed when the location of the file changes",
+      "The name of a file is not adequate for finding the file"
+    ],
+    "answer": "The name of a file does not need to be changed when the location of the file changes"
+  },
+  {
+    "number": 96,
+    "question": "The input and output ports of a router perform the ______ layer functions of the router.",
+    "options": ["Physical and data link layer", "Network", "Transport", "None of the above"],
+    "answer": "Physical and data link layer"
+  },
+  {
+    "number": 97,
+    "question": "In distance vector routing, each node periodically shares its routing table with",
+    "options": ["Every other node", "One neighbour", "Its immediate neighbours", "None of the above"],
+    "answer": "Its immediate neighbours"
+  },
+  {
+    "number": 98,
+    "question": "Which of the following is not an ICMP command?",
+    "options": ["Ping", "Traceroute", "Ifconfig", "None of the above"],
+    "answer": "Ifconfig"
+  },
+  {
+    "number": 99,
+    "question": "Which of the following is an application layer protocol?",
+    "options": ["TCP", "Ethernet", "Bluetooth", "HTTP"],
+    "answer": "HTTP"
+  },
+  {
+    "number": 100,
+    "question": "The cipher reorders the plain text characters to create a cipher text.",
+    "options": ["Substitution", "Transposition", "Either A) or B)", "Neither A) nor B)"],
+    "answer": "Transposition"
+  }
+]

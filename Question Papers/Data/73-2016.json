@@ -1,0 +1,642 @@
+[
+  {
+    "number": 1,
+    "question": "\"Ballot is powerful than bullet\" who said so?",
+    "options": ["Jawaharlal Nehru", "George Washington", "Abraham Lincoln", "Mahatma Gandhi"],
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "number": 2,
+    "question": "Whose autobiography is known as 'Ente Jeevitha Smaranakal'?",
+    "options": ["E.M.S. Namboodiripad", "Vaikom Muhammad Basheer", "K. Kelappan", "Mannathu Padmanabhan"],
+    "answer": "Mannathu Padmanabhan"
+  },
+  {
+    "number": 3,
+    "question": "Which river forms the boundary between North India and South India?",
+    "options": ["Mahanadi", "Narmada", "Godavari", "Kaveri"],
+    "answer": "Narmada"
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is known as the lungs of Nature?",
+    "options": ["Fresh water lakes", "Mountains", "Rain forest", "Wet lands"],
+    "answer": "Rain forest"
+  },
+  {
+    "number": 5,
+    "question": "Name of the agency that won the Gandhi Peace Award for the year 2014:",
+    "options": ["ISRO", "RED CROSS", "ASIA WATCH", "NATIONAL SERVICE SCHEME"],
+    "answer": "ISRO"
+  },
+  {
+    "number": 6,
+    "question": "Where is Lothal?",
+    "options": ["Gujarat", "Punjab", "Rajasthan", "Madhya Pradesh"],
+    "answer": "Gujarat"
+  },
+  {
+    "number": 7,
+    "question": "A special phenomenon seen only in the Arabian Sea:",
+    "options": ["Loo", "Coral Reefs", "Tides", "Chakara"],
+    "answer": "Chakara"
+  },
+  {
+    "number": 8,
+    "question": "Which latitude passes through India?",
+    "options": ["Tropic of cancer", "Tropic of capricon", "Equator", "Artic circle"],
+    "answer": "Tropic of cancer"
+  },
+  {
+    "number": 9,
+    "question": "In which year Sree Narayana Guru formed S.N.D.P. Yogam?",
+    "options": ["1900", "1901", "1903", "1907"],
+    "answer": "1903"
+  },
+  {
+    "number": 10,
+    "question": "Who was the first woman president of Indian National Congress?",
+    "options": ["Sarojini Naidu", "Annie Besant", "Vijayalakshmi Pandit", "Indira Gandhi"],
+    "answer": "Annie Besant"
+  },
+  {
+    "number": 11,
+    "question": "Which social reformer started the movement called 'Sadhujana Paripalana Sangam'?",
+    "options": ["Sahodaran Ayyappan", "Sree Narayana Guru", "K. Kelappan", "Ayyankali"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number": 12,
+    "question": "Who wrote the book 'Anasthasyayude Rektha Sakshyam'?",
+    "options": ["Sr. Alphonsa", "Vallathol Narayana Menon", "Sr. Mary Beninja", "Fr. Kuriakose Elias Chavara"],
+    "answer": "Sr. Mary Beninja"
+  },
+  {
+    "number": 13,
+    "question": "Golden Quadrilateral is a ___ project.",
+    "options": ["Rail", "Road", "Tele communication", "Health"],
+    "answer": "Road"
+  },
+  {
+    "number": 14,
+    "question": "Name of the instrument used in aeroplanes to measure height:",
+    "options": ["Barometer", "Altimeter", "Pedometer", "Multimeter"],
+    "answer": "Altimeter"
+  },
+  {
+    "number": 15,
+    "question": "Which Malayalam poet was honored by the British prince in 1922?",
+    "options": ["G. Sankara Kurup", "Vallathol Narayana Menon", "Kumaranasan", "Changampuzha Krishnapillai"],
+    "answer": "Vallathol Narayana Menon"
+  },
+  {
+    "number": 16,
+    "question": "A major poverty eradication programme in the following:",
+    "options": ["MGNREGS", "RMSA", "DPEP", "SSA"],
+    "answer": "MGNREGS"
+  },
+  {
+    "number": 17,
+    "question": "The largest pure water lake in India:",
+    "options": ["Dal", "Woolar", "Kolleru", "Pangong"],
+    "answer": "Kolleru"
+  },
+  {
+    "number": 18,
+    "question": "Who was the founder of Prathyaksha Raksha Daiva Sabha?",
+    "options": ["Thycaud Ayya", "Poikayil Yohannan", "Pandit Karuppan", "Chattampi Swami"],
+    "answer": "Poikayil Yohannan"
+  },
+  {
+    "number": 19,
+    "question": "Which day is observed as world population day?",
+    "options": ["July 11", "June 11", "Nov. 20", "Dec: 10"],
+    "answer": "July 11"
+  },
+  {
+    "number": 20,
+    "question": "Who gave the honorary title 'Sardar' to Vallabhai Pattel?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bala Gangadhara Tilak", "Gopalakrishna Gokhale"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "number": 21,
+    "question": "Which river is related with Majuli Island?",
+    "options": ["Ganga", "Brahmaputra", "Godavari", "Krishna"],
+    "answer": "Brahmaputra"
+  },
+  {
+    "number": 22,
+    "question": "Ustad Ahmad Lahauri is the principal designer of which famous building?",
+    "options": ["Qutub Minar", "Red Fort", "Char Minar", "Taj Mahal"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "number": 23,
+    "question": "Which Indian State gets its name from the Pali word for Buddhist monastery?",
+    "options": ["Orissa", "Sikkim", "Bihar", "Tripura"],
+    "answer": "Bihar"
+  },
+  {
+    "number": 24,
+    "question": "The last supper is a famous fresco painted by which great renaissance artist?",
+    "options": ["Titian", "Donattello", "Leonardo de Vinci", "Michael Anjelo"],
+    "answer": "Leonardo de Vinci"
+  },
+  {
+    "number": 25,
+    "question": "Who won the Nobel Prize for literature in 2015?",
+    "options": ["William D. Kampal", "Sathoshi Omura", "Paul Modrich", "Swetlana Alexeevich"],
+    "answer": "Swetlana Alexeevich"
+  },
+  {
+    "number": 26,
+    "question": "Who was the founder of Atma Vidya Sangham?",
+    "options": ["Thycaud Ayya", "Brahmananda Sivayogi", "Kumara Guru", "Vagbhatananda"],
+    "answer": "Brahmananda Sivayogi"
+  },
+  {
+    "number": 27,
+    "question": "Black soil is suitable for which crop?",
+    "options": ["Tea", "Vegetable", "Fruits", "Cotton"],
+    "answer": "Cotton"
+  },
+  {
+    "number": 28,
+    "question": "The oldest mountain range in India:",
+    "options": ["Himalaya", "Aravally", "Satpura", "Western Ghat"],
+    "answer": "Aravally"
+  },
+  {
+    "number": 29,
+    "question": "Last formed corporation in Kerala:",
+    "options": ["Kochi", "Trissur", "Kannur", "Kollam"],
+    "answer": "Kannur"
+  },
+  {
+    "number": 30,
+    "question": "Who was the woman leader of Quit India Movement?",
+    "options": ["Annie Besant", "Aruna Asif Ali", "Sarojini Naidu", "Madam Kama"],
+    "answer": "Aruna Asif Ali"
+  },
+  {
+    "number": 31,
+    "question": "A worksheet contains:",
+    "options": [
+      "256 columns and 65563 rows",
+      "256 columns and 65536 rows",
+      "256 columns and 75536 rows",
+      "265 columns and 75536 rows"
+    ],
+    "answer": "256 columns and 65536 rows"
+  },
+  {
+    "number": 32,
+    "question": "Which of the following is a Volatile Memory?",
+    "options": ["EPROM", "ROM", "RAM", "None of the above"],
+    "answer": "RAM"
+  },
+  {
+    "number": 33,
+    "question": "Name the section at the top of the document used to place the name, page number etc.:",
+    "options": ["Header", "Web Layout", "Footer", "Hyperlink"],
+    "answer": "Header"
+  },
+  {
+    "number": 34,
+    "question": "Who is the founder of Facebook?",
+    "options": ["Glen Recort", "Tim Berners Le", "Allen Turing", "Mark Zuckerberg"],
+    "answer": "Mark Zuckerberg"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following shortcut key is used for insert a new slide?",
+    "options": ["Ctrl + S", "Ctrl + F", "Ctrl + M", "None of the above"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "number": 36,
+    "question": "SORT command is used for:",
+    "options": ["Filtering data", "Arranging data", "Displaying data", "Hiding data"],
+    "answer": "Arranging data"
+  },
+  {
+    "number": 37,
+    "question": "___ is the process of combining main document with the data source.",
+    "options": ["Change Styles", "Find", "Goal Seek", "Mail Merge"],
+    "answer": "Mail Merge"
+  },
+  {
+    "number": 38,
+    "question": "Operating System is a:",
+    "options": ["General Purpose software", "Application software", "System Software", "None of the above"],
+    "answer": "System Software"
+  },
+  {
+    "number": 39,
+    "question": "Which one of the following is not a Web Browser?",
+    "options": ["Internet Explorer", "MS Office", "Safari", "Mozilla firefox"],
+    "answer": "MS Office"
+  },
+  {
+    "number": 40,
+    "question": "In MS PowerPoint the 'Page Setup' button can be found in the:",
+    "options": ["Home Tab", "Animations Tab", "Insert Tab", "Design Tab"],
+    "answer": "Design Tab"
+  },
+  {
+    "number": 41,
+    "question": "___ is the brain of a computer.",
+    "options": ["Keyboard", "Central Processing Unit", "Monitor", "Printer"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "number": 42,
+    "question": "In MS Word 2007 Maximum Zoom is ___ percentage.",
+    "options": ["100", "300", "200", "500"],
+    "answer": "500"
+  },
+  {
+    "number": 43,
+    "question": "The extension of a Paint File:",
+    "options": [".BMP", ".TXT", ".XLS", ".CPP"],
+    "answer": ".BMP"
+  },
+  {
+    "number": 44,
+    "question": "Which of the following is not an Antivirus Software?",
+    "options": ["JAVA", "KASPERSKY", "McAfee", "NORTON"],
+    "answer": "JAVA"
+  },
+  {
+    "number": 45,
+    "question": "Which one of the following is a word processing software?",
+    "options": ["MS ACCESS", "MS EXCEL", "MS POWERPOINT", "MS WORD"],
+    "answer": "MS WORD"
+  },
+  {
+    "number": 46,
+    "question": "What function displays row data in a column or column data in a row?",
+    "options": ["Concatenate", "Transpose", "Trim", "Average"],
+    "answer": "Transpose"
+  },
+  {
+    "number": 47,
+    "question": "___ Gigabytes = 1 Terabyte.",
+    "options": ["1204", "1104", "1024", "None of the above"],
+    "answer": "1024"
+  },
+  {
+    "number": 48,
+    "question": "Microsoft Office is:",
+    "options": ["Shareware", "Open-Source software", "Public Domain Software", "An application suite"],
+    "answer": "An application suite"
+  },
+  {
+    "number": 49,
+    "question": "URL stands for:",
+    "options": [
+      "Uniform Resource Locator",
+      "Uniform Resource Loader",
+      "Uniform Research Locator",
+      "Uniform Research Loader"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "number": 50,
+    "question": "Which power point view displays each slide of the presentation as a thumbnail display?",
+    "options": ["Slide master", "Slide show", "Slide sorter", "Notes page"],
+    "answer": "Slide sorter"
+  },
+  {
+    "number": 51,
+    "question": "To create a new folder in a window:",
+    "options": [
+      "Right Click + Select new folder",
+      "Double click + Select view",
+      "Left Click + Select new folder",
+      "Double click on desktop"
+    ],
+    "answer": "Right Click + Select new folder"
+  },
+  {
+    "number": 52,
+    "question": "Which of the following groups consists of only input devices?",
+    "options": [
+      "Keyboard, Printer, Monitor",
+      "Mouse, Keyboard, Scanner",
+      "Keyboard, Mouse, Printer",
+      "Printer, Scanner, Mouse"
+    ],
+    "answer": "Mouse, Keyboard, Scanner"
+  },
+  {
+    "number": 53,
+    "question": "Inventor of Email System is:",
+    "options": ["Winton surf", "Jan Kenneth", "Bill Gates", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "number": 54,
+    "question": "The 'copy' command saves the content temporarily to the:",
+    "options": ["Desktop", "Printer", "Clipboard", "MS word"],
+    "answer": "Clipboard"
+  },
+  {
+    "number": 55,
+    "question": "MS Excel displays the address of the active cell in the:",
+    "options": ["Formula bar", "Status bar", "Tool bar", "Menu bar"],
+    "answer": "Formula bar"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following helps to reduce the sound while typing?",
+    "options": ["Feed roll", "Paper table", "Paper bail", "None of the above"],
+    "answer": "Paper bail"
+  },
+  {
+    "number": 57,
+    "question": "Carriage Rack is set on the top of the:",
+    "options": ["Pinion wheel", "Ratchet wheel", "Dog block", "Segment"],
+    "answer": "Dog block"
+  },
+  {
+    "number": 58,
+    "question": "The process of taking out more copies on a typewriter using carbon paper:",
+    "options": ["Duplicating", "Spreading", "Manifolding", "Manuscripting"],
+    "answer": "Manifolding"
+  },
+  {
+    "number": 59,
+    "question": "The instruction 'trans' given in a manuscript represents:",
+    "options": ["Transverse", "Transpose", "Translate", "Transport"],
+    "answer": "Transpose"
+  },
+  {
+    "number": 60,
+    "question": "The abbreviation of Pound is:",
+    "options": ["pz", "pd", "pnd", "1b"],
+    "answer": "1b"
+  },
+  {
+    "number": 61,
+    "question": "'Stet' written on manuscripts represents:",
+    "options": [
+      "Omit the word or line marked",
+      "Type the matter scored off",
+      "Insert a word or letter",
+      "To split letters or words"
+    ],
+    "answer": "Type the matter scored off"
+  },
+  {
+    "number": 62,
+    "question": "The last word typed at the end of a page being repeated as the first word in the subsequent page is called:",
+    "options": ["Catch word", "Post script", "Footnote", "Endnote"],
+    "answer": "Catch word"
+  },
+  {
+    "number": 63,
+    "question": "Which of the following helps in correcting the typed matter on a typewriter?",
+    "options": ["Paper bail", "Margin stop scale", "Segment", "Line finder scale"],
+    "answer": "Line finder scale"
+  },
+  {
+    "number": 64,
+    "question": "Decrease in main spring tension in a typewriter leads to:",
+    "options": ["Jerking", "Overtyping", "Jumping", "None of the above"],
+    "answer": "Jumping"
+  },
+  {
+    "number": 65,
+    "question": "Which pen is used for signing on a stencil paper?",
+    "options": ["Sketch pen", "Ink pen", "Stylus pen", "Hard pencil"],
+    "answer": "Stylus pen"
+  },
+  {
+    "number": 66,
+    "question": "The key which is not found in English Typewriter:",
+    "options": ["Margin release key", "Key release key", "Tab set key", "Dead key"],
+    "answer": "Dead key"
+  },
+  {
+    "number": 67,
+    "question": "Which of the following is not a non-character key?",
+    "options": ["Master key", "Tab release key", "Key release key", "Tab set key"],
+    "answer": "Master key"
+  },
+  {
+    "number": 68,
+    "question": "___ helps the type bars to return to the basket after each stroke.",
+    "options": ["Paper Guide", "Card Holder", "Feed Rolls", "Buffer Spring"],
+    "answer": "Buffer Spring"
+  },
+  {
+    "number": 69,
+    "question": "Which are the guide keys in the English Typewriter?",
+    "options": ["q and p", "a and ;", "z and m", "a and |"],
+    "answer": "a and ;"
+  },
+  {
+    "number": 70,
+    "question": "Overlapping of letters at the locked right margin is called:",
+    "options": ["Rewriting", "Off setting", "Aligning", "Piling"],
+    "answer": "Piling"
+  },
+  {
+    "number": 71,
+    "question": "In which of the following, the subject of the letter is given under 'abstract'?",
+    "options": ["D.O. letter", "Circular", "Govt. Order", "Memorandum"],
+    "answer": "Govt. Order"
+  },
+  {
+    "number": 72,
+    "question": "'E & OE' is the abbreviation for:",
+    "options": [
+      "Errors and Omissions Excepted",
+      "Errors and Omissions Expected",
+      "Errors and Omissions Erased",
+      "Errors and Omissions Expelled"
+    ],
+    "answer": "Errors and Omissions Excepted"
+  },
+  {
+    "number": 73,
+    "question": "In a Business Letter, ___ is typed just below the complementary close.",
+    "options": ["Perprocuration", "Designation", "Salutation", "Name of the signatory"],
+    "answer": "Perprocuration"
+  },
+  {
+    "number": 74,
+    "question": "How many spaces are to be provided after a colon?",
+    "options": ["One", "Three", "No space", "Two"],
+    "answer": "Two"
+  },
+  {
+    "number": 75,
+    "question": "How many space adjustments can be done in a Typewriter?",
+    "options": ["3", "5", "2", "4"],
+    "answer": "3"
+  },
+  {
+    "number": 76,
+    "question": "Which finger of the left hand is used to type the letter 'Z'?",
+    "options": ["Little finger", "Index finger", "Ring finger", "Middle finger"],
+    "answer": "Little finger"
+  },
+  {
+    "number": 77,
+    "question": "___ is used for getting continuous uppercase characters.",
+    "options": ["Shift lock", "Marginal Release key", "Shift key", "Tab set key"],
+    "answer": "Shift lock"
+  },
+  {
+    "number": 78,
+    "question": "The cheapest method of taking a large number of copies using stencil is called:",
+    "options": ["Stencil Cutting", "Stencil Duplicating", "Manifolding", "None of the above"],
+    "answer": "Stencil Duplicating"
+  },
+  {
+    "number": 79,
+    "question": "The Cyclostyle machine was invented by:",
+    "options": ["David Gestetner", "Christopher L Sholes", "William Mill", "Sir Isaac Pitman"],
+    "answer": "David Gestetner"
+  },
+  {
+    "number": 80,
+    "question": "The Loose Dog helps in:",
+    "options": ["Ribbon reverse movement", "Up and down movement", "Step by step movement", "None of the above"],
+    "answer": "Step by step movement"
+  },
+  {
+    "number": 81,
+    "question": "The only people who are interested in the film ___ to be teenagers.",
+    "options": ["seems", "seemed", "seem", "seeming"],
+    "answer": "seem"
+  },
+  {
+    "number": 82,
+    "question": "He is suffering from a nervous:",
+    "options": ["break off", "break down", "break through", "break up"],
+    "answer": "break down"
+  },
+  {
+    "number": 83,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She speaks French fluently",
+      "She speaks the French fluent",
+      "She speaks the French fluently",
+      "She speaks French fluent"
+    ],
+    "answer": "She speaks French fluently"
+  },
+  {
+    "number": 84,
+    "question": "It has been the ___ day in Delhi for 25 years.",
+    "options": ["hot", "hotter", "much hot", "hottest"],
+    "answer": "hottest"
+  },
+  {
+    "number": 85,
+    "question": "The mirror ___ broken when I dropped it in the bathroom.",
+    "options": ["gets", "get", "got", "has got"],
+    "answer": "got"
+  },
+  {
+    "number": 86,
+    "question": "She is ___ colleague of mine.",
+    "options": ["an", "the", "a", "one"],
+    "answer": "a"
+  },
+  {
+    "number": 87,
+    "question": "They have always wanted a house in the city, but they ___ on where it should be.",
+    "options": ["disagreed", "disagree", "disagrees", "had disagreed"],
+    "answer": "disagreed"
+  },
+  {
+    "number": 88,
+    "question": "Robin always seemed such a ___ boy.",
+    "options": ["Responsible", "Response", "Responsing", "Responsed"],
+    "answer": "Responsible"
+  },
+  {
+    "number": 89,
+    "question": "The cat ran away from her and disappeared ___ the hill.",
+    "options": ["across", "over", "above", "along"],
+    "answer": "over"
+  },
+  {
+    "number": 90,
+    "question": "Select the word which has correct spelling:",
+    "options": ["Champaene", "Shampagne", "Champagne", "Shampaene"],
+    "answer": "Champagne"
+  },
+  {
+    "number": 91,
+    "question": "The video ___ if you press this button.",
+    "options": ["pause", "paused", "will pause", "pauses"],
+    "answer": "will pause"
+  },
+  {
+    "number": 92,
+    "question": "She asked her mother where she ___ put the box.",
+    "options": ["should", "shall", "can", "will"],
+    "answer": "should"
+  },
+  {
+    "number": 93,
+    "question": "Mr. Jenson ___ 12 films and I think his latest is the best.",
+    "options": ["has made", "had made", "made", "is making"],
+    "answer": "has made"
+  },
+  {
+    "number": 94,
+    "question": "Which word is the synonym of 'Proximity'?",
+    "options": ["Popularity", "Honesty", "Solemnity", "Closeness"],
+    "answer": "Closeness"
+  },
+  {
+    "number": 95,
+    "question": "Which among the following is called a board on which an artist mixes his colours?",
+    "options": ["Palate", "Palette", "Pallet", "Palliate"],
+    "answer": "Palette"
+  },
+  {
+    "number": 96,
+    "question": "I remembered ___ race.",
+    "options": ["the horse's winning", "the horse to win", "the horse winning", "the horses to win"],
+    "answer": "the horse winning"
+  },
+  {
+    "number": 97,
+    "question": "The idiom \"at your beck and call\" means:",
+    "options": [
+      "without deliberation",
+      "praising himself",
+      "under someone's absolute control",
+      "under someone's protection"
+    ],
+    "answer": "under someone's absolute control"
+  },
+  {
+    "number": 98,
+    "question": "At least he decided to quit the job, ___?",
+    "options": ["did he?", "didn't he?", "does he?", "doesn't he?"],
+    "answer": "didn't he?"
+  },
+  {
+    "number": 99,
+    "question": "Find the antonym of the word 'anguish':",
+    "options": ["anger", "gloomy", "relief", "joy"],
+    "answer": "joy"
+  },
+  {
+    "number": 100,
+    "question": "The Latin word 'adhoc' means:",
+    "options": ["by the year", "the book of", "as one wishes", "for this"],
+    "answer": "for this"
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "number": 1,
+    "question": "Who said 'Man is of all forms of luggage the most difficult to transport'?",
+    "options": ["Ricardo", "Adam Smith", "Alfred Marshal", "J.M. Keynes"],
+    "answer": "Alfred Marshal"
+  },
+  {
+    "number": 2,
+    "question": "Which state of India is known as 'Land of Dawn'?",
+    "options": ["Sikkim", "Orissa", "Tripura", "Arunachalpradesh"],
+    "answer": "Arunachalpradesh"
+  },
+  {
+    "number": 3,
+    "question": "The biggest tributary of the river Ganga:",
+    "options": ["Yamuna", "Krishna", "Kaveri", "Godavari"],
+    "answer": "Yamuna"
+  },
+  {
+    "number": 4,
+    "question": "Gandhiji's first satyagraha in India is at:",
+    "options": ["Kheda", "Sabarmati", "Champaran", "Chauri chaura"],
+    "answer": "Champaran"
+  },
+  {
+    "number": 5,
+    "question": "Who set up 'Servants of India Society'?",
+    "options": ["Tilak", "Lala Lajpatrai", "Bipin Chandrapal", "Gopalakrishna Gokhale"],
+    "answer": "Gopalakrishna Gokhale"
+  },
+  {
+    "number": 6,
+    "question": "Which article of the Indian constitution deals with Election commission?",
+    "options": ["Article 352", "Article 324", "Article 370", "Article 24"],
+    "answer": "Article 324"
+  },
+  {
+    "number": 7,
+    "question": "The instrument used to measure the specific gravity of liquids:",
+    "options": ["Hydrometer", "Hydrophone", "Hygrometer", "Micrometer"],
+    "answer": "Hydrometer"
+  },
+  {
+    "number": 8,
+    "question": "Oil and Natural Gas Commission (ONGC) set up in:",
+    "options": ["1950", "1951", "1956", "1954"],
+    "answer": "1956"
+  },
+  {
+    "number": 9,
+    "question": "Who has been selected for the J.C. Daniel award for 2014 in recognition of his contribution to the Malayalam film industry?",
+    "options": ["I.V. Sasi", "Kamal", "Adoor Gopalakrishnan", "Jayaraj"],
+    "answer": "Kamal"
+  },
+  {
+    "number": 10,
+    "question": "The First President of Indian National Congress:",
+    "options": ["S.N. Bannerji", "A.O. Hume", "Lord Dufferin", "W.C. Bannerji"],
+    "answer": "W.C. Bannerji"
+  },
+  {
+    "number": 11,
+    "question": "Kuriakose Elias Chavara died in:",
+    "options": ["1871", "1805", "1850", "1860"],
+    "answer": "1871"
+  },
+  {
+    "number": 12,
+    "question": "Who founded Sadhujanaparipalana Sangham?",
+    "options": ["Pandit Karuppan", "Dr. Palpu", "Ayyankali", "V.T. Bhattathiripad"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number": 13,
+    "question": "The book 'Anandadarshanam' is written by:",
+    "options": ["Sahodaran Ayyappan", "Brahmananda Sivayogi", "Vaikunda Swamikal", "Chattampi Swamikal"],
+    "answer": "Brahmananda Sivayogi"
+  },
+  {
+    "number": 14,
+    "question": "Sree Narayanaguru was born at:",
+    "options": ["Chempazhanthi", "Varkala", "Aluva", "Thiruvillamala"],
+    "answer": "Chempazhanthi"
+  },
+  {
+    "number": 15,
+    "question": "Chattampi Swamikal attained Samadhi at:",
+    "options": ["Kannanmoola", "Sivagiri", "Venganoor", "Panmana"],
+    "answer": "Panmana"
+  },
+  {
+    "number": 16,
+    "question": "Headquarters of Prathyaksha Raksha Daiva Sabha (PRDS):",
+    "options": ["Palakkad", "Iraviperoor", "Neyyattinkara", "Kainakari"],
+    "answer": "Eraviperoor"
+  },
+  {
+    "number": 17,
+    "question": "'Adukkalayilninnu Arangathekku' is a:",
+    "options": ["Novel", "Poetry", "Short story", "Drama"],
+    "answer": "Drama"
+  },
+  {
+    "number": 18,
+    "question": "'Jathikummi' written by:",
+    "options": ["Pandit Karuppan", "Thycaud Ayya", "Kumaranasan", "Agamananda Swamikal"],
+    "answer": "Pandit Karuppan"
+  },
+  {
+    "number": 19,
+    "question": "Nair Service Society founded on:",
+    "options": ["1st October 1914", "31st December 1914", "31st October 1914", "1st January 1914"],
+    "answer": "31st October 1914"
+  },
+  {
+    "number": 20,
+    "question": "The 'Swadeshabhimani' owned by:",
+    "options": ["Abdul Rahman", "Vakkom Abdul Khadar Moulavi", "K. Ramakrishna Pillai", "K.P. Kesavamenon"],
+    "answer": "Vakkom Abdul Khadar Moulavi"
+  },
+  {
+    "number": 21,
+    "question": "In India the new flag code came into being in:",
+    "options": ["1950 January 26", "1947 August 15", "1951 January 26", "2002 January 26"],
+    "answer": "2002 January 26"
+  },
+  {
+    "number": 22,
+    "question": "Who won the Nobel Prize for Economics in 2015?",
+    "options": ["Jean Tirole", "Angus Deaton", "Patrick Modiano", "Amartya Sen"],
+    "answer": "Angus Deaton"
+  },
+  {
+    "number": 23,
+    "question": "Capital of Cuba:",
+    "options": ["Havana", "Ottava", "Capetown", "Ankara"],
+    "answer": "Havana"
+  },
+  {
+    "number": 24,
+    "question": "Who wrote the play 'Waiting for Godot'?",
+    "options": ["Thomas Mann", "T.S. Eliot", "Samuel Becket", "Franz Kafka"],
+    "answer": "Samuel Becket"
+  },
+  {
+    "number": 25,
+    "question": "The study and collection of paper currency and banknotes is:",
+    "options": ["Notaphily", "Graphology", "Epigraphy", "Paleography"],
+    "answer": "Notaphily"
+  },
+  {
+    "number": 26,
+    "question": "National Drinking Water Mission started in:",
+    "options": ["1981", "1986", "1980", "1991"],
+    "answer": "1986"
+  },
+  {
+    "number": 27,
+    "question": "The first climate change theatre in India was opened in:",
+    "options": ["Agarthala", "Chandranagar", "Gandhinagar", "Kapurthala"],
+    "answer": "Kapurthala"
+  },
+  {
+    "number": 28,
+    "question": "Director of the film 'Bicycle Thieves':",
+    "options": ["Vittorio de sica", "Satyajit Ray", "Akira Kurosawa", "Alfred Hitchcock"],
+    "answer": "Vittorio de sica"
+  },
+  {
+    "number": 29,
+    "question": "'Guernica' is the famous painting of:",
+    "options": ["Vangogh", "Rodin", "Pablo Picasso", "Salvador Dali"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "number": 30,
+    "question": "'The Test of My Life' is written by:",
+    "options": ["Kapil Dev", "Yuvaraj Singh", "Sunil Gavaskar", "Sachin Tendulkar"],
+    "answer": "Yuvaraj Singh"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following has the fastest type of memory?",
+    "options": ["Semiconductor Memories", "Magnetic Disks", "Magnetic Tapes", "Compact Disks"],
+    "answer": "Semiconductor Memories"
+  },
+  {
+    "number": 32,
+    "question": "ROM has a:",
+    "options": ["Decoder followed by encoder", "Multiplexer followed by decoder", "Demultiplexer followed by an encoder", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "number": 33,
+    "question": "The smallest information that computer can understand:",
+    "options": ["Unicode", "Bit", "ASCII", "Byte"],
+    "answer": "Bit"
+  },
+  {
+    "number": 34,
+    "question": "_____ is a technique used for processing bank cheques.",
+    "options": ["MICR", "OMR", "OCR", "DDR"],
+    "answer": "MICR"
+  },
+  {
+    "number": 35,
+    "question": "1 Gigabyte means:",
+    "options": ["2^10 bytes", "2^20 bytes", "2^30 bytes", "2^40 bytes"],
+    "answer": "2^30 bytes"
+  },
+  {
+    "number": 36,
+    "question": "_____ memory is non volatile.",
+    "options": ["Cache", "Primary", "Secondary", "None of these"],
+    "answer": "Secondary"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following device can store large amounts of data?",
+    "options": ["Floppy Disk", "Hard Disk", "CDROM", "Zip Disk"],
+    "answer": "Hard Disk"
+  },
+  {
+    "number": 38,
+    "question": "The list of coded instructions is called:",
+    "options": ["Computer program", "Algorithm", "Flowchart", "Utility programs"],
+    "answer": "Computer program"
+  },
+  {
+    "number": 39,
+    "question": "What is M-commerce?",
+    "options": ["Manual Commerce", "Mobile Commerce", "Marketing Commerce", "Money Commerce"],
+    "answer": "Mobile Commerce"
+  },
+  {
+    "number": 40,
+    "question": "In Ms-Excel which is shortcut key for getting 'Current Time':",
+    "options": ["Ctrl + shift + t", "Ctrl + shift +;", "Ctrl+t", "Ctrl+;"],
+    "answer": "Ctrl + shift +;"
+  },
+  {
+    "number": 41,
+    "question": "URL is the abbreviation of:",
+    "options": ["Universal Resource Locator", "Universal Report Locator", "Uniform Resource Locator", "Uniform Report Label"],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "number": 42,
+    "question": "etc. is the abbreviation of:",
+    "options": ["exetra", "et cetera", "extra", "ex-cetera"],
+    "answer": "et cetera"
+  },
+  {
+    "number": 43,
+    "question": "SMS means:",
+    "options": ["Small Message Sender", "Short Mobile Sender", "Short Mobile Service", "Short Message Service"],
+    "answer": "Short Message Service"
+  },
+  {
+    "number": 44,
+    "question": "The size of an A4 paper is:",
+    "options": ["8.5\" ×11\"", "8.5\" x 14\"", "8.27\" ×11.69\"", "8.27\"×11\""],
+    "answer": "8.27\" ×11.69\""
+  },
+  {
+    "number": 45,
+    "question": "While drafting the address of a letter, after 'from' and 'to' which punctuation mark is to be written?",
+    "options": ["comma", "full stop", "quotation", "no mark"],
+    "answer": "colon"
+  },
+  {
+    "number": 46,
+    "question": "Which function key is used for refreshing?",
+    "options": ["F4", "F7", "F5", "F8"],
+    "answer": "F5"
+  },
+  {
+    "number": 47,
+    "question": "No. of dead keys are in a modified Malayalam Typewriter?",
+    "options": ["Two", "Three", "One", "Four"],
+    "answer": "Three"
+  },
+  {
+    "number": 48,
+    "question": "What are the short cut keys for getting a double underline to a selected text in MS. Word document?",
+    "options": ["Ctrl + shift + d", "Ctrl + shift + u", "Ctrl + shift +1", "Ctrl +shift + 2"],
+    "answer": "Ctrl + shift + d"
+  },
+  {
+    "number": 49,
+    "question": "The Maximum number of lines can be set for a Drop Cap is:",
+    "options": ["5", "8", "10", "13"],
+    "answer": "10"
+  },
+  {
+    "number": 50,
+    "question": "In computing the term IP means:",
+    "options": ["Insert Pin", "International Pin", "Internet Protocol", "Internet Pin"],
+    "answer": "Internet Protocol"
+  },
+  {
+    "number": 51,
+    "question": "From where, the CPU in a computer retrieves data:",
+    "options": ["Main Memory", "Secondary Memory", "Auxiliary memory", "None of these"],
+    "answer": "Main Memory"
+  },
+  {
+    "number": 52,
+    "question": "Which are short cut keys for converting the selected text into upper case in MS. Word?",
+    "options": ["Ctrl + shift + 1", "Ctrl + shift + u", "Ctrl + shift + a", "Ctrl + shift + c"],
+    "answer": "Ctrl + shift + a"
+  },
+  {
+    "number": 53,
+    "question": "The Key 'N' is called 'Master Key' in a typewriting keyboard because:",
+    "options": ["right hand index finger is using for typing", "it is fixed on the bottom of the key board", "it is the first letter installed in the keyboard", "none of these"],
+    "answer": "right hand index finger is using for typing"
+  },
+  {
+    "number": 54,
+    "question": "The Designer of Malayalam Typewriter Keyboard is:",
+    "options": ["T.K. Ramakrishnan", "R. Arulappan", "N.S. Pandala", "T.R. Krishnayyer"],
+    "answer": "N.S. Pandala"
+  },
+  {
+    "number": 55,
+    "question": "The unsolicited bulk commercial E-mails are known as:",
+    "options": ["hoaxes", "virus", "junk", "spam"],
+    "answer": "spam"
+  },
+  {
+    "number": 56,
+    "question": "RTF is the abbreviation of:",
+    "options": ["Real Text Format", "Readable Text Form", "Rich Text Format", "Real Text Function"],
+    "answer": "Rich Text Format"
+  },
+  {
+    "number": 57,
+    "question": "Name the computerised system which helps managers of big organisation for decision making?",
+    "options": ["Network", "MIS", "Assembler", "Interpreter"],
+    "answer": "MIS"
+  },
+  {
+    "number": 58,
+    "question": "The software installed on computers for collecting the information about the users without their knowledge is:",
+    "options": ["Virus", "Worms", "Spyware", "Spam"],
+    "answer": "Spyware"
+  },
+  {
+    "number": 59,
+    "question": "What is the meaning of 'Wiki' in the word 'Wikipedia'?",
+    "options": ["Knowledge", "Around the world", "Quick", "Medium"],
+    "answer": "Quick"
+  },
+  {
+    "number": 60,
+    "question": "The protection systems involve some unique aspect of a person's body is:",
+    "options": ["Authorization", "Biometric", "Authentication", "None of these"],
+    "answer": "Biometric"
+  },
+  {
+    "number": 61,
+    "question": "In which year the Government of India passed the Information Technology Act?",
+    "options": ["1999", "2000", "2001", "2002"],
+    "answer": "2000"
+  },
+  {
+    "number": 62,
+    "question": "Which of the following can be used for identification and tracking of products, animal etc.?",
+    "options": ["RAID", "RFID", "Router", "None of these"],
+    "answer": "RFID"
+  },
+  {
+    "number": 63,
+    "question": "SIM is the abbreviation of:",
+    "options": ["Subscriber Identification Module", "Subscriber Information Machine", "Subscriber Information Mobile", "System of Information Mobile"],
+    "answer": "Subscriber Identification Module"
+  },
+  {
+    "number": 64,
+    "question": "In MS. Word, pressing 'Alt + Backspace' gives the result of:",
+    "options": ["Delete", "Redo", "Exit", "Undo"],
+    "answer": "Undo"
+  },
+  {
+    "number": 65,
+    "question": "Find the odd one:",
+    "options": ["ROM", "RAM", "EPROM", "PROM"],
+    "answer": "RAM"
+  },
+  {
+    "number": 66,
+    "question": "A Court Case Number is written as OP 1/2015. Here OP stands for:",
+    "options": ["Open Petition", "Opposite Party", "Other Party", "Original Petition"],
+    "answer": "Original Petition"
+  },
+  {
+    "number": 67,
+    "question": "One KB is equal to:",
+    "options": ["1000 bytes", "1012 bytes", "1014 bytes", "1024 bytes"],
+    "answer": "1024 bytes"
+  },
+  {
+    "number": 68,
+    "question": "The Computers which have Artificial Intelligence is:",
+    "options": ["1st Generation", "2nd Generation", "3rd Generation", "4th Generation"],
+    "answer": "4th Generation"
+  },
+  {
+    "number": 69,
+    "question": "How many bits are in a nibble?",
+    "options": ["4", "8", "16", "32"],
+    "answer": "4"
+  },
+  {
+    "number": 70,
+    "question": "The most important feature of cloud computing is:",
+    "options": ["on demand service", "software service", "platform service", "infrastructure service"],
+    "answer": "on demand service"
+  },
+  {
+    "number": 71,
+    "question": "In an MS. Word document, 'Ctrl + Delete' keys can be used for:",
+    "options": ["delete a letter", "delete a row", "delete a paragraph", "delete a word"],
+    "answer": "delete a word"
+  },
+  {
+    "number": 72,
+    "question": "Which is function key using for spelling checking?",
+    "options": ["F3", "F5", "F7", "F9"],
+    "answer": "F7"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following is used to read PDF files?",
+    "options": ["MS Word", "MS Excel", "Power Point", "Acrobat Reader"],
+    "answer": "Acrobat Reader"
+  },
+  {
+    "number": 74,
+    "question": "G.Os are issued by:",
+    "options": ["Governor", "Secretary", "Chief Minister", "Home Minister"],
+    "answer": "Secretary"
+  },
+  {
+    "number": 75,
+    "question": "F.O.B means:",
+    "options": ["Free On Boat", "Free On Business", "Free On Board", "None of these"],
+    "answer": "Free On Board"
+  },
+  {
+    "number": 76,
+    "question": "MIPS means:",
+    "options": ["Multiple Information Processing System", "Multiple Information Per Second", "Millions Instructions Per Second", "None of these"],
+    "answer": "Millions Instructions Per Second"
+  },
+  {
+    "number": 77,
+    "question": "Which is a 'presentation software'?",
+    "options": ["MS Access", "Power Point", "MS Excel", "Word Processor"],
+    "answer": "Power Point"
+  },
+  {
+    "number": 78,
+    "question": "The mistake made in the typing-process of printed material is known as:",
+    "options": ["Scribal error", "Typographical Error", "Clerical error", "Spelling error"],
+    "answer": "Typographical Error"
+  },
+  {
+    "number": 79,
+    "question": "In MS Word document, Alt + F8 is the short-cut key for?",
+    "options": ["Review", "Mailing", "Reference", "Macros"],
+    "answer": "Macros"
+  },
+  {
+    "number": 80,
+    "question": "To print in wide format, which orientation is suited:",
+    "options": ["Vertical", "Horizontal", "Portrait", "Landscape"],
+    "answer": "Landscape"
+  },
+  {
+    "number": 81,
+    "question": "How cute the baby looks!",
+    "options": ["Interrogative sentence", "Exclamatory sentence", "Declarative sentence", "Imperative sentence"],
+    "answer": "Exclamatory sentence"
+  },
+  {
+    "number": 82,
+    "question": "My best friend and severest critic ___ my mother.",
+    "options": ["was", "were", "are", "is"],
+    "answer": "is"
+  },
+  {
+    "number": 83,
+    "question": "This is the dog ___ I bought yesterday.",
+    "options": ["who", "that", "which", "whose"],
+    "answer": "which"
+  },
+  {
+    "number": 84,
+    "question": "Have you heard the ___ news.",
+    "options": ["latest", "later", "latter", "late"],
+    "answer": "latest"
+  },
+  {
+    "number": 85,
+    "question": "Come here:",
+    "options": ["quick", "quicker", "quickly", "quickest"],
+    "answer": "quickly"
+  },
+  {
+    "number": 86,
+    "question": "Everyone respects ___ honest man.",
+    "options": ["a", "an", "the", "that"],
+    "answer": "an"
+  },
+  {
+    "number": 87,
+    "question": "In our childhood days, we ___ to take long walks.",
+    "options": ["used", "ought", "dare", "need"],
+    "answer": "used"
+  },
+  {
+    "number": 88,
+    "question": "One should not be too strict, ___?",
+    "options": ["shall one", "would one", "shouldn't one", "should one"],
+    "answer": "shouldn't one"
+  },
+  {
+    "number": 89,
+    "question": "I ___ you are wrong.",
+    "options": ["think", "thinks", "thought", "are thinking"],
+    "answer": "think"
+  },
+  {
+    "number": 90,
+    "question": "Unless you change your habits, ___:",
+    "options": ["you would suffer", "you should suffer", "you will suffer", "you shall suffer"],
+    "answer": "you will suffer"
+  },
+  {
+    "number": 91,
+    "question": "God has been kind ___ me.",
+    "options": ["of", "for", "with", "to"],
+    "answer": "to"
+  },
+  {
+    "number": 92,
+    "question": "'Don't overeat', said the doctor to the patient:",
+    "options": [
+      "The doctor warned the patient did not overeat",
+      "The doctor warned the patient not to overeat",
+      "The doctor requested patient you don't overeat",
+      "The doctor requested the patient not to overeat"
+    ],
+    "answer": "The doctor warned the patient not to overeat"
+  },
+  {
+    "number": 93,
+    "question": "The passive form of 'Don't disturb the patient' is:",
+    "options": [
+      "Let the patient is not be disturbed",
+      "Let the patient are not be disturbed",
+      "Let not the patient be disturb",
+      "Let not the patient be disturbed"
+    ],
+    "answer": "Let not the patient be disturbed"
+  },
+  {
+    "number": 94,
+    "question": "Complete the sentence using the appropriate idiom: Be careful lest you ___",
+    "options": ["get into hot water", "get the better of", "hold water", "wash one's hand of"],
+    "answer": "get into hot water"
+  },
+  {
+    "number": 95,
+    "question": "Find out the correct spelling of:",
+    "options": ["warobe", "wardrobe", "wadrobe", "wardobe"],
+    "answer": "wardrobe"
+  },
+  {
+    "number": 96,
+    "question": "One word substitute for 'a room where the food supplies of a household are kept':",
+    "options": ["scullery", "buttery", "larder", "pantry"],
+    "answer": "larder"
+  },
+  {
+    "number": 97,
+    "question": "I am sure he will ___ from this crisis.",
+    "options": ["pull down", "pull through", "pull off", "pull up"],
+    "answer": "pull through"
+  },
+  {
+    "number": 98,
+    "question": "A synonym for the word 'overjoyed':",
+    "options": ["felicity", "happy", "jubiliant", "novice"],
+    "answer": "jubiliant"
+  },
+  {
+    "number": 99,
+    "question": "The antonym of the word 'obscure':",
+    "options": ["famous", "familiar", "fair", "foul"],
+    "answer": "famous"
+  },
+  {
+    "number": 100,
+    "question": "The feminine gender of 'gentleman':",
+    "options": ["woman", "maid", "gentle woman", "lady"],
+    "answer": "lady"
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "number": 1,
+    "question": "The key which moves cursor along a line to a preset position is:",
+    "options": ["Enter Key", "Tab Key", "Back Space Key", "Arrow Key"],
+    "answer": "Tab Key"
+  },
+  {
+    "number": 2,
+    "question": "The fine powder ink kept in laser printers is called:",
+    "options": ["Catridge", "Drum", "Toner", "Inkjet"],
+    "answer": "Toner"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following programming language is the oldest?",
+    "options": ["Fortran", "Java", "Pascal", "COBOL"],
+    "answer": "Fortran"
+  },
+  {
+    "number": 4,
+    "question": "The major component used in second generation computers is:",
+    "options": ["Vacuum tubes", "Transistors", "Integrated circuits", "Microprocessors"],
+    "answer": "Transistors"
+  },
+  {
+    "number": 5,
+    "question": "Compiler translates:",
+    "options": ["High level language to Machine language", "Assembly language to Machine language", "Machine language to High level language", "Machine language to Assembly language"],
+    "answer": "High level language to Machine language"
+  },
+  {
+    "number": 6,
+    "question": "In a Microcomputer, Microprocessor is:",
+    "options": ["A chip inside CPU", "CPU", "ALU", "A chip inside ALU"],
+    "answer": "CPU"
+  },
+  {
+    "number": 7,
+    "question": "The grammatical rules of a programming language is called:",
+    "options": ["Coding rules", "Syntax", "Semantics", "All the above"],
+    "answer": "Syntax"
+  },
+  {
+    "number": 8,
+    "question": "Mail merge feature is commonly associated with:",
+    "options": ["Internet", "Spread sheet", "Word processor", "Data base"],
+    "answer": "Word processor"
+  },
+  {
+    "number": 9,
+    "question": "In computers, the number system used for data storage and processing is:",
+    "options": ["Hexadecimal", "Binary", "Decimal", "Octal"],
+    "answer": "Binary"
+  },
+  {
+    "number": 10,
+    "question": "Which of the following is not true about Static RAM?",
+    "options": ["It is non- volatile", "Reading and writing is possible", "It is constructed using flip flops", "It is volatile"],
+    "answer": "It is non- volatile"
+  },
+  {
+    "number": 11,
+    "question": "The stack pointer always points to:",
+    "options": ["Top of the stack", "Location from which next element is to be popped", "Location stored at SP register", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 12,
+    "question": "The output of a AND gate is high when:",
+    "options": ["Any one of the inputs is high", "Any one of the inputs is low", "All the inputs are low", "All the inputs are high"],
+    "answer": "All the inputs are high"
+  },
+  {
+    "number": 13,
+    "question": "Which of the following is a seven bit code?",
+    "options": ["UniCode", "BCD", "EBCDIC", "ASCII"],
+    "answer": "ASCII"
+  },
+  {
+    "number": 14,
+    "question": "In Windows operating system, presentation slides are designed using:",
+    "options": ["MS-Word", "MS-Paint", "MS-Power point", "MS-Excel"],
+    "answer": "MS-Power point"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following is an optical storage device?",
+    "options": ["Hard Disk", "Flash memory", "ROM", "CD-ROM"],
+    "answer": "CD-ROM"
+  },
+  {
+    "number": 16,
+    "question": "In ISO-OSI network architecture, routing is performed by:",
+    "options": ["Data Link Layer", "Network Layer", "Physical Layer", "Transport Layer"],
+    "answer": "Network Layer"
+  },
+  {
+    "number": 17,
+    "question": "Elements stored in an array are accessed by using their:",
+    "options": ["Values", "Names", "Positions", "Orders in which they are stored"],
+    "answer": "Positions"
+  },
+  {
+    "number": 18,
+    "question": "An expression which always give a True/False Value is:",
+    "options": ["Relational Expression", "Logical Expression", "Conditional Expression", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 19,
+    "question": "Group of logically related data items is called:",
+    "options": ["Record", "Data base", "Table", "File"],
+    "answer": "Record"
+  },
+  {
+    "number": 20,
+    "question": "The Error in a program which can be detected at the time of compilation is:",
+    "options": ["Run time error", "Logical Error", "Syntax Error", "Semantic Error"],
+    "answer": "Syntax Error"
+  },
+  {
+    "number": 21,
+    "question": "Hard disk of a computer can be used as:",
+    "options": ["Input", "Output", "Storage", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 22,
+    "question": "Which of the following is not true about a laser printer?",
+    "options": ["It is an impact printer", "It is a page printer", "Works on the principle of electro photography", "Works on the principle of LED technology"],
+    "answer": "It is an impact printer"
+  },
+  {
+    "number": 23,
+    "question": "USB stands for:",
+    "options": ["Uniform Synchronous Bus", "Uniform Serial Bus", "Universal Serial Bus", "Universal Synchronous Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "number": 24,
+    "question": "BIOS software is stored in:",
+    "options": ["RAM", "ROM", "Disk", "Static RAM"],
+    "answer": "ROM"
+  },
+  {
+    "number": 25,
+    "question": "One GB is equal to:",
+    "options": ["1024 Mega bytes", "1024 Bytes", "1024 Kilo bytes", "1000 Kilo bytes"],
+    "answer": "1024 Mega bytes"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is an application software?",
+    "options": ["Operating System", "Browser", "Driver", "Interpreter"],
+    "answer": "Browser"
+  },
+  {
+    "number": 27,
+    "question": "Hackers gaining access to a computer through a network are prevented using:",
+    "options": ["Firewall", "Antivirus", "Proxy server", "Search Engine"],
+    "answer": "Firewall"
+  },
+  {
+    "number": 28,
+    "question": "In a spread sheet, cell address is formed by:",
+    "options": ["Column letter - Row number", "Row number - Column letter", "Row letter - Column number", "Column number - Row letter"],
+    "answer": "Column letter - Row number"
+  },
+  {
+    "number": 29,
+    "question": "In a program flow chart, parallelogram is used to indicate:",
+    "options": ["Termination", "Decision", "Input/Output", "Process"],
+    "answer": "Input/Output"
+  },
+  {
+    "number": 30,
+    "question": "To open an action by using mouse:",
+    "options": ["Click left button", "Click right button", "Double click left button", "Double click right button"],
+    "answer": "Double click left button"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following term is not related with a computer monitor?",
+    "options": ["CRT", "TFT", "LCD", "DPI"],
+    "answer": "DPI"
+  },
+  {
+    "number": 32,
+    "question": "Power On Self Test (POST) is performed by:",
+    "options": ["SMPS", "OS", "BIOS", "None"],
+    "answer": "BIOS"
+  },
+  {
+    "number": 33,
+    "question": "The network device used to connect multiple computers in a network is:",
+    "options": ["Switch", "Router", "Bridge", "Repeater"],
+    "answer": "Switch"
+  },
+  {
+    "number": 34,
+    "question": "Internet is an example for:",
+    "options": ["LAN", "MAN", "WAN", "All the above"],
+    "answer": "WAN"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following is not a web browser?",
+    "options": ["Google", "Internet Explorer", "Google Chrome", "Mozilla FireFox"],
+    "answer": "Google"
+  },
+  {
+    "number": 36,
+    "question": "An IP address has:",
+    "options": ["16 bits", "24 bits", "48 bits", "32 bits"],
+    "answer": "32 bits"
+  },
+  {
+    "number": 37,
+    "question": "In HTML, closing tags are preceded by:",
+    "options": ["Semicolon (;)", "Hash (#)", "Angle brackets ( < > )", "Forward slash (/)"],
+    "answer": "Forward slash (/)"
+  },
+  {
+    "number": 38,
+    "question": "A 24x CD-ROM has a transfer rate of:",
+    "options": ["2400 KB/Sec", "1800 KB/Sec", "3600 KB/Sec", "4800 KB/Sec"],
+    "answer": "3600 KB/Sec"
+  },
+  {
+    "number": 39,
+    "question": "The size of a monitor is its:",
+    "options": ["Horizontal length", "Vertical length", "Diagonal length", "Horizontal length × Vertical length"],
+    "answer": "Diagonal length"
+  },
+  {
+    "number": 40,
+    "question": "Recursion means:",
+    "options": ["Calling a function several times", "Calling a function by itself", "Calling a function within a loop", "Calling a function indefinitely"],
+    "answer": "Calling a function by itself"
+  },
+  {
+    "number": 41,
+    "question": "In communication, duplex means data transmitted in:",
+    "options": ["One direction only", "In both directions, but one direction at a time", "In both directions simultaneously", "In one direction only by removing duplicate frames"],
+    "answer": "In both directions simultaneously"
+  },
+  {
+    "number": 42,
+    "question": "The capacity of main memory which can be accessed by CPU is determined by:",
+    "options": ["Data lines", "Address lines", "Control lines", "Both (A) and (B)"],
+    "answer": "Address lines"
+  },
+  {
+    "number": 43,
+    "question": "Parity bit is added for:",
+    "options": ["Checking errors", "Making fixed size data", "Counting the size of the data", "All the above"],
+    "answer": "Checking errors"
+  },
+  {
+    "number": 44,
+    "question": "Once programmed, the data or instructions cannot be changed in:",
+    "options": ["ROM", "PROM", "EPROM", "EEPROM"],
+    "answer": "PROM"
+  },
+  {
+    "number": 45,
+    "question": "Variable which stores the address of a memory location is:",
+    "options": ["Register", "Pointer", "Program Counter", "Memory Address Register"],
+    "answer": "Pointer"
+  },
+  {
+    "number": 46,
+    "question": "The HTML tag used for hyper linking is:",
+    "options": ["HREF", "HR", "EMBED", "A"],
+    "answer": "A"
+  },
+  {
+    "number": 47,
+    "question": "PHP is a:",
+    "options": ["Server side scripting language", "Client side scripting language", "Mark up language", "General programming language"],
+    "answer": "Server side scripting language"
+  },
+  {
+    "number": 48,
+    "question": "Which of the following is a valid string in programming?",
+    "options": ["\"ABCD\"", "\"AB12\"", "\"1234\"", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 49,
+    "question": "In MS-Excel, absolute addressing uses:",
+    "options": ["% symbol", "# symbol", "& symbol", "$ symbol"],
+    "answer": "$ symbol"
+  },
+  {
+    "number": 50,
+    "question": "The process of loading operating system to memory is called:",
+    "options": ["Initializing", "Booting", "Loading", "Allocating"],
+    "answer": "Booting"
+  },
+  {
+    "number": 51,
+    "question": ".doc is the default filename extension of Microsoft Windows:",
+    "options": ["Notepad", "PowerPoint", "Word", "Spreadsheet"],
+    "answer": "Word"
+  },
+  {
+    "number": 52,
+    "question": "Cache memory is used in computers to:",
+    "options": ["Extend memory capacity", "Increase speed", "Increase accuracy", "Protect data loss due to power failure"],
+    "answer": "Increase speed"
+  },
+  {
+    "number": 53,
+    "question": "Inheritance is a concept used in:",
+    "options": ["Object oriented programming", "Procedure oriented programming", "Internet programming", "Database programming"],
+    "answer": "Object oriented programming"
+  },
+  {
+    "number": 54,
+    "question": "The Operating System works as an interface between:",
+    "options": ["Hardware and Software", "User and Software", "User and Processor", "User and Hardware"],
+    "answer": "Hardware and Software"
+  },
+  {
+    "number": 55,
+    "question": "Variables that hold True/False type values are:",
+    "options": ["Character type", "Integer type", "Boolean type", "Floating point type"],
+    "answer": "Boolean type"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following statement is used for looping?",
+    "options": ["if", "goto", "switch", "for"],
+    "answer": "for"
+  },
+  {
+    "number": 57,
+    "question": "The language associated with DBMS is:",
+    "options": ["DML", "XML", "HTML", "PCL"],
+    "answer": "DML"
+  },
+  {
+    "number": 58,
+    "question": "In Linux, the file having extension .gz is a:",
+    "options": ["Image file", "Compressed file", "System File", "None of the above"],
+    "answer": "Compressed file"
+  },
+  {
+    "number": 59,
+    "question": "The undeclared variables in Visual Basic is treated as:",
+    "options": ["String type", "Long type", "Variant type", "Generic type"],
+    "answer": "Variant type"
+  },
+  {
+    "number": 60,
+    "question": "The decimal equivalent of hexadecimal number C2 is:",
+    "options": ["194", "14", "34", "178"],
+    "answer": "194"
+  },
+  {
+    "number": 61,
+    "question": "PDF stands for:",
+    "options": ["Portable Document Format", "Printable Document Format", "Printable Data Format", "Portable Document File"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "number": 62,
+    "question": "Most effective chart with small number of data points is:",
+    "options": ["Bar Chart", "Column Chart", "Line Chart", "Pie Chart"],
+    "answer": "Pie Chart"
+  },
+  {
+    "number": 63,
+    "question": "The program that runs when the computer remains idle for a certain period of time:",
+    "options": ["Wall Paper", "Control Panel", "Screen saver", "Welcome screen"],
+    "answer": "Screen saver"
+  },
+  {
+    "number": 64,
+    "question": "The smallest individually addressable unit of information stored on a hard disk is:",
+    "options": ["Sector", "Track", "Cylinder", "Block"],
+    "answer": "Sector"
+  },
+  {
+    "number": 65,
+    "question": "Which of the following is not a component of a computer power supply?",
+    "options": ["Transformer", "Rectifier", "Filter", "Amplifier"],
+    "answer": "Amplifier"
+  },
+  {
+    "number": 66,
+    "question": "The geometric arrangement of nodes and cables in a network is called:",
+    "options": ["Network Protocol", "Network Topology", "Network Architecture", "Network Cabling"],
+    "answer": "Network Topology"
+  },
+  {
+    "number": 67,
+    "question": "In an IP address, which of the following number as first octet causes loop back address:",
+    "options": ["192", "127", "255", "168"],
+    "answer": "127"
+  },
+  {
+    "number": 68,
+    "question": "Which of the following wireless technology has higher data rate?",
+    "options": ["WiFi", "Bluetooth", "HomeRF", "WiMax"],
+    "answer": "WiMax"
+  },
+  {
+    "number": 69,
+    "question": "Arrange the names: babu, Balan, Anil, arun in alphabetical order:",
+    "options": ["Anil, Balan, arun, babu", "arun, babu, Anil, Balan", "Anil, arun, Balan, babu", "arun, Anil, babu, Balan"],
+    "answer": "Anil, arun, Balan, babu"
+  },
+  {
+    "number": 70,
+    "question": "UPS is commonly used with computer systems to provide:",
+    "options": ["Perfect AC", "Perfect DC", "Protect from power failure problems", "Maintain proper voltage"],
+    "answer": "Protect from power failure problems"
+  },
+  {
+    "number": 71,
+    "question": "Byte Code is:",
+    "options": ["An international coding standard", "Code generated by Java compiler", "An executable machine code", "An extended form of Uni Code"],
+    "answer": "Code generated by Java compiler"
+  },
+  {
+    "number": 72,
+    "question": "Which of the following is used to select only one item in the group?",
+    "options": ["Radio button", "Check box", "List box", "Options (A) or (B)"],
+    "answer": "Radio button"
+  },
+  {
+    "number": 73,
+    "question": "Executing a program based on a change in hardware or software is called:",
+    "options": ["Object oriented programming", "Procedure oriented programming", "Visual programming", "Event driven programming"],
+    "answer": "Event driven programming"
+  },
+  {
+    "number": 74,
+    "question": "To permanently remove an item from Desktop, press:",
+    "options": ["Delete Key", "Ctrl + Delete key", "Shift + Delete Key", "Alt + Delete key"],
+    "answer": "Shift + Delete Key"
+  },
+  {
+    "number": 75,
+    "question": "If the shell prompt in Linux shows # symbol, it means currently logged in user is:",
+    "options": ["Terminal user", "User", "Guest", "Super user"],
+    "answer": "Super user"
+  },
+  {
+    "number": 76,
+    "question": "The diameter of most common compact disk is:",
+    "options": ["100 mm", "110 mm", "120 mm", "130 mm"],
+    "answer": "120 mm"
+  },
+  {
+    "number": 77,
+    "question": "Arrange the following softwares based on their preference of use:",
+    "options": [
+      "Operating System, Application Software, Antivirus",
+      "Antivirus, Operating System, Application Software",
+      "Application Software, Operating System, Antivirus",
+      "Operating System, Antivirus, Application Software"
+    ],
+    "answer": "Operating System, Application Software, Antivirus"
+  },
+  {
+    "number": 78,
+    "question": "Which of the following term is not related with internet?",
+    "options": ["Surfing", "Spooling", "Browsing", "Spoofing"],
+    "answer": "Spooling"
+  },
+  {
+    "number": 79,
+    "question": "Bash is a:",
+    "options": ["Linux kernel", "Linux file system", "Linux editor", "Linux shell"],
+    "answer": "Linux shell"
+  },
+  {
+    "number": 80,
+    "question": "Data encoding on CD-ROM is in the form of:",
+    "options": ["Concentric track", "Spiral track", "Elliptical track", "Concentric with pits and lands"],
+    "answer": "Spiral track"
+  },
+  {
+    "number": 81,
+    "question": "Right to education is included in ___ of the constitution.",
+    "options": ["Article 21 (a)", "Article 29", "Article 309", "Article 312"],
+    "answer": "Article 21 (a)"
+  },
+  {
+    "number": 82,
+    "question": "The right to property was a fundamental Right in the beginning. But it was deleted from the list through ___ amendment.",
+    "options": ["21st", "44th", "42nd", "25th"],
+    "answer": "44th"
+  },
+  {
+    "number": 83,
+    "question": "Food Security Act came into force in the year:",
+    "options": ["2015", "1969", "2011", "2013"],
+    "answer": "2013"
+  },
+  {
+    "number": 84,
+    "question": "Which among the following organisation took initiative to spread education in Malabar?",
+    "options": ["London mission society", "Church mission society", "Basel evangelical mission", "Salvation army group"],
+    "answer": "Basel evangelical mission"
+  },
+  {
+    "number": 85,
+    "question": "The first English school in Ernakulam started during the rule of:",
+    "options": ["Swati Tirunal", "Sri Mulam Tirunal", "Gouri Parvathi Bai", "Rani Lekshmi Bai"],
+    "answer": "Gouri Parvathi Bai"
+  },
+  {
+    "number": 86,
+    "question": "The Paliyam satyagraha was launched by:",
+    "options": ["A.K. Gopalan", "P. Krishna Pillai", "C. Kesavan", "K. Kelappan"],
+    "answer": "K. Kelappan"
+  },
+  {
+    "number": 87,
+    "question": "The 'Sadhu Jana Paripalana Yogam' was founded by:",
+    "options": ["Ayyankali", "Vaghbhatananda", "Chattampi Swamikal", "V.T. Bhattathirippad"],
+    "answer": "Ayyankali"
+  },
+  {
+    "number": 88,
+    "question": "Who is known as 'Kerala Panini'?",
+    "options": ["Kunchan Nambiar", "A.R. Raja Raja Varma", "Vallathol", "Kumaranasan"],
+    "answer": "A.R. Raja Raja Varma"
+  },
+  {
+    "number": 89,
+    "question": "The author of 'Indonesian Diary' is:",
+    "options": ["N.V. Krishna Warrior", "K.P. Kesava Menon", "S.K. Pottakkad", "K.M. Panicker"],
+    "answer": "S.K. Pottakkad"
+  },
+  {
+    "number": 90,
+    "question": "Who translated into Malayalam the biographies of Karl Marx and Gandhiji for the first time?",
+    "options": ["M.C. Joseph", "G. Sankara Kurup", "T.K. Madhavan", "Swadeshabhimani Ramakrishna Pillai"],
+    "answer": "Swadeshabhimani Ramakrishna Pillai"
+  },
+  {
+    "number": 91,
+    "question": "Wagon tragedy is related to:",
+    "options": ["Malabar rebellion", "Aikya Kerala movement", "Punnapra - Vayalar uprising", "Abstention movement"],
+    "answer": "Malabar rebellion"
+  },
+  {
+    "number": 92,
+    "question": "Name the first Woman High Court judge of Kerala:",
+    "options": ["Arya Pallam", "Lalitha Prabhu", "Anna Chandi", "Justice Sreedevi"],
+    "answer": "Anna Chandi"
+  },
+  {
+    "number": 93,
+    "question": "'Aiyyavazhi' is a dharmic belief system introduced by:",
+    "options": ["Sree Narayana Guru", "Vaikunda Swamikal", "Brahmananda Sivayogi", "Kumara Guru"],
+    "answer": "Vaikunda Swamikal"
+  },
+  {
+    "number": 94,
+    "question": "The 'Savarnajatha' under Mannath Padmanabhan was the highlight of which agitation:",
+    "options": ["Salt satyagraha", "Guruvayur satyagraha", "Electricity agitation", "Vaikom satyagraha"],
+    "answer": "Guruvayur satyagraha"
+  },
+  {
+    "number": 95,
+    "question": "Nalanda, the ancient Buddhist university was situated in the present state of:",
+    "options": ["Orissa", "Bihar", "Tamil Nadu", "West Bengal"],
+    "answer": "Bihar"
+  },
+  {
+    "number": 96,
+    "question": "The champion of 2015, French Open women's singles is:",
+    "options": ["Sereena Williams", "Flavia Penetta", "Venus Williams", "Martina Hingis"],
+    "answer": "Sereena Williams"
+  },
+  {
+    "number": 97,
+    "question": "Choose the one which is related to bureaucracy:",
+    "options": ["Plural Executive", "Nominal Executive", "Political Executive", "Permanent Executive"],
+    "answer": "Permanent Executive"
+  },
+  {
+    "number": 98,
+    "question": "The Travancore Government issued a royal proclamation on ___ abolishing all restrictions in the matter of dress.",
+    "options": ["January 11, 1859", "August 28, 1859", "July 26, 1859", "November 20, 1859"],
+    "answer": "July 26, 1859"
+  },
+  {
+    "number": 99,
+    "question": "Who is known as 'Missile man of India'?",
+    "options": ["Vikram Sarabhai", "Sardar Vallabhai Patel", "C.V. Raman", "Dr. A.P.J. Abdul Kalam"],
+    "answer": "Dr. A.P.J. Abdul Kalam"
+  },
+  {
+    "number": 100,
+    "question": "The 'Rajiv Gandhi Khel Ratna Award' of 2015 is won by:",
+    "options": ["Mahendra Singh Dhoni", "Sania Mirza", "Abhinav Bindra", "Susil Kumar"],
+    "answer": "Sania Mirza"
+  }
+]

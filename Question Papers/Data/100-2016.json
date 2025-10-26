@@ -1,0 +1,762 @@
+[
+  {
+    "number": 1,
+    "question": "'Tools' is in ___ menu of the Adobe PageMaker.",
+    "options": ["Windows", "Utilities", "Elements", "None of the above"],
+    "answer": "Utilities"
+  },
+  {
+    "number": 2,
+    "question": "Picture Palette is used for ___ a picture in Adobe PageMaker.",
+    "options": ["Saving", "Sending", "Inserting", "None of the above"],
+    "answer": "Inserting"
+  },
+  {
+    "number": 3,
+    "question": "Ctrl + E are the shortcut keys for ___ in Adobe PageMaker.",
+    "options": ["Centre", "Edit story", "Alignment", "None of these"],
+    "answer": "Edit story"
+  },
+  {
+    "number": 4,
+    "question": "\"pmd\" files can be created by using ___ software.",
+    "options": ["Photoshop", "Power Point", "Corel Draw", "PageMaker"],
+    "answer": "PageMaker"
+  },
+  {
+    "number": 5,
+    "question": "We can change the font by:",
+    "options": ["Type -> Font", "Font -> Type", "Layout -> Fond", "None of these"],
+    "answer": "Type -> Font"
+  },
+  {
+    "number": 6,
+    "question": "Full Form of JPG:",
+    "options": [
+      "Joint Photo Group",
+      "Joint Photo Graph",
+      "Joint Photographic Experts Group",
+      "None of these"
+    ],
+    "answer": "Joint Photographic Experts Group"
+  },
+  {
+    "number": 7,
+    "question": "\"Text wrap\" option is contained in:",
+    "options": ["Element", "Utilities", "Layout", "File"],
+    "answer": "Layout"
+  },
+  {
+    "number": 8,
+    "question": "Full form of FTP:",
+    "options": [
+      "Frame Transfer Protocol",
+      "File Text Protocol",
+      "Frame Text Protocol",
+      "File Transfer Protocol"
+    ],
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "number": 9,
+    "question": "One of the following is not a search Engine:",
+    "options": ["Duck Duck Go", "Google", "Cuil", "None of these"],
+    "answer": "None of these"
+  },
+  {
+    "number": 10,
+    "question": "One of the following is not a social networking site:",
+    "options": ["YouTube", "Blog", "Twitter", "Gmail"],
+    "answer": "Gmail"
+  },
+  {
+    "number": 11,
+    "question": "One of the following website is not providing facility for sending E-mails:",
+    "options": ["Yahoo.com", "Rediff.com", "E-Mail.com", "Gmail.com"],
+    "answer": "E-Mail.com"
+  },
+  {
+    "number": 12,
+    "question": "A website created for fraudulently acquiring sensitive information such as passwords, credit card details etc.:",
+    "options": ["Archive site", "Fish site", "Phish site", "None of these"],
+    "answer": "Phish site"
+  },
+  {
+    "number": 13,
+    "question": "MAN stands for:",
+    "options": [
+      "Main Area Network",
+      "Metro Area Network",
+      "Mans Aided Network",
+      "Metropolitan Area Network"
+    ],
+    "answer": "Metropolitan Area Network"
+  },
+  {
+    "number": 14,
+    "question": "The entire hostname has maximum of ___ characters.",
+    "options": ["255", "355", "455", "None of these"],
+    "answer": "255"
+  },
+  {
+    "number": 15,
+    "question": "ATM Full form:",
+    "options": [
+      "Automated Teller Machine",
+      "Automated Transfer Machine",
+      "Automated Teller Mode",
+      "Automated Transfer Mode"
+    ],
+    "answer": "Automated Teller Machine"
+  },
+  {
+    "number": 16,
+    "question": "Full form of ISDN:",
+    "options": [
+      "Integrated Subscriber Digital Network",
+      "Internet Subscriber Digital Network",
+      "Integrated Services Digital Network",
+      "None of the above"
+    ],
+    "answer": "Integrated Services Digital Network"
+  },
+  {
+    "number": 17,
+    "question": "Which are the file formats can be added to a Power Point Show?",
+    "options": [".jpg", ".giv", ".wav", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "number": 18,
+    "question": "You can create a new presentation by completing all of the following except:",
+    "options": [
+      "Pressing Ctrl + N",
+      "Clicking file, open",
+      "Clicking file, new",
+      "Clicking the new button"
+    ],
+    "answer": "Clicking file, open"
+  },
+  {
+    "number": 19,
+    "question": "What do you press to select one hyperlink after another during a slide presentation?",
+    "options": ["Tab", "Ctrl +K", "Ctrl + H", "All of the above"],
+    "answer": "Tab"
+  },
+  {
+    "number": 20,
+    "question": "What is the term used when you press and scroll of the left mouse key and move the mouse around the slide?",
+    "options": ["Highlighting", "Dragging", "Selecting", "Controlling"],
+    "answer": "Dragging"
+  },
+  {
+    "number": 21,
+    "question": "One of the following is not the PowerPoint's views:",
+    "options": ["Presentation view", "Slide show view", "Slide view", "Outline view"],
+    "answer": "Presentation view"
+  },
+  {
+    "number": 22,
+    "question": "'Macro' command in which menu of the MS PowerPoint 2003?",
+    "options": ["Format", "Insert", "View", "Tools"],
+    "answer": "Tools"
+  },
+  {
+    "number": 23,
+    "question": "How many width of the field Date/Time is MS Access?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "8"
+  },
+  {
+    "number": 24,
+    "question": "MS Access is a:",
+    "options": ["RDBMS", "DODBMS", "DRDBMS", "Network Database Model"],
+    "answer": "RDBMS"
+  },
+  {
+    "number": 25,
+    "question": "What is the maximum length of a text field can be in MS Access?",
+    "options": ["75", "120", "255", "265"],
+    "answer": "255"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is not a type of MS Access Database object?",
+    "options": ["Table", "Work sheets", "Form", "Modular"],
+    "answer": "Work sheets"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is not a database object?",
+    "options": ["Tables", "Queries", "Relationships", "Reports"],
+    "answer": "Relationships"
+  },
+  {
+    "number": 28,
+    "question": "Which command is used to clear the screen in MS Dos?",
+    "options": ["cd", "md", "rename", "cls"],
+    "answer": "cls"
+  },
+  {
+    "number": 29,
+    "question": "Which command is used to get the current date only in MS Dos?",
+    "options": ["Date", "Time", "Second", "None of the above"],
+    "answer": "Date"
+  },
+  {
+    "number": 30,
+    "question": "In MS Dos generally the date is entered in the ___ form.",
+    "options": ["DD-YY-MM", "YY-DD-MM", "MM-YY-DD", "MM-DD-YY"],
+    "answer": "MM-DD-YY"
+  },
+  {
+    "number": 31,
+    "question": "Del command in MS DOS is used to:",
+    "options": ["Delete files", "Delete directions", "Delete labels", "Delete contents of files"],
+    "answer": "Delete files"
+  },
+  {
+    "number": 32,
+    "question": "One of the following Ribbons not seen in the MS Word 2007 Window:",
+    "options": ["Home", "Insert", "View", "Table"],
+    "answer": "Table"
+  },
+  {
+    "number": 33,
+    "question": "Where we can see browse object button in MS Word 2007?",
+    "options": [
+      "Right side of the Horizontal scroll bar",
+      "Below the vertical scroll bar",
+      "Right end of the Status bar",
+      "None of these"
+    ],
+    "answer": "Below the vertical scroll bar"
+  },
+  {
+    "number": 34,
+    "question": "Where is 'Name Box' located in MS Excel?",
+    "options": [
+      "Left end of the Formula Bar",
+      "Right end of the formula bar",
+      "Left end of the Menu Bar",
+      "Right end of the Menu Bar"
+    ],
+    "answer": "Left end of the Formula Bar"
+  },
+  {
+    "number": 35,
+    "question": "For moving cursor to one cell down, press ___ key.",
+    "options": ["Enter key", "Tab key", "Ctrl + Home key", "Ctrl + Down Arrow"],
+    "answer": "Enter key"
+  },
+  {
+    "number": 36,
+    "question": "Steps to adjust column width:",
+    "options": [
+      "Edit -> Column -> Width",
+      "Format -> Column -> Width",
+      "Format -> Edit -> Width",
+      "Edit -> Width -> Column"
+    ],
+    "answer": "Format -> Column -> Width"
+  },
+  {
+    "number": 37,
+    "question": "How can we select alternate (Here and there) cells?",
+    "options": [
+      "Hold SHIFT and click the required cells",
+      "Hold SHIFT and CTRL then click the required cells",
+      "Hold CTRL then click the required cells.",
+      "None of the above"
+    ],
+    "answer": "Hold CTRL then click the required cells."
+  },
+  {
+    "number": 38,
+    "question": "One of the following Data types is not available in MS Excel:",
+    "options": ["Accounting", "Text", "Special", "Data"],
+    "answer": "Data"
+  },
+  {
+    "number": 39,
+    "question": "Method for entering today's date in a cell of MS Excel:",
+    "options": ["Press ;", "Press CTRL +;", "Press SHIFT +;", "Press ALT + ;"],
+    "answer": "Press CTRL +;"
+  },
+  {
+    "number": 40,
+    "question": "Maximum number of Text can be enter in a cell of MS Excel:",
+    "options": ["25", "55", "255", "256"],
+    "answer": "255"
+  },
+  {
+    "number": 41,
+    "question": "MAX function in MS Excel is used for finding:",
+    "options": ["Maximize", "Maximum size", "Largest value", "None of these"],
+    "answer": "Largest value"
+  },
+  {
+    "number": 42,
+    "question": "'#VALUE!' is the example of error value produced by Formulas in MS Excel. What you mean from that error value?",
+    "options": [
+      "Refers to a cell that is not valid",
+      "Produces a value that is too long to fit in the cell",
+      "Refers to a value that is not available",
+      "None of the above"
+    ],
+    "answer": "Refers to a value that is not available"
+  },
+  {
+    "number": 43,
+    "question": "Pick out one of the correct formulas from the following:",
+    "options": ["SUM (A1 : B3)", "=(A1 : C2)", "= SUM (A1 : D1)", "None of these"],
+    "answer": "= SUM (A1 : D1)"
+  },
+  {
+    "number": 44,
+    "question": "Number of rows in MS Excel 2007:",
+    "options": ["148576", "1048576", "1048567", "1084756"],
+    "answer": "1048576"
+  },
+  {
+    "number": 45,
+    "question": "What will happen when we press Alt + Shift + F1?",
+    "options": ["Insert new column", "Insert new row", "Insert new chart", "Insert work sheet"],
+    "answer": "Insert work sheet"
+  },
+  {
+    "number": 46,
+    "question": "Chart command in MS Excel 2003 contained in ___ menu.",
+    "options": ["Tools", "Insert", "Format", "View"],
+    "answer": "Insert"
+  },
+  {
+    "number": 47,
+    "question": "What is the maximum size of zoom in tool bar of MS Excel 2003?",
+    "options": ["100%", "150%", "200%", "500%"],
+    "answer": "500%"
+  },
+  {
+    "number": 48,
+    "question": "What is the default font size when we open the MS Excel 2003 work book?",
+    "options": ["12", "11", "10", "8"],
+    "answer": "10"
+  },
+  {
+    "number": 49,
+    "question": "One of the following menu item we can't see in MS Excel 2007:",
+    "options": ["Review", "Format", "Formulas", "View"],
+    "answer": "Format"
+  },
+  {
+    "number": 50,
+    "question": "We cannot find one of the following from word count:",
+    "options": ["Lines", "Paragraphs", "Pages", "Words (with spaces)"],
+    "answer": "Lines"
+  },
+  {
+    "number": 51,
+    "question": "1024 GB =",
+    "options": ["1 Tera Byte", "1 Zetra Byte", "1 Penta Byte", "None of these"],
+    "answer": "1 Tera Byte"
+  },
+  {
+    "number": 52,
+    "question": "Micro processors is first introduced in ___ generation computers.",
+    "options": ["Second", "Third", "Fourth", "Fifth"],
+    "answer": "Fourth"
+  },
+  {
+    "number": 53,
+    "question": "Which type of the following computers can process huge amounts of Data?",
+    "options": ["Mainframe Computers", "Super Computers", "Mini Computer", "Micro Computers"],
+    "answer": "Super Computers"
+  },
+  {
+    "number": 54,
+    "question": "Full form of USB:",
+    "options": [
+      "Universal Serial Bus",
+      "Universal System Bus",
+      "Universal Serial Bureau",
+      "Universal Software Bar"
+    ],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "number": 55,
+    "question": "Pick out the correct temporary memory from the following:",
+    "options": ["ROM", "Hard Disc", "Pen Drive", "RAM"],
+    "answer": "RAM"
+  },
+  {
+    "number": 56,
+    "question": "One of the following is the correct input device:",
+    "options": [
+      "Voice recognizing device",
+      "Plotters",
+      "Speakers",
+      "None of the above"
+    ],
+    "answer": "Voice recognizing device"
+  },
+  {
+    "number": 57,
+    "question": "Short cut keys Shift + F12 are used for what purpose?",
+    "options": [
+      "To minimize a file",
+      "To save a file",
+      "To create a Template",
+      "None of these"
+    ],
+    "answer": "To save a file"
+  },
+  {
+    "number": 58,
+    "question": "Version is a command in MS Word 2003. It is in which menu?",
+    "options": ["Table", "Tools", "View", "File"],
+    "answer": "File"
+  },
+  {
+    "number": 59,
+    "question": "Find the name which is not included in the Browse button?",
+    "options": [
+      "Browse by graphic",
+      "Browse by symbol",
+      "Browse by End note",
+      "Browse by comment"
+    ],
+    "answer": "Browse by symbol"
+  },
+  {
+    "number": 60,
+    "question": "Which is the default gutter margin?",
+    "options": ["0\"", "1\"", "1.25\"", "None of these"],
+    "answer": "0\""
+  },
+  {
+    "number": 61,
+    "question": "Pick out the correct method for selecting entire document:",
+    "options": [
+      "Hold ctrl and click anywhere in the matter",
+      "Hold ctrl and click in the left margin",
+      "Hold ctrl + double click in the matter",
+      "None of these"
+    ],
+    "answer": "Hold ctrl and click in the left margin"
+  },
+  {
+    "number": 62,
+    "question": "What is the paper size of Legal?",
+    "options": [
+      "Width 8.5\", Height 14\"",
+      "Width 8.5\", Height 11\"",
+      "Width 8\", Height 14\"",
+      "None of these"
+    ],
+    "answer": "Width 8.5\", Height 14\""
+  },
+  {
+    "number": 63,
+    "question": "How many tabs options in MS Word 2003?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "number": 64,
+    "question": "Maximum lines we can give the Drop cap;",
+    "options": ["3", "6", "8", "10"],
+    "answer": "10"
+  },
+  {
+    "number": 65,
+    "question": "Short cut keys for converting selected text into capital letters:",
+    "options": [
+      "Ctrl + A",
+      "Ctrl + Shift+ A",
+      "Ctrl +Shift + C",
+      "Shift + A"
+    ],
+    "answer": "Ctrl + Shift+ A"
+  },
+  {
+    "number": 66,
+    "question": "File extension of MS Excel 2007:",
+    "options": [".xls", ".xlsx", ".xlsm", "none of these"],
+    "answer": ".xlsx"
+  },
+  {
+    "number": 67,
+    "question": "___ tab is used for entering numeric entries with decimal point.",
+    "options": ["Bar", "Center", "Decimal", "None of these"],
+    "answer": "Decimal"
+  },
+  {
+    "number": 68,
+    "question": "Write steps to insert rows in MS Word 2003:",
+    "options": [
+      "Table -> Insert -> Rows above",
+      "Insert -> Table",
+      "Table -> Rows above -> Insert",
+      "None of these"
+    ],
+    "answer": "Table -> Insert -> Rows above"
+  },
+  {
+    "number": 69,
+    "question": "Where contained the command 'save' in MS Word 2007?",
+    "options": [
+      "File Menu",
+      "Office Button",
+      "Quick Accessed bar",
+      "None of these"
+    ],
+    "answer": "Office Button"
+  },
+  {
+    "number": 70,
+    "question": "A trademark notation or a copyright symbol usually displays in:",
+    "options": ["strikethrough", "superscript", "subscript", "emboss"],
+    "answer": "superscript"
+  },
+  {
+    "number": 71,
+    "question": "The backspace key is used for:",
+    "options": [
+      "indent",
+      "double space",
+      "backup and erase/delete",
+      "move to the next line"
+    ],
+    "answer": "backup and erase/delete"
+  },
+  {
+    "number": 72,
+    "question": "One of the following menu is not contained in WordPad of Windows XP:",
+    "options": ["Format", "Insert", "Table", "View"],
+    "answer": "Table"
+  },
+  {
+    "number": 73,
+    "question": "Alignment buttons in Word Pad contained in ___ bar of Windows XP.",
+    "options": ["Tool Bar", "Format Bar", "Status Bar", "None of these"],
+    "answer": "Format Bar"
+  },
+  {
+    "number": 74,
+    "question": "What type of software is most suitable to create an invitation to your birthday party?",
+    "options": [
+      "Spreadsheet",
+      "Database",
+      "Word Processing",
+      "Desktop publishing"
+    ],
+    "answer": "Desktop publishing"
+  },
+  {
+    "number": 75,
+    "question": "How many menus in Notepad of Windows XP?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "number": 76,
+    "question": "Brush tool in MS Paint can be taken from:",
+    "options": ["Tool box", "Color Box", "Status Box", "None of these"],
+    "answer": "Tool box"
+  },
+  {
+    "number": 77,
+    "question": "Correct method to take calculator:",
+    "options": [
+      "All Programs -> Calculator",
+      "Start -> All programs -> Calculator",
+      "Start -> All programs -> Accessories -> Calculator",
+      "None of these"
+    ],
+    "answer": "Start -> All programs -> Accessories -> Calculator"
+  },
+  {
+    "number": 78,
+    "question": "One of the following is not antivirus software:",
+    "options": ["Nortran", "PC Cilin", "AVG", "AVJ"],
+    "answer": "Nortran"
+  },
+  {
+    "number": 79,
+    "question": "Short cut keys for 'paste':",
+    "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + V", "Ctrl + X"],
+    "answer": "Ctrl + V"
+  },
+  {
+    "number": 80,
+    "question": "Menu Bar is situated:",
+    "options": ["After Tool Bar", "After Title Bar", "After Task Bar", "None of these"],
+    "answer": "After Title Bar"
+  },
+  {
+    "number": 81,
+    "question": "India borrowed the idea of single citizenship from the constitution of:",
+    "options": ["USA", "UK", "Canada", "Australia"],
+    "answer": "UK"
+  },
+  {
+    "number": 82,
+    "question": "A motion of no-confidence against the council of ministers can be moved in the Loksabha if it is supported by at least:",
+    "options": ["1/3 of the total members", "33 members", "50 members", "100 members"],
+    "answer": "50 members"
+  },
+  {
+    "number": 83,
+    "question": "Which constitutional amendment raised the number of Loksabha seats from 525 to 545 and reduced the representation of the union territories from 25 to 20?",
+    "options": ["31st Amendment", "42nd Amendment", "61st Amendment", "52nd Amendment"],
+    "answer": "31st Amendment"
+  },
+  {
+    "number": 84,
+    "question": "Who among the following is regarded as the first law officer in India?",
+    "options": [
+      "Chief Justice of Supreme Court",
+      "Union Law Minister",
+      "Solicitor General of India",
+      "Attorney General of India"
+    ],
+    "answer": "Attorney General of India"
+  },
+  {
+    "number": 85,
+    "question": "The National Rural Livelihood Mission (NRLM) starts in:",
+    "options": ["1999", "2011", "2012", "2014"],
+    "answer": "2011"
+  },
+  {
+    "number": 86,
+    "question": "Prime Minister Mudra Yojana aims at:",
+    "options": [
+      "Urban Development",
+      "Primary Education",
+      "Development of Small Scale Industries",
+      "Rural Sanitation"
+    ],
+    "answer": "Development of Small Scale Industries"
+  },
+  {
+    "number": 87,
+    "question": "Which among the following poem was written by Pandit Karuppan on the demise of T.K. Madhavan?",
+    "options": [
+      "Raja Raja Charamam",
+      "Maha Samadhi",
+      "Thirunal Mangalam",
+      "Charamagatham"
+    ],
+    "answer": "Maha Samadhi"
+  },
+  {
+    "number": 88,
+    "question": "The Malayalam newspaper that proclaimed its support to the Russian Revolution of 1917:",
+    "options": ["Mitavati", "Swadeshabhimani", "Vivekodayam", "Samadarshini"],
+    "answer": "Vivekodayam"
+  },
+  {
+    "number": 89,
+    "question": "Who was the founder of 'Araya Vamsa Paripalana Yogam'?",
+    "options": ["K.P. Karuppan", "Velukkutty Arayan", "K.P. Vellon", "P.K. Chathan"],
+    "answer": "Velukkutty Arayan"
+  },
+  {
+    "number": 90,
+    "question": "Who was the editor of the women magazine 'Sreemathi'?",
+    "options": ["Akkamma Cheriyan", "Arya Pallam", "Anna Chandi", "Lalithambika Antharjanam"],
+    "answer": "Lalithambika Antharjanam"
+  },
+  {
+    "number": 91,
+    "question": "Who led the famous 'Pattini jatha'?",
+    "options": ["C. Kesavan", "V.T. Bhattathirippad", "C.V. Kunjuraman", "A.K. Gopalan"],
+    "answer": "A.K. Gopalan"
+  },
+  {
+    "number": 92,
+    "question": "Who wrote the drama 'Balakalesam'?",
+    "options": ["Pandit Karuppan", "Kesavadev", "Pankunnam Varkey", "S.K. Pottekkad"],
+    "answer": "Pandit Karuppan"
+  },
+  {
+    "number": 93,
+    "question": "The wagon tragedy is associated with which among the following event?",
+    "options": [
+      "Malabar rebellion",
+      "Paliyam Satyagraha",
+      "Upper cloth revolt",
+      "Vaikom Satyagraha"
+    ],
+    "answer": "Malabar rebellion"
+  },
+  {
+    "number": 94,
+    "question": "The fastest train in India:",
+    "options": [
+      "Samjota express",
+      "Gatiman express",
+      "Satabti express",
+      "Rajadhani express"
+    ],
+    "answer": "Gatiman express"
+  },
+  {
+    "number": 95,
+    "question": "India's first pod taxi project is to be launched in which city?",
+    "options": ["Mumbai", "Delhi", "Gurgaon", "Nagpur"],
+    "answer": "Gurgaon"
+  },
+  {
+    "number": 96,
+    "question": "Who introduced 'Blue Water Policy'?",
+    "options": ["Albuquerque", "Van Rheed", "Dalhousie", "Almeida"],
+    "answer": "Almeida"
+  },
+  {
+    "number": 97,
+    "question": "Who exercised the power to convene a joint session of Indian Parliament?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Speaker of Loksabha",
+      "Chief Justice of India"
+    ],
+    "answer": "President"
+  },
+  {
+    "number": 98,
+    "question": "Who called Gandhiji 'a one man boundary force'?",
+    "options": [
+      "Mountbatten",
+      "Wavell",
+      "Winsten Churchil",
+      "Clement Atlee"
+    ],
+    "answer": "Clement Atlee"
+  },
+  {
+    "number": 99,
+    "question": "'Chudalamuthu' is the protagonist of which among the following novel?",
+    "options": [
+      "Randidangazhi",
+      "Kayar",
+      "Thottiyude Makan",
+      "Kesavante Vilapangal"
+    ],
+    "answer": "Thottiyude Makan"
+  },
+  {
+    "number": 100,
+    "question": "Who is associated with the library movement in Kerala?",
+    "options": [
+      "K.N. Panicker",
+      "K.M. Panicker",
+      "P. Kesavadev",
+      "P.N. Panicker"
+    ],
+    "answer": "P.N. Panicker"
+  }
+]

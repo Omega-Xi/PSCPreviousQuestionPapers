@@ -1,0 +1,752 @@
+[
+  {
+    "number": 1,
+    "question": "Processed data is called:",
+    "options": ["Value", "Information", "Summary", "Program"],
+    "answer": "Information"
+  },
+  {
+    "number": 2,
+    "question": "Scanner is a ___ device.",
+    "options": ["primary memory", "output", "input", "secondary memory"],
+    "answer": "input"
+  },
+  {
+    "number": 3,
+    "question": "Difference between compiler and interpreter is:",
+    "options": [
+      "Compiler checks the code as a whole and interpreter checks line by line of the code",
+      "Interpreter checks the code as a whole and compiler checks line by line of the code",
+      "Compiler used to find syntax errors while interpreter used to find run time error",
+      "Interpreter used to find syntax errors while compiler used to find run time error"
+    ],
+    "answer": "Compiler checks the code as a whole and interpreter checks line by line of the code"
+  },
+  {
+    "number": 4,
+    "question": "Example of operating system:",
+    "options": ["Microsoft XP", "Microsoft office", "Adobe reader", "Adobe page maker"],
+    "answer": "Microsoft XP"
+  },
+  {
+    "number": 5,
+    "question": "___ is a volatile memory.",
+    "options": ["Hard disk", "DVD", "CD", "RAM"],
+    "answer": "RAM"
+  },
+  {
+    "number": 6,
+    "question": "Mouse was invented by:",
+    "options": ["Charles Babbage", "Douglas Engelbart", "Alan Turing", "John McCarthy"],
+    "answer": "Douglas Engelbart"
+  },
+  {
+    "number": 7,
+    "question": "Input device used to read cheques in banks:",
+    "options": ["MICR", "OCR", "OMR", "barcode reader"],
+    "answer": "MICR"
+  },
+  {
+    "number": 8,
+    "question": "CD is:",
+    "options": ["Combined Disk", "Cosmetic Disk", "Casual Disk", "Compact Disk"],
+    "answer": "Compact Disk"
+  },
+  {
+    "number": 9,
+    "question": "Example of output device:",
+    "options": ["Microphone", "Plotter", "Joy stick", "Light pen"],
+    "answer": "Plotter"
+  },
+  {
+    "number": 10,
+    "question": "LCD is:",
+    "options": [
+      "Liquid Crystal Display",
+      "Liberal Circuit Display",
+      "Light Crystal Display",
+      "Light Circuit Display"
+    ],
+    "answer": "Liquid Crystal Display"
+  },
+  {
+    "number": 11,
+    "question": "Example for secondary memory:",
+    "options": ["RAM", "ROM", "CD", "All the above"],
+    "answer": "CD"
+  },
+  {
+    "number": 12,
+    "question": "___ is a system software.",
+    "options": ["Operating system", "Microsoft word", "PROM", "DRAM"],
+    "answer": "Operating system"
+  },
+  {
+    "number": 13,
+    "question": "Debugging is the process of:",
+    "options": [
+      "finding errors",
+      "converting source code to machine code",
+      "writing code in a language",
+      "Converting source code to assembly language"
+    ],
+    "answer": "finding errors"
+  },
+  {
+    "number": 14,
+    "question": "Example for machine language:",
+    "options": ["Assembly language", "Binary language", "LOTUS", "BASIC"],
+    "answer": "Binary language"
+  },
+  {
+    "number": 15,
+    "question": "Example for application software:",
+    "options": ["Linux", "Interpreter", "Assembler", "Microsoft excel"],
+    "answer": "Microsoft excel"
+  },
+  {
+    "number": 16,
+    "question": "In hexadecimal number system, 'E' stands for:",
+    "options": ["5", "14", "2", "15"],
+    "answer": "14"
+  },
+  {
+    "number": 17,
+    "question": "The last number in octal number system is:",
+    "options": ["7", "8", "9", "10"],
+    "answer": "7"
+  },
+  {
+    "number": 18,
+    "question": "The base of the number system is:",
+    "options": [
+      "The number of digits in the number system",
+      "The last number of number system",
+      "The first number of number system",
+      "The sum of digits of number system"
+    ],
+    "answer": "The number of digits in the number system"
+  },
+  {
+    "number": 19,
+    "question": "DTP is:",
+    "options": [
+      "Digital Text Printing",
+      "Display Text Printing",
+      "Desktop Publishing",
+      "Display Text Publishing"
+    ],
+    "answer": "Desktop Publishing"
+  },
+  {
+    "number": 20,
+    "question": "Define latency time:",
+    "options": [
+      "Time required to find track",
+      "Time required to find sector",
+      "Total time required to find the data",
+      "None of the above"
+    ],
+    "answer": "Time required to find sector"
+  },
+  {
+    "number": 21,
+    "question": "The binary number corresponding to 5:",
+    "options": ["101", "05", "100", "01001"],
+    "answer": "101"
+  },
+  {
+    "number": 22,
+    "question": "654(8) is a number in ___ number system:",
+    "options": ["binary", "octal", "decimal", "hexadecimal"],
+    "answer": "octal"
+  },
+  {
+    "number": 23,
+    "question": "In sign magnitude form, sign of the number is represented on:",
+    "options": ["MSB", "LSB", "MDN", "LDN"],
+    "answer": "MSB"
+  },
+  {
+    "number": 24,
+    "question": "One's complement of 1001 is:",
+    "options": ["1001", "1000", "0101", "0110"],
+    "answer": "0110"
+  },
+  {
+    "number": 25,
+    "question": "2's complement is calculated by:",
+    "options": [
+      "Adding 1 to one's complement",
+      "Adding 2 to one's complement",
+      "Adding 1 to its binary equivalent",
+      "Adding 2 to its binary equivalent"
+    ],
+    "answer": "Adding 1 to one's complement"
+  },
+  {
+    "number": 26,
+    "question": "Find the decimal equivalent of 1010101:",
+    "options": ["75", "85", "1010101", "101010"],
+    "answer": "85"
+  },
+  {
+    "number": 27,
+    "question": "The symbol used for input/output operations in flow chart:",
+    "options": ["Rectangle", "Parallelogram", "Rhombus", "Oval shape"],
+    "answer": "Parallelogram"
+  },
+  {
+    "number": 28,
+    "question": "What is topology in computer network?",
+    "options": [
+      "Arrangement of system in network",
+      "Number of system in network",
+      "Position of server in network",
+      "Area covered by the network"
+    ],
+    "answer": "Arrangement of system in network"
+  },
+  {
+    "number": 29,
+    "question": "Define nodes in network:",
+    "options": ["Server", "Systems", "Type of protocol", "Type of connection"],
+    "answer": "Systems"
+  },
+  {
+    "number": 30,
+    "question": "Expansion of TCP/IP is:",
+    "options": [
+      "Transport Control Protocol/Internet Protocol",
+      "Transmission Control Protocol/Internet Protocol",
+      "Transport Control Protocol/Intranet Protocol",
+      "Transmission Control Protocol/Intranet Protocol"
+    ],
+    "answer": "Transmission Control Protocol/Internet Protocol"
+  },
+  {
+    "number": 31,
+    "question": "Booting is the process of:",
+    "options": [
+      "Detecting hardware connected to PC",
+      "Loading OS on the PC",
+      "Scanning the system for VIRUS",
+      "Installing new software in the system"
+    ],
+    "answer": "Loading OS on the PC"
+  },
+  {
+    "number": 32,
+    "question": "Example for a basic gate:",
+    "options": ["OR", "XOR", "NOR", "NAND"],
+    "answer": "OR"
+  },
+  {
+    "number": 33,
+    "question": "How can we make a NAND gate?",
+    "options": [
+      "Using AND, OR & NOT",
+      "Using AND & NOT",
+      "Using NOR & AND",
+      "Using NOR, AND & OR"
+    ],
+    "answer": "Using AND & NOT"
+  },
+  {
+    "number": 34,
+    "question": "Truth table of OR will give:",
+    "options": [
+      "True value for all possible inputs",
+      "True value when both the inputs are true",
+      "True value when anyone of the inputs are true",
+      "True value when both the inputs are false"
+    ],
+    "answer": "True value when anyone of the inputs are true"
+  },
+  {
+    "number": 35,
+    "question": "Which one of the following cannot be used as an identifier in C++?",
+    "options": ["name", "name123", "break", "break_123"],
+    "answer": "break"
+  },
+  {
+    "number": 36,
+    "question": "How many bytes of memory is needed to save a float variable?",
+    "options": ["8", "4", "2", "16"],
+    "answer": "4"
+  },
+  {
+    "number": 37,
+    "question": "If you have to execute different lines of code for different choices of a particular variable. Which one of the following control statements will you use?",
+    "options": ["for", "while", "do .... while", "switch"],
+    "answer": "switch"
+  },
+  {
+    "number": 38,
+    "question": "Which one of the following is exit controlled loop?",
+    "options": ["for", "while", "do .... while", "switch"],
+    "answer": "do .... while"
+  },
+  {
+    "number": 39,
+    "question": "for (i = 5; i >1; i -- ) { cout << i; } What will be the output of the program?",
+    "options": ["54321", "5432", "12345", "Syntax error"],
+    "answer": "5432"
+  },
+  {
+    "number": 40,
+    "question": "int i= 6, j=7,k; k = i++ + -- j; cout << k << i << j; What will be the output?",
+    "options": ["12 7 6", "13 7 6", "13 6 7", "12 6 6"],
+    "answer": "12 7 6"
+  },
+  {
+    "number": 41,
+    "question": "Which one of the following is unary operator?",
+    "options": ["*", "+", "-", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 42,
+    "question": "By default class variables are:",
+    "options": ["Private", "Public", "Protected", "All the above"],
+    "answer": "Private"
+  },
+  {
+    "number": 43,
+    "question": "Class type variables are called as:",
+    "options": ["Member variable", "Private variable", "Object", "Constructor"],
+    "answer": "Member variable"
+  },
+  {
+    "number": 44,
+    "question": "Specialty of constructor is:",
+    "options": [
+      "Its name is same as class name",
+      "It will not have a return type",
+      "It can be overloaded",
+      "All the above"
+    ],
+    "answer": "All the above"
+  },
+  {
+    "number": 45,
+    "question": "Collection of variables of same datatype is:",
+    "options": ["array", "structure", "object", "loop"],
+    "answer": "array"
+  },
+  {
+    "number": 46,
+    "question": "Free store operators in C++ are:",
+    "options": ["+ & -", "new & delete", "* & /", "array & structure"],
+    "answer": "new & delete"
+  },
+  {
+    "number": 47,
+    "question": "Why we use scope resolution operator?",
+    "options": [
+      "To define a structure inside a class",
+      "To define a function outside the class",
+      "To define an array inside the class",
+      "To define a class outside the class"
+    ],
+    "answer": "To define a function outside the class"
+  },
+  {
+    "number": 48,
+    "question": "Which operator will you use to access members of structure using structure variable?",
+    "options": ["dot operator", "arrow operator", "underscore", "hyphen"],
+    "answer": "dot operator"
+  },
+  {
+    "number": 49,
+    "question": "Syntax of declaring an object of a class in C++:",
+    "options": [
+      "class_name object_name;",
+      "class_name object_name=new class_name;",
+      "class_name object_name= new class_name ();",
+      "class_name object_name=class_name ();"
+    ],
+    "answer": "class_name object_name;"
+  },
+  {
+    "number": 50,
+    "question": "A constructor is called when:",
+    "options": [
+      "we call the constructor using object of the class",
+      "the object of the class is created",
+      "a member function is called",
+      "we define the constructor"
+    ],
+    "answer": "the object of the class is created"
+  },
+  {
+    "number": 51,
+    "question": "Encapsulation is implemented in C++ using:",
+    "options": ["structure", "class", "array", "function"],
+    "answer": "class"
+  },
+  {
+    "number": 52,
+    "question": "Which symbol is used for commenting in C++?",
+    "options": ["//", "/* */", "!", "Both (A) and (B)"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 53,
+    "question": "Define function overloading:",
+    "options": [
+      "same signature with different function name",
+      "same function name with same parameter list",
+      "same return type with different function name",
+      "same function name with different signature"
+    ],
+    "answer": "same function name with different signature"
+  },
+  {
+    "number": 54,
+    "question": "Which one of the following is multiple inheritance?",
+    "options": [
+      "A child class derived from another child of a parent class",
+      "A parent with more than one child",
+      "A child with more than one parent",
+      "More than one type of inheritance is included"
+    ],
+    "answer": "A child with more than one parent"
+  },
+  {
+    "number": 55,
+    "question": "int *p, k=5; p=&k; If p is having the value 100. What will be the output of the following code: cout << *p;",
+    "options": [
+      "5",
+      "100",
+      "The value saved at the memory location 5",
+      "The value saved at the memory location 100"
+    ],
+    "answer": "5"
+  },
+  {
+    "number": 56,
+    "question": "Java is ___ language:",
+    "options": ["Compiled", "Interpreted", "Both (A) and (B)", "None of the above"],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 57,
+    "question": "Expansion of JVM:",
+    "options": [
+      "Java Virtual Machine",
+      "Java Vigilant Mechanism",
+      "Java Virtual Mechanism",
+      "Java Vigilant Machine"
+    ],
+    "answer": "Java Virtual Machine"
+  },
+  {
+    "number": 58,
+    "question": "Specialty of main function in java is:",
+    "options": ["Public", "Static", "Void", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "number": 59,
+    "question": "If we declare 4 objects of a class. How many copies of static variable can be produced:",
+    "options": ["3", "2", "1", "4"],
+    "answer": "1"
+  },
+  {
+    "number": 60,
+    "question": "How runtime error in Java is handled?",
+    "options": [
+      "Using new and delete operator",
+      "Using constructor and destructor method",
+      "Using try ....... catch method",
+      "Using JVM"
+    ],
+    "answer": "Using try ....... catch method"
+  },
+  {
+    "number": 61,
+    "question": "Which datatype is used to declare a variable for saving single alphabet in C++?",
+    "options": ["string", "letter", "char", "word"],
+    "answer": "char"
+  },
+  {
+    "number": 62,
+    "question": "Which keyword is used to include packages in Java?",
+    "options": ["include", "initiate", "implements", "import"],
+    "answer": "import"
+  },
+  {
+    "number": 63,
+    "question": "How multiple inheritance is introduced in Java?",
+    "options": ["Using packages", "Using class", "Using utilities", "Using interfaces"],
+    "answer": "Using interfaces"
+  },
+  {
+    "number": 64,
+    "question": "Which one of the following is used to find remainder in VB?",
+    "options": ["%", "\\", "/", "Mod"],
+    "answer": "Mod"
+  },
+  {
+    "number": 65,
+    "question": "Difference between applet and simple java program is:",
+    "options": [
+      "Applet program is not compiled",
+      "Applets are not written in java",
+      "In applet program packages cannot be used",
+      "Applet program will not have a main function"
+    ],
+    "answer": "Applet program will not have a main function"
+  },
+  {
+    "number": 66,
+    "question": "How integer variables are declared in VB?",
+    "options": ["int a;", "declare a as integer", "dim a as Integer", "a is integer"],
+    "answer": "dim a as Integer"
+  },
+  {
+    "number": 67,
+    "question": "In VB which window will help you in viewing the position of the form in the main window?",
+    "options": ["Properties window", "Position window", "Project Window", "Layout window"],
+    "answer": "Layout window"
+  },
+  {
+    "number": 68,
+    "question": "The keyword used to declare constant value is:",
+    "options": ["Constant", "Cons", "Con", "Const"],
+    "answer": "Const"
+  },
+  {
+    "number": 69,
+    "question": "In C++, a string constant always ends with:",
+    "options": ["%", "/", "\\0", "_"],
+    "answer": "\\0"
+  },
+  {
+    "number": 70,
+    "question": "___ mode helps to open file in input mode.",
+    "options": ["file : input", "open :: input", "ios :: in", "mode :: in"],
+    "answer": "ios :: in"
+  },
+  {
+    "number": 71,
+    "question": "A function calling itself is called ___ function.",
+    "options": ["Recalling", "Reusing", "Redundancy", "Recursive"],
+    "answer": "Recursive"
+  },
+  {
+    "number": 72,
+    "question": "Which one of the following is not a DML command?",
+    "options": ["Delete from", "Insert into", "Alter", "Update"],
+    "answer": "Alter"
+  },
+  {
+    "number": 73,
+    "question": "Expansion of SDLC:",
+    "options": [
+      "System Demonstration in Last Cycle",
+      "Series Demonstration in Last Cycle",
+      "Series Development Life Cycle",
+      "System Development Life Cycle"
+    ],
+    "answer": "System Development Life Cycle"
+  },
+  {
+    "number": 74,
+    "question": "Which query will you use to remove a table from db?",
+    "options": ["delete from", "truncate", "drop", "remove"],
+    "answer": "drop"
+  },
+  {
+    "number": 75,
+    "question": "What is tuple in dbms?",
+    "options": ["Number of tables", "Number of columns", "Number of rows", "Number of database"],
+    "answer": "Number of rows"
+  },
+  {
+    "number": 76,
+    "question": "Foreign key is:",
+    "options": [
+      "Primary key of another table",
+      "Primary key of the same table",
+      "Any column other than primary key of another table",
+      "Any column other than primary key of same table"
+    ],
+    "answer": "Primary key of another table"
+  },
+  {
+    "number": 77,
+    "question": "The command used to add a column in a table:",
+    "options": ["Insert into", "Update", "Alter", "Add"],
+    "answer": "Alter"
+  },
+  {
+    "number": 78,
+    "question": "In SQL, which command is used to make permanent changes made by statements in transaction?",
+    "options": ["SAVE", "EXIT", "DONE", "COMMIT"],
+    "answer": "COMMIT"
+  },
+  {
+    "number": 79,
+    "question": "The PROJECT command will create new table that has:",
+    "options": [
+      "The selected rows of the parent table",
+      "The selected columns of parent table",
+      "The selected datatype of the parent table",
+      "The selected size of the columns"
+    ],
+    "answer": "The selected columns of parent table"
+  },
+  {
+    "number": 80,
+    "question": "In a ___ a parent record type can be linked to one or more \"child\" record types, but a child record type can have only one parent:",
+    "options": [
+      "Network database",
+      "Relational database",
+      "Distributed database",
+      "Hierarchical database"
+    ],
+    "answer": "Hierarchical database"
+  },
+  {
+    "number": 81,
+    "question": "The Schenduruney wildlife sanctuary is in:",
+    "options": ["Ezhimala", "Thenmala", "Aralam", "Thekkadi"],
+    "answer": "Thenmala"
+  },
+  {
+    "number": 82,
+    "question": "The Indian origin mathematician who won prestigious global prize 'Fields medal' known as Nobel Prize in mathematics:",
+    "options": ["Manjul Bhargava", "Viswanath Chopra", "Kishore Varma", "Anandha Moorthy"],
+    "answer": "Manjul Bhargava"
+  },
+  {
+    "number": 83,
+    "question": "The Asian country which host the FIFA world cup of 2022:",
+    "options": ["Saudi Arabia", "Qatar", "Italy", "Australia"],
+    "answer": "Qatar"
+  },
+  {
+    "number": 84,
+    "question": "A scheme started by the Central Government to provide food to senior citizens who cannot care for themselves:",
+    "options": ["Annadan", "Operation food supply", "Operation oldman", "Annapurna"],
+    "answer": "Annapurna"
+  },
+  {
+    "number": 85,
+    "question": "Among the names of four nationalists given below, the one who born in Maharastra:",
+    "options": ["Gopala Krishna Gokhale", "Annie Beasant", "Nehru", "Lala Lajpath Rai"],
+    "answer": "Gopala Krishna Gokhale"
+  },
+  {
+    "number": 86,
+    "question": "The footballer who scored maximum number of goals in the world cups:",
+    "options": ["Lionel Messi", "Diego Maradona", "Microslave Kloose", "Yorgan Klinsman"],
+    "answer": "Microslave Kloose"
+  },
+  {
+    "number": 87,
+    "question": "'Sarvodaya movement' is related with:",
+    "options": ["Justice Ranade", "Acharya Vinobha Bhave", "Jayaprakash Narayanan", "A.K. Antony"],
+    "answer": "Acharya Vinobha Bhave"
+  },
+  {
+    "number": 88,
+    "question": "The mountain ranges that separate south India from North India:",
+    "options": ["Western Ghatt", "Vindya - Satpura", "Himalaya", "Sabarimala"],
+    "answer": "Vindya - Satpura"
+  },
+  {
+    "number": 89,
+    "question": "The 20th Common Wealth games held in 'Glasco' recently. Where is it?",
+    "options": ["Scotland", "England", "Holland", "Spain"],
+    "answer": "Scotland"
+  },
+  {
+    "number": 90,
+    "question": "The third oldest football tournament in the world is in India:",
+    "options": ["Federation cup", "Nehru Trophy", "Durant cup", "Swaraj Trophy"],
+    "answer": "Durant cup"
+  },
+  {
+    "number": 91,
+    "question": "The period of 12th Five Year Plan in India:",
+    "options": ["1982-1987", "2007-2012", "2002-2007", "2012-2017"],
+    "answer": "2012-2017"
+  },
+  {
+    "number": 92,
+    "question": "'Chotta Nagpur plateau' in India is on the:",
+    "options": ["North", "West", "South", "East"],
+    "answer": "East"
+  },
+  {
+    "number": 93,
+    "question": "Among the following the name of Mannath Padmanabhan is related with:",
+    "options": ["Yokashema Sabha", "Nair Service Society", "Atmiya Sabha", "Sree Narayana Yogam"],
+    "answer": "Nair Service Society"
+  },
+  {
+    "number": 94,
+    "question": "Gandhiji's autobiography 'My experiments with truth' first published in:",
+    "options": ["Gujarati", "Bengali", "Malayalam", "Marathi"],
+    "answer": "Gujarati"
+  },
+  {
+    "number": 95,
+    "question": "Nagaland produced a brave heroine during the Civil Disobedience movement called:",
+    "options": ["Rani Lakshmi Bai", "Ishom Sharma", "Captain Lakshmi", "Rani Gaidiliu"],
+    "answer": "Rani Gaidiliu"
+  },
+  {
+    "number": 96,
+    "question": "The propounder of the theory that 'Ananda' [happiness] should be the touch stone of any human activity:",
+    "options": [
+      "Kumara Guru",
+      "Swami Sradhanandha",
+      "Brahmanand Swami Siva Yogi",
+      "Sankaracharya"
+    ],
+    "answer": "Brahmanand Swami Siva Yogi"
+  },
+  {
+    "number": 97,
+    "question": "The place 'Chembazhanthi' is connected with the reformer:",
+    "options": ["Kumaranasan", "Sree Narayana Guru", "Ayyankali", "Ramaswami Naikar"],
+    "answer": "Sree Narayana Guru"
+  },
+  {
+    "number": 98,
+    "question": "U.N.O. observes October 2nd as:",
+    "options": [
+      "U.N. Day",
+      "International Service Day",
+      "Gandhi's Birthday",
+      "International Non-Violence Day"
+    ],
+    "answer": "International Non-Violence Day"
+  },
+  {
+    "number": 99,
+    "question": "The Great Yogi, who was the Guru of Sri Narayana Guru, Chattampi Swamikal and Ayyankali:",
+    "options": [
+      "Thycaud Ayya Swamikal",
+      "Vagbadananda",
+      "Jyothirao Phule",
+      "Periyar Swamikal"
+    ],
+    "answer": "Thycaud Ayya Swamikal"
+  },
+  {
+    "number": 100,
+    "question": "The autobiography of former foreign minister Natwar Singh which attained popular attention recently:",
+    "options": [
+      "Vulgarness of politics",
+      "The Broken Wings",
+      "One Life is Not Enough",
+      "My struggles"
+    ],
+    "answer": "One Life is Not Enough"
+  }
+]

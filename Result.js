@@ -37,6 +37,15 @@ function loadQuestionPaper(selectedCourse,selectedQuestionPaper){
             const newQuestion=document.createElement("h2");
             newQuestion.innerHTML=questionNumber.number+". "+questionNumber.question;
             newDiv.appendChild(newQuestion);
+            if(questionNumber.figure){
+                const newFig=document.createElement("img");
+                newFig.src=`Figures\\${selectedQuestionPaper}-${questionNumber.number}.png`;
+                newFig.style.height="100px";
+                newFig.style.width="200px";
+                newFig.style.paddingLeft="50px";
+                newFig.style.pointerEvents="none";
+                newDiv.appendChild(newFig);
+            }
             questionNumber.options.forEach(option=>{
                 const newLabel=document.createElement("label");
                 newLabel.textContent=option;

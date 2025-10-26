@@ -1,0 +1,667 @@
+[
+  {
+    "number": 1,
+    "question": "How many instances of an abstract class can be created?",
+    "options": ["1", "4", "10", "0"],
+    "answer": "0"
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is the 2's complement of 1011?",
+    "options": ["1010", "0101", "1100", "0111"],
+    "answer": "0101"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following commands is used to update access and modification?",
+    "options": ["grep", "wc", "touch", "cat"],
+    "answer": "touch"
+  },
+  {
+    "number": 4,
+    "question": "A high speed device used in CPU for temporary storage during processing is called:",
+    "options": ["A Register", "A Bus", "A Data bus", "All of the above"],
+    "answer": "A Register"
+  },
+  {
+    "number": 5,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "Base class pointer cannot point to derived class",
+      "Derived class pointer cannot point to base class",
+      "Pointer to derived class cannot be created",
+      "Pointer to base class cannot be created"
+    ],
+    "answer": "Base class pointer cannot point to derived class"
+  },
+  {
+    "number": 6,
+    "question": "Bottom up parsing involves:",
+    "options": ["Shift reduce", "Handle Pruning", "Operator check", "(A) and (B)"],
+    "answer": "(A) and (B)"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following cannot be friend?",
+    "options": ["Function", "Class", "Object", "Operator Function"],
+    "answer": "Object"
+  },
+  {
+    "number": 8,
+    "question": "Which is a valid keyword in Java?",
+    "options": ["Interface", "String", "Float", "Unsigned"],
+    "answer": "Interface"
+  },
+  {
+    "number": 9,
+    "question": "The average time necessary for the correct sector of a disk to arrive at the read write head is:",
+    "options": ["Down time", "Seek time", "Latency time", "Access time"],
+    "answer": "Latency time"
+  },
+  {
+    "number": 10,
+    "question": "Type checking is normally done during:",
+    "options": ["Lexical analysis", "Syntax Analysis", "Code Generation", "Syntax directed translation"],
+    "answer": "Syntax directed translation"
+  },
+  {
+    "number": 11,
+    "question": "Which command is used to remove a file?",
+    "options": ["remove", "rm", "mv", "del"],
+    "answer": "rm"
+  },
+  {
+    "number": 12,
+    "question": "Which of the following is considered as DBMS?",
+    "options": ["Foxpro", "Oracle", "MS Access", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 13,
+    "question": "Which of the following is not a type of constructor?",
+    "options": ["Copy constructor", "Friend Constructor", "Default Constructor", "Parameterized Constructor"],
+    "answer": "Friend Constructor"
+  },
+  {
+    "number": 14,
+    "question": "Applying De Morgan's theorem to the expression A+B+C+D:",
+    "options": ["ABCD", "A+B+C+D", "A+B+C+D", "A+B+C+D"],
+    "answer": "ABCD"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following System software resides in the main memory always?",
+    "options": ["Text Editor", "Assembler", "Linker", "Loader"],
+    "answer": "Loader"
+  },
+  {
+    "number": 16,
+    "question": "When was Apple Macintosh II micro computer introduced in the market?",
+    "options": ["1964", "1970", "1983", "1986"],
+    "answer": "1986"
+  },
+  {
+    "number": 17,
+    "question": "FDDI is a:",
+    "options": ["Ring Network", "Mesh Network", "Star Network", "Bus Network"],
+    "answer": "Ring Network"
+  },
+  {
+    "number": 18,
+    "question": "Which command is used to display the top of the file?",
+    "options": ["Cat", "Head", "More", "Grep"],
+    "answer": "Head"
+  },
+  {
+    "number": 19,
+    "question": "Which of the following device is used to connect two systems, especially if the systems use different protocols?",
+    "options": ["Hub", "Bridge", "Gateway", "Repeater"],
+    "answer": "Gateway"
+  },
+  {
+    "number": 20,
+    "question": "EBCDIC can code up to how many different characters:",
+    "options": ["8", "32", "64", "256"],
+    "answer": "256"
+  },
+  {
+    "number": 21,
+    "question": "Which 32-bit microprocessor is used in IBM's PS/2 model-80 computer?",
+    "options": ["8088", "80286", "80386", "80486"],
+    "answer": "80386"
+  },
+  {
+    "number": 22,
+    "question": "The Boolean expression X = A + B + C is logically equivalent to what single gate:",
+    "options": ["NAND", "NOR", "AND", "OR"],
+    "answer": "OR"
+  },
+  {
+    "number": 23,
+    "question": "What php stands for?",
+    "options": ["Pre Hypertext processor", "Hyper text Preprocessor", "Pre Hyper processor", "Pre Hyper text process"],
+    "answer": "Hyper text Preprocessor"
+  },
+  {
+    "number": 24,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "Class is an instance of object",
+      "Object is an instance of a class",
+      "Class is an instance of data type",
+      "Object is an instance of data type"
+    ],
+    "answer": "Object is an instance of a class"
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is an abstract data type?",
+    "options": ["Int", "Double", "String", "Class"],
+    "answer": "Class"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is the address of the router?",
+    "options": ["The IP address", "The TCP address", "The subnet mask", "The default gateway"],
+    "answer": "The IP address"
+  },
+  {
+    "number": 27,
+    "question": "The layer is the layer closest to the transmission medium.",
+    "options": ["Transport", "Network", "Physical", "Datalink"],
+    "answer": "Physical"
+  },
+  {
+    "number": 28,
+    "question": "ASCII stands for:",
+    "options": [
+      "All purpose Scientific Code for Information Interchange",
+      "American Standard Code for Information Interchange",
+      "American Security Code for Information Interchange",
+      "American Scientific Code for Information Interchange"
+    ],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "number": 29,
+    "question": "1024 Kilobytes represent a:",
+    "options": ["1 MB", "1GB", "1KB", "None of these"],
+    "answer": "1 MB"
+  },
+  {
+    "number": 30,
+    "question": "The ASCII code for the character J is:",
+    "options": ["1001 0001", "1001 1010", "0100 1010", "1010 0001"],
+    "answer": "0100 1010"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is not a function of DBA?",
+    "options": ["Network maintenance", "Routine Maintenance", "Schema Definition", "Authorization for data access"],
+    "answer": "Network maintenance"
+  },
+  {
+    "number": 32,
+    "question": "A system program that combines the separately compiled modules of a program into a form suitable for execution:",
+    "options": ["Assembler", "Linking Loader", "Cross compiler", "Load and Go"],
+    "answer": "Linking Loader"
+  },
+  {
+    "number": 33,
+    "question": "The software used to convert source program instructions to object instruction is known as:",
+    "options": ["Compiler", "Assembler", "Interpreter", "Language Processor"],
+    "answer": "Compiler"
+  },
+  {
+    "number": 34,
+    "question": "To copy the hidden system files of DOS to another disk you can use the command:",
+    "options": ["Copy", "Ren", "Sys", "Diskcopy"],
+    "answer": "Sys"
+  },
+  {
+    "number": 35,
+    "question": "Which of the following is a group of one or more attributes that uniquely identifies a row?",
+    "options": ["Key", "Domain", "Tuple", "Relation"],
+    "answer": "Key"
+  },
+  {
+    "number": 36,
+    "question": "A full binary tree with 2n +1 nodes contain:",
+    "options": ["n leaf nodes", "n non leaf nodes", "n-1 leaf nodes", "n-1 non leaf nodes"],
+    "answer": "n leaf nodes"
+  },
+  {
+    "number": 37,
+    "question": "What does Belady's Anomaly relate to?",
+    "options": [
+      "Page Replacement Algorithm",
+      "Memory Management Algorithm",
+      "Deadlock prevention Algorithm",
+      "Disk scheduling Algorithm"
+    ],
+    "answer": "Page Replacement Algorithm"
+  },
+  {
+    "number": 38,
+    "question": "In which year was the first operating system developed?",
+    "options": ["1910", "1940", "1950", "1980"],
+    "answer": "1950"
+  },
+  {
+    "number": 39,
+    "question": "The geostationary satellite used for communication systems:",
+    "options": [
+      "Rotates with the earth",
+      "Remains stationary relative to the earth",
+      "Is positioned over equator",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "number": 40,
+    "question": "What is the port number of POP3?",
+    "options": ["80", "110", "90", "49"],
+    "answer": "110"
+  },
+  {
+    "number": 41,
+    "question": "A relation is in this form if it is in BCNF and has no multivalued dependencies:",
+    "options": ["Second normal form", "Third normal form", "Fourth normal form", "Domain/Key normal form"],
+    "answer": "Fourth normal form"
+  },
+  {
+    "number": 42,
+    "question": "Who programmed the first computer game Spacewar in 1962?",
+    "options": ["Steel Russell", "Konard Zuse", "Alan Emtage", "Tim Berners-Lee"],
+    "answer": "Steel Russell"
+  },
+  {
+    "number": 43,
+    "question": "Which access method is used for obtaining a record from a cassette tape?",
+    "options": ["Direct", "Sequential", "Random", "All of the above"],
+    "answer": "Sequential"
+  },
+  {
+    "number": 44,
+    "question": "A technique for direct search is:",
+    "options": ["Binary search", "Linear search", "Tree Search", "Hashing"],
+    "answer": "Hashing"
+  },
+  {
+    "number": 45,
+    "question": "The postfix form of the expression (A+B)*(C*D-E)*F/G is:",
+    "options": [
+      "AB+CD*E-FG/**",
+      "AB+CD*E-F**G/",
+      "AB+CD*E-*F*G/",
+      "AB+CDE*-*F*G/"
+    ],
+    "answer": "AB+CD*E-F*F*G/"
+  },
+  {
+    "number": 46,
+    "question": "What does PPTP stand for?",
+    "options": [
+      "Point to Point Transmission Protocol",
+      "Point to Point Transfer Protocol",
+      "Point to Point Tunneling Protocol",
+      "Point to Point Traffic Protocol"
+    ],
+    "answer": "Point to Point Tunneling Protocol"
+  },
+  {
+    "number": 47,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "C++ allows static type checking",
+      "C++ allows dynamic type checking",
+      "C++ allows static member function be of type const",
+      "Both (A) and (B)"
+    ],
+    "answer": "Both (A) and (B)"
+  },
+  {
+    "number": 48,
+    "question": "Which is a reserved word in the Java programming language?",
+    "options": ["method", "native", "reference", "subclass"],
+    "answer": "native"
+  },
+  {
+    "number": 49,
+    "question": "The communication mode that supports two-way traffic but only one direction at a time is:",
+    "options": ["Simplex", "Duplex", "halfduplex", "multiplex"],
+    "answer": "halfduplex"
+  },
+  {
+    "number": 50,
+    "question": "What is thrashing?",
+    "options": [
+      "A high paging activity is called thrashing",
+      "A high executing activity is called thrashing",
+      "An extremely long process is called thrashing",
+      "An extremely long virtual memory is called thrashing"
+    ],
+    "answer": "A high paging activity is called thrashing"
+  },
+  {
+    "number": 51,
+    "question": "Linux Torvalds developed which operating system:",
+    "options": ["Windows", "Mac OS", "UNIX", "Linux"],
+    "answer": "Linux"
+  },
+  {
+    "number": 52,
+    "question": "Which operating system is developed and used by Apple Inc?",
+    "options": ["Windows", "Android", "iOS", "UNIX"],
+    "answer": "iOS"
+  },
+  {
+    "number": 53,
+    "question": "Which one is the current fastest super computer in India?",
+    "options": ["Param Padma", "SAGA-220", "PARAM YUVA II", "EKA"],
+    "answer": "PARAM YUVA II"
+  },
+  {
+    "number": 54,
+    "question": "Which of the following concepts means wrapping up of data and functions together?",
+    "options": ["Abstraction", "Encapsulation", "Inheritance", "Polymorphism"],
+    "answer": "Encapsulation"
+  },
+  {
+    "number": 55,
+    "question": "One solution to the multivalued dependency constraint problem is to:",
+    "options": [
+      "Split the relation into two relations each with a single theme",
+      "Change the theme",
+      "Create a new theme",
+      "Add a composite key"
+    ],
+    "answer": "Split the relation into two relations each with a single theme"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following algorithm solves the all pair shortest path problem?",
+    "options": ["Floyd's algorithm", "Warshall's algorithm", "Prim's algorithm", "Dijkstra's algorithm"],
+    "answer": "Floyd's algorithm"
+  },
+  {
+    "number": 57,
+    "question": "Which of the following is an invalid visibility label while inheriting a class?",
+    "options": ["Public", "Private", "Protected", "friend"],
+    "answer": "friend"
+  },
+  {
+    "number": 58,
+    "question": "What does SSL stand for?",
+    "options": ["System Socket Layer", "Secure System Login", "Secure Socket Layer", "Secure System Layer"],
+    "answer": "Secure Socket Layer"
+  },
+  {
+    "number": 59,
+    "question": "What hardware architectures are not supported by Red Hat?",
+    "options": ["SPARC", "IBM-COMPATIBLE", "Alpha", "Macintosh"],
+    "answer": "SPARC"
+  },
+  {
+    "number": 60,
+    "question": "How many types of Polymorphisms are supported by C++?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "number": 61,
+    "question": "Which address is the loop back address?",
+    "options": ["0.0.0.1", "127.0.0.0", "127.0.0.1", "255.255.255.255"],
+    "answer": "127.0.0.1"
+  },
+  {
+    "number": 62,
+    "question": "Processes are classified into different groups in:",
+    "options": [
+      "Multilevel queue scheduling algorithm",
+      "Priority scheduling algorithm",
+      "Round robin scheduling algorithm",
+      "Shortest job scheduling algorithm"
+    ],
+    "answer": "Multilevel queue scheduling algorithm"
+  },
+  {
+    "number": 63,
+    "question": "Which keys can be used to quit without saving in DOS?",
+    "options": ["Ctrl + A", "Ctrl + B", "Ctrl + D", "Ctrl + C"],
+    "answer": "Ctrl + C"
+  },
+  {
+    "number": 64,
+    "question": "The OS of a computer may periodically collect all the free memory space to form continuous block of free space. This is called:",
+    "options": ["Garbage collection", "Concatenation", "Collision", "Dynamic Memory Allocation"],
+    "answer": "Garbage collection"
+  },
+  {
+    "number": 65,
+    "question": "Who was the father of Punched Card processing?",
+    "options": ["J. Presper Eckert", "Charles Babbage", "Dr. Herman Hollerith", "Blaise Pascal"],
+    "answer": "Dr. Herman Hollerith"
+  },
+  {
+    "number": 66,
+    "question": "What is the usual number of bits transmitted simultaneously in parallel data transmission used by microcomputers?",
+    "options": ["16", "9", "8", "4"],
+    "answer": "8"
+  },
+  {
+    "number": 67,
+    "question": "India's first super computer PARAM 8000 was installed in:",
+    "options": ["1988", "1982", "1995", "1991"],
+    "answer": "1991"
+  },
+  {
+    "number": 68,
+    "question": "The number of interchanges required to sort 5, 1, 6, 2, 4 in ascending order using Bubble sort is:",
+    "options": ["6", "5", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "number": 69,
+    "question": "Modem is used in data transmission. When was it invented and in which country?",
+    "options": ["1963, USA", "1965, Germany", "1950, USA", "1950, Japan"],
+    "answer": "1950, USA"
+  },
+  {
+    "number": 70,
+    "question": "In PHP variable name starts with:",
+    "options": ["!", "&", "#", "$"],
+    "answer": "$"
+  },
+  {
+    "number": 71,
+    "question": "The person who contributed the idea of the stored program was:",
+    "options": ["Charles Babbage", "Howard Aiken", "Jon Von Neuman", "Winton Cerf"],
+    "answer": "Jon Von Neuman"
+  },
+  {
+    "number": 72,
+    "question": "Father of Java programming language:",
+    "options": ["Dennis Ritchie", "James Gosling", "Simer Crey", "James Russel"],
+    "answer": "James Gosling"
+  },
+  {
+    "number": 73,
+    "question": "A semaphore:",
+    "options": [
+      "Is a binary mutex",
+      "Must be accessed from only one process",
+      "Can be accessed from multiple process",
+      "None of these"
+    ],
+    "answer": "Can be accessed from multiple process"
+  },
+  {
+    "number": 74,
+    "question": "In OSI model, which of the following layer provides error-free delivery of data:",
+    "options": ["Data link", "Network", "Transport", "Session"],
+    "answer": "Transport"
+  },
+  {
+    "number": 75,
+    "question": "Which of the following is not a level of data abstraction?",
+    "options": ["Physical layer", "Critical level", "Logical level", "View level"],
+    "answer": "Critical level"
+  },
+  {
+    "number": 76,
+    "question": "ISP exchanges internet traffic between their networks by:",
+    "options": ["Internet exchange point", "Subscriber end point", "ISP end point", "None of the above"],
+    "answer": "Internet exchange point"
+  },
+  {
+    "number": 77,
+    "question": "What are the most commonly used transmission speeds in BPS used in data communication?",
+    "options": ["300", "1200", "2400", "9600"],
+    "answer": "9600"
+  },
+  {
+    "number": 78,
+    "question": "The average successful search time for sequential search on 'n' items is:",
+    "options": ["n/2", "(n-1)/2", "(n+2)/2", "log(n)+1"],
+    "answer": "n/2"
+  },
+  {
+    "number": 79,
+    "question": "Which of the following is a data model?",
+    "options": ["Entity-Relationship model", "Relational data model", "Object-Based data model", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 80,
+    "question": "What is the default subnet mask for a class A network?",
+    "options": ["127.0.0.1", "255.0.0.0", "255.255.255.0.0", "255.255.255.0"],
+    "answer": "255.0.0.0"
+  },
+  {
+    "number": 81,
+    "question": "From where have Indian constitution inspired the idea of federal government with a strong centre and a different State government?",
+    "options": ["Constitution of Canada", "Constitution of USA", "Constitution of Britain", "Constitution of Australia"],
+    "answer": "Constitution of Canada"
+  },
+  {
+    "number": 82,
+    "question": "Out of 543 elected Lok Sabha members, how many members represented the Union Territories?",
+    "options": ["8", "10", "15", "20"],
+    "answer": "13"
+  },
+  {
+    "number": 83,
+    "question": "In which year NOTA (None of the above) implemented in India?",
+    "options": ["2010", "2012", "2013", "2014"],
+    "answer": "2013"
+  },
+  {
+    "number": 84,
+    "question": "\"The spirit of democracy is not a mechanical thing to be adjusted by abolition of form. It requires change of heart\" - Who says this?",
+    "options": ["Abraham Lincoln", "Mahatma Gandhi", "Rabindranath Tagore", "Subhas Chandra Bose"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "number": 85,
+    "question": "Which parliamentary committee in India is normally chaired by a prominent member of the opposition?",
+    "options": ["Privileges Committee", "Estimates Committee", "Public Accounts Committee", "Committee on Government Assurances"],
+    "answer": "Public Accounts Committee"
+  },
+  {
+    "number": 86,
+    "question": "National Food Security Mission (NFSM) launched in the year:",
+    "options": ["2008", "2005", "2010", "2007"],
+    "answer": "2007"
+  },
+  {
+    "number": 87,
+    "question": "Which of the following is the scheme for Prevention of Trafficking and Rescue, Rehabilitation and Re-integration of Victims of Trafficking for Commercial Sexual exploitation?",
+    "options": ["Ujjawala", "Swadhar", "Kishori Sakthi Yojana", "Integrated Child Development Services"],
+    "answer": "Ujjawala"
+  },
+  {
+    "number": 88,
+    "question": "Right to Information Act (RTI) passed in the year:",
+    "options": ["2004", "2005", "2007", "2008"],
+    "answer": "2005"
+  },
+  {
+    "number": 89,
+    "question": "Which of the following award is given for Individual's working for child welfare?",
+    "options": ["Kishori Shakthi Yojana", "Vayoshreshtha Samman Award", "Rajeev Gandhi Manav Seva Award", "None of the above"],
+    "answer": "Rajeev Gandhi Manav Seva Award"
+  },
+  {
+    "number": 90,
+    "question": "The Food for Work programme was renamed as:",
+    "options": [
+      "Rural Landless Employment Guarantee Programme (RLEGP)",
+      "Integrated Rural Development Programme (IRDP)",
+      "Jawahar Rozgar Yojana (JRY)",
+      "National Rural Employment Programme (NREP)"
+    ],
+    "answer": "Jawahar Rozgar Yojana (JRY)"
+  },
+  {
+    "number": 91,
+    "question": "\"Yachana Yathra\" to enable the poor children to get educated was led by:",
+    "options": ["A.K. Gopalan", "V.T. Bhattathirippad", "K. Kelappan", "T.K. Madhavan"],
+    "answer": "V.T. Bhattathirippad"
+  },
+  {
+    "number": 92,
+    "question": "Who is known as the Jhansi of Travancore?",
+    "options": ["Arya Pallam", "Anna Chandi", "Lalitha Prabhu", "Akkamma Cheriyan"],
+    "answer": "Akkamma Cheriyan"
+  },
+  {
+    "number": 93,
+    "question": "Which organisation led Kalpathi Revolt?",
+    "options": ["Sahodarasangham", "SNDP", "Aryasamaj", "Yogakshemasabha"],
+    "answer": "Yogakshemasabha"
+  },
+  {
+    "number": 94,
+    "question": "The prefix of \"Mahakavi\" awarded to Kumaranasan by Madras University in the year:",
+    "options": ["1922", "1918", "1924", "1920"],
+    "answer": "1918"
+  },
+  {
+    "number": 95,
+    "question": "In which temple Sree Narayana Guru installed mirror?",
+    "options": ["Aruvippuram", "Karamukku", "Sivagiri", "Kalavamkodam"],
+    "answer": "Kalavamkodam"
+  },
+  {
+    "number": 96,
+    "question": "Who won the Nobel Prize in literature in 2015?",
+    "options": ["Patric Modiano", "Svetlana Alexievich", "Alice Munro", "Mo Yan"],
+    "answer": "Svetlana Alexievich"
+  },
+  {
+    "number": 97,
+    "question": "India's first space research observatory ASTROSAT successfully launched into the orbit from Sreeharikota:",
+    "options": ["2015 September 25", "2015 September 30", "2015 September 28", "2015 September 27"],
+    "answer": "2015 September 28"
+  },
+  {
+    "number": 98,
+    "question": "Who is the brand ambassador of the programme \"Pradhan Mantri Jan-Dhan Yojana\"?",
+    "options": ["Shahrukh Khan", "Amitabh Bachchan", "Shilpa Shetty", "Ankit Fadia"],
+    "answer": "Amitabh Bachchan"
+  },
+  {
+    "number": 99,
+    "question": "Who painted \"The Potato Eaters\"?",
+    "options": ["Picasso", "Leonardo da Vinci", "Vincent Van Gogh", "Raja Ravi Varma"],
+    "answer": "Vincent Van Gogh"
+  },
+  {
+    "number": 100,
+    "question": "Gandhiji learned about civil disobedience movement from:",
+    "options": ["Hermann Kallenbach", "Henry David Thoreau", "Martin Luther King", "Leo Tolstoy"],
+    "answer": "Henry David Thoreau"
+  }
+]

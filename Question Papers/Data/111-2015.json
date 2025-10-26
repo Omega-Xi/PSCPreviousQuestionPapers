@@ -1,0 +1,657 @@
+[
+  {
+    "number": 1,
+    "question": "Desktop publishing combines which of the following:",
+    "options": [
+      "Page Layout, Word Processing, and Graphics",
+      "Page Layout, Spell check and fonts",
+      "Page Layout, Fonts, and Graphics",
+      "Page Layout, Word Processing and Fonts"
+    ],
+    "answer": "Page Layout, Word Processing, and Graphics"
+  },
+  {
+    "number": 2,
+    "question": "Distort is a ___ in PhotoShop.",
+    "options": ["Filter", "Style", "View", "Palette"],
+    "answer": "Filter"
+  },
+  {
+    "number": 3,
+    "question": "The feature in Corel Draw which gives objects a 3D look by creating the illusion of depth is:",
+    "options": ["Distort", "Extrude", "Crystallize", "Dodge"],
+    "answer": "Extrude"
+  },
+  {
+    "number": 4,
+    "question": "The painting option in photoshop which determines the degree by which the tools lighten or darken an image is:",
+    "options": ["Pressure", "Opacity", "Exposure", "Smudge"],
+    "answer": "Exposure"
+  },
+  {
+    "number": 5,
+    "question": "In Photoshop, ___ are used to work on individual parts of an image while not affecting other parts.",
+    "options": ["Pages", "Layers", "Palettes", "Filters"],
+    "answer": "Layers"
+  },
+  {
+    "number": 6,
+    "question": "In Pagemaker, the increasing or decreasing space between the words of a paragraph is known as:",
+    "options": ["Spacing", "Kerning", "Tracking", "Leading"],
+    "answer": "Tracking"
+  },
+  {
+    "number": 7,
+    "question": "Which of the following programs is not a popular desktop publishing program?",
+    "options": ["Microsoft Publisher", "Lotus AmiPro", "Adobe PageMaker", "QuarkXpress"],
+    "answer": "Lotus AmiPro"
+  },
+  {
+    "number": 8,
+    "question": "The print option which ignores all imported graphics, and prints rectangle with X marks in their place fastly is:",
+    "options": ["Reverse", "Collate", "Proof", "Reset"],
+    "answer": "Proof"
+  },
+  {
+    "number": 9,
+    "question": "The dialog box lets us fill an object with a combination of two colours where one colour gradually fades into another in different styles:",
+    "options": ["Postscript", "Double-fill", "Fountain fill", "Diagonal fill"],
+    "answer": "Fountain fill"
+  },
+  {
+    "number": 10,
+    "question": "Which of the following is not a toning tool?",
+    "options": ["Sponge", "Burn", "Dodge", "Smudge"],
+    "answer": "Smudge"
+  },
+  {
+    "number": 11,
+    "question": "In Corel Draw, which dialog tool can be used to fill an object with pre-defined designs and textures:",
+    "options": ["Pattern fill", "Fountain fill", "Postscript fill", "Texture fill"],
+    "answer": "Texture fill"
+  },
+  {
+    "number": 12,
+    "question": "GUI stands for:",
+    "options": [
+      "Graphical Units of India",
+      "Graphics Universal Institution",
+      "General User Interface",
+      "Graphical User Interface"
+    ],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "number": 13,
+    "question": "___ no of bits are grouped together to form one byte.",
+    "options": ["1024", "16", "64", "8"],
+    "answer": "8"
+  },
+  {
+    "number": 14,
+    "question": "In ___ printing process, a greater thickness of the ink can be applied to the substrate than is possible with other printing techniques.",
+    "options": ["Gravure", "Lithography", "Flexography", "Screen"],
+    "answer": "Screen"
+  },
+  {
+    "number": 15,
+    "question": "The memory which is known as a volatile memory is:",
+    "options": ["ROM", "PROM", "EEPROM", "RAM"],
+    "answer": "RAM"
+  },
+  {
+    "number": 16,
+    "question": "The type of tab most commonly used for the page numbers in a Table of Contents is a:",
+    "options": [
+      "Left tab with a dot leader",
+      "Left tab",
+      "Right tab",
+      "Right tab with a dot leader"
+    ],
+    "answer": "Right tab with a dot leader"
+  },
+  {
+    "number": 17,
+    "question": "A Photoshop layer converts a vector layer to pixels by:",
+    "options": ["Distribute", "Pixelate", "Stylize", "Rasterizing"],
+    "answer": "Rasterizing"
+  },
+  {
+    "number": 18,
+    "question": "Tool used to increase or decrease the magnification of an image:",
+    "options": ["Hand tool", "Gradient tool", "Lasso tool", "Zoom tool"],
+    "answer": "Zoom tool"
+  },
+  {
+    "number": 19,
+    "question": "When text in a document has both character and paragraph styles applied, it is called:",
+    "options": ["combined style", "linked style", "enhanced style", "formatted style"],
+    "answer": "linked style"
+  },
+  {
+    "number": 20,
+    "question": "The shortcut key for moving the active layer to the top of the stack:",
+    "options": ["ctrl+]", "ctrl+shift+[", "ctrl+shift+]", "ctrl+["],
+    "answer": "ctrl+shift+]"
+  },
+  {
+    "number": 21,
+    "question": "The printers which produce very high-quality print and are capable of printing an almost unlimited variety of fonts with high speed are:",
+    "options": ["Laser printers", "Daisy wheel printers", "Inkjet printers", "Chain printers"],
+    "answer": "Laser printers"
+  },
+  {
+    "number": 22,
+    "question": "The alphabetical listing of all the important terms which appear in the publication with the numbers of the pages in which it occurs:",
+    "options": ["Index", "Table of contents", "Glossary", "Bibliography"],
+    "answer": "Index"
+  },
+  {
+    "number": 23,
+    "question": "Files in the Corel Draw are saved with extension:",
+    "options": [".CDR", ".DOC", ".CLD", ".CRD"],
+    "answer": ".CDR"
+  },
+  {
+    "number": 24,
+    "question": "The proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects:",
+    "options": ["OLE", "OEL", "ELO", "OLOE"],
+    "answer": "OLE"
+  },
+  {
+    "number": 25,
+    "question": "The process of saving a copy of your file or object to a particular format to be used by other programs is:",
+    "options": ["Exporting", "Importing", "Editing", "Formatting"],
+    "answer": "Exporting"
+  },
+  {
+    "number": 26,
+    "question": "In PageMaker, the shortcut key for Zoom in is:",
+    "options": ["Ctrl + +", "Ctrl + Z", "Ctrl + L", "Ctrl + X"],
+    "answer": "Ctrl + +"
+  },
+  {
+    "number": 27,
+    "question": "The knife tool of Corel Draw is used to ___ objects.",
+    "options": ["Join", "Slice", "Draw", "Pick"],
+    "answer": "Slice"
+  },
+  {
+    "number": 28,
+    "question": "The HSB mode in Photoshop comprises the components:",
+    "options": [
+      "High, Saturation, Bright",
+      "Hue, Saturation, Brightness",
+      "High, Strong, Bright",
+      "Hue, Strong, Brightness"
+    ],
+    "answer": "Hue, Saturation, Brightness"
+  },
+  {
+    "number": 29,
+    "question": "What are the three basic shapes?",
+    "options": [
+      "Rectangle, octagon, sphere",
+      "Square, circle, triangle",
+      "Square, circle, rectangle",
+      "Octagon, triangle, sphere"
+    ],
+    "answer": "Square, circle, triangle"
+  },
+  {
+    "number": 30,
+    "question": "___ masks don't support transparency, so their edges can't be feathered.",
+    "options": ["Layer", "Vector", "Channel", "Clipping"],
+    "answer": "Vector"
+  },
+  {
+    "number": 31,
+    "question": "Raster images are also known as:",
+    "options": ["vector images", "bitmap images", "clip art images", "multimedia images"],
+    "answer": "bitmap images"
+  },
+  {
+    "number": 32,
+    "question": "___ provide immediate access to some of the frequently used menu-driven commands and are movable.",
+    "options": ["Pasteboard", "Toolbox", "Palettes", "Ruler"],
+    "answer": "Palettes"
+  },
+  {
+    "number": 33,
+    "question": "In Corel Draw, the view which displays the drawing in a skeletal form is:",
+    "options": ["Draft", "Enhanced view", "Wireframe", "Normal"],
+    "answer": "Wireframe"
+  },
+  {
+    "number": 34,
+    "question": "Corel Draw has a built-in Windows-based program that lists all the possible synonyms of a word:",
+    "options": ["Palettes", "Spell check", "Thesaurus", "Templates"],
+    "answer": "Thesaurus"
+  },
+  {
+    "number": 35,
+    "question": "The ___ command means that the portion we select will be treated as de-selected and the rest of the image will be treated as selected.",
+    "options": ["Copy selection", "De-selection", "Invert selection", "Transform selection"],
+    "answer": "Invert selection"
+  },
+  {
+    "number": 36,
+    "question": "OCR stands for:",
+    "options": [
+      "Optical Code Recognition",
+      "Optical Code Reader",
+      "Optical Character Reader",
+      "Optical Character Recognition"
+    ],
+    "answer": "Optical Character Recognition"
+  },
+  {
+    "number": 37,
+    "question": "The computer network that interconnects computers within a limited area such as a home, school, computer laboratory, or office building, using network media is:",
+    "options": ["MAN", "WAN", "GAN", "LAN"],
+    "answer": "LAN"
+  },
+  {
+    "number": 38,
+    "question": "Which technology is used to read or write in an optical disk?",
+    "options": ["Electrical", "Magnetic", "Laser", "None of these"],
+    "answer": "Laser"
+  },
+  {
+    "number": 39,
+    "question": "The part of a lowercase letter that extends above the body of the letter is:",
+    "options": ["An extender", "An ascender", "A leader", "A descender"],
+    "answer": "An ascender"
+  },
+  {
+    "number": 40,
+    "question": "A first line indent is applied by pressing the ___ key(s).",
+    "options": ["Shift + Tab", "Ctrl", "F2", "Tab"],
+    "answer": "Tab"
+  },
+  {
+    "number": 41,
+    "question": "When you make the first letter of a paragraph much larger than the rest of the text in that paragraph, you are using the ___ Feature.",
+    "options": ["Drop Cap", "Framing", "Change Case", "Wordwrap"],
+    "answer": "Drop Cap"
+  },
+  {
+    "number": 42,
+    "question": "Paragraph formatting options include all of the following except:",
+    "options": ["font style", "line spacing", "pagination", "alignment"],
+    "answer": "font style"
+  },
+  {
+    "number": 43,
+    "question": "An alternate way to insert the copyright trademark symbol © into a Word document is to type:",
+    "options": ["(c)", "(r)", "(m)", "(cp)"],
+    "answer": "(c)"
+  },
+  {
+    "number": 44,
+    "question": "The samples per inch is the unit representation of resolution used in:",
+    "options": ["scanner", "printer", "screen", "terminal"],
+    "answer": "scanner"
+  },
+  {
+    "number": 45,
+    "question": "Expansion form of PNG:",
+    "options": [
+      "Portable Network Graphics",
+      "Portable Notebook Graphics",
+      "Perfect Network Graphics",
+      "Perfect Notebook Graphics"
+    ],
+    "answer": "Portable Network Graphics"
+  },
+  {
+    "number": 46,
+    "question": "The common format for exchanging raster graphics images between application programs, including those used for scanner images that are commonly used in DTP is:",
+    "options": ["TIFF", "BMP", "PNG", "JPEG"],
+    "answer": "TIFF"
+  },
+  {
+    "number": 47,
+    "question": "It is useful for removing an unwanted portion of or a defect in your image in Photoshop:",
+    "options": ["Pattern stamp tool", "Clone stamp tool", "Dodge tool", "Magic wand tool"],
+    "answer": "Clone stamp tool"
+  },
+  {
+    "number": 48,
+    "question": "The shortcut key for colour balance in Photoshop is:",
+    "options": ["Ctrl+C+B", "Ctrl+B", "Ctrl+J", "Ctrl+2"],
+    "answer": "Ctrl+B"
+  },
+  {
+    "number": 49,
+    "question": "Given a standard tri-fold brochure with 3/4\" margins (top, bottom, left and right), what size gutters in inches are needed in following layout rules?",
+    "options": ["3/4", "1-1/2", "1", "1 1/2"],
+    "answer": "1"
+  },
+  {
+    "number": 50,
+    "question": "Which option is used to compress text horizontally by some percentage of the current size?",
+    "options": ["Spacing", "Scaling", "Kerning", "Subscripting"],
+    "answer": "Scaling"
+  },
+  {
+    "number": 51,
+    "question": "Which of the following characters are not to be used when naming a file?",
+    "options": ["_ (underscore)", ": (colon)", "- (hyphen)", "& (ampersand)"],
+    "answer": ": (colon)"
+  },
+  {
+    "number": 52,
+    "question": "___ contains basic design elements, such as headers, footers and page numbers that are common to most or all pages in a publication.",
+    "options": ["Style sheet", "Story editor", "Master pages", "Main page"],
+    "answer": "Master pages"
+  },
+  {
+    "number": 53,
+    "question": "The font type which has a graphic representation of all the characters is:",
+    "options": ["Times-Roman", "Arial", "Webdings", "Verdana"],
+    "answer": "Webdings"
+  },
+  {
+    "number": 54,
+    "question": "___ is a set of computer programs that controls the computer hardware to support users' computing needs.",
+    "options": ["Virus", "Translator", "Interpreter", "Operating system"],
+    "answer": "Operating system"
+  },
+  {
+    "number": 55,
+    "question": "___ tool is used to smoothen images in Photoshop.",
+    "options": ["Sharp", "Blur", "Smudge", "Dodge"],
+    "answer": "Blur"
+  },
+  {
+    "number": 56,
+    "question": "RAM stands for:",
+    "options": [
+      "Random Accept Memory",
+      "Read Only Memory",
+      "Random Access Memory",
+      "Random Access Media"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "number": 57,
+    "question": "___ is a hardware or peripheral device used to send data to a computer.",
+    "options": ["Monitor", "Output device", "Memory", "Input device"],
+    "answer": "Input device"
+  },
+  {
+    "number": 58,
+    "question": "The set of one or more programs designed to carry out operations for a specific application is known as:",
+    "options": [
+      "Translator software",
+      "System software",
+      "Operating system software",
+      "Application software"
+    ],
+    "answer": "Application software"
+  },
+  {
+    "number": 59,
+    "question": "___ digital files is the process of compensating for misregistration on the printing press by printing small areas of overlapping color where objects meet.",
+    "options": ["Grouping", "Cropping", "Formatting", "Trapping"],
+    "answer": "Trapping"
+  },
+  {
+    "number": 60,
+    "question": "Spacing before and after paragraphs is increased or decreased in what unit of measure?",
+    "options": ["Centimeters", "Pixels", "Inches", "Points"],
+    "answer": "Points"
+  },
+  {
+    "number": 61,
+    "question": "In digital imaging, the physical point or the smallest controllable element of a picture represented on the screen is:",
+    "options": ["Pixel", "Dots", "Font", "Point"],
+    "answer": "Pixel"
+  },
+  {
+    "number": 62,
+    "question": "The process of adjusting the spacing between characters in a proportional font, usually to achieve a visually pleasing result is:",
+    "options": ["Kerning", "Scaling", "Subscripting", "Spacing"],
+    "answer": "Kerning"
+  },
+  {
+    "number": 63,
+    "question": "Microsoft Word contains built-in paragraph formats called ___ which can be applied to a paragraph with one command.",
+    "options": ["styles", "previews", "guidelines", "preformats"],
+    "answer": "styles"
+  },
+  {
+    "number": 64,
+    "question": "Red, yellow, and blue are what type of colors?",
+    "options": ["Primary", "Secondary", "Tertiary", "Complementary"],
+    "answer": "Primary"
+  },
+  {
+    "number": 65,
+    "question": "What type of printing is done when using CMYK?",
+    "options": ["Process color", "Spot color", "Pantone", "Black and white"],
+    "answer": "Process color"
+  },
+  {
+    "number": 66,
+    "question": "Bitmap images are made of:",
+    "options": ["Pixels", "Effects", "Lines and curves", "Patterns"],
+    "answer": "Pixels"
+  },
+  {
+    "number": 67,
+    "question": "JPEG stands for:",
+    "options": [
+      "Joint Picture Exports Group",
+      "Joint Photographic Experts Group",
+      "Joint Picture Export Graphics",
+      "Joint Picture Extra Group"
+    ],
+    "answer": "Joint Photographic Experts Group"
+  },
+  {
+    "number": 68,
+    "question": "What type of printing uses a plastic or rubber carrier?",
+    "options": ["Screen", "Flexography", "Gravure", "Offset"],
+    "answer": "Flexography"
+  },
+  {
+    "number": 69,
+    "question": "An object that acts as a placeholder for text and graphics is a:",
+    "options": ["Polygon", "Frame", "Box", "Callout"],
+    "answer": "Frame"
+  },
+  {
+    "number": 70,
+    "question": "Which file format is for Photoshop?",
+    "options": ["JPEG", "PSD", "ODT", "DOC"],
+    "answer": "PSD"
+  },
+  {
+    "number": 71,
+    "question": "___ enables you to treat multiple objects as one object.",
+    "options": ["Kerning", "Grouping", "Arranging", "Locking"],
+    "answer": "Grouping"
+  },
+  {
+    "number": 72,
+    "question": "Using this tool, you can create drawings and patterns consisting of continuous line:",
+    "options": ["Freehand", "Blend tool", "Bezier tool", "Line"],
+    "answer": "Freehand"
+  },
+  {
+    "number": 73,
+    "question": "The command that allows us to select similarly coloured adjacent areas is:",
+    "options": ["Contiguous", "Similar", "Grow", "Pinch"],
+    "answer": "Contiguous"
+  },
+  {
+    "number": 74,
+    "question": "The artistic media tool in the spray mode lets us fill creates strokes of different kinds of patterns:",
+    "options": ["Brush", "Preset", "Spray", "None of these"],
+    "answer": "Spray"
+  },
+  {
+    "number": 75,
+    "question": "___ key is used to full screen preview option in Corel Draw.",
+    "options": ["F7", "F5", "F9", "F10"],
+    "answer": "F9"
+  },
+  {
+    "number": 76,
+    "question": "The brain of a computer is:",
+    "options": ["ALU", "ROM", "RAM", "CPU"],
+    "answer": "CPU"
+  },
+  {
+    "number": 77,
+    "question": "___ is an example of output device.",
+    "options": ["Scanner", "Mouse", "Keyboard", "Printer"],
+    "answer": "Printer"
+  },
+  {
+    "number": 78,
+    "question": "___ make placing text and graphics easier and more precise.",
+    "options": ["Ruler guides", "Margin guides", "Column guides", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 79,
+    "question": "File format for Vector images:",
+    "options": ["BMP", "TIFF", "JPEG", "SVG"],
+    "answer": "SVG"
+  },
+  {
+    "number": 80,
+    "question": "RGB Stands for:",
+    "options": ["Black and White", "Raster, Gray, Black", "Red, Green, Blue", "None of the above"],
+    "answer": "Red, Green, Blue"
+  },
+  {
+    "number": 81,
+    "question": "Which is the longest river in India?",
+    "options": ["Yamuna", "Godavari", "Mahanadi", "Ganga"],
+    "answer": "Ganga"
+  },
+  {
+    "number": 82,
+    "question": "India is ___ largest country in the world.",
+    "options": ["5th", "2nd", "7th", "4th"],
+    "answer": "7th"
+  },
+  {
+    "number": 83,
+    "question": "Which city is known as Pink City?",
+    "options": ["Udaipur", "Jaipur", "Kolkata", "Ahmadabad"],
+    "answer": "Jaipur"
+  },
+  {
+    "number": 84,
+    "question": "Period of first Five Year Plan in India:",
+    "options": ["1947-52", "1949-54", "1950-55", "1951-56"],
+    "answer": "1951-56"
+  },
+  {
+    "number": 85,
+    "question": "Father of Bindusara:",
+    "options": ["Asoka", "Chandragupta Maurya", "Brihadratha", "Samudragupta"],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "number": 86,
+    "question": "Founder of Nalanda University:",
+    "options": ["Dharmapala", "MihirBhoja", "Rajendra I", "Vijayasena"],
+    "answer": "Dharmapala"
+  },
+  {
+    "number": 87,
+    "question": "Who escaped to Nepal after the Revolt of 1857?",
+    "options": ["Rani Lakshmi Bai", "Tantia Tope", "Nana Sahib", "Bahadur Shah I"],
+    "answer": "Nana Sahib"
+  },
+  {
+    "number": 88,
+    "question": "Name the Viceroy who cancelled the partition of Bengal in 1911:",
+    "options": ["Lord Curzon", "Lord Cornwallis", "Robert Clive", "Lord Hardinge"],
+    "answer": "Lord Hardinge"
+  },
+  {
+    "number": 89,
+    "question": "Founder of Khudai Khidmatgars:",
+    "options": ["Gopal Krishna Gokhale", "Khan Abdul Gaffar Khan", "Sir Syed Ahmmed Khan", "Raja Ram Mohan Roy"],
+    "answer": "Khan Abdul Gaffar Khan"
+  },
+  {
+    "number": 90,
+    "question": "Gandhi's Nominee against Subhash Chandra Bose in the election of the President of the Indian National Congress:",
+    "options": ["Potti Sriramalu", "Sardar Vallabai Pattel", "Pattabi Sitaramayya", "C.R Das"],
+    "answer": "Pattabi Sitaramayya"
+  },
+  {
+    "number": 91,
+    "question": "Pallivasal Hydro electric project is at:",
+    "options": ["Kallar", "Muthirapuzha", "Kuthirapuzha", "Thuthapuzha"],
+    "answer": "Muthirapuzha"
+  },
+  {
+    "number": 92,
+    "question": "Year of Aruvippuram Shiva Pratishta:",
+    "options": ["1886", "1887", "1888", "1889"],
+    "answer": "1888"
+  },
+  {
+    "number": 93,
+    "question": "Founder of Atmavidhya Sangham:",
+    "options": ["Brahmananda Sivayogi", "Chattambi Swami", "Vagbhattananda", "Poikayil Yohannan"],
+    "answer": "Brahmananda Sivayogi"
+  },
+  {
+    "number": 94,
+    "question": "Who is the author of Jathikummi?",
+    "options": ["Pandit K. Karuppan", "Thycaud Ayya", "Ayyankali", "Dr. Palpu"],
+    "answer": "Pandit K. Karuppan"
+  },
+  {
+    "number": 95,
+    "question": "Whose earlier name is Muthukutty?",
+    "options": ["Kumara Guru", "Ayya Vaikkunder", "Mannath Padmanabhan", "V. T. Bhattathiripad"],
+    "answer": "Ayya Vaikkunder"
+  },
+  {
+    "number": 96,
+    "question": "When Blessed Kuriakkose Elias Chavara canonized:",
+    "options": ["23 November 2014", "28 November 2014", "5 December 2014", "None"],
+    "answer": "23 November 2014"
+  },
+  {
+    "number": 97,
+    "question": "2015 Australian Open Mixed doubles winners:",
+    "options": [
+      "Leander Peas and Martina Hingis",
+      "Leander Peas and Martina Navratilova",
+      "Mahesh Bhupati and Maria Sharapova",
+      "Mahesh Bhupati and Sania Mirza"
+    ],
+    "answer": "Leander Peas and Martina Hingis"
+  },
+  {
+    "number": 98,
+    "question": "2014 Vayalar Rama Varma Memorial Literary award to:",
+    "options": ["K.R. Meera", "M. Leelavathy", "Sarah Joseph", "K.P. Ramanunni"],
+    "answer": "K.R. Meera"
+  },
+  {
+    "number": 99,
+    "question": "NITI Aayog which is a policy of Union Government of India it replaces:",
+    "options": ["Telecom Commission", "Election Commission", "Law Commission", "Planning Commission"],
+    "answer": "Planning Commission"
+  },
+  {
+    "number": 100,
+    "question": "Which District is the first District of India to have complete Rural Broadband coverage?",
+    "options": ["Idukki", "Ernakulam", "Thiruvananthapuram", "Kozhikode"],
+    "answer": "Ernakulam"
+  }
+]
