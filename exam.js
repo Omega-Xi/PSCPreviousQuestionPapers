@@ -63,6 +63,10 @@ function loadQuestionPaper(selectedCourse,selectedQuestionPaper){
                 newDiv.appendChild(document.createElement("br"));
             })
             newForm.appendChild(newDiv);
+            const hint=document.createElement("div");
+            hint.className="hint";
+            hint.textContent="💡"+questionNumber.answer;
+            newDiv.appendChild(hint);
         })
         const submitButton=document.createElement("button");
         submitButton.type="submit";
