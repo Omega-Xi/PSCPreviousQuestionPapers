@@ -1,0 +1,827 @@
+[
+  {
+    "number": 1,
+    "question": "What does CPU stand for in computing?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Computational Processing Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "number": 2,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": ["C", "FORTRAN", "Assembly", "COBOL"],
+    "answer": "FORTRAN"
+  },
+  {
+    "number": 3,
+    "question": "What is the default port for HTTP websites?",
+    "options": ["80", "443", "8080", "21"],
+    "answer": "80"
+  },
+  {
+    "number": 4,
+    "question": "Which data structure follows LIFO principle?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "number": 5,
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Question Language",
+      "System Query Logic",
+      "Structured Question Logic"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "number": 6,
+    "question": "Which of these is not a programming paradigm?",
+    "options": ["Object-Oriented", "Functional", "Procedural", "Binary"],
+    "answer": "Binary"
+  },
+  {
+    "number": 7,
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+    "answer": "O(log n)"
+  },
+  {
+    "number": 8,
+    "question": "Which protocol is used for sending emails?",
+    "options": ["FTP", "SMTP", "HTTP", "TCP"],
+    "answer": "SMTP"
+  },
+  {
+    "number": 9,
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Random Available Memory",
+      "Readily Available Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "number": 10,
+    "question": "Which of these is not a valid IP address?",
+    "options": ["192.168.1.1", "256.100.50.25", "172.16.254.1", "10.0.0.1"],
+    "answer": "256.100.50.25"
+  },
+  {
+    "number": 11,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "number": 12,
+    "question": "Which company developed the Java programming language?",
+    "options": ["Microsoft", "Sun Microsystems", "Oracle", "IBM"],
+    "answer": "Sun Microsystems"
+  },
+  {
+    "number": 13,
+    "question": "What is the main purpose of an operating system?",
+    "options": [
+      "Manage computer hardware and software resources",
+      "Create documents and spreadsheets",
+      "Connect to the internet",
+      "Play multimedia files"
+    ],
+    "answer": "Manage computer hardware and software resources"
+  },
+  {
+    "number": 14,
+    "question": "Which data type typically uses 8 bits of storage?",
+    "options": ["int", "float", "char", "double"],
+    "answer": "char"
+  },
+  {
+    "number": 15,
+    "question": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Uniform Reference Locator",
+      "Universal Resource Link"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "number": 16,
+    "question": "Which of these is a relational database management system?",
+    "options": ["MySQL", "MongoDB", "Redis", "Cassandra"],
+    "answer": "MySQL"
+  },
+  {
+    "number": 17,
+    "question": "What is the binary equivalent of decimal number 10?",
+    "options": ["1010", "1100", "1001", "1110"],
+    "answer": "1010"
+  },
+  {
+    "number": 18,
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "number": 19,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Cascading System Styles"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "number": 20,
+    "question": "Which of these is not a version control system?",
+    "options": ["Git", "SVN", "Mercurial", "Apache"],
+    "answer": "Apache"
+  },
+  {
+    "number": 21,
+    "question": "What is the purpose of a firewall?",
+    "options": [
+      "Monitor and control network traffic",
+      "Speed up internet connection",
+      "Create backup of files",
+      "Manage email accounts"
+    ],
+    "answer": "Monitor and control network traffic"
+  },
+  {
+    "number": 22,
+    "question": "Which data structure uses FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue"
+  },
+  {
+    "number": 23,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Interface",
+      "Application Protocol Interface",
+      "Advanced Protocol Interface"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "number": 24,
+    "question": "Which of these is a compiled language?",
+    "options": ["Python", "JavaScript", "C++", "PHP"],
+    "answer": "C++"
+  },
+  {
+    "number": 25,
+    "question": "What is the maximum value of a byte?",
+    "options": ["128", "256", "255", "127"],
+    "answer": "255"
+  },
+  {
+    "number": 26,
+    "question": "Which protocol provides secure communication over a computer network?",
+    "options": ["HTTP", "FTP", "SSL/TLS", "SMTP"],
+    "answer": "SSL/TLS"
+  },
+  {
+    "number": 27,
+    "question": "What is the primary function of DNS?",
+    "options": [
+      "Domain Name System - translates domain names to IP addresses",
+      "Data Network Service - manages data transmission",
+      "Digital Naming System - creates digital certificates",
+      "Domain Network Security - provides network security"
+    ],
+    "answer": "Domain Name System - translates domain names to IP addresses"
+  },
+  {
+    "number": 28,
+    "question": "Which of these is not a JavaScript framework?",
+    "options": ["React", "Angular", "Django", "Vue"],
+    "answer": "Django"
+  },
+  {
+    "number": 29,
+    "question": "What does OOP stand for in programming?",
+    "options": [
+      "Object-Oriented Programming",
+      "Online Operation Protocol",
+      "Object Operation Procedure",
+      "Organized Operational Programming"
+    ],
+    "answer": "Object-Oriented Programming"
+  },
+  {
+    "number": 30,
+    "question": "Which data structure is best for implementing a dictionary?",
+    "options": ["Array", "Linked List", "Hash Table", "Stack"],
+    "answer": "Hash Table"
+  },
+  {
+    "number": 31,
+    "question": "What is the time complexity of bubble sort in worst case?",
+    "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+    "answer": "O(n²)"
+  },
+  {
+    "number": 32,
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+    "answer": "MongoDB"
+  },
+  {
+    "number": 33,
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Verified Public Network",
+      "Virtual Public Node",
+      "Verified Private Node"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "number": 34,
+    "question": "Which programming language is statically typed?",
+    "options": ["Python", "JavaScript", "Java", "Ruby"],
+    "answer": "Java"
+  },
+  {
+    "number": 35,
+    "question": "What is the purpose of the 'git clone' command?",
+    "options": [
+      "Create a new repository",
+      "Copy an existing repository",
+      "Delete a repository",
+      "Merge two repositories"
+    ],
+    "answer": "Copy an existing repository"
+  },
+  {
+    "number": 36,
+    "question": "Which of these is not a valid HTTP method?",
+    "options": ["GET", "POST", "FETCH", "DELETE"],
+    "answer": "FETCH"
+  },
+  {
+    "number": 37,
+    "question": "What does IDE stand for?",
+    "options": [
+      "Integrated Development Environment",
+      "Internet Development Engine",
+      "Integrated Design Environment",
+      "Internet Design Engine"
+    ],
+    "answer": "Integrated Development Environment"
+  },
+  {
+    "number": 38,
+    "question": "Which algorithm is used for path finding in graphs?",
+    "options": ["Bubble Sort", "Dijkstra's", "Binary Search", "Quick Sort"],
+    "answer": "Dijkstra's"
+  },
+  {
+    "number": 39,
+    "question": "What is the default port for HTTPS?",
+    "options": ["80", "443", "8080", "21"],
+    "answer": "443"
+  },
+  {
+    "number": 40,
+    "question": "Which of these is a containerization platform?",
+    "options": ["Docker", "Kubernetes", "Jenkins", "All of the above"],
+    "answer": "Docker"
+  },
+  {
+    "number": 41,
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Online Notation",
+      "Java System Object Notation"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "number": 42,
+    "question": "Which data structure uses pointers?",
+    "options": ["Array", "Linked List", "Stack", "Queue"],
+    "answer": "Linked List"
+  },
+  {
+    "number": 43,
+    "question": "What is the main advantage of using cloud computing?",
+    "options": [
+      "Reduced IT costs",
+      "Increased security risks",
+      "Limited scalability",
+      "Decreased reliability"
+    ],
+    "answer": "Reduced IT costs"
+  },
+  {
+    "number": 44,
+    "question": "Which programming language is used for Android development?",
+    "options": ["Swift", "Kotlin", "C#", "Ruby"],
+    "answer": "Kotlin"
+  },
+  {
+    "number": 45,
+    "question": "What does RAID stand for in data storage?",
+    "options": [
+      "Redundant Array of Independent Disks",
+      "Random Access Internet Data",
+      "Redundant Array of Internet Drives",
+      "Random Access Independent Disks"
+    ],
+    "answer": "Redundant Array of Independent Disks"
+  },
+  {
+    "number": 46,
+    "question": "Which of these is a machine learning library?",
+    "options": ["TensorFlow", "React", "Spring", "Django"],
+    "answer": "TensorFlow"
+  },
+  {
+    "number": 47,
+    "question": "What is the purpose of load balancing?",
+    "options": [
+      "Distribute network traffic across multiple servers",
+      "Increase single server performance",
+      "Reduce internet bandwidth",
+      "Encrypt network communications"
+    ],
+    "answer": "Distribute network traffic across multiple servers"
+  },
+  {
+    "number": 48,
+    "question": "Which protocol is used for file transfer?",
+    "options": ["HTTP", "FTP", "SMTP", "TCP"],
+    "answer": "FTP"
+  },
+  {
+    "number": 49,
+    "question": "What does XML stand for?",
+    "options": [
+      "eXtensible Markup Language",
+      "Extended Markup Language",
+      "XML Markup Language",
+      "Extra Modern Language"
+    ],
+    "answer": "eXtensible Markup Language"
+  },
+  {
+    "number": 50,
+    "question": "Which of these is a cloud service provider?",
+    "options": ["AWS", "Azure", "Google Cloud", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "number": 51,
+    "question": "What is the purpose of a CDN?",
+    "options": [
+      "Deliver content faster to users geographically",
+      "Create digital certificates",
+      "Manage database connections",
+      "Encrypt web traffic"
+    ],
+    "answer": "Deliver content faster to users geographically"
+  },
+  {
+    "number": 52,
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "options": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Selection Sort"],
+    "answer": "Quick Sort"
+  },
+  {
+    "number": 53,
+    "question": "What does SSH stand for?",
+    "options": [
+      "Secure Shell",
+      "System Security Host",
+      "Secure Socket Host",
+      "System Shell Host"
+    ],
+    "answer": "Secure Shell"
+  },
+  {
+    "number": 54,
+    "question": "Which of these is a frontend framework?",
+    "options": ["React", "Node.js", "Django", "Spring Boot"],
+    "answer": "React"
+  },
+  {
+    "number": 55,
+    "question": "What is the main purpose of Docker?",
+    "options": [
+      "Containerize applications",
+      "Virtualize operating systems",
+      "Manage cloud resources",
+      "Monitor network traffic"
+    ],
+    "answer": "Containerize applications"
+  },
+  {
+    "number": 56,
+    "question": "Which data structure is used for implementing recursion?",
+    "options": ["Queue", "Stack", "Tree", "Graph"],
+    "answer": "Stack"
+  },
+  {
+    "number": 57,
+    "question": "What does MVC stand for in software architecture?",
+    "options": [
+      "Model View Controller",
+      "Main View Component",
+      "Model Visual Control",
+      "Main Visual Controller"
+    ],
+    "answer": "Model View Controller"
+  },
+  {
+    "number": 58,
+    "question": "Which protocol is used for dynamic IP address assignment?",
+    "options": ["DNS", "DHCP", "FTP", "HTTP"],
+    "answer": "DHCP"
+  },
+  {
+    "number": 59,
+    "question": "What is the purpose of Kubernetes?",
+    "options": [
+      "Container orchestration",
+      "Web development",
+      "Database management",
+      "Network security"
+    ],
+    "answer": "Container orchestration"
+  },
+  {
+    "number": 60,
+    "question": "Which of these is a Python web framework?",
+    "options": ["Django", "Spring", "Laravel", "Express"],
+    "answer": "Django"
+  },
+  {
+    "number": 61,
+    "question": "What does CI/CD stand for?",
+    "options": [
+      "Continuous Integration/Continuous Deployment",
+      "Computer Interface/Computer Design",
+      "Continuous Input/Continuous Data",
+      "Computer Integration/Computer Deployment"
+    ],
+    "answer": "Continuous Integration/Continuous Deployment"
+  },
+  {
+    "number": 62,
+    "question": "Which algorithm is used for encryption in SSL/TLS?",
+    "options": ["RSA", "Bubble Sort", "Quick Sort", "Binary Search"],
+    "answer": "RSA"
+  },
+  {
+    "number": 63,
+    "question": "What is the purpose of a reverse proxy?",
+    "options": [
+      "Handle requests on behalf of servers",
+      "Speed up CPU processing",
+      "Manage database transactions",
+      "Encrypt file storage"
+    ],
+    "answer": "Handle requests on behalf of servers"
+  },
+  {
+    "number": 64,
+    "question": "Which of these is a JavaScript runtime environment?",
+    "options": ["Node.js", "Django", "Spring", "Laravel"],
+    "answer": "Node.js"
+  },
+  {
+    "number": 65,
+    "question": "What does ORM stand for?",
+    "options": [
+      "Object-Relational Mapping",
+      "Object-Runtime Management",
+      "Online Resource Management",
+      "Object-Resource Mapping"
+    ],
+    "answer": "Object-Relational Mapping"
+  },
+  {
+    "number": 66,
+    "question": "Which data structure is used in breadth-first search?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue"
+  },
+  {
+    "number": 67,
+    "question": "What is the purpose of a web socket?",
+    "options": [
+      "Enable real-time bidirectional communication",
+      "Secure web browsing",
+      "Cache web pages",
+      "Compress web content"
+    ],
+    "answer": "Enable real-time bidirectional communication"
+  },
+  {
+    "number": 68,
+    "question": "Which of these is a unit testing framework?",
+    "options": ["JUnit", "Spring", "Hibernate", "React"],
+    "answer": "JUnit"
+  },
+  {
+    "number": 69,
+    "question": "What does AI stand for?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Advanced Internet",
+      "Automated Intelligence"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "number": 70,
+    "question": "Which protocol is used for network time synchronization?",
+    "options": ["NTP", "FTP", "HTTP", "SMTP"],
+    "answer": "NTP"
+  },
+  {
+    "number": 71,
+    "question": "What is the purpose of a blockchain?",
+    "options": [
+      "Create decentralized, immutable ledger",
+      "Speed up internet connections",
+      "Manage cloud storage",
+      "Encrypt email communications"
+    ],
+    "answer": "Create decentralized, immutable ledger"
+  },
+  {
+    "number": 72,
+    "question": "Which of these is a graph database?",
+    "options": ["Neo4j", "MySQL", "PostgreSQL", "MongoDB"],
+    "answer": "Neo4j"
+  },
+  {
+    "number": 73,
+    "question": "What does IoT stand for?",
+    "options": [
+      "Internet of Things",
+      "Internet of Technology",
+      "Integrated Online Things",
+      "International Online Technology"
+    ],
+    "answer": "Internet of Things"
+  },
+  {
+    "number": 74,
+    "question": "Which algorithm is used for recommendation systems?",
+    "options": [
+      "Collaborative Filtering",
+      "Bubble Sort",
+      "Binary Search",
+      "Quick Sort"
+    ],
+    "answer": "Collaborative Filtering"
+  },
+  {
+    "number": 75,
+    "question": "What is the purpose of a web server?",
+    "options": [
+      "Serve web pages to clients",
+      "Manage databases",
+      "Process payments",
+      "Encrypt communications"
+    ],
+    "answer": "Serve web pages to clients"
+  },
+  {
+    "number": 76,
+    "question": "Which of these is a microservices framework?",
+    "options": ["Spring Boot", "React", "Angular", "jQuery"],
+    "answer": "Spring Boot"
+  },
+  {
+    "number": 77,
+    "question": "What does GPU stand for?",
+    "options": [
+      "Graphics Processing Unit",
+      "General Processing Unit",
+      "Graphics Performance Unit",
+      "General Performance Unit"
+    ],
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "number": 78,
+    "question": "Which protocol is used for voice over IP?",
+    "options": ["SIP", "FTP", "HTTP", "SMTP"],
+    "answer": "SIP"
+  },
+  {
+    "number": 79,
+    "question": "What is the purpose of a cache?",
+    "options": [
+      "Store frequently accessed data for faster retrieval",
+      "Encrypt sensitive information",
+      "Manage database connections",
+      "Compress large files"
+    ],
+    "answer": "Store frequently accessed data for faster retrieval"
+  },
+  {
+    "number": 80,
+    "question": "Which of these is a functional programming language?",
+    "options": ["Haskell", "Java", "C++", "Python"],
+    "answer": "Haskell"
+  },
+  {
+    "number": 81,
+    "question": "What does BIOS stand for?",
+    "options": [
+      "Basic Input/Output System",
+      "Binary Input/Output System",
+      "Basic Internet Operating System",
+      "Binary Internet Operating System"
+    ],
+    "answer": "Basic Input/Output System"
+  },
+  {
+    "number": 82,
+    "question": "Which algorithm is used for shortest path finding?",
+    "options": ["Dijkstra's", "Bubble Sort", "Quick Sort", "Binary Search"],
+    "answer": "Dijkstra's"
+  },
+  {
+    "number": 83,
+    "question": "What is the purpose of a content management system?",
+    "options": [
+      "Manage digital content creation and modification",
+      "Monitor network traffic",
+      "Encrypt database records",
+      "Compile source code"
+    ],
+    "answer": "Manage digital content creation and modification"
+  },
+  {
+    "number": 84,
+    "question": "Which of these is a message broker?",
+    "options": ["RabbitMQ", "MySQL", "MongoDB", "PostgreSQL"],
+    "answer": "RabbitMQ"
+  },
+  {
+    "number": 85,
+    "question": "What does LAN stand for?",
+    "options": [
+      "Local Area Network",
+      "Large Area Network",
+      "Local Access Network",
+      "Large Access Network"
+    ],
+    "answer": "Local Area Network"
+  },
+  {
+    "number": 86,
+    "question": "Which data structure is used for pattern matching?",
+    "options": ["Trie", "Stack", "Queue", "Array"],
+    "answer": "Trie"
+  },
+  {
+    "number": 87,
+    "question": "What is the purpose of a web application firewall?",
+    "options": [
+      "Protect web applications from attacks",
+      "Speed up web page loading",
+      "Manage database connections",
+      "Compress web content"
+    ],
+    "answer": "Protect web applications from attacks"
+  },
+  {
+    "number": 88,
+    "question": "Which of these is a continuous integration tool?",
+    "options": ["Jenkins", "Docker", "Kubernetes", "React"],
+    "answer": "Jenkins"
+  },
+  {
+    "number": 89,
+    "question": "What does SaaS stand for?",
+    "options": [
+      "Software as a Service",
+      "System as a Service",
+      "Software and Service",
+      "System and Service"
+    ],
+    "answer": "Software as a Service"
+  },
+  {
+    "number": 90,
+    "question": "Which protocol is used for network management?",
+    "options": ["SNMP", "FTP", "HTTP", "SMTP"],
+    "answer": "SNMP"
+  },
+  {
+    "number": 91,
+    "question": "What is the purpose of a virtual machine?",
+    "options": [
+      "Run multiple operating systems on single hardware",
+      "Speed up internet connection",
+      "Encrypt file storage",
+      "Manage cloud resources"
+    ],
+    "answer": "Run multiple operating systems on single hardware"
+  },
+  {
+    "number": 92,
+    "question": "Which of these is a search engine algorithm?",
+    "options": ["PageRank", "Bubble Sort", "Quick Sort", "Binary Search"],
+    "answer": "PageRank"
+  },
+  {
+    "number": 93,
+    "question": "What does CLI stand for?",
+    "options": [
+      "Command Line Interface",
+      "Computer Line Interface",
+      "Command Language Interface",
+      "Computer Language Interface"
+    ],
+    "answer": "Command Line Interface"
+  },
+  {
+    "number": 94,
+    "question": "Which data structure is used in depth-first search?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Stack"
+  },
+  {
+    "number": 95,
+    "question": "What is the purpose of a proxy server?",
+    "options": [
+      "Act as intermediary between client and server",
+      "Speed up CPU processing",
+      "Manage database transactions",
+      "Encrypt email communications"
+    ],
+    "answer": "Act as intermediary between client and server"
+  },
+  {
+    "number": 96,
+    "question": "Which of these is a mobile development framework?",
+    "options": ["React Native", "Django", "Spring", "Laravel"],
+    "answer": "React Native"
+  },
+  {
+    "number": 97,
+    "question": "What does UI stand for?",
+    "options": [
+      "User Interface",
+      "Universal Interface",
+      "User Integration",
+      "Universal Integration"
+    ],
+    "answer": "User Interface"
+  },
+  {
+    "number": 98,
+    "question": "Which protocol is used for remote desktop access?",
+    "options": ["RDP", "FTP", "HTTP", "SMTP"],
+    "answer": "RDP"
+  },
+  {
+    "number": 99,
+    "question": "What is the purpose of a data warehouse?",
+    "options": [
+      "Store and analyze large volumes of historical data",
+      "Manage real-time transactions",
+      "Encrypt sensitive information",
+      "Compress database files"
+    ],
+    "answer": "Store and analyze large volumes of historical data"
+  },
+  {
+    "number": 100,
+    "question": "Which of these is a big data processing framework?",
+    "options": ["Apache Spark", "React", "Angular", "Django"],
+    "answer": "Apache Spark"
+  }
+]
